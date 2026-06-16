@@ -1,0 +1,1068 @@
+game_pk,date,game_time_utc,venue_id,venue_name,home_team,away_team,home_team_id,away_team_id,home_runs,away_runs,total_runs,home_sp_id,home_sp_name,away_sp_id,away_sp_name
+823244,2026-03-25,2026-03-26T00:05:00Z,2395,Oracle Park,San Francisco Giants,New York Yankees,137,147,0,7,7,657277,Logan Webb,608331,Max Fried
+823649,2026-03-26,2026-03-26T17:15:00Z,3289,Citi Field,New York Mets,Pittsburgh Pirates,121,134,11,7,18,642547,Freddy Peralta,694973,Paul Skenes
+823812,2026-03-26,2026-03-26T18:10:00Z,32,American Family Field,Milwaukee Brewers,Chicago White Sox,158,145,14,2,16,694819,Jacob Misiorowski,681343,Shane Smith
+824704,2026-03-26,2026-03-26T18:20:00Z,17,Wrigley Field,Chicago Cubs,Washington Nationals,112,120,4,10,14,571510,Matthew Boyd,676917,Cade Cavalli
+824865,2026-03-26,2026-03-26T19:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Minnesota Twins,110,142,2,1,3,669432,Trevor Rogers,657746,Joe Ryan
+824541,2026-03-26,2026-03-26T20:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Boston Red Sox,113,111,0,3,3,671096,Andrew Abbott,676979,Garrett Crochet
+824218,2026-03-26,2026-03-26T20:10:00Z,2392,Daikin Park,Houston Astros,Los Angeles Angels,117,108,0,3,3,686613,Hunter Brown,667755,José Soriano
+823325,2026-03-26,2026-03-26T20:10:00Z,2680,Petco Park,San Diego Padres,Detroit Tigers,135,116,2,8,10,601713,Nick Pivetta,669373,Tarik Skubal
+823081,2026-03-26,2026-03-26T20:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Tampa Bay Rays,138,139,9,7,16,669461,Matthew Liberatore,656876,Drew Rasmussen
+823486,2026-03-26,2026-03-26T20:15:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Texas Rangers,143,140,5,3,8,650911,Cristopher Sánchez,543135,Nathan Eovaldi
+823974,2026-03-26,2026-03-27T00:30:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,119,109,8,2,10,808967,Yoshinobu Yamamoto,668678,Zac Gallen
+823163,2026-03-26,2026-03-27T02:10:00Z,680,T-Mobile Park,Seattle Mariners,Cleveland Guardians,136,114,4,6,10,669302,Logan Gilbert,676440,Tanner Bibee
+823243,2026-03-27,2026-03-27T20:35:00Z,2395,Oracle Park,San Francisco Giants,New York Yankees,137,147,0,3,3,592662,Robbie Ray,693645,Cam Schlittler
+822839,2026-03-27,2026-03-27T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Athletics,141,133,3,2,5,592332,Kevin Gausman,622663,Luis Severino
+823893,2026-03-27,2026-03-27T23:10:00Z,4169,loanDepot park,Miami Marlins,Colorado Rockies,146,115,2,1,3,645261,Sandy Alcantara,607536,Kyle Freeland
+824946,2026-03-27,2026-03-27T23:15:00Z,4705,Truist Park,Atlanta Braves,Kansas City Royals,144,118,6,0,6,519242,Chris Sale,666142,Cole Ragans
+824216,2026-03-27,2026-03-28T00:15:00Z,2392,Daikin Park,Houston Astros,Los Angeles Angels,117,108,2,6,8,681347,Mike Burrows,579328,Yusei Kikuchi
+823324,2026-03-27,2026-03-28T01:40:00Z,2680,Petco Park,San Diego Padres,Detroit Tigers,135,116,2,5,7,650633,Michael King,664285,Framber Valdez
+823162,2026-03-27,2026-03-28T01:45:00Z,680,T-Mobile Park,Seattle Mariners,Cleveland Guardians,136,114,5,1,6,669923,George Kirby,668909,Gavin Williams
+823971,2026-03-27,2026-03-28T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,119,109,5,4,9,686218,Emmet Sheehan,669194,Ryne Nelson
+823082,2026-03-28,2026-03-28T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Tampa Bay Rays,138,139,6,5,11,700241,Michael McGreevy,671212,Joe Boyle
+824701,2026-03-28,2026-03-28T18:20:00Z,17,Wrigley Field,Chicago Cubs,Washington Nationals,112,120,10,2,12,690990,Cade Horton,571945,Miles Mikolas
+822838,2026-03-28,2026-03-28T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Athletics,141,133,8,7,15,656302,Dylan Cease,605488,Jeffrey Springs
+824862,2026-03-28,2026-03-28T20:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Minnesota Twins,110,142,1,4,5,680694,Kyle Bradish,671737,Taj Bradley
+823488,2026-03-28,2026-03-28T20:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Texas Rangers,143,140,4,5,9,605400,Aaron Nola,656641,Jacob Latz
+824540,2026-03-28,2026-03-28T20:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Boston Red Sox,113,111,6,5,11,663903,Brady Singer,543243,Sonny Gray
+823651,2026-03-28,2026-03-28T20:10:00Z,3289,Citi Field,New York Mets,Pittsburgh Pirates,121,134,4,2,6,656849,David Peterson,656605,Mitch Keller
+823892,2026-03-28,2026-03-28T20:10:00Z,4169,loanDepot park,Miami Marlins,Colorado Rockies,146,115,4,3,7,691587,Eury Pérez,547179,Michael Lorenzen
+824213,2026-03-28,2026-03-28T23:10:00Z,2392,Daikin Park,Houston Astros,Los Angeles Angels,117,108,11,9,20,664299,Cristian Javier,672282,Reid Detmers
+823811,2026-03-28,2026-03-28T23:10:00Z,32,American Family Field,Milwaukee Brewers,Chicago White Sox,158,145,6,1,7,694477,Chad Patrick,680732,Sean Burke
+824945,2026-03-28,2026-03-28T23:15:00Z,4705,Truist Park,Atlanta Braves,Kansas City Royals,144,118,6,2,8,625643,Reynaldo López,608379,Michael Wacha
+823241,2026-03-28,2026-03-28T23:15:00Z,2395,Oracle Park,San Francisco Giants,New York Yankees,137,147,1,3,4,641816,Tyler Mahle,701542,Will Warren
+823323,2026-03-28,2026-03-29T00:40:00Z,2680,Petco Park,San Diego Padres,Detroit Tigers,135,116,3,0,3,681190,Randy Vásquez,656427,Jack Flaherty
+823973,2026-03-28,2026-03-29T01:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,119,109,3,2,5,607192,Tyler Glasnow,593958,Eduardo Rodriguez
+823161,2026-03-28,2026-03-29T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Cleveland Guardians,136,114,5,6,11,693433,Bryan Woo,676282,Joey Cantillo
+824864,2026-03-29,2026-03-29T17:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Minnesota Twins,110,142,8,6,14,669358,Shane Baz,641927,Bailey Ober
+823487,2026-03-29,2026-03-29T17:35:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Texas Rangers,143,140,3,8,11,666200,Jesús Luzardo,669022,MacKenzie Gore
+824944,2026-03-29,2026-03-29T17:35:00Z,4705,Truist Park,Atlanta Braves,Kansas City Royals,144,118,1,4,5,656550,Grant Holmes,607625,Seth Lugo
+822837,2026-03-29,2026-03-29T17:37:00Z,14,Rogers Centre,Toronto Blue Jays,Athletics,141,133,5,2,7,641778,Eric Lauer,806960,Luis Morales
+824538,2026-03-29,2026-03-29T17:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Boston Red Sox,113,111,3,2,5,695076,Rhett Lowder,813349,Connelly Early
+823647,2026-03-29,2026-03-29T17:40:00Z,3289,Citi Field,New York Mets,Pittsburgh Pirates,121,134,3,4,7,690997,Nolan McLean,669387,Carmen Mlodzinski
+823891,2026-03-29,2026-03-29T17:40:00Z,4169,loanDepot park,Miami Marlins,Colorado Rockies,146,115,4,3,7,676974,Max Meyer,500779,Jose Quintana
+824215,2026-03-29,2026-03-29T18:10:00Z,2392,Daikin Park,Houston Astros,Los Angeles Angels,117,108,9,7,16,837227,Tatsuya Imai,686799,Jack Kochanowicz
+823810,2026-03-29,2026-03-29T18:10:00Z,32,American Family Field,Milwaukee Brewers,Chicago White Sox,158,145,9,7,16,687075,Brandon Sproat,641743,Anthony Kay
+823079,2026-03-29,2026-03-29T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Tampa Bay Rays,138,139,7,11,18,669160,Dustin May,571927,Steven Matz
+824700,2026-03-29,2026-03-29T18:20:00Z,17,Wrigley Field,Chicago Cubs,Washington Nationals,112,120,3,6,9,684007,Shota Imanaga,663623,Jake Irvin
+823160,2026-03-29,2026-03-29T23:20:00Z,680,T-Mobile Park,Seattle Mariners,Cleveland Guardians,136,114,8,0,8,676106,Emerson Hancock,677944,Slade Cecconi
+824135,2026-03-30,2026-03-30T20:10:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,3,1,4,663460,Kris Bubic,680573,Simeon Woods Richardson
+824863,2026-03-30,2026-03-30T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Texas Rangers,110,140,2,5,7,605135,Chris Bassitt,683004,Jack Leiter
+824539,2026-03-30,2026-03-30T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,2,0,2,695505,Chase Burns,677952,Braxton Ashcraft
+823484,2026-03-30,2026-03-30T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,143,120,2,13,15,592836,Taijuan Walker,656492,Foster Griffin
+823890,2026-03-30,2026-03-30T22:40:00Z,4169,loanDepot park,Miami Marlins,Chicago White Sox,146,145,4,9,13,663978,Chris Paddack,663436,Davis Martin
+822834,2026-03-30,2026-03-30T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Colorado Rockies,141,115,5,14,19,664074,Cody Ponce,608372,Tomoyuki Sugano
+824943,2026-03-30,2026-03-30T23:15:00Z,4705,Truist Park,Atlanta Braves,Athletics,144,133,4,0,4,693821,Bryce Elder,682052,Jacob Lopez
+824702,2026-03-30,2026-03-30T23:40:00Z,17,Wrigley Field,Chicago Cubs,Los Angeles Angels,112,108,7,2,9,665795,Edward Cabrera,696270,Ryan Johnson
+823809,2026-03-30,2026-03-30T23:40:00Z,32,American Family Field,Milwaukee Brewers,Tampa Bay Rays,158,139,2,3,5,690986,Kyle Harrison,607259,Nick Martinez
+823080,2026-03-30,2026-03-30T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,New York Mets,138,121,2,4,6,681517,Kyle Leahy,605280,Clay Holmes
+824214,2026-03-30,2026-03-31T00:10:00Z,2392,Daikin Park,Houston Astros,Boston Red Sox,117,111,8,1,9,621121,Lance McCullers Jr.,624133,Ranger Suarez
+823320,2026-03-30,2026-03-31T01:40:00Z,2680,Petco Park,San Diego Padres,San Francisco Giants,135,137,2,3,5,621111,Walker Buehler,694738,Landen Roupp
+823159,2026-03-30,2026-03-31T01:40:00Z,680,T-Mobile Park,Seattle Mariners,New York Yankees,136,147,2,1,3,622491,Luis Castillo,677960,Ryan Weathers
+825108,2026-03-30,2026-03-31T02:10:00Z,15,Chase Field,Arizona Diamondbacks,Detroit Tigers,109,116,9,6,15,647336,Michael Soroka,434378,Justin Verlander
+823972,2026-03-30,2026-03-31T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Cleveland Guardians,119,114,2,4,6,808963,Roki Sasaki,800048,Parker Messick
+824861,2026-03-31,2026-03-31T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Texas Rangers,110,140,5,8,13,621107,Zach Eflin,594798,Jacob deGrom
+824537,2026-03-31,2026-03-31T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,3,8,11,682227,Brandon Williamson,696149,Bubba Chandler
+823485,2026-03-31,2026-03-31T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,143,120,3,2,5,691725,Andrew Painter,676571,PJ Poulin
+823888,2026-03-31,2026-03-31T22:40:00Z,4169,loanDepot park,Miami Marlins,Chicago White Sox,146,145,9,2,11,676083,Janson Junk,607200,Erick Fedde
+822836,2026-03-31,2026-03-31T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Colorado Rockies,141,115,5,1,6,453286,Max Scherzer,663372,Ryan Feltner
+824942,2026-03-31,2026-03-31T23:15:00Z,4705,Truist Park,Atlanta Braves,Athletics,144,133,2,5,7,660761,José Suarez,650644,Aaron Civale
+824699,2026-03-31,2026-03-31T23:40:00Z,17,Wrigley Field,Chicago Cubs,Los Angeles Angels,112,108,0,2,2,592791,Jameson Taillon,667755,José Soriano
+823807,2026-03-31,2026-03-31T23:40:00Z,32,American Family Field,Milwaukee Brewers,Tampa Bay Rays,158,139,6,2,8,605540,Brandon Woodruff,663556,Shane McClanahan
+823077,2026-03-31,2026-03-31T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,New York Mets,138,121,3,0,3,669467,Andre Pallante,673540,Kodai Senga
+824212,2026-03-31,2026-04-01T00:10:00Z,2392,Daikin Park,Houston Astros,Boston Red Sox,117,111,9,2,11,686613,Hunter Brown,678394,Brayan Bello
+825107,2026-03-31,2026-04-01T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Detroit Tigers,109,116,7,5,12,694297,Brandon Pfaadt,663554,Casey Mize
+823322,2026-03-31,2026-04-01T01:40:00Z,2680,Petco Park,San Diego Padres,San Francisco Giants,135,137,3,9,12,608566,Germán Márquez,657277,Logan Webb
+823158,2026-03-31,2026-04-01T01:40:00Z,680,T-Mobile Park,Seattle Mariners,New York Yankees,136,147,0,5,5,669302,Logan Gilbert,608331,Max Fried
+823969,2026-03-31,2026-04-01T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Cleveland Guardians,119,114,4,1,5,660271,Shohei Ohtani,676440,Tanner Bibee
+824940,2026-04-01,2026-04-01T16:15:00Z,4705,Truist Park,Atlanta Braves,Athletics,144,133,5,1,6,519242,Chris Sale,622663,Luis Severino
+824860,2026-04-01,2026-04-01T16:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Texas Rangers,110,140,8,3,11,669432,Trevor Rogers,543135,Nathan Eovaldi
+824536,2026-04-01,2026-04-01T16:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,3,8,11,671096,Andrew Abbott,694973,Paul Skenes
+823483,2026-04-01,2026-04-01T17:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,143,120,6,5,11,650911,Cristopher Sánchez,676917,Cade Cavalli
+822835,2026-04-01,2026-04-01T17:07:00Z,14,Rogers Centre,Toronto Blue Jays,Colorado Rockies,141,115,1,2,3,592332,Kevin Gausman,607536,Kyle Freeland
+823889,2026-04-01,2026-04-01T17:10:00Z,4169,loanDepot park,Miami Marlins,Chicago White Sox,146,145,10,0,10,645261,Sandy Alcantara,681343,Shane Smith
+823078,2026-04-01,2026-04-01T17:15:00Z,2889,Busch Stadium,St. Louis Cardinals,New York Mets,138,121,2,1,3,669461,Matthew Liberatore,642547,Freddy Peralta
+823806,2026-04-01,2026-04-01T17:40:00Z,32,American Family Field,Milwaukee Brewers,Tampa Bay Rays,158,139,8,2,10,694819,Jacob Misiorowski,656876,Drew Rasmussen
+824211,2026-04-01,2026-04-01T18:10:00Z,2392,Daikin Park,Houston Astros,Boston Red Sox,117,111,6,4,10,681347,Mike Burrows,676979,Garrett Crochet
+824698,2026-04-01,2026-04-01T18:20:00Z,17,Wrigley Field,Chicago Cubs,Los Angeles Angels,112,108,6,2,8,571510,Matthew Boyd,579328,Yusei Kikuchi
+825106,2026-04-01,2026-04-01T19:40:00Z,15,Chase Field,Arizona Diamondbacks,Detroit Tigers,109,116,1,0,1,668678,Zac Gallen,669373,Tarik Skubal
+823321,2026-04-01,2026-04-01T20:10:00Z,2680,Petco Park,San Diego Padres,San Francisco Giants,135,137,7,1,8,601713,Nick Pivetta,605288,Adrian Houser
+823157,2026-04-01,2026-04-01T20:10:00Z,680,T-Mobile Park,Seattle Mariners,New York Yankees,136,147,3,5,8,669923,George Kirby,693645,Cam Schlittler
+824136,2026-04-01,2026-04-01T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,13,9,22,702070,Noah Cameron,657746,Joe Ryan
+823970,2026-04-01,2026-04-02T00:20:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Cleveland Guardians,119,114,1,4,5,808967,Yoshinobu Yamamoto,668909,Gavin Williams
+824133,2026-04-02,2026-04-02T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,1,5,6,666142,Cole Ragans,671737,Taj Bradley
+825105,2026-04-02,2026-04-03T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Atlanta Braves,109,144,2,17,19,669194,Ryne Nelson,625643,Reynaldo López
+823242,2026-04-02,2026-04-03T01:45:00Z,2395,Oracle Park,San Francisco Giants,New York Mets,137,121,7,2,9,592662,Robbie Ray,656849,David Peterson
+822758,2026-04-03,2026-04-03T17:05:00Z,3309,Nationals Park,Washington Nationals,Los Angeles Dodgers,120,119,6,13,19,571945,Miles Mikolas,686218,Emmet Sheehan
+824299,2026-04-03,2026-04-03T17:10:00Z,2394,Comerica Park,Detroit Tigers,St. Louis Cardinals,116,138,4,0,4,664285,Framber Valdez,700241,Michael McGreevy
+823568,2026-04-03,2026-04-03T17:35:00Z,3313,Yankee Stadium,New York Yankees,Miami Marlins,147,146,8,2,10,701542,Will Warren,691587,Eury Pérez
+824786,2026-04-03,2026-04-03T18:10:00Z,3,Fenway Park,Boston Red Sox,San Diego Padres,111,135,5,2,7,543243,Sonny Gray,650633,Michael King
+824621,2026-04-03,2026-04-03T18:10:00Z,4,Rate Field,Chicago White Sox,Toronto Blue Jays,145,141,5,4,9,691799,Grant Taylor,656302,Dylan Cease
+822919,2026-04-03,2026-04-03T20:05:00Z,5325,Globe Life Field,Texas Rangers,Cincinnati Reds,140,113,3,5,8,669022,MacKenzie Gore,663903,Brady Singer
+824458,2026-04-03,2026-04-03T20:10:00Z,5,Progressive Field,Cleveland Guardians,Chicago Cubs,114,112,4,1,5,676282,Joey Cantillo,690990,Cade Horton
+823732,2026-04-03,2026-04-03T20:10:00Z,3312,Target Field,Minnesota Twins,Tampa Bay Rays,142,139,10,4,14,641927,Bailey Ober,671212,Joe Boyle
+824377,2026-04-03,2026-04-03T20:10:00Z,19,Coors Field,Colorado Rockies,Philadelphia Phillies,115,143,1,10,11,547179,Michael Lorenzen,605400,Aaron Nola
+823406,2026-04-03,2026-04-03T20:12:00Z,31,PNC Park,Pittsburgh Pirates,Baltimore Orioles,134,110,5,4,9,656605,Mitch Keller,680694,Kyle Bradish
+824056,2026-04-03,2026-04-04T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,1,3,4,672282,Reid Detmers,693433,Bryan Woo
+825026,2026-04-03,2026-04-04T01:40:00Z,2529,Sutter Health Park,Athletics,Houston Astros,133,117,11,4,15,605488,Jeffrey Springs,664299,Cristian Javier
+825103,2026-04-03,2026-04-04T01:45:00Z,15,Chase Field,Arizona Diamondbacks,Atlanta Braves,109,144,0,2,2,593958,Eduardo Rodriguez,656550,Grant Holmes
+823240,2026-04-03,2026-04-04T02:15:00Z,2395,Oracle Park,San Francisco Giants,New York Mets,137,121,3,10,13,641816,Tyler Mahle,690997,Nolan McLean
+824622,2026-04-04,2026-04-04T18:10:00Z,4,Rate Field,Chicago White Sox,Toronto Blue Jays,145,141,6,3,9,691799,Grant Taylor,689254,Mason Fluharty
+824132,2026-04-04,2026-04-04T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Milwaukee Brewers,118,158,2,5,7,679883,Luinder Avila,694477,Chad Patrick
+824134,2026-04-04,2026-04-04T23:10:00Z,7,Kauffman Stadium,Kansas City Royals,Milwaukee Brewers,118,158,8,2,10,607625,Seth Lugo,701656,Logan Henderson
+822757,2026-04-04,2026-04-04T20:05:00Z,3309,Nationals Park,Washington Nationals,Los Angeles Dodgers,120,119,5,10,15,663623,Jake Irvin,607192,Tyler Glasnow
+825027,2026-04-04,2026-04-04T20:05:00Z,2529,Sutter Health Park,Athletics,Houston Astros,133,117,0,11,11,806960,Luis Morales,837227,Tatsuya Imai
+823404,2026-04-04,2026-04-04T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Baltimore Orioles,134,110,3,2,5,669387,Carmen Mlodzinski,669358,Shane Baz
+824782,2026-04-04,2026-04-04T20:10:00Z,3,Fenway Park,Boston Red Sox,San Diego Padres,111,135,2,3,5,813349,Connelly Early,681190,Randy Vásquez
+822920,2026-04-04,2026-04-04T23:05:00Z,5325,Globe Life Field,Texas Rangers,Cincinnati Reds,140,113,0,2,2,677958,Kumar Rocker,695076,Rhett Lowder
+823569,2026-04-04,2026-04-04T23:05:00Z,3313,Yankee Stadium,New York Yankees,Miami Marlins,147,146,9,7,16,677960,Ryan Weathers,676974,Max Meyer
+823730,2026-04-04,2026-04-04T23:10:00Z,3312,Target Field,Minnesota Twins,Tampa Bay Rays,142,139,1,7,8,690953,Mick Abel,571927,Steven Matz
+825104,2026-04-04,2026-04-04T23:15:00Z,15,Chase Field,Arizona Diamondbacks,Atlanta Braves,109,144,2,1,3,647336,Michael Soroka,693821,Bryce Elder
+824378,2026-04-04,2026-04-05T00:10:00Z,19,Coors Field,Colorado Rockies,Philadelphia Phillies,115,143,1,2,3,657514,Brennan Bernardino,666200,Jesús Luzardo
+823239,2026-04-04,2026-04-05T01:05:00Z,2395,Oracle Park,San Francisco Giants,New York Mets,137,121,0,9,9,694738,Landen Roupp,605280,Clay Holmes
+824054,2026-04-04,2026-04-05T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,1,0,1,686799,Jack Kochanowicz,676106,Emerson Hancock
+824459,2026-04-05,2026-04-05T17:10:00Z,5,Progressive Field,Cleveland Guardians,Chicago Cubs,114,112,0,1,1,677944,Slade Cecconi,665795,Edward Cabrera
+824460,2026-04-05,2026-04-05T17:15:00Z,5,Progressive Field,Cleveland Guardians,Chicago Cubs,114,112,6,5,11,800048,Parker Messick,684007,Shota Imanaga
+822756,2026-04-05,2026-04-05T17:35:00Z,3309,Nationals Park,Washington Nationals,Los Angeles Dodgers,120,119,6,8,14,656492,Foster Griffin,808963,Roki Sasaki
+823405,2026-04-05,2026-04-05T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Baltimore Orioles,134,110,8,2,10,677952,Braxton Ashcraft,605135,Chris Bassitt
+824781,2026-04-05,2026-04-05T17:35:00Z,3,Fenway Park,Boston Red Sox,San Diego Padres,111,135,6,8,14,624133,Ranger Suarez,621111,Walker Buehler
+823566,2026-04-05,2026-04-05T17:35:00Z,3313,Yankee Stadium,New York Yankees,Miami Marlins,147,146,6,7,13,608331,Max Fried,664126,Pete Fairbanks
+823729,2026-04-05,2026-04-05T18:10:00Z,3312,Target Field,Minnesota Twins,Tampa Bay Rays,142,139,1,4,5,680573,Simeon Woods Richardson,607259,Nick Martinez
+824620,2026-04-05,2026-04-05T18:10:00Z,4,Rate Field,Chicago White Sox,Toronto Blue Jays,145,141,3,0,3,663436,Davis Martin,641778,Eric Lauer
+824131,2026-04-05,2026-04-05T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Milwaukee Brewers,118,158,5,8,13,663460,Kris Bubic,690986,Kyle Harrison
+822917,2026-04-05,2026-04-05T18:35:00Z,5325,Globe Life Field,Texas Rangers,Cincinnati Reds,140,113,1,2,3,683004,Jack Leiter,695505,Chase Burns
+824379,2026-04-05,2026-04-05T19:10:00Z,19,Coors Field,Colorado Rockies,Philadelphia Phillies,115,143,4,1,5,608372,Tomoyuki Sugano,592836,Taijuan Walker
+825025,2026-04-05,2026-04-05T20:05:00Z,2529,Sutter Health Park,Athletics,Houston Astros,133,117,12,10,22,682052,Jacob Lopez,621121,Lance McCullers Jr.
+823238,2026-04-05,2026-04-05T20:05:00Z,2395,Oracle Park,San Francisco Giants,New York Mets,137,121,2,5,7,657277,Logan Webb,673540,Kodai Senga
+824053,2026-04-05,2026-04-05T20:07:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,8,7,15,691946,George Klassen,622491,Luis Castillo
+825102,2026-04-05,2026-04-05T20:10:00Z,15,Chase Field,Arizona Diamondbacks,Atlanta Braves,109,144,6,5,11,694297,Brandon Pfaadt,527048,Martín Pérez
+824296,2026-04-05,2026-04-05T23:20:00Z,2394,Comerica Park,Detroit Tigers,St. Louis Cardinals,116,138,3,5,8,672456,Keider Montero,681517,Kyle Leahy
+823002,2026-04-06,2026-04-06T20:10:00Z,12,Tropicana Field,Tampa Bay Rays,Chicago Cubs,139,112,6,4,10,663556,Shane McClanahan,592791,Jameson Taillon
+824456,2026-04-06,2026-04-06T22:10:00Z,5,Progressive Field,Cleveland Guardians,Kansas City Royals,114,118,2,4,6,676440,Tanner Bibee,608379,Michael Wacha
+823401,2026-04-06,2026-04-06T22:40:00Z,31,PNC Park,Pittsburgh Pirates,San Diego Padres,134,135,0,5,5,696149,Bubba Chandler,608566,Germán Márquez
+823886,2026-04-06,2026-04-06T22:40:00Z,4169,loanDepot park,Miami Marlins,Cincinnati Reds,146,113,0,2,2,676083,Janson Junk,682227,Brandon Williamson
+822755,2026-04-06,2026-04-06T22:45:00Z,3309,Nationals Park,Washington Nationals,St. Louis Cardinals,120,138,9,6,15,641793,Zack Littell,669467,Andre Pallante
+824783,2026-04-06,2026-04-06T22:45:00Z,3,Fenway Park,Boston Red Sox,Milwaukee Brewers,111,158,6,8,14,678394,Brayan Bello,605540,Brandon Woodruff
+822832,2026-04-06,2026-04-06T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Los Angeles Dodgers,141,119,2,14,16,453286,Max Scherzer,680736,Justin Wrobleski
+823728,2026-04-06,2026-04-06T23:40:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,7,3,10,657746,Joe Ryan,663554,Casey Mize
+824619,2026-04-06,2026-04-06T23:40:00Z,4,Rate Field,Chicago White Sox,Baltimore Orioles,145,110,1,2,3,691799,Grant Taylor,687064,Brandon Young
+822918,2026-04-06,2026-04-07T00:05:00Z,5325,Globe Life Field,Texas Rangers,Seattle Mariners,140,136,2,1,3,594798,Jacob deGrom,669302,Logan Gilbert
+824376,2026-04-06,2026-04-07T00:40:00Z,19,Coors Field,Colorado Rockies,Houston Astros,115,117,9,7,16,663372,Ryan Feltner,675989,Cody Bolton
+824052,2026-04-06,2026-04-07T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Atlanta Braves,108,144,6,2,8,667755,José Soriano,519242,Chris Sale
+823237,2026-04-06,2026-04-07T01:45:00Z,2395,Oracle Park,San Francisco Giants,Philadelphia Phillies,137,143,4,6,10,605288,Adrian Houser,691725,Andrew Painter
+824457,2026-04-07,2026-04-07T17:10:00Z,5,Progressive Field,Cleveland Guardians,Kansas City Royals,114,118,2,1,3,668909,Gavin Williams,702070,Noah Cameron
+824618,2026-04-07,2026-04-07T19:10:00Z,4,Rate Field,Chicago White Sox,Baltimore Orioles,145,110,2,4,6,681343,Shane Smith,669432,Trevor Rogers
+823648,2026-04-07,2026-04-07T20:10:00Z,3289,Citi Field,New York Mets,Arizona Diamondbacks,121,109,4,3,7,642547,Freddy Peralta,668678,Zac Gallen
+823402,2026-04-07,2026-04-07T22:40:00Z,31,PNC Park,Pittsburgh Pirates,San Diego Padres,134,135,7,1,8,694973,Paul Skenes,601713,Nick Pivetta
+822999,2026-04-07,2026-04-07T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Chicago Cubs,139,112,2,9,11,669438,Mason Englert,665871,Javier Assad
+823887,2026-04-07,2026-04-07T22:40:00Z,4169,loanDepot park,Miami Marlins,Cincinnati Reds,146,113,3,6,9,645261,Sandy Alcantara,671096,Andrew Abbott
+822754,2026-04-07,2026-04-07T22:45:00Z,3309,Nationals Park,Washington Nationals,St. Louis Cardinals,120,138,6,7,13,676917,Cade Cavalli,669461,Matthew Liberatore
+824780,2026-04-07,2026-04-07T22:45:00Z,3,Fenway Park,Boston Red Sox,Milwaukee Brewers,111,158,3,2,5,676979,Garrett Crochet,694819,Jacob Misiorowski
+823567,2026-04-07,2026-04-07T23:05:00Z,3313,Yankee Stadium,New York Yankees,Athletics,147,133,5,3,8,693645,Cam Schlittler,650644,Aaron Civale
+822831,2026-04-07,2026-04-07T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Los Angeles Dodgers,141,119,1,4,5,592332,Kevin Gausman,808967,Yoshinobu Yamamoto
+823727,2026-04-07,2026-04-07T23:40:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,4,2,6,671737,Taj Bradley,669373,Tarik Skubal
+822916,2026-04-07,2026-04-08T00:05:00Z,5325,Globe Life Field,Texas Rangers,Seattle Mariners,140,136,3,2,5,543135,Nathan Eovaldi,669923,George Kirby
+824375,2026-04-07,2026-04-08T00:40:00Z,19,Coors Field,Colorado Rockies,Houston Astros,115,117,5,1,6,607536,Kyle Freeland,681347,Mike Burrows
+824051,2026-04-07,2026-04-08T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Atlanta Braves,108,144,2,7,9,579328,Yusei Kikuchi,625643,Reynaldo López
+823235,2026-04-07,2026-04-08T01:45:00Z,2395,Oracle Park,San Francisco Giants,Philadelphia Phillies,137,143,6,0,6,592662,Robbie Ray,650911,Cristopher Sánchez
+823403,2026-04-08,2026-04-08T16:35:00Z,31,PNC Park,Pittsburgh Pirates,San Diego Padres,134,135,2,8,10,656605,Mitch Keller,650633,Michael King
+824455,2026-04-08,2026-04-08T17:10:00Z,5,Progressive Field,Cleveland Guardians,Kansas City Royals,114,118,10,2,12,676282,Joey Cantillo,666142,Cole Ragans
+824779,2026-04-08,2026-04-08T17:35:00Z,3,Fenway Park,Boston Red Sox,Milwaukee Brewers,111,158,5,0,5,543243,Sonny Gray,675660,Shane Drohan
+824617,2026-04-08,2026-04-08T18:10:00Z,4,Rate Field,Chicago White Sox,Baltimore Orioles,145,110,3,5,8,680732,Sean Burke,680694,Kyle Bradish
+822915,2026-04-08,2026-04-08T18:35:00Z,5325,Globe Life Field,Texas Rangers,Seattle Mariners,140,136,3,0,3,669022,MacKenzie Gore,693433,Bryan Woo
+822833,2026-04-08,2026-04-08T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Los Angeles Dodgers,141,119,4,3,7,656302,Dylan Cease,660271,Shohei Ohtani
+824374,2026-04-08,2026-04-08T19:10:00Z,19,Coors Field,Colorado Rockies,Houston Astros,115,117,9,1,10,547179,Michael Lorenzen,664299,Cristian Javier
+823234,2026-04-08,2026-04-08T19:45:00Z,2395,Oracle Park,San Francisco Giants,Philadelphia Phillies,137,143,5,0,5,641816,Tyler Mahle,605400,Aaron Nola
+822753,2026-04-08,2026-04-08T20:05:00Z,3309,Nationals Park,Washington Nationals,St. Louis Cardinals,120,138,1,6,7,571945,Miles Mikolas,700241,Michael McGreevy
+824050,2026-04-08,2026-04-08T20:07:00Z,1,Angel Stadium,Los Angeles Angels,Atlanta Braves,108,144,2,8,10,672282,Reid Detmers,656550,Grant Holmes
+823646,2026-04-08,2026-04-08T20:10:00Z,3289,Citi Field,New York Mets,Arizona Diamondbacks,121,109,2,7,9,656849,David Peterson,669194,Ryne Nelson
+823000,2026-04-08,2026-04-08T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Chicago Cubs,139,112,2,6,8,671212,Joe Boyle,607067,Colin Rea
+823885,2026-04-08,2026-04-08T22:40:00Z,4169,loanDepot park,Miami Marlins,Cincinnati Reds,146,113,7,4,11,691587,Eury Pérez,663903,Brady Singer
+823564,2026-04-08,2026-04-08T23:05:00Z,3313,Yankee Stadium,New York Yankees,Athletics,147,133,2,3,5,701542,Will Warren,622663,Luis Severino
+823726,2026-04-08,2026-04-08T23:40:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,8,6,14,641927,Bailey Ober,664285,Framber Valdez
+823884,2026-04-09,2026-04-09T16:10:00Z,4169,loanDepot park,Miami Marlins,Cincinnati Reds,146,113,8,1,9,676974,Max Meyer,695076,Rhett Lowder
+823565,2026-04-09,2026-04-09T17:35:00Z,3313,Yankee Stadium,New York Yankees,Athletics,147,133,0,1,1,677960,Ryan Weathers,605488,Jeffrey Springs
+823724,2026-04-09,2026-04-09T17:40:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,3,1,4,690953,Mick Abel,656427,Jack Flaherty
+823645,2026-04-09,2026-04-09T23:10:00Z,3289,Citi Field,New York Mets,Arizona Diamondbacks,121,109,1,7,8,690997,Nolan McLean,593958,Eduardo Rodriguez
+824130,2026-04-09,2026-04-09T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,0,2,2,607625,Seth Lugo,641743,Anthony Kay
+823319,2026-04-09,2026-04-10T01:40:00Z,2680,Petco Park,San Diego Padres,Colorado Rockies,135,115,7,3,10,681190,Randy Vásquez,623474,Jimmy Herget
+824695,2026-04-10,2026-04-10T18:20:00Z,17,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,112,134,0,2,2,684007,Shota Imanaga,669387,Carmen Mlodzinski
+823482,2026-04-10,2026-04-10T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Arizona Diamondbacks,143,109,4,5,9,666200,Jesús Luzardo,647336,Michael Soroka
+824297,2026-04-10,2026-04-10T22:40:00Z,2394,Comerica Park,Detroit Tigers,Miami Marlins,116,146,2,0,2,672456,Keider Montero,663978,Chris Paddack
+824534,2026-04-10,2026-04-10T22:45:00Z,2602,Great American Ball Park,Cincinnati Reds,Los Angeles Angels,113,108,2,10,12,695505,Chase Burns,686799,Jack Kochanowicz
+822829,2026-04-10,2026-04-10T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Minnesota Twins,141,142,10,4,14,571578,Patrick Corbin,680573,Simeon Woods Richardson
+823643,2026-04-10,2026-04-10T23:10:00Z,3289,Citi Field,New York Mets,Athletics,121,133,0,4,4,605280,Clay Holmes,669372,J.T. Ginn
+822997,2026-04-10,2026-04-10T23:10:00Z,12,Tropicana Field,Tampa Bay Rays,New York Yankees,139,147,5,3,8,571927,Steven Matz,661563,Luis Gil
+824858,2026-04-10,2026-04-10T23:15:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,San Francisco Giants,110,137,3,6,9,669358,Shane Baz,694738,Landen Roupp
+824941,2026-04-10,2026-04-10T23:15:00Z,4705,Truist Park,Atlanta Braves,Cleveland Guardians,144,114,11,5,16,693821,Bryce Elder,677944,Slade Cecconi
+824128,2026-04-10,2026-04-10T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,2,0,2,663460,Kris Bubic,663436,Davis Martin
+823808,2026-04-10,2026-04-10T23:40:00Z,32,American Family Field,Milwaukee Brewers,Washington Nationals,158,120,3,7,10,676879,Aaron Ashby,663623,Jake Irvin
+823076,2026-04-10,2026-04-11T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Boston Red Sox,138,111,3,2,5,669160,Dustin May,813349,Connelly Early
+823318,2026-04-10,2026-04-11T01:40:00Z,2680,Petco Park,San Diego Padres,Colorado Rockies,135,115,5,2,7,621111,Walker Buehler,608372,Tomoyuki Sugano
+823156,2026-04-10,2026-04-11T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Houston Astros,136,117,9,6,15,676106,Emerson Hancock,837227,Tatsuya Imai
+823968,2026-04-10,2026-04-11T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Texas Rangers,119,140,8,7,15,607192,Tyler Glasnow,677958,Kumar Rocker
+823480,2026-04-11,2026-04-11T17:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Arizona Diamondbacks,143,109,4,3,7,592836,Taijuan Walker,694297,Brandon Pfaadt
+824294,2026-04-11,2026-04-11T17:10:00Z,2394,Comerica Park,Detroit Tigers,Miami Marlins,116,146,6,1,7,663554,Casey Mize,676083,Janson Junk
+824697,2026-04-11,2026-04-11T18:20:00Z,17,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,112,134,3,4,7,665795,Edward Cabrera,677952,Braxton Ashcraft
+822830,2026-04-11,2026-04-11T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Minnesota Twins,141,142,4,7,11,641778,Eric Lauer,657746,Joe Ryan
+824535,2026-04-11,2026-04-11T20:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Los Angeles Angels,113,108,7,3,10,682227,Brandon Williamson,691946,George Klassen
+823644,2026-04-11,2026-04-11T20:10:00Z,3289,Citi Field,New York Mets,Athletics,121,133,6,11,17,673540,Kodai Senga,682052,Jacob Lopez
+824129,2026-04-11,2026-04-11T20:10:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,2,0,2,608379,Michael Wacha,607200,Erick Fedde
+822996,2026-04-11,2026-04-11T22:10:00Z,12,Tropicana Field,Tampa Bay Rays,New York Yankees,139,147,5,4,9,607259,Nick Martinez,608331,Max Fried
+823805,2026-04-11,2026-04-11T23:10:00Z,32,American Family Field,Milwaukee Brewers,Washington Nationals,158,120,1,3,4,690986,Kyle Harrison,656492,Foster Griffin
+824857,2026-04-11,2026-04-11T23:15:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,San Francisco Giants,110,137,6,2,8,605135,Chris Bassitt,657277,Logan Webb
+823074,2026-04-11,2026-04-11T23:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Boston Red Sox,138,111,1,7,8,681517,Kyle Leahy,624133,Ranger Suarez
+824939,2026-04-11,2026-04-11T23:15:00Z,4705,Truist Park,Atlanta Braves,Cleveland Guardians,144,114,0,6,6,527048,Martín Pérez,800048,Parker Messick
+823316,2026-04-11,2026-04-12T00:40:00Z,2680,Petco Park,San Diego Padres,Colorado Rockies,135,115,9,5,14,608566,Germán Márquez,663372,Ryan Feltner
+823967,2026-04-11,2026-04-12T01:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Texas Rangers,119,140,6,3,9,686218,Emmet Sheehan,683004,Jack Leiter
+823155,2026-04-11,2026-04-12T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Houston Astros,136,117,8,7,15,622491,Luis Castillo,621121,Lance McCullers Jr.
+824859,2026-04-12,2026-04-12T17:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,San Francisco Giants,110,137,6,2,8,700249,Cade Povich,605288,Adrian Houser
+823479,2026-04-12,2026-04-12T17:35:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Arizona Diamondbacks,143,109,3,4,7,647315,Zach Pop,668678,Zac Gallen
+822828,2026-04-12,2026-04-12T17:37:00Z,14,Rogers Centre,Toronto Blue Jays,Minnesota Twins,141,142,2,8,10,453286,Max Scherzer,671737,Taj Bradley
+824533,2026-04-12,2026-04-12T17:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Los Angeles Angels,113,108,6,9,15,671096,Andrew Abbott,667755,José Soriano
+823642,2026-04-12,2026-04-12T17:40:00Z,3289,Citi Field,New York Mets,Athletics,121,133,0,1,1,642547,Freddy Peralta,650644,Aaron Civale
+824293,2026-04-12,2026-04-12T17:40:00Z,2394,Comerica Park,Detroit Tigers,Miami Marlins,116,146,8,2,10,669373,Tarik Skubal,645261,Sandy Alcantara
+822998,2026-04-12,2026-04-12T17:40:00Z,12,Tropicana Field,Tampa Bay Rays,New York Yankees,139,147,5,4,9,656876,Drew Rasmussen,693645,Cam Schlittler
+824126,2026-04-12,2026-04-12T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,5,6,11,702070,Noah Cameron,691799,Grant Taylor
+823804,2026-04-12,2026-04-12T18:10:00Z,32,American Family Field,Milwaukee Brewers,Washington Nationals,158,120,6,8,14,605540,Brandon Woodruff,641793,Zack Littell
+823075,2026-04-12,2026-04-12T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Boston Red Sox,138,111,3,9,12,669467,Andre Pallante,678394,Brayan Bello
+824696,2026-04-12,2026-04-12T18:20:00Z,17,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,112,134,7,6,13,592791,Jameson Taillon,696149,Bubba Chandler
+823317,2026-04-12,2026-04-12T20:10:00Z,2680,Petco Park,San Diego Padres,Colorado Rockies,135,115,7,2,9,601713,Nick Pivetta,607536,Kyle Freeland
+823154,2026-04-12,2026-04-12T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Houston Astros,136,117,6,1,7,669302,Logan Gilbert,675989,Cody Bolton
+823966,2026-04-12,2026-04-12T20:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Texas Rangers,119,140,2,5,7,808963,Roki Sasaki,594798,Jacob deGrom
+824938,2026-04-12,2026-04-12T23:20:00Z,4705,Truist Park,Atlanta Braves,Cleveland Guardians,144,114,13,1,14,519242,Chris Sale,676440,Tanner Bibee
+823153,2026-04-13,2026-04-13T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Houston Astros,136,117,6,2,8,669923,George Kirby,681347,Mike Burrows
+824856,2026-04-13,2026-04-13T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Arizona Diamondbacks,110,109,9,7,16,665152,Dean Kremer,669194,Ryne Nelson
+823400,2026-04-13,2026-04-13T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Washington Nationals,134,120,16,5,21,694973,Paul Skenes,676917,Cade Cavalli
+823481,2026-04-13,2026-04-13T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Chicago Cubs,143,112,13,7,20,650911,Cristopher Sánchez,665871,Javier Assad
+823563,2026-04-13,2026-04-13T23:05:00Z,3313,Yankee Stadium,New York Yankees,Los Angeles Angels,147,108,11,10,21,701542,Will Warren,579328,Yusei Kikuchi
+824937,2026-04-13,2026-04-13T23:15:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,4,10,14,656550,Grant Holmes,691587,Eury Pérez
+823725,2026-04-13,2026-04-13T23:40:00Z,3312,Target Field,Minnesota Twins,Boston Red Sox,142,111,13,6,19,641927,Bailey Ober,676979,Garrett Crochet
+823073,2026-04-13,2026-04-13T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Cleveland Guardians,138,114,3,9,12,669461,Matthew Liberatore,668909,Gavin Williams
+825024,2026-04-13,2026-04-14T01:40:00Z,2529,Sutter Health Park,Athletics,Texas Rangers,133,140,1,8,9,622663,Luis Severino,543135,Nathan Eovaldi
+823964,2026-04-13,2026-04-14T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,New York Mets,119,121,4,0,4,680736,Justin Wrobleski,656849,David Peterson
+824853,2026-04-14,2026-04-14T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Arizona Diamondbacks,110,109,3,4,7,669432,Trevor Rogers,518876,Merrill Kelly
+824292,2026-04-14,2026-04-14T22:40:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,2,1,3,664285,Framber Valdez,666142,Cole Ragans
+823398,2026-04-14,2026-04-14T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Washington Nationals,134,120,4,5,9,656605,Mitch Keller,676571,PJ Poulin
+824531,2026-04-14,2026-04-14T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,San Francisco Giants,113,137,2,1,3,663903,Brady Singer,592662,Robbie Ray
+823478,2026-04-14,2026-04-14T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Chicago Cubs,143,112,4,10,14,605400,Aaron Nola,702303,Riley Martin
+823562,2026-04-14,2026-04-14T23:05:00Z,3313,Yankee Stadium,New York Yankees,Los Angeles Angels,147,108,1,7,8,677960,Ryan Weathers,672282,Reid Detmers
+824935,2026-04-14,2026-04-14T23:15:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,6,5,11,625643,Reynaldo López,676974,Max Meyer
+823723,2026-04-14,2026-04-14T23:40:00Z,3312,Target Field,Minnesota Twins,Boston Red Sox,142,111,6,0,6,690953,Mick Abel,543243,Sonny Gray
+824616,2026-04-14,2026-04-14T23:40:00Z,4,Rate Field,Chicago White Sox,Tampa Bay Rays,145,139,5,8,13,702273,Noah Schultz,663556,Shane McClanahan
+823802,2026-04-14,2026-04-14T23:40:00Z,32,American Family Field,Milwaukee Brewers,Toronto Blue Jays,158,141,7,9,16,694819,Jacob Misiorowski,592332,Kevin Gausman
+823072,2026-04-14,2026-04-14T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Cleveland Guardians,138,114,6,5,11,700241,Michael McGreevy,676282,Joey Cantillo
+824210,2026-04-14,2026-04-15T00:10:00Z,2392,Daikin Park,Houston Astros,Colorado Rockies,117,115,7,6,13,676467,Colton Gordon,547179,Michael Lorenzen
+823315,2026-04-14,2026-04-15T01:40:00Z,2680,Petco Park,San Diego Padres,Seattle Mariners,135,136,4,1,5,650633,Michael King,693433,Bryan Woo
+825022,2026-04-14,2026-04-15T01:40:00Z,2529,Sutter Health Park,Athletics,Texas Rangers,133,140,2,1,3,605488,Jeffrey Springs,669022,MacKenzie Gore
+823965,2026-04-14,2026-04-15T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,New York Mets,119,121,2,1,3,808967,Yoshinobu Yamamoto,690997,Nolan McLean
+824855,2026-04-15,2026-04-15T16:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Arizona Diamondbacks,110,109,5,8,13,680694,Kyle Bradish,593958,Eduardo Rodriguez
+823071,2026-04-15,2026-04-15T17:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cleveland Guardians,138,114,5,3,8,669160,Dustin May,677944,Slade Cecconi
+823722,2026-04-15,2026-04-15T17:40:00Z,3312,Target Field,Minnesota Twins,Boston Red Sox,142,111,5,9,14,680573,Simeon Woods Richardson,813349,Connelly Early
+824291,2026-04-15,2026-04-15T22:40:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,2,1,3,656427,Jack Flaherty,607625,Seth Lugo
+823399,2026-04-15,2026-04-15T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Washington Nationals,134,120,2,0,2,682254,Mason Montgomery,663623,Jake Irvin
+824532,2026-04-15,2026-04-15T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,San Francisco Giants,113,137,8,3,11,695076,Rhett Lowder,641816,Tyler Mahle
+823477,2026-04-15,2026-04-15T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Chicago Cubs,143,112,2,11,13,666200,Jesús Luzardo,684007,Shota Imanaga
+823561,2026-04-15,2026-04-15T23:05:00Z,3313,Yankee Stadium,New York Yankees,Los Angeles Angels,147,108,5,4,9,661563,Luis Gil,686799,Jack Kochanowicz
+824936,2026-04-15,2026-04-15T23:15:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,6,3,9,693821,Bryce Elder,663978,Chris Paddack
+824615,2026-04-15,2026-04-15T23:40:00Z,4,Rate Field,Chicago White Sox,Tampa Bay Rays,145,139,3,8,11,680732,Sean Burke,642121,Cole Sulser
+823803,2026-04-15,2026-04-15T23:40:00Z,32,American Family Field,Milwaukee Brewers,Toronto Blue Jays,158,141,2,1,3,694477,Chad Patrick,656302,Dylan Cease
+824209,2026-04-15,2026-04-16T00:10:00Z,2392,Daikin Park,Houston Astros,Colorado Rockies,117,115,3,1,4,681293,Spencer Arrighetti,500779,Jose Quintana
+823314,2026-04-15,2026-04-16T01:40:00Z,2680,Petco Park,San Diego Padres,Seattle Mariners,135,136,7,6,13,681190,Randy Vásquez,676106,Emerson Hancock
+825021,2026-04-15,2026-04-16T01:40:00Z,2529,Sutter Health Park,Athletics,Texas Rangers,133,140,6,5,11,669372,J.T. Ginn,677958,Kumar Rocker
+823963,2026-04-15,2026-04-16T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,New York Mets,119,121,8,2,10,660271,Shohei Ohtani,605280,Clay Holmes
+823396,2026-04-16,2026-04-16T16:35:00Z,31,PNC Park,Pittsburgh Pirates,Washington Nationals,134,120,7,8,15,677952,Braxton Ashcraft,656492,Foster Griffin
+824530,2026-04-16,2026-04-16T16:40:00Z,2602,Great American Ball Park,Cincinnati Reds,San Francisco Giants,113,137,0,3,3,695505,Chase Burns,694738,Landen Roupp
+824289,2026-04-16,2026-04-16T17:10:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,10,9,19,672456,Keider Montero,663460,Kris Bubic
+823560,2026-04-16,2026-04-16T17:35:00Z,3313,Yankee Stadium,New York Yankees,Los Angeles Angels,147,108,4,11,15,608331,Max Fried,608718,Brent Suter
+823801,2026-04-16,2026-04-16T17:40:00Z,32,American Family Field,Milwaukee Brewers,Toronto Blue Jays,158,141,2,1,3,687075,Brandon Sproat,571578,Patrick Corbin
+824614,2026-04-16,2026-04-16T18:10:00Z,4,Rate Field,Chicago White Sox,Tampa Bay Rays,145,139,3,5,8,673929,Jordan Leasure,571927,Steven Matz
+825023,2026-04-16,2026-04-16T19:05:00Z,2529,Sutter Health Park,Athletics,Texas Rangers,133,140,6,9,15,682052,Jacob Lopez,683004,Jack Leiter
+824453,2026-04-16,2026-04-16T22:10:00Z,5,Progressive Field,Cleveland Guardians,Baltimore Orioles,114,110,4,2,6,800048,Parker Messick,669358,Shane Baz
+824208,2026-04-16,2026-04-17T00:10:00Z,2392,Daikin Park,Houston Astros,Colorado Rockies,117,115,2,3,5,680802,Ryan Weiss,675848,Juan Mejia
+823313,2026-04-16,2026-04-17T00:40:00Z,2680,Petco Park,San Diego Padres,Seattle Mariners,135,136,5,2,7,621111,Walker Buehler,622491,Luis Castillo
+824693,2026-04-17,2026-04-17T18:20:00Z,17,Wrigley Field,Chicago Cubs,New York Mets,112,121,12,4,16,665795,Edward Cabrera,673540,Kodai Senga
+824454,2026-04-17,2026-04-17T22:10:00Z,5,Progressive Field,Cleveland Guardians,Baltimore Orioles,114,110,4,6,10,676440,Tanner Bibee,605135,Chris Bassitt
+823476,2026-04-17,2026-04-17T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,0,9,9,592836,Taijuan Walker,527048,Martín Pérez
+822752,2026-04-17,2026-04-17T22:45:00Z,3309,Nationals Park,Washington Nationals,San Francisco Giants,120,137,5,10,15,641793,Zack Littell,657277,Logan Webb
+823397,2026-04-17,2026-04-17T22:45:00Z,31,PNC Park,Pittsburgh Pirates,Tampa Bay Rays,134,139,5,1,6,696149,Bubba Chandler,607259,Nick Martinez
+823559,2026-04-17,2026-04-17T23:05:00Z,3313,Yankee Stadium,New York Yankees,Kansas City Royals,147,118,4,2,6,693645,Cam Schlittler,608379,Michael Wacha
+823883,2026-04-17,2026-04-17T23:10:00Z,4169,loanDepot park,Miami Marlins,Milwaukee Brewers,146,158,5,7,12,676083,Janson Junk,689441,Coleman Crow
+824778,2026-04-17,2026-04-17T23:15:00Z,3,Fenway Park,Boston Red Sox,Detroit Tigers,111,116,1,0,1,624133,Ranger Suarez,663554,Casey Mize
+824207,2026-04-17,2026-04-18T00:10:00Z,2392,Daikin Park,Houston Astros,St. Louis Cardinals,117,138,4,9,13,663567,Peter Lambert,681517,Kyle Leahy
+823720,2026-04-17,2026-04-18T00:10:00Z,3312,Target Field,Minnesota Twins,Cincinnati Reds,142,113,1,2,3,657746,Joe Ryan,682227,Brandon Williamson
+824373,2026-04-17,2026-04-18T00:40:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,1,7,8,608372,Tomoyuki Sugano,607192,Tyler Glasnow
+824048,2026-04-17,2026-04-18T01:38:00Z,1,Angel Stadium,Los Angeles Angels,San Diego Padres,108,135,8,0,8,667755,José Soriano,663362,Matt Waldron
+823152,2026-04-17,2026-04-18T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,0,5,5,669302,Logan Gilbert,594798,Jacob deGrom
+825101,2026-04-17,2026-04-18T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Toronto Blue Jays,109,141,6,3,9,647336,Michael Soroka,680755,Braydon Fisher
+825019,2026-04-17,2026-04-18T01:40:00Z,2529,Sutter Health Park,Athletics,Chicago White Sox,133,145,2,9,11,650644,Aaron Civale,663436,Davis Martin
+823558,2026-04-18,2026-04-18T17:35:00Z,3313,Yankee Stadium,New York Yankees,Kansas City Royals,147,118,13,4,17,701542,Will Warren,702070,Noah Cameron
+823721,2026-04-18,2026-04-18T18:10:00Z,3312,Target Field,Minnesota Twins,Cincinnati Reds,142,113,4,5,9,671737,Taj Bradley,671096,Andrew Abbott
+824694,2026-04-18,2026-04-18T18:20:00Z,17,Wrigley Field,Chicago Cubs,New York Mets,112,121,4,2,6,592791,Jameson Taillon,642547,Freddy Peralta
+823394,2026-04-18,2026-04-18T19:30:00Z,31,PNC Park,Pittsburgh Pirates,Tampa Bay Rays,134,139,7,8,15,694973,Paul Skenes,656876,Drew Rasmussen
+822751,2026-04-18,2026-04-18T20:05:00Z,3309,Nationals Park,Washington Nationals,San Francisco Giants,120,137,6,7,13,676917,Cade Cavalli,605288,Adrian Houser
+825020,2026-04-18,2026-04-18T20:05:00Z,2529,Sutter Health Park,Athletics,Chicago White Sox,133,145,7,6,13,622663,Luis Severino,607200,Erick Fedde
+824775,2026-04-18,2026-04-18T20:10:00Z,3,Fenway Park,Boston Red Sox,Detroit Tigers,111,116,1,4,5,678394,Brayan Bello,669373,Tarik Skubal
+823882,2026-04-18,2026-04-18T20:10:00Z,4169,loanDepot park,Miami Marlins,Milwaukee Brewers,146,158,2,5,7,645261,Sandy Alcantara,605540,Brandon Woodruff
+824451,2026-04-18,2026-04-18T22:10:00Z,5,Progressive Field,Cleveland Guardians,Baltimore Orioles,114,110,4,2,6,668909,Gavin Williams,665152,Dean Kremer
+824206,2026-04-18,2026-04-18T23:10:00Z,2392,Daikin Park,Houston Astros,St. Louis Cardinals,117,138,5,7,12,621121,Lance McCullers Jr.,669467,Andre Pallante
+823151,2026-04-18,2026-04-18T23:15:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,7,3,10,669923,George Kirby,543135,Nathan Eovaldi
+823474,2026-04-18,2026-04-18T23:15:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,1,3,4,650911,Cristopher Sánchez,519242,Chris Sale
+824372,2026-04-18,2026-04-19T00:10:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,4,3,7,663372,Ryan Feltner,686218,Emmet Sheehan
+825098,2026-04-18,2026-04-19T00:10:00Z,15,Chase Field,Arizona Diamondbacks,Toronto Blue Jays,109,141,6,2,8,668678,Zac Gallen,453286,Max Scherzer
+824049,2026-04-18,2026-04-19T01:38:00Z,1,Angel Stadium,Los Angeles Angels,San Diego Padres,108,135,1,4,5,579328,Yusei Kikuchi,608566,Germán Márquez
+822750,2026-04-19,2026-04-19T17:35:00Z,3309,Nationals Park,Washington Nationals,San Francisco Giants,120,137,3,0,3,676571,PJ Poulin,592662,Robbie Ray
+823393,2026-04-19,2026-04-19T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Tampa Bay Rays,134,139,6,3,9,656605,Mitch Keller,663556,Shane McClanahan
+823556,2026-04-19,2026-04-19T17:35:00Z,3313,Yankee Stadium,New York Yankees,Kansas City Royals,147,118,7,0,7,677960,Ryan Weathers,666142,Cole Ragans
+824452,2026-04-19,2026-04-19T17:40:00Z,5,Progressive Field,Cleveland Guardians,Baltimore Orioles,114,110,8,4,12,676282,Joey Cantillo,669432,Trevor Rogers
+823881,2026-04-19,2026-04-19T17:40:00Z,4169,loanDepot park,Miami Marlins,Milwaukee Brewers,146,158,5,3,8,691587,Eury Pérez,694819,Jacob Misiorowski
+824205,2026-04-19,2026-04-19T18:10:00Z,2392,Daikin Park,Houston Astros,St. Louis Cardinals,117,138,5,7,12,681347,Mike Burrows,669461,Matthew Liberatore
+823718,2026-04-19,2026-04-19T18:10:00Z,3312,Target Field,Minnesota Twins,Cincinnati Reds,142,113,4,7,11,641927,Bailey Ober,663903,Brady Singer
+824691,2026-04-19,2026-04-19T18:20:00Z,17,Wrigley Field,Chicago Cubs,New York Mets,112,121,2,1,3,665871,Javier Assad,668964,Tobias Myers
+824371,2026-04-19,2026-04-19T19:10:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,9,6,15,547179,Michael Lorenzen,808963,Roki Sasaki
+825018,2026-04-19,2026-04-19T20:05:00Z,2529,Sutter Health Park,Athletics,Chicago White Sox,133,145,4,7,11,605488,Jeffrey Springs,702273,Noah Schultz
+824047,2026-04-19,2026-04-19T20:07:00Z,1,Angel Stadium,Los Angeles Angels,San Diego Padres,108,135,1,2,3,700712,Walbert Ureña,650633,Michael King
+823150,2026-04-19,2026-04-19T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,5,2,7,693433,Bryan Woo,669022,MacKenzie Gore
+825100,2026-04-19,2026-04-19T20:10:00Z,15,Chase Field,Arizona Diamondbacks,Toronto Blue Jays,109,141,4,10,14,669194,Ryne Nelson,592332,Kevin Gausman
+824777,2026-04-19,2026-04-19T20:35:00Z,3,Fenway Park,Boston Red Sox,Detroit Tigers,111,116,2,6,8,676979,Garrett Crochet,664285,Framber Valdez
+823475,2026-04-19,2026-04-19T23:20:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,2,4,6,691725,Andrew Painter,656550,Grant Holmes
+824776,2026-04-20,2026-04-20T15:10:00Z,3,Fenway Park,Boston Red Sox,Detroit Tigers,111,116,8,6,14,543243,Sonny Gray,656427,Jack Flaherty
+824450,2026-04-20,2026-04-20T22:10:00Z,5,Progressive Field,Cleveland Guardians,Houston Astros,114,117,2,9,11,677944,Slade Cecconi,681293,Spencer Arrighetti
+822994,2026-04-20,2026-04-20T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Cincinnati Reds,139,113,1,6,7,669947,Jesse Scholtens,695076,Rhett Lowder
+823879,2026-04-20,2026-04-20T22:40:00Z,4169,loanDepot park,Miami Marlins,St. Louis Cardinals,146,138,5,3,8,676974,Max Meyer,700241,Michael McGreevy
+822749,2026-04-20,2026-04-20T22:45:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,4,9,13,663623,Jake Irvin,693821,Bryce Elder
+824125,2026-04-20,2026-04-20T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Baltimore Orioles,118,110,5,7,12,607625,Seth Lugo,680694,Kyle Bradish
+824692,2026-04-20,2026-04-20T23:40:00Z,17,Wrigley Field,Chicago Cubs,Philadelphia Phillies,112,143,5,1,6,607067,Colin Rea,605400,Aaron Nola
+824370,2026-04-20,2026-04-21T00:40:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,3,12,15,500779,Jose Quintana,680736,Justin Wrobleski
+824046,2026-04-20,2026-04-21T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Toronto Blue Jays,108,141,2,5,7,672282,Reid Detmers,656302,Dylan Cease
+823149,2026-04-20,2026-04-21T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Athletics,136,133,4,6,10,676106,Emerson Hancock,669372,J.T. Ginn
+824448,2026-04-21,2026-04-21T22:10:00Z,5,Progressive Field,Cleveland Guardians,Houston Astros,114,117,8,5,13,800048,Parker Messick,680802,Ryan Weiss
+822995,2026-04-21,2026-04-21T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Cincinnati Reds,139,113,6,12,18,571927,Steven Matz,695505,Chase Burns
+823880,2026-04-21,2026-04-21T22:40:00Z,4169,loanDepot park,Miami Marlins,St. Louis Cardinals,146,138,3,5,8,663978,Chris Paddack,669160,Dustin May
+824290,2026-04-21,2026-04-21T22:40:00Z,2394,Comerica Park,Detroit Tigers,Milwaukee Brewers,116,158,4,12,16,672456,Keider Montero,690986,Kyle Harrison
+822747,2026-04-21,2026-04-21T22:45:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,11,4,15,656492,Foster Griffin,625643,Reynaldo López
+824773,2026-04-21,2026-04-21T22:45:00Z,3,Fenway Park,Boston Red Sox,New York Yankees,111,147,0,4,4,813349,Connelly Early,661563,Luis Gil
+823640,2026-04-21,2026-04-21T23:10:00Z,3289,Citi Field,New York Mets,Minnesota Twins,121,142,3,5,8,690997,Nolan McLean,680573,Simeon Woods Richardson
+824127,2026-04-21,2026-04-21T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Baltimore Orioles,118,110,6,5,11,663460,Kris Bubic,669358,Shane Baz
+824690,2026-04-21,2026-04-21T23:40:00Z,17,Wrigley Field,Chicago Cubs,Philadelphia Phillies,112,143,7,4,11,684007,Shota Imanaga,666200,Jesús Luzardo
+822914,2026-04-21,2026-04-22T00:05:00Z,5325,Globe Life Field,Texas Rangers,Pittsburgh Pirates,140,134,5,1,6,677958,Kumar Rocker,669387,Carmen Mlodzinski
+824369,2026-04-21,2026-04-22T00:40:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,0,1,1,623474,Jimmy Herget,681190,Randy Vásquez
+824045,2026-04-21,2026-04-22T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Toronto Blue Jays,108,141,2,4,6,686799,Jack Kochanowicz,571578,Patrick Corbin
+823148,2026-04-21,2026-04-22T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Athletics,136,133,2,5,7,622491,Luis Castillo,682052,Jacob Lopez
+825099,2026-04-21,2026-04-22T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Chicago White Sox,109,145,5,11,16,518876,Merrill Kelly,680732,Sean Burke
+823236,2026-04-21,2026-04-22T01:45:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Dodgers,137,119,3,1,4,694738,Landen Roupp,808967,Yoshinobu Yamamoto
+823878,2026-04-22,2026-04-22T16:10:00Z,4169,loanDepot park,Miami Marlins,St. Louis Cardinals,146,138,4,1,5,676083,Janson Junk,681517,Kyle Leahy
+824449,2026-04-22,2026-04-22T17:10:00Z,5,Progressive Field,Cleveland Guardians,Houston Astros,114,117,0,2,2,676440,Tanner Bibee,663567,Peter Lambert
+822993,2026-04-22,2026-04-22T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Cincinnati Reds,139,113,6,1,7,607259,Nick Martinez,682227,Brandon Williamson
+824123,2026-04-22,2026-04-22T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Baltimore Orioles,118,110,6,8,14,608379,Michael Wacha,605135,Chris Bassitt
+824044,2026-04-22,2026-04-22T19:07:00Z,1,Angel Stadium,Los Angeles Angels,Toronto Blue Jays,108,141,7,3,10,667755,José Soriano,641778,Eric Lauer
+823147,2026-04-22,2026-04-22T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Athletics,136,133,5,4,9,669302,Logan Gilbert,650644,Aaron Civale
+824286,2026-04-22,2026-04-22T22:40:00Z,2394,Comerica Park,Detroit Tigers,Milwaukee Brewers,116,158,5,2,7,663554,Casey Mize,669084,DL Hall
+822748,2026-04-22,2026-04-22T22:45:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,6,8,14,641793,Zack Littell,800311,Didier Fuentes
+824774,2026-04-22,2026-04-22T22:45:00Z,3,Fenway Park,Boston Red Sox,New York Yankees,111,147,1,4,5,624133,Ranger Suarez,608331,Max Fried
+823641,2026-04-22,2026-04-22T23:10:00Z,3289,Citi Field,New York Mets,Minnesota Twins,121,142,3,2,5,605280,Clay Holmes,687570,Connor Prielipp
+824688,2026-04-22,2026-04-22T23:40:00Z,17,Wrigley Field,Chicago Cubs,Philadelphia Phillies,112,143,7,2,9,571510,Matthew Boyd,679775,Kyle Backhus
+822913,2026-04-22,2026-04-23T00:05:00Z,5325,Globe Life Field,Texas Rangers,Pittsburgh Pirates,140,134,4,8,12,683004,Jack Leiter,677952,Braxton Ashcraft
+824367,2026-04-22,2026-04-23T00:40:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,8,3,11,608372,Tomoyuki Sugano,621111,Walker Buehler
+825097,2026-04-22,2026-04-23T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Chicago White Sox,109,145,11,7,18,593958,Eduardo Rodriguez,641743,Anthony Kay
+823231,2026-04-22,2026-04-23T01:45:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Dodgers,137,119,3,0,3,641816,Tyler Mahle,660271,Shohei Ohtani
+822745,2026-04-23,2026-04-23T17:05:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,2,7,9,676917,Cade Cavalli,702275,JR Ritchie
+824288,2026-04-23,2026-04-23T17:10:00Z,2394,Comerica Park,Detroit Tigers,Milwaukee Brewers,116,158,5,4,9,669373,Tarik Skubal,687075,Brandon Sproat
+824689,2026-04-23,2026-04-23T18:20:00Z,17,Wrigley Field,Chicago Cubs,Philadelphia Phillies,112,143,8,7,15,665795,Edward Cabrera,650911,Cristopher Sánchez
+824368,2026-04-23,2026-04-23T19:10:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,8,10,18,663372,Ryan Feltner,663362,Matt Waldron
+825096,2026-04-23,2026-04-23T19:40:00Z,15,Chase Field,Arizona Diamondbacks,Chicago White Sox,109,145,1,4,5,647336,Michael Soroka,663436,Davis Martin
+823233,2026-04-23,2026-04-23T19:45:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Dodgers,137,119,0,3,3,657277,Logan Webb,607192,Tyler Glasnow
+824770,2026-04-23,2026-04-23T22:10:00Z,3,Fenway Park,Boston Red Sox,New York Yankees,111,147,2,4,6,801139,Payton Tolle,693645,Cam Schlittler
+823639,2026-04-23,2026-04-23T23:10:00Z,3289,Citi Field,New York Mets,Minnesota Twins,121,142,10,8,18,681035,Christian Scott,657746,Joe Ryan
+822912,2026-04-23,2026-04-24T00:05:00Z,5325,Globe Life Field,Texas Rangers,Pittsburgh Pirates,140,134,6,1,7,594798,Jacob deGrom,696149,Bubba Chandler
+824529,2026-04-24,2026-04-24T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Detroit Tigers,113,116,9,8,17,671096,Andrew Abbott,664285,Framber Valdez
+824854,2026-04-24,2026-04-24T23:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,110,111,10,3,13,687064,Brandon Young,678394,Brayan Bello
+822827,2026-04-24,2026-04-24T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Cleveland Guardians,141,114,6,8,14,453286,Max Scherzer,668909,Gavin Williams
+823638,2026-04-24,2026-04-24T23:10:00Z,3289,Citi Field,New York Mets,Colorado Rockies,121,115,3,4,7,642547,Freddy Peralta,547179,Michael Lorenzen
+822992,2026-04-24,2026-04-24T23:10:00Z,12,Tropicana Field,Tampa Bay Rays,Minnesota Twins,139,142,6,2,8,656876,Drew Rasmussen,671737,Taj Bradley
+824932,2026-04-24,2026-04-24T23:15:00Z,4705,Truist Park,Atlanta Braves,Philadelphia Phillies,144,143,5,3,8,656550,Grant Holmes,691725,Andrew Painter
+824124,2026-04-24,2026-04-24T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Los Angeles Angels,118,108,6,3,9,702070,Noah Cameron,579328,Yusei Kikuchi
+824611,2026-04-24,2026-04-24T23:40:00Z,4,Rate Field,Chicago White Sox,Washington Nationals,145,120,5,4,9,663542,Bryan Hudson,676571,PJ Poulin
+823800,2026-04-24,2026-04-24T23:40:00Z,32,American Family Field,Milwaukee Brewers,Pittsburgh Pirates,158,134,0,6,6,605540,Brandon Woodruff,694973,Paul Skenes
+822909,2026-04-24,2026-04-25T00:05:00Z,5325,Globe Life Field,Texas Rangers,Athletics,140,133,1,8,9,543135,Nathan Eovaldi,622663,Luis Severino
+824204,2026-04-24,2026-04-25T00:10:00Z,2392,Daikin Park,Houston Astros,New York Yankees,117,147,4,12,16,621121,Lance McCullers Jr.,701542,Will Warren
+823069,2026-04-24,2026-04-25T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Seattle Mariners,138,136,2,3,5,669467,Andre Pallante,669923,George Kirby
+823962,2026-04-24,2026-04-25T02:15:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Chicago Cubs,119,112,4,6,10,686218,Emmet Sheehan,592791,Jameson Taillon
+823232,2026-04-24,2026-04-25T02:15:00Z,2395,Oracle Park,San Francisco Giants,Miami Marlins,137,146,4,9,13,605288,Adrian Houser,645261,Sandy Alcantara
+824851,2026-04-25,2026-04-25T16:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,110,111,1,17,18,669432,Trevor Rogers,676979,Garrett Crochet
+823070,2026-04-25,2026-04-25T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Seattle Mariners,138,136,9,11,20,669461,Matthew Liberatore,693433,Bryan Woo
+822826,2026-04-25,2026-04-25T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Cleveland Guardians,141,114,5,3,8,592332,Kevin Gausman,676282,Joey Cantillo
+823229,2026-04-25,2026-04-25T20:05:00Z,2395,Oracle Park,San Francisco Giants,Miami Marlins,137,146,6,2,8,592662,Robbie Ray,691587,Eury Pérez
+822989,2026-04-25,2026-04-25T20:10:00Z,12,Tropicana Field,Tampa Bay Rays,Minnesota Twins,139,142,6,1,7,663556,Shane McClanahan,641927,Bailey Ober
+824613,2026-04-25,2026-04-25T20:10:00Z,4,Rate Field,Chicago White Sox,Washington Nationals,145,120,3,6,9,702273,Noah Schultz,663623,Jake Irvin
+825093,2026-04-25,2026-04-25T22:05:00Z,5340,Estadio Alfredo Harp Helu,Arizona Diamondbacks,San Diego Padres,109,135,4,6,10,668678,Zac Gallen,608566,Germán Márquez
+822910,2026-04-25,2026-04-25T23:05:00Z,5325,Globe Life Field,Texas Rangers,Athletics,140,133,4,3,7,669022,MacKenzie Gore,605488,Jeffrey Springs
+824121,2026-04-25,2026-04-25T23:10:00Z,7,Kauffman Stadium,Kansas City Royals,Los Angeles Angels,118,108,12,1,13,666142,Cole Ragans,700712,Walbert Ureña
+824203,2026-04-25,2026-04-25T23:10:00Z,2392,Daikin Park,Houston Astros,New York Yankees,117,147,3,8,11,681347,Mike Burrows,677960,Ryan Weathers
+823799,2026-04-25,2026-04-25T23:10:00Z,32,American Family Field,Milwaukee Brewers,Pittsburgh Pirates,158,134,3,6,9,694819,Jacob Misiorowski,656605,Mitch Keller
+824527,2026-04-25,2026-04-25T23:15:00Z,2602,Great American Ball Park,Cincinnati Reds,Detroit Tigers,113,116,9,2,11,663903,Brady Singer,656427,Jack Flaherty
+823960,2026-04-25,2026-04-25T23:15:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Chicago Cubs,119,112,12,4,16,808963,Roki Sasaki,607067,Colin Rea
+824933,2026-04-25,2026-04-25T23:15:00Z,4705,Truist Park,Atlanta Braves,Philadelphia Phillies,144,143,5,8,13,693821,Bryce Elder,554430,Zack Wheeler
+824852,2026-04-26,2026-04-26T17:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,110,111,3,5,8,680694,Kyle Bradish,813349,Connelly Early
+824934,2026-04-26,2026-04-26T17:35:00Z,4705,Truist Park,Atlanta Braves,Philadelphia Phillies,144,143,6,2,8,519242,Chris Sale,605400,Aaron Nola
+822824,2026-04-26,2026-04-26T17:37:00Z,14,Rogers Centre,Toronto Blue Jays,Cleveland Guardians,141,114,4,2,6,571578,Patrick Corbin,677944,Slade Cecconi
+824528,2026-04-26,2026-04-26T17:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Detroit Tigers,113,116,3,8,11,695076,Rhett Lowder,672456,Keider Montero
+823635,2026-04-26,2026-04-26T17:40:00Z,3289,Citi Field,New York Mets,Colorado Rockies,121,115,1,3,4,690997,Nolan McLean,500779,Jose Quintana
+823637,2026-04-26,2026-04-26T17:45:00Z,3289,Citi Field,New York Mets,Colorado Rockies,121,115,0,3,3,673540,Kodai Senga,801403,Chase Dollander
+822991,2026-04-26,2026-04-26T17:40:00Z,12,Tropicana Field,Tampa Bay Rays,Minnesota Twins,139,142,4,2,6,643377,Griffin Jax,680573,Simeon Woods Richardson
+824612,2026-04-26,2026-04-26T18:10:00Z,4,Rate Field,Chicago White Sox,Washington Nationals,145,120,1,2,3,663542,Bryan Hudson,656492,Foster Griffin
+824202,2026-04-26,2026-04-26T18:10:00Z,2392,Daikin Park,Houston Astros,New York Yankees,117,147,7,4,11,681293,Spencer Arrighetti,661563,Luis Gil
+823797,2026-04-26,2026-04-26T18:10:00Z,32,American Family Field,Milwaukee Brewers,Pittsburgh Pirates,158,134,5,0,5,690986,Kyle Harrison,669387,Carmen Mlodzinski
+823068,2026-04-26,2026-04-26T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Seattle Mariners,138,136,2,3,5,700241,Michael McGreevy,676106,Emerson Hancock
+822911,2026-04-26,2026-04-26T18:35:00Z,5325,Globe Life Field,Texas Rangers,Athletics,140,133,1,2,3,677958,Kumar Rocker,669372,J.T. Ginn
+825094,2026-04-26,2026-04-26T20:05:00Z,5340,Estadio Alfredo Harp Helu,Arizona Diamondbacks,San Diego Padres,109,135,12,7,19,669194,Ryne Nelson,650633,Michael King
+823230,2026-04-26,2026-04-26T20:05:00Z,2395,Oracle Park,San Francisco Giants,Miami Marlins,137,146,6,3,9,694738,Landen Roupp,676974,Max Meyer
+824122,2026-04-26,2026-04-26T20:10:00Z,7,Kauffman Stadium,Kansas City Royals,Los Angeles Angels,118,108,11,9,20,607625,Seth Lugo,672282,Reid Detmers
+823959,2026-04-26,2026-04-26T20:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Chicago Cubs,119,112,6,0,6,680736,Justin Wrobleski,684007,Shota Imanaga
+824446,2026-04-27,2026-04-27T22:10:00Z,5,Progressive Field,Cleveland Guardians,Tampa Bay Rays,114,139,2,3,5,800048,Parker Messick,571927,Steven Matz
+823395,2026-04-27,2026-04-27T22:40:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,2,4,6,682254,Mason Montgomery,669160,Dustin May
+822825,2026-04-27,2026-04-27T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Boston Red Sox,141,111,0,5,5,656302,Dylan Cease,624133,Ranger Suarez
+823719,2026-04-27,2026-04-27T23:40:00Z,3312,Target Field,Minnesota Twins,Seattle Mariners,142,136,11,4,15,687570,Connor Prielipp,622491,Luis Castillo
+824609,2026-04-27,2026-04-27T23:40:00Z,4,Rate Field,Chicago White Sox,Los Angeles Angels,145,108,8,7,15,641743,Anthony Kay,686799,Jack Kochanowicz
+822906,2026-04-27,2026-04-28T00:05:00Z,5325,Globe Life Field,Texas Rangers,New York Yankees,140,147,2,4,6,683004,Jack Leiter,608331,Max Fried
+823311,2026-04-27,2026-04-28T01:40:00Z,2680,Petco Park,San Diego Padres,Chicago Cubs,135,112,9,7,16,681190,Randy Vásquez,571510,Matthew Boyd
+823961,2026-04-27,2026-04-28T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Miami Marlins,119,146,5,4,9,808967,Yoshinobu Yamamoto,663978,Chris Paddack
+824447,2026-04-28,2026-04-28T22:10:00Z,5,Progressive Field,Cleveland Guardians,Tampa Bay Rays,114,139,0,1,1,676440,Tanner Bibee,607259,Nick Martinez
+824849,2026-04-28,2026-04-28T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Houston Astros,110,117,5,3,8,669358,Shane Baz,678906,Kai-Wei Teng
+824526,2026-04-28,2026-04-28T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Colorado Rockies,113,115,7,2,9,695505,Chase Burns,607536,Kyle Freeland
+823390,2026-04-28,2026-04-28T22:40:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,7,11,18,677952,Braxton Ashcraft,681517,Kyle Leahy
+823473,2026-04-28,2026-04-28T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,San Francisco Giants,143,137,7,0,7,666200,Jesús Luzardo,641816,Tyler Mahle
+822823,2026-04-28,2026-04-28T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Boston Red Sox,141,111,3,0,3,702056,Trey Yesavage,801139,Payton Tolle
+823636,2026-04-28,2026-04-28T23:10:00Z,3289,Citi Field,New York Mets,Washington Nationals,121,120,8,0,8,605280,Clay Holmes,641793,Zack Littell
+824931,2026-04-28,2026-04-28T23:15:00Z,4705,Truist Park,Atlanta Braves,Detroit Tigers,144,116,5,2,7,527048,Martín Pérez,663554,Casey Mize
+823716,2026-04-28,2026-04-28T23:40:00Z,3312,Target Field,Minnesota Twins,Seattle Mariners,142,136,1,7,8,657746,Joe Ryan,669302,Logan Gilbert
+824610,2026-04-28,2026-04-28T23:40:00Z,4,Rate Field,Chicago White Sox,Los Angeles Angels,145,108,5,2,7,663436,Davis Martin,667755,José Soriano
+823798,2026-04-28,2026-04-28T23:40:00Z,32,American Family Field,Milwaukee Brewers,Arizona Diamondbacks,158,109,13,2,15,694477,Chad Patrick,518876,Merrill Kelly
+822908,2026-04-28,2026-04-29T00:05:00Z,5325,Globe Life Field,Texas Rangers,New York Yankees,140,147,2,3,5,594798,Jacob deGrom,693645,Cam Schlittler
+825017,2026-04-28,2026-04-29T01:40:00Z,2529,Sutter Health Park,Athletics,Kansas City Royals,133,118,1,4,5,650644,Aaron Civale,663460,Kris Bubic
+823310,2026-04-28,2026-04-29T01:40:00Z,2680,Petco Park,San Diego Padres,Chicago Cubs,135,112,3,8,11,621111,Walker Buehler,665795,Edward Cabrera
+823956,2026-04-28,2026-04-29T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Miami Marlins,119,146,1,2,3,660271,Shohei Ohtani,676083,Janson Junk
+824445,2026-04-29,2026-04-29T17:10:00Z,5,Progressive Field,Cleveland Guardians,Tampa Bay Rays,114,139,3,1,4,668909,Gavin Williams,656876,Drew Rasmussen
+824608,2026-04-29,2026-04-29T17:10:00Z,4,Rate Field,Chicago White Sox,Los Angeles Angels,145,108,3,2,5,607200,Erick Fedde,579328,Yusei Kikuchi
+823717,2026-04-29,2026-04-29T17:40:00Z,3312,Target Field,Minnesota Twins,Seattle Mariners,142,136,3,5,8,671737,Taj Bradley,669923,George Kirby
+822907,2026-04-29,2026-04-29T18:35:00Z,5325,Globe Life Field,Texas Rangers,New York Yankees,140,147,3,0,3,543135,Nathan Eovaldi,695684,Elmer Rodríguez
+822821,2026-04-29,2026-04-29T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Boston Red Sox,141,111,8,1,9,641778,Eric Lauer,678394,Brayan Bello
+823958,2026-04-29,2026-04-29T19:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Miami Marlins,119,146,2,3,5,607192,Tyler Glasnow,645261,Sandy Alcantara
+823312,2026-04-29,2026-04-29T20:10:00Z,2680,Petco Park,San Diego Padres,Chicago Cubs,135,112,4,5,9,663362,Matt Waldron,592791,Jameson Taillon
+824525,2026-04-29,2026-04-29T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Colorado Rockies,113,115,2,13,15,682227,Brandon Williamson,608372,Tomoyuki Sugano
+823392,2026-04-29,2026-04-29T22:40:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,4,5,9,696149,Bubba Chandler,669467,Andre Pallante
+823633,2026-04-29,2026-04-29T23:10:00Z,3289,Citi Field,New York Mets,Washington Nationals,121,120,2,14,16,656849,David Peterson,676917,Cade Cavalli
+824930,2026-04-29,2026-04-29T23:15:00Z,4705,Truist Park,Atlanta Braves,Detroit Tigers,144,116,4,3,7,702275,JR Ritchie,669373,Tarik Skubal
+823796,2026-04-29,2026-04-29T23:40:00Z,32,American Family Field,Milwaukee Brewers,Arizona Diamondbacks,158,109,2,6,8,687075,Brandon Sproat,593958,Eduardo Rodriguez
+825015,2026-04-29,2026-04-30T01:40:00Z,2529,Sutter Health Park,Athletics,Kansas City Royals,133,118,5,2,7,622663,Luis Severino,608379,Michael Wacha
+824929,2026-04-30,2026-04-30T16:15:00Z,4705,Truist Park,Atlanta Braves,Detroit Tigers,144,116,2,5,7,693821,Bryce Elder,664285,Framber Valdez
+824848,2026-04-30,2026-04-30T16:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Houston Astros,110,117,10,3,13,605135,Chris Bassitt,663567,Peter Lambert
+824850,2026-04-30,2026-04-30T16:40:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Houston Astros,110,117,5,11,16,687064,Brandon Young,621121,Lance McCullers Jr.
+823391,2026-04-30,2026-04-30T16:35:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,5,10,15,694973,Paul Skenes,690928,Hunter Dobbins
+823472,2026-04-30,2026-04-30T16:35:00Z,2681,Citizens Bank Park,Philadelphia Phillies,San Francisco Giants,143,137,3,2,5,650911,Cristopher Sánchez,657277,Logan Webb
+823471,2026-04-30,2026-04-30T21:35:00Z,2681,Citizens Bank Park,Philadelphia Phillies,San Francisco Giants,143,137,6,5,11,641835,Tim Mayza,605288,Adrian Houser
+824524,2026-04-30,2026-04-30T16:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Colorado Rockies,113,115,6,4,10,671096,Andrew Abbott,547179,Michael Lorenzen
+823634,2026-04-30,2026-04-30T17:10:00Z,3289,Citi Field,New York Mets,Washington Nationals,121,120,4,5,9,642547,Freddy Peralta,571945,Miles Mikolas
+823795,2026-04-30,2026-04-30T17:40:00Z,32,American Family Field,Milwaukee Brewers,Arizona Diamondbacks,158,109,13,1,14,605540,Brandon Woodruff,647336,Michael Soroka
+825016,2026-04-30,2026-04-30T19:05:00Z,2529,Sutter Health Park,Athletics,Kansas City Royals,133,118,6,3,9,605488,Jeffrey Springs,702070,Noah Cameron
+823714,2026-04-30,2026-04-30T23:40:00Z,3312,Target Field,Minnesota Twins,Toronto Blue Jays,142,141,7,1,8,641927,Bailey Ober,592332,Kevin Gausman
+824686,2026-05-01,2026-05-01T18:20:00Z,17,Wrigley Field,Chicago Cubs,Arizona Diamondbacks,112,109,6,5,11,607067,Colin Rea,668678,Zac Gallen
+824287,2026-05-01,2026-05-01T22:40:00Z,2394,Comerica Park,Detroit Tigers,Texas Rangers,116,140,4,5,9,656427,Jack Flaherty,669022,MacKenzie Gore
+823389,2026-05-01,2026-05-01T22:45:00Z,31,PNC Park,Pittsburgh Pirates,Cincinnati Reds,134,113,9,1,10,656605,Mitch Keller,663903,Brady Singer
+822744,2026-05-01,2026-05-01T22:45:00Z,3309,Nationals Park,Washington Nationals,Milwaukee Brewers,120,158,1,6,7,663623,Jake Irvin,694819,Jacob Misiorowski
+823557,2026-05-01,2026-05-01T23:05:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,7,2,9,701542,Will Warren,700249,Cade Povich
+824772,2026-05-01,2026-05-01T23:10:00Z,3,Fenway Park,Boston Red Sox,Houston Astros,111,117,3,1,4,687562,Jake Bennett,681347,Mike Burrows
+822990,2026-05-01,2026-05-01T23:10:00Z,12,Tropicana Field,Tampa Bay Rays,San Francisco Giants,139,137,3,0,3,663556,Shane McClanahan,592662,Robbie Ray
+823877,2026-05-01,2026-05-01T23:10:00Z,4169,loanDepot park,Miami Marlins,Philadelphia Phillies,146,143,5,6,11,691587,Eury Pérez,554430,Zack Wheeler
+823713,2026-05-01,2026-05-02T00:10:00Z,3312,Target Field,Minnesota Twins,Toronto Blue Jays,142,141,3,7,10,680573,Simeon Woods Richardson,571578,Patrick Corbin
+823066,2026-05-01,2026-05-02T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Los Angeles Dodgers,138,119,7,2,9,669461,Matthew Liberatore,686218,Emmet Sheehan
+824366,2026-05-01,2026-05-02T00:40:00Z,19,Coors Field,Colorado Rockies,Atlanta Braves,115,144,6,8,14,500779,Jose Quintana,656550,Grant Holmes
+824041,2026-05-01,2026-05-02T01:38:00Z,1,Angel Stadium,Los Angeles Angels,New York Mets,108,121,3,4,7,700712,Walbert Ureña,681035,Christian Scott
+825012,2026-05-01,2026-05-02T01:40:00Z,2529,Sutter Health Park,Athletics,Cleveland Guardians,133,114,5,8,13,669372,J.T. Ginn,676282,Joey Cantillo
+823309,2026-05-01,2026-05-02T01:40:00Z,2680,Petco Park,San Diego Padres,Chicago White Sox,135,145,2,8,10,608566,Germán Márquez,702273,Noah Schultz
+823146,2026-05-01,2026-05-02T01:45:00Z,680,T-Mobile Park,Seattle Mariners,Kansas City Royals,136,118,6,7,13,693433,Bryan Woo,666142,Cole Ragans
+823554,2026-05-02,2026-05-02T17:35:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,9,4,13,677960,Ryan Weathers,680694,Kyle Bradish
+823715,2026-05-02,2026-05-02T18:10:00Z,3312,Target Field,Minnesota Twins,Toronto Blue Jays,142,141,4,11,15,687570,Connor Prielipp,656302,Dylan Cease
+824685,2026-05-02,2026-05-02T18:20:00Z,17,Wrigley Field,Chicago Cubs,Arizona Diamondbacks,112,109,2,0,2,684007,Shota Imanaga,669194,Ryne Nelson
+825014,2026-05-02,2026-05-02T20:05:00Z,2529,Sutter Health Park,Athletics,Cleveland Guardians,133,114,6,14,20,682052,Jacob Lopez,677944,Slade Cecconi
+823388,2026-05-02,2026-05-02T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Cincinnati Reds,134,113,17,7,24,669387,Carmen Mlodzinski,695076,Rhett Lowder
+822746,2026-05-02,2026-05-02T20:05:00Z,3309,Nationals Park,Washington Nationals,Milwaukee Brewers,120,158,1,4,5,656492,Foster Griffin,690986,Kyle Harrison
+824771,2026-05-02,2026-05-02T20:10:00Z,3,Fenway Park,Boston Red Sox,Houston Astros,111,117,3,6,9,813349,Connelly Early,681293,Spencer Arrighetti
+823876,2026-05-02,2026-05-02T20:10:00Z,4169,loanDepot park,Miami Marlins,Philadelphia Phillies,146,143,4,0,4,676974,Max Meyer,691725,Andrew Painter
+822988,2026-05-02,2026-05-02T22:10:00Z,12,Tropicana Field,Tampa Bay Rays,San Francisco Giants,139,137,5,1,6,643377,Griffin Jax,694738,Landen Roupp
+823067,2026-05-02,2026-05-02T23:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Los Angeles Dodgers,138,119,3,2,5,700241,Michael McGreevy,808963,Roki Sasaki
+824284,2026-05-02,2026-05-02T23:15:00Z,2394,Comerica Park,Detroit Tigers,Texas Rangers,116,140,5,1,6,672456,Keider Montero,677958,Kumar Rocker
+824365,2026-05-02,2026-05-03T00:10:00Z,19,Coors Field,Colorado Rockies,Atlanta Braves,115,144,1,9,10,657514,Brennan Bernardino,519242,Chris Sale
+823308,2026-05-02,2026-05-03T00:40:00Z,2680,Petco Park,San Diego Padres,Chicago White Sox,135,145,0,4,4,650633,Michael King,680732,Sean Burke
+824042,2026-05-02,2026-05-03T01:38:00Z,1,Angel Stadium,Los Angeles Angels,New York Mets,108,121,4,3,7,672282,Reid Detmers,690997,Nolan McLean
+823144,2026-05-02,2026-05-03T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Kansas City Royals,136,118,2,3,5,676106,Emerson Hancock,607625,Seth Lugo
+823711,2026-05-03,2026-05-03T16:45:00Z,3312,Target Field,Minnesota Twins,Toronto Blue Jays,142,141,4,3,7,657746,Joe Ryan,702056,Trey Yesavage
+824769,2026-05-03,2026-05-03T17:35:00Z,3,Fenway Park,Boston Red Sox,Houston Astros,111,117,1,3,4,624133,Ranger Suarez,675989,Cody Bolton
+823387,2026-05-03,2026-05-03T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Cincinnati Reds,134,113,1,0,1,677952,Braxton Ashcraft,695505,Chase Burns
+823555,2026-05-03,2026-05-03T17:35:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,11,3,14,608331,Max Fried,694346,Trey Gibson
+822742,2026-05-03,2026-05-03T17:35:00Z,3309,Nationals Park,Washington Nationals,Milwaukee Brewers,120,158,3,2,5,676571,PJ Poulin,701656,Logan Henderson
+822987,2026-05-03,2026-05-03T17:40:00Z,12,Tropicana Field,Tampa Bay Rays,San Francisco Giants,139,137,2,1,3,571927,Steven Matz,641816,Tyler Mahle
+823875,2026-05-03,2026-05-03T17:40:00Z,4169,loanDepot park,Miami Marlins,Philadelphia Phillies,146,143,2,7,9,663978,Chris Paddack,666200,Jesús Luzardo
+823065,2026-05-03,2026-05-03T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Los Angeles Dodgers,138,119,1,4,5,669160,Dustin May,680736,Justin Wrobleski
+824687,2026-05-03,2026-05-03T18:20:00Z,17,Wrigley Field,Chicago Cubs,Arizona Diamondbacks,112,109,8,4,12,571510,Matthew Boyd,518876,Merrill Kelly
+824364,2026-05-03,2026-05-03T19:10:00Z,19,Coors Field,Colorado Rockies,Atlanta Braves,115,144,6,11,17,607536,Kyle Freeland,675911,Spencer Strider
+825013,2026-05-03,2026-05-03T20:05:00Z,2529,Sutter Health Park,Athletics,Cleveland Guardians,133,114,7,1,8,650644,Aaron Civale,800048,Parker Messick
+824043,2026-05-03,2026-05-03T20:07:00Z,1,Angel Stadium,Los Angeles Angels,New York Mets,108,121,1,5,6,686799,Jack Kochanowicz,605280,Clay Holmes
+823145,2026-05-03,2026-05-03T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Kansas City Royals,136,118,1,4,5,622491,Luis Castillo,663460,Kris Bubic
+823307,2026-05-03,2026-05-03T20:10:00Z,2680,Petco Park,San Diego Padres,Chicago White Sox,135,145,4,3,7,656288,Griffin Canning,641743,Anthony Kay
+824285,2026-05-03,2026-05-03T23:20:00Z,2394,Comerica Park,Detroit Tigers,Texas Rangers,116,140,7,1,8,663947,Tyler Holton,683004,Jack Leiter
+824363,2026-05-04,2026-05-04T21:40:00Z,19,Coors Field,Colorado Rockies,New York Mets,115,121,2,4,6,608372,Tomoyuki Sugano,623211,Huascar Brazobán
+824283,2026-05-04,2026-05-04T22:10:00Z,2394,Comerica Park,Detroit Tigers,Boston Red Sox,116,111,4,5,9,663947,Tyler Holton,801139,Payton Tolle
+822984,2026-05-04,2026-05-04T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,5,1,6,607259,Nick Martinez,641778,Eric Lauer
+823874,2026-05-04,2026-05-04T22:40:00Z,4169,loanDepot park,Miami Marlins,Philadelphia Phillies,146,143,0,1,1,676083,Janson Junk,605400,Aaron Nola
+823552,2026-05-04,2026-05-04T23:05:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,12,1,13,693645,Cam Schlittler,669358,Shane Baz
+824684,2026-05-04,2026-05-04T23:10:00Z,17,Wrigley Field,Chicago Cubs,Cincinnati Reds,112,113,5,4,9,665795,Edward Cabrera,695534,Chase Petty
+824120,2026-05-04,2026-05-04T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Cleveland Guardians,118,114,6,2,8,608379,Michael Wacha,676440,Tanner Bibee
+823064,2026-05-04,2026-05-04T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,138,158,6,3,9,681517,Kyle Leahy,694477,Chad Patrick
+824201,2026-05-04,2026-05-05T00:10:00Z,2392,Daikin Park,Houston Astros,Los Angeles Dodgers,117,119,3,8,11,595345,Steven Okert,808967,Yoshinobu Yamamoto
+824039,2026-05-04,2026-05-05T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Chicago White Sox,108,145,0,6,6,667755,José Soriano,663436,Davis Martin
+823143,2026-05-04,2026-05-05T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Atlanta Braves,136,144,5,4,9,669302,Logan Gilbert,702275,JR Ritchie
+823228,2026-05-04,2026-05-05T01:45:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,3,2,5,686790,Trevor McDonald,681190,Randy Vásquez
+824281,2026-05-05,2026-05-05T22:40:00Z,2394,Comerica Park,Detroit Tigers,Boston Red Sox,116,111,3,10,13,664285,Framber Valdez,663558,Jovani Morán
+822986,2026-05-05,2026-05-05T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,4,3,7,656876,Drew Rasmussen,592332,Kevin Gausman
+823469,2026-05-05,2026-05-05T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Athletics,143,133,9,1,10,650911,Cristopher Sánchez,622663,Luis Severino
+823873,2026-05-05,2026-05-05T22:40:00Z,4169,loanDepot park,Miami Marlins,Baltimore Orioles,146,110,7,9,16,645261,Sandy Alcantara,605135,Chris Bassitt
+822743,2026-05-05,2026-05-05T22:45:00Z,3309,Nationals Park,Washington Nationals,Minnesota Twins,120,142,3,11,14,676917,Cade Cavalli,671737,Taj Bradley
+823553,2026-05-05,2026-05-05T23:05:00Z,3313,Yankee Stadium,New York Yankees,Texas Rangers,147,140,7,4,11,695684,Elmer Rodríguez,594798,Jacob deGrom
+824682,2026-05-05,2026-05-05T23:40:00Z,17,Wrigley Field,Chicago Cubs,Cincinnati Reds,112,113,3,2,5,592791,Jameson Taillon,671096,Andrew Abbott
+824119,2026-05-05,2026-05-05T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Cleveland Guardians,118,114,5,3,8,663568,Stephen Kolek,668909,Gavin Williams
+824200,2026-05-05,2026-05-06T00:10:00Z,2392,Daikin Park,Houston Astros,Los Angeles Dodgers,117,119,2,1,3,663567,Peter Lambert,660271,Shohei Ohtani
+824040,2026-05-05,2026-05-06T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Chicago White Sox,108,145,4,3,7,691951,Sam Aldegheri,607200,Erick Fedde
+825092,2026-05-05,2026-05-06T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Pittsburgh Pirates,109,134,9,0,9,593958,Eduardo Rodriguez,696149,Bubba Chandler
+823142,2026-05-05,2026-05-06T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Atlanta Braves,136,144,2,3,5,669923,George Kirby,693821,Bryce Elder
+823227,2026-05-05,2026-05-06T01:45:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,5,10,15,657277,Logan Webb,621111,Walker Buehler
+822985,2026-05-06,2026-05-06T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,3,0,3,663556,Shane McClanahan,571578,Patrick Corbin
+823063,2026-05-06,2026-05-06T17:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,138,158,2,6,8,669467,Andre Pallante,687075,Brandon Sproat
+824198,2026-05-06,2026-05-06T18:10:00Z,2392,Daikin Park,Houston Astros,Los Angeles Dodgers,117,119,2,12,14,621121,Lance McCullers Jr.,607192,Tyler Glasnow
+823226,2026-05-06,2026-05-06T19:45:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,1,5,6,605288,Adrian Houser,699134,Bradgley Rodriguez
+824036,2026-05-06,2026-05-06T20:07:00Z,1,Angel Stadium,Los Angeles Angels,Chicago White Sox,108,145,8,2,10,700712,Walbert Ureña,702273,Noah Schultz
+823141,2026-05-06,2026-05-06T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Atlanta Braves,136,144,3,1,4,693433,Bryan Woo,527048,Martín Pérez
+824282,2026-05-06,2026-05-06T22:40:00Z,2394,Comerica Park,Detroit Tigers,Boston Red Sox,116,111,0,4,4,656427,Jack Flaherty,543243,Sonny Gray
+823470,2026-05-06,2026-05-06T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Athletics,143,133,6,3,9,554430,Zack Wheeler,605488,Jeffrey Springs
+823872,2026-05-06,2026-05-06T22:40:00Z,4169,loanDepot park,Miami Marlins,Baltimore Orioles,146,110,4,7,11,691587,Eury Pérez,687064,Brandon Young
+822740,2026-05-06,2026-05-06T22:45:00Z,3309,Nationals Park,Washington Nationals,Minnesota Twins,120,142,15,2,17,571945,Miles Mikolas,641927,Bailey Ober
+823550,2026-05-06,2026-05-06T23:05:00Z,3313,Yankee Stadium,New York Yankees,Texas Rangers,147,140,1,6,7,701542,Will Warren,543135,Nathan Eovaldi
+824683,2026-05-06,2026-05-06T23:40:00Z,17,Wrigley Field,Chicago Cubs,Cincinnati Reds,112,113,7,6,13,607067,Colin Rea,663903,Brady Singer
+824118,2026-05-06,2026-05-06T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Cleveland Guardians,118,114,1,3,4,666142,Cole Ragans,676282,Joey Cantillo
+824361,2026-05-06,2026-05-07T01:20:00Z,19,Coors Field,Colorado Rockies,New York Mets,115,121,5,10,15,547179,Michael Lorenzen,642547,Freddy Peralta
+825091,2026-05-06,2026-05-07T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Pittsburgh Pirates,109,134,0,1,1,647336,Michael Soroka,694973,Paul Skenes
+823551,2026-05-07,2026-05-07T16:35:00Z,3313,Yankee Stadium,New York Yankees,Texas Rangers,147,140,9,2,11,621112,Paul Blackburn,669022,MacKenzie Gore
+822741,2026-05-07,2026-05-07T17:05:00Z,3309,Nationals Park,Washington Nationals,Minnesota Twins,120,142,7,5,12,663623,Jake Irvin,680573,Simeon Woods Richardson
+824117,2026-05-07,2026-05-07T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Cleveland Guardians,118,114,5,8,13,607625,Seth Lugo,677944,Slade Cecconi
+824681,2026-05-07,2026-05-07T18:20:00Z,17,Wrigley Field,Chicago Cubs,Cincinnati Reds,112,113,8,3,11,684007,Shota Imanaga,695076,Rhett Lowder
+824362,2026-05-07,2026-05-07T19:10:00Z,19,Coors Field,Colorado Rockies,New York Mets,115,121,6,2,8,500779,Jose Quintana,681035,Christian Scott
+825090,2026-05-07,2026-05-07T19:40:00Z,15,Chase Field,Arizona Diamondbacks,Pittsburgh Pirates,109,134,2,4,6,668678,Zac Gallen,656605,Mitch Keller
+823467,2026-05-07,2026-05-07T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Athletics,143,133,1,12,13,691725,Andrew Painter,669372,J.T. Ginn
+823870,2026-05-07,2026-05-07T22:40:00Z,4169,loanDepot park,Miami Marlins,Baltimore Orioles,146,110,4,3,7,676974,Max Meyer,700249,Cade Povich
+824767,2026-05-07,2026-05-07T23:10:00Z,3,Fenway Park,Boston Red Sox,Tampa Bay Rays,111,139,4,8,12,687562,Jake Bennett,643377,Griffin Jax
+823306,2026-05-07,2026-05-08T02:10:00Z,2680,Petco Park,San Diego Padres,St. Louis Cardinals,135,138,1,2,3,650633,Michael King,669461,Matthew Liberatore
+824522,2026-05-08,2026-05-08T22:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Houston Astros,113,117,0,10,10,666157,Nick Lodolo,681347,Mike Burrows
+823466,2026-05-08,2026-05-08T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Colorado Rockies,143,115,7,9,16,666200,Jesús Luzardo,801403,Chase Dollander
+824846,2026-05-08,2026-05-08T23:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Athletics,110,133,3,4,7,680694,Kyle Bradish,682052,Jacob Lopez
+822822,2026-05-08,2026-05-08T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Los Angeles Angels,141,108,2,0,2,656302,Dylan Cease,672282,Reid Detmers
+824768,2026-05-08,2026-05-08T23:10:00Z,3,Fenway Park,Boston Red Sox,Tampa Bay Rays,111,139,2,0,2,813349,Connelly Early,669947,Jesse Scholtens
+823871,2026-05-08,2026-05-08T23:10:00Z,4169,loanDepot park,Miami Marlins,Washington Nationals,146,120,2,3,5,702281,Robby Snelling,656492,Foster Griffin
+824443,2026-05-08,2026-05-08T23:15:00Z,5,Progressive Field,Cleveland Guardians,Minnesota Twins,114,142,6,4,10,800048,Parker Messick,687570,Connor Prielipp
+824116,2026-05-08,2026-05-08T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Detroit Tigers,118,116,4,3,7,663460,Kris Bubic,672456,Keider Montero
+824607,2026-05-08,2026-05-08T23:40:00Z,4,Rate Field,Chicago White Sox,Seattle Mariners,145,136,8,12,20,680732,Sean Burke,676106,Emerson Hancock
+823794,2026-05-08,2026-05-08T23:40:00Z,32,American Family Field,Milwaukee Brewers,New York Yankees,158,147,6,0,6,694819,Jacob Misiorowski,608331,Max Fried
+822904,2026-05-08,2026-05-09T00:05:00Z,5325,Globe Life Field,Texas Rangers,Chicago Cubs,140,112,1,7,8,677958,Kumar Rocker,676962,Ben Brown
+825088,2026-05-08,2026-05-09T01:40:00Z,15,Chase Field,Arizona Diamondbacks,New York Mets,109,121,1,3,4,669194,Ryne Nelson,690997,Nolan McLean
+823303,2026-05-08,2026-05-09T01:45:00Z,2680,Petco Park,San Diego Padres,St. Louis Cardinals,135,138,0,6,6,656288,Griffin Canning,700241,Michael McGreevy
+823957,2026-05-08,2026-05-09T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Atlanta Braves,119,144,3,1,4,686218,Emmet Sheehan,519242,Chris Sale
+823225,2026-05-08,2026-05-09T02:15:00Z,2395,Oracle Park,San Francisco Giants,Pittsburgh Pirates,137,134,5,2,7,592662,Robbie Ray,669387,Carmen Mlodzinski
+822820,2026-05-09,2026-05-09T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Los Angeles Angels,141,108,14,1,15,702056,Trey Yesavage,686799,Jack Kochanowicz
+824847,2026-05-09,2026-05-09T20:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Athletics,110,133,2,6,8,669358,Shane Baz,650644,Aaron Civale
+824523,2026-05-09,2026-05-09T20:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Houston Astros,113,117,3,1,4,695505,Chase Burns,681293,Spencer Arrighetti
+823869,2026-05-09,2026-05-09T20:10:00Z,4169,loanDepot park,Miami Marlins,Washington Nationals,146,120,8,7,15,676083,Janson Junk,663992,Richard Lovelady
+823468,2026-05-09,2026-05-09T22:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Colorado Rockies,143,115,9,3,12,605400,Aaron Nola,607536,Kyle Freeland
+824444,2026-05-09,2026-05-09T22:10:00Z,5,Progressive Field,Cleveland Guardians,Minnesota Twins,114,142,1,2,3,676440,Tanner Bibee,657746,Joe Ryan
+822905,2026-05-09,2026-05-09T23:05:00Z,5325,Globe Life Field,Texas Rangers,Chicago Cubs,140,112,6,0,6,683004,Jack Leiter,665795,Edward Cabrera
+824115,2026-05-09,2026-05-09T23:10:00Z,7,Kauffman Stadium,Kansas City Royals,Detroit Tigers,118,116,5,1,6,608379,Michael Wacha,572143,Burch Smith
+824606,2026-05-09,2026-05-09T23:10:00Z,4,Rate Field,Chicago White Sox,Seattle Mariners,145,136,6,1,7,641743,Anthony Kay,622491,Luis Castillo
+823792,2026-05-09,2026-05-09T23:10:00Z,32,American Family Field,Milwaukee Brewers,New York Yankees,158,147,4,3,7,690986,Kyle Harrison,693645,Cam Schlittler
+825089,2026-05-09,2026-05-09T23:15:00Z,15,Chase Field,Arizona Diamondbacks,New York Mets,109,121,2,1,3,518876,Merrill Kelly,605280,Clay Holmes
+823304,2026-05-09,2026-05-09T23:15:00Z,2680,Petco Park,San Diego Padres,St. Louis Cardinals,135,138,4,2,6,681190,Randy Vásquez,669160,Dustin May
+823224,2026-05-09,2026-05-10T01:05:00Z,2395,Oracle Park,San Francisco Giants,Pittsburgh Pirates,137,134,3,13,16,694738,Landen Roupp,677952,Braxton Ashcraft
+823955,2026-05-09,2026-05-10T01:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Atlanta Braves,119,144,2,7,9,605483,Blake Snell,675911,Spencer Strider
+823868,2026-05-10,2026-05-10T16:15:00Z,4169,loanDepot park,Miami Marlins,Washington Nationals,146,120,5,2,7,645261,Sandy Alcantara,676917,Cade Cavalli
+824845,2026-05-10,2026-05-10T17:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Athletics,110,133,2,1,3,669211,Keegan Akin,622663,Luis Severino
+824765,2026-05-10,2026-05-10T17:35:00Z,3,Fenway Park,Boston Red Sox,Tampa Bay Rays,111,139,1,4,5,801139,Payton Tolle,607259,Nick Martinez
+823463,2026-05-10,2026-05-10T17:35:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Colorado Rockies,143,115,6,0,6,650911,Cristopher Sánchez,608372,Tomoyuki Sugano
+822819,2026-05-10,2026-05-10T17:37:00Z,14,Rogers Centre,Toronto Blue Jays,Los Angeles Angels,141,108,1,6,7,693686,Spencer Miles,667755,José Soriano
+824520,2026-05-10,2026-05-10T17:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Houston Astros,113,117,5,0,5,671096,Andrew Abbott,678906,Kai-Wei Teng
+824440,2026-05-10,2026-05-10T17:40:00Z,5,Progressive Field,Cleveland Guardians,Minnesota Twins,114,142,4,5,9,668909,Gavin Williams,702193,Andrew Morris
+824605,2026-05-10,2026-05-10T18:10:00Z,4,Rate Field,Chicago White Sox,Seattle Mariners,145,136,2,1,3,663436,Davis Martin,669302,Logan Gilbert
+823793,2026-05-10,2026-05-10T18:10:00Z,32,American Family Field,Milwaukee Brewers,New York Yankees,158,147,4,3,7,701656,Logan Henderson,607074,Carlos Rodón
+822902,2026-05-10,2026-05-10T18:35:00Z,5325,Globe Life Field,Texas Rangers,Chicago Cubs,140,112,3,0,3,594798,Jacob deGrom,592791,Jameson Taillon
+823221,2026-05-10,2026-05-10T20:05:00Z,2395,Oracle Park,San Francisco Giants,Pittsburgh Pirates,137,134,7,6,13,641816,Tyler Mahle,696149,Bubba Chandler
+825085,2026-05-10,2026-05-10T20:10:00Z,15,Chase Field,Arizona Diamondbacks,New York Mets,109,121,5,1,6,593958,Eduardo Rodriguez,623211,Huascar Brazobán
+823305,2026-05-10,2026-05-10T20:10:00Z,2680,Petco Park,San Diego Padres,St. Louis Cardinals,135,138,3,2,5,621111,Walker Buehler,681517,Kyle Leahy
+823954,2026-05-10,2026-05-10T20:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Atlanta Braves,119,144,2,7,9,680736,Justin Wrobleski,693821,Bryce Elder
+824113,2026-05-10,2026-05-10T23:20:00Z,7,Kauffman Stadium,Kansas City Royals,Detroit Tigers,118,116,3,6,9,702070,Noah Cameron,669724,Brenan Hanifee
+824441,2026-05-11,2026-05-11T22:10:00Z,5,Progressive Field,Cleveland Guardians,Los Angeles Angels,114,108,7,2,9,676282,Joey Cantillo,608718,Brent Suter
+824844,2026-05-11,2026-05-11T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,3,2,5,687064,Brandon Young,677960,Ryan Weathers
+822818,2026-05-11,2026-05-11T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Tampa Bay Rays,141,139,5,8,13,592332,Kevin Gausman,656876,Drew Rasmussen
+822901,2026-05-11,2026-05-12T00:05:00Z,5325,Globe Life Field,Texas Rangers,Arizona Diamondbacks,140,109,0,1,1,596001,Jakob Junis,647336,Michael Soroka
+824199,2026-05-11,2026-05-12T00:10:00Z,2392,Daikin Park,Houston Astros,Seattle Mariners,117,136,1,3,4,663567,Peter Lambert,669923,George Kirby
+823953,2026-05-11,2026-05-12T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,3,9,12,808963,Roki Sasaki,686790,Trevor McDonald
+824442,2026-05-12,2026-05-12T22:10:00Z,5,Progressive Field,Cleveland Guardians,Los Angeles Angels,114,108,3,2,5,677944,Slade Cecconi,700712,Walbert Ureña
+824843,2026-05-12,2026-05-12T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,2,6,8,669432,Trevor Rogers,701542,Will Warren
+824521,2026-05-12,2026-05-12T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Washington Nationals,113,120,4,10,14,663903,Brady Singer,571945,Miles Mikolas
+823385,2026-05-12,2026-05-12T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Colorado Rockies,134,115,3,1,4,694973,Paul Skenes,547179,Michael Lorenzen
+824764,2026-05-12,2026-05-12T22:45:00Z,3,Fenway Park,Boston Red Sox,Philadelphia Phillies,111,143,1,2,3,663558,Jovani Morán,554430,Zack Wheeler
+822817,2026-05-12,2026-05-12T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Tampa Bay Rays,141,139,6,7,13,571578,Patrick Corbin,663556,Shane McClanahan
+823632,2026-05-12,2026-05-12T23:10:00Z,3289,Citi Field,New York Mets,Detroit Tigers,121,116,10,2,12,642547,Freddy Peralta,656427,Jack Flaherty
+824927,2026-05-12,2026-05-12T23:15:00Z,4705,Truist Park,Atlanta Braves,Chicago Cubs,144,112,5,2,7,656550,Grant Holmes,607067,Colin Rea
+824604,2026-05-12,2026-05-12T23:40:00Z,4,Rate Field,Chicago White Sox,Kansas City Royals,145,118,6,5,11,607200,Erick Fedde,663568,Stephen Kolek
+823712,2026-05-12,2026-05-12T23:40:00Z,3312,Target Field,Minnesota Twins,Miami Marlins,142,146,3,0,3,641927,Bailey Ober,691587,Eury Pérez
+823790,2026-05-12,2026-05-12T23:40:00Z,32,American Family Field,Milwaukee Brewers,San Diego Padres,158,135,6,4,10,687075,Brandon Sproat,699134,Bradgley Rodriguez
+822903,2026-05-12,2026-05-13T00:05:00Z,5325,Globe Life Field,Texas Rangers,Arizona Diamondbacks,140,109,7,4,11,669022,MacKenzie Gore,668678,Zac Gallen
+824197,2026-05-12,2026-05-13T00:10:00Z,2392,Daikin Park,Houston Astros,Seattle Mariners,117,136,2,10,12,837227,Tatsuya Imai,693433,Bryan Woo
+825011,2026-05-12,2026-05-13T01:40:00Z,2529,Sutter Health Park,Athletics,St. Louis Cardinals,133,138,4,6,10,605488,Jeffrey Springs,669467,Andre Pallante
+823951,2026-05-12,2026-05-13T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,2,6,8,808967,Yoshinobu Yamamoto,605288,Adrian Houser
+824841,2026-05-13,2026-05-13T17:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,7,0,7,680694,Kyle Bradish,608331,Max Fried
+824438,2026-05-13,2026-05-13T17:10:00Z,5,Progressive Field,Cleveland Guardians,Los Angeles Angels,114,108,4,2,6,800048,Parker Messick,672282,Reid Detmers
+824519,2026-05-13,2026-05-13T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Washington Nationals,113,120,7,8,15,666157,Nick Lodolo,663623,Jake Irvin
+823386,2026-05-13,2026-05-13T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Colorado Rockies,134,115,4,10,14,656605,Mitch Keller,500779,Jose Quintana
+824763,2026-05-13,2026-05-13T22:45:00Z,3,Fenway Park,Boston Red Sox,Philadelphia Phillies,111,143,3,1,4,543243,Sonny Gray,691725,Andrew Painter
+822815,2026-05-13,2026-05-13T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Tampa Bay Rays,141,139,5,3,8,656302,Dylan Cease,643377,Griffin Jax
+823631,2026-05-13,2026-05-13T23:10:00Z,3289,Citi Field,New York Mets,Detroit Tigers,121,116,3,2,5,681035,Christian Scott,664285,Framber Valdez
+824928,2026-05-13,2026-05-13T23:15:00Z,4705,Truist Park,Atlanta Braves,Chicago Cubs,144,112,4,1,5,702275,JR Ritchie,684007,Shota Imanaga
+824603,2026-05-13,2026-05-13T23:40:00Z,4,Rate Field,Chicago White Sox,Kansas City Royals,145,118,6,5,11,702273,Noah Schultz,607625,Seth Lugo
+823710,2026-05-13,2026-05-13T23:40:00Z,3312,Target Field,Minnesota Twins,Miami Marlins,142,146,5,9,14,680573,Simeon Woods Richardson,676974,Max Meyer
+823791,2026-05-13,2026-05-13T23:40:00Z,32,American Family Field,Milwaukee Brewers,San Diego Padres,158,135,1,3,4,694819,Jacob Misiorowski,650633,Michael King
+822900,2026-05-13,2026-05-14T00:05:00Z,5325,Globe Life Field,Texas Rangers,Arizona Diamondbacks,140,109,6,5,11,677958,Kumar Rocker,669194,Ryne Nelson
+824195,2026-05-13,2026-05-14T00:10:00Z,2392,Daikin Park,Houston Astros,Seattle Mariners,117,136,4,3,7,621121,Lance McCullers Jr.,682243,Bryce Miller
+825010,2026-05-13,2026-05-14T01:40:00Z,2529,Sutter Health Park,Athletics,St. Louis Cardinals,133,138,6,2,8,669372,J.T. Ginn,669461,Matthew Liberatore
+823952,2026-05-13,2026-05-14T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,4,0,4,660271,Shohei Ohtani,592662,Robbie Ray
+823383,2026-05-14,2026-05-14T16:35:00Z,31,PNC Park,Pittsburgh Pirates,Colorado Rockies,134,115,7,2,9,682254,Mason Montgomery,801403,Chase Dollander
+824517,2026-05-14,2026-05-14T16:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Washington Nationals,113,120,15,1,16,695505,Chase Burns,656492,Foster Griffin
+823630,2026-05-14,2026-05-14T17:10:00Z,3289,Citi Field,New York Mets,Detroit Tigers,121,116,9,4,13,690997,Nolan McLean,672456,Keider Montero
+823709,2026-05-14,2026-05-14T17:40:00Z,3312,Target Field,Minnesota Twins,Miami Marlins,142,146,9,1,10,805673,Zebby Matthews,666129,Braxton Garrett
+823789,2026-05-14,2026-05-14T17:40:00Z,32,American Family Field,Milwaukee Brewers,San Diego Padres,158,135,7,1,8,690986,Kyle Harrison,656288,Griffin Canning
+824196,2026-05-14,2026-05-14T18:10:00Z,2392,Daikin Park,Houston Astros,Seattle Mariners,117,136,3,8,11,681347,Mike Burrows,622491,Luis Castillo
+825008,2026-05-14,2026-05-14T19:05:00Z,2529,Sutter Health Park,Athletics,St. Louis Cardinals,133,138,4,5,9,682052,Jacob Lopez,700241,Michael McGreevy
+824762,2026-05-14,2026-05-14T22:45:00Z,3,Fenway Park,Boston Red Sox,Philadelphia Phillies,111,143,1,3,4,624133,Ranger Suarez,666200,Jesús Luzardo
+824926,2026-05-14,2026-05-14T23:15:00Z,4705,Truist Park,Atlanta Braves,Chicago Cubs,144,112,0,2,2,519242,Chris Sale,676962,Ben Brown
+824602,2026-05-14,2026-05-14T23:40:00Z,4,Rate Field,Chicago White Sox,Kansas City Royals,145,118,6,2,8,641743,Anthony Kay,663460,Kris Bubic
+823950,2026-05-14,2026-05-15T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,5,2,7,686218,Emmet Sheehan,694738,Landen Roupp
+823384,2026-05-15,2026-05-15T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Philadelphia Phillies,134,143,9,11,20,677952,Braxton Ashcraft,605400,Aaron Nola
+822739,2026-05-15,2026-05-15T22:45:00Z,3309,Nationals Park,Washington Nationals,Baltimore Orioles,120,110,3,2,5,641793,Zack Littell,669358,Shane Baz
+824280,2026-05-15,2026-05-15T22:45:00Z,2394,Comerica Park,Detroit Tigers,Toronto Blue Jays,116,141,3,2,5,669724,Brenan Hanifee,702056,Trey Yesavage
+824439,2026-05-15,2026-05-15T23:10:00Z,5,Progressive Field,Cleveland Guardians,Cincinnati Reds,114,113,6,7,13,676440,Tanner Bibee,671096,Andrew Abbott
+822983,2026-05-15,2026-05-15T23:10:00Z,12,Tropicana Field,Tampa Bay Rays,Miami Marlins,139,146,7,2,9,693855,Ian Seymour,676083,Janson Junk
+823707,2026-05-15,2026-05-15T23:10:00Z,3312,Target Field,Minnesota Twins,Milwaukee Brewers,142,158,2,3,5,657746,Joe Ryan,689441,Coleman Crow
+824925,2026-05-15,2026-05-15T23:15:00Z,4705,Truist Park,Atlanta Braves,Boston Red Sox,144,111,3,2,5,675911,Spencer Strider,813349,Connelly Early
+823629,2026-05-15,2026-05-15T23:15:00Z,3289,Citi Field,New York Mets,New York Yankees,121,147,2,5,7,605280,Clay Holmes,693645,Cam Schlittler
+824601,2026-05-15,2026-05-15T23:40:00Z,4,Rate Field,Chicago White Sox,Chicago Cubs,145,112,5,10,15,680732,Sean Burke,665795,Edward Cabrera
+824194,2026-05-15,2026-05-16T00:10:00Z,2392,Daikin Park,Houston Astros,Texas Rangers,117,140,2,0,2,681293,Spencer Arrighetti,683004,Jack Leiter
+823061,2026-05-15,2026-05-16T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Kansas City Royals,138,118,5,4,9,669160,Dustin May,608379,Michael Wacha
+824360,2026-05-15,2026-05-16T00:40:00Z,19,Coors Field,Colorado Rockies,Arizona Diamondbacks,115,109,1,9,10,607536,Kyle Freeland,518876,Merrill Kelly
+824037,2026-05-15,2026-05-16T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,108,119,0,6,6,686799,Jack Kochanowicz,694361,Will Klein
+823140,2026-05-15,2026-05-16T01:40:00Z,680,T-Mobile Park,Seattle Mariners,San Diego Padres,136,135,0,2,2,676106,Emerson Hancock,681190,Randy Vásquez
+825009,2026-05-15,2026-05-16T01:40:00Z,2529,Sutter Health Park,Athletics,San Francisco Giants,133,137,5,2,7,650644,Aaron Civale,641816,Tyler Mahle
+824278,2026-05-16,2026-05-16T17:10:00Z,2394,Comerica Park,Detroit Tigers,Toronto Blue Jays,116,141,1,2,3,663554,Casey Mize,689254,Mason Fluharty
+823060,2026-05-16,2026-05-16T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Kansas City Royals,138,118,4,2,6,681517,Kyle Leahy,702070,Noah Cameron
+824359,2026-05-16,2026-05-16T19:10:00Z,19,Coors Field,Colorado Rockies,Arizona Diamondbacks,115,109,4,2,6,608372,Tomoyuki Sugano,593958,Eduardo Rodriguez
+822737,2026-05-16,2026-05-16T20:05:00Z,3309,Nationals Park,Washington Nationals,Baltimore Orioles,120,110,13,3,16,676917,Cade Cavalli,605135,Chris Bassitt
+823382,2026-05-16,2026-05-16T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Philadelphia Phillies,134,143,0,6,6,696149,Bubba Chandler,650911,Cristopher Sánchez
+822981,2026-05-16,2026-05-16T20:10:00Z,12,Tropicana Field,Tampa Bay Rays,Miami Marlins,139,146,5,10,15,607259,Nick Martinez,645261,Sandy Alcantara
+824435,2026-05-16,2026-05-16T22:10:00Z,5,Progressive Field,Cleveland Guardians,Cincinnati Reds,114,113,7,4,11,676282,Joey Cantillo,663978,Chris Paddack
+824193,2026-05-16,2026-05-16T23:10:00Z,2392,Daikin Park,Houston Astros,Texas Rangers,117,140,4,1,5,678906,Kai-Wei Teng,594798,Jacob deGrom
+824600,2026-05-16,2026-05-16T23:10:00Z,4,Rate Field,Chicago White Sox,Chicago Cubs,145,112,8,3,11,663436,Davis Martin,592791,Jameson Taillon
+823706,2026-05-16,2026-05-16T23:10:00Z,3312,Target Field,Minnesota Twins,Milwaukee Brewers,142,158,1,2,3,687570,Connor Prielipp,701656,Logan Henderson
+823139,2026-05-16,2026-05-16T23:15:00Z,680,T-Mobile Park,Seattle Mariners,San Diego Padres,136,135,4,7,11,669302,Logan Gilbert,621111,Walker Buehler
+824924,2026-05-16,2026-05-16T23:15:00Z,4705,Truist Park,Atlanta Braves,Boston Red Sox,144,111,2,3,5,693821,Bryce Elder,801139,Payton Tolle
+823627,2026-05-16,2026-05-16T23:15:00Z,3289,Citi Field,New York Mets,New York Yankees,121,147,6,3,9,623211,Huascar Brazobán,607074,Carlos Rodón
+824038,2026-05-16,2026-05-17T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,108,119,2,15,17,667755,José Soriano,680736,Justin Wrobleski
+825007,2026-05-16,2026-05-17T01:40:00Z,2529,Sutter Health Park,Athletics,San Francisco Giants,133,137,4,6,10,622663,Luis Severino,686790,Trevor McDonald
+822982,2026-05-17,2026-05-17T16:15:00Z,12,Tropicana Field,Tampa Bay Rays,Miami Marlins,139,146,6,3,9,656876,Drew Rasmussen,691587,Eury Pérez
+822738,2026-05-17,2026-05-17T17:35:00Z,3309,Nationals Park,Washington Nationals,Baltimore Orioles,120,110,3,7,10,663992,Richard Lovelady,687064,Brandon Young
+823381,2026-05-17,2026-05-17T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Philadelphia Phillies,134,143,0,6,6,694973,Paul Skenes,554430,Zack Wheeler
+824923,2026-05-17,2026-05-17T17:35:00Z,4705,Truist Park,Atlanta Braves,Boston Red Sox,144,111,8,1,9,656550,Grant Holmes,678394,Brayan Bello
+824436,2026-05-17,2026-05-17T17:40:00Z,5,Progressive Field,Cleveland Guardians,Cincinnati Reds,114,113,10,3,13,668909,Gavin Williams,663903,Brady Singer
+824279,2026-05-17,2026-05-17T17:40:00Z,2394,Comerica Park,Detroit Tigers,Toronto Blue Jays,116,141,1,4,5,656427,Jack Flaherty,592332,Kevin Gausman
+823628,2026-05-17,2026-05-17T17:40:00Z,3289,Citi Field,New York Mets,New York Yankees,121,147,7,6,13,642547,Freddy Peralta,695684,Elmer Rodríguez
+824192,2026-05-17,2026-05-17T18:10:00Z,2392,Daikin Park,Houston Astros,Texas Rangers,117,140,0,8,8,663567,Peter Lambert,543135,Nathan Eovaldi
+824599,2026-05-17,2026-05-17T18:10:00Z,4,Rate Field,Chicago White Sox,Chicago Cubs,145,112,9,8,17,607200,Erick Fedde,607067,Colin Rea
+823708,2026-05-17,2026-05-17T18:10:00Z,3312,Target Field,Minnesota Twins,Milwaukee Brewers,142,158,5,4,9,641927,Bailey Ober,688107,Robert Gasser
+823058,2026-05-17,2026-05-17T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Kansas City Royals,138,118,0,2,2,669467,Andre Pallante,663568,Stephen Kolek
+824358,2026-05-17,2026-05-17T19:10:00Z,19,Coors Field,Colorado Rockies,Arizona Diamondbacks,115,109,6,8,14,547179,Michael Lorenzen,647336,Michael Soroka
+825006,2026-05-17,2026-05-17T20:05:00Z,2529,Sutter Health Park,Athletics,San Francisco Giants,133,137,1,10,11,605488,Jeffrey Springs,605288,Adrian Houser
+824034,2026-05-17,2026-05-17T20:07:00Z,1,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,108,119,1,10,11,680570,Grayson Rodriguez,808963,Roki Sasaki
+823138,2026-05-17,2026-05-17T23:20:00Z,680,T-Mobile Park,Seattle Mariners,San Diego Padres,136,135,3,8,11,669923,George Kirby,608337,Lucas Giolito
+824277,2026-05-18,2026-05-18T22:40:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Guardians,116,114,2,8,10,664285,Framber Valdez,677944,Slade Cecconi
+822980,2026-05-18,2026-05-18T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Baltimore Orioles,139,110,16,6,22,663556,Shane McClanahan,669432,Trevor Rogers
+823465,2026-05-18,2026-05-18T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Cincinnati Reds,143,113,5,4,9,691725,Andrew Painter,666157,Nick Lodolo
+823867,2026-05-18,2026-05-18T22:40:00Z,4169,loanDepot park,Miami Marlins,Atlanta Braves,146,144,12,0,12,676974,Max Meyer,702275,JR Ritchie
+822734,2026-05-18,2026-05-18T22:45:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,7,16,23,663623,Jake Irvin,681035,Christian Scott
+823549,2026-05-18,2026-05-18T23:05:00Z,3313,Yankee Stadium,New York Yankees,Toronto Blue Jays,147,141,7,6,13,677960,Ryan Weathers,571578,Patrick Corbin
+824114,2026-05-18,2026-05-18T23:10:00Z,7,Kauffman Stadium,Kansas City Royals,Boston Red Sox,118,111,1,3,4,607625,Seth Lugo,543243,Sonny Gray
+823705,2026-05-18,2026-05-18T23:40:00Z,3312,Target Field,Minnesota Twins,Houston Astros,142,117,6,3,9,696070,Kendry Rojas,837227,Tatsuya Imai
+824680,2026-05-18,2026-05-18T23:40:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,3,9,12,684007,Shota Imanaga,687075,Brandon Sproat
+824357,2026-05-18,2026-05-19T00:40:00Z,19,Coors Field,Colorado Rockies,Texas Rangers,115,140,7,6,13,500779,Jose Quintana,669022,MacKenzie Gore
+824035,2026-05-18,2026-05-19T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Athletics,108,133,2,1,3,700712,Walbert Ureña,669372,J.T. Ginn
+823301,2026-05-18,2026-05-19T01:40:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,1,0,1,650633,Michael King,808967,Yoshinobu Yamamoto
+825087,2026-05-18,2026-05-19T01:40:00Z,15,Chase Field,Arizona Diamondbacks,San Francisco Giants,109,137,12,2,14,668678,Zac Gallen,592662,Robbie Ray
+823137,2026-05-18,2026-05-19T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Chicago White Sox,136,145,6,1,7,693433,Bryan Woo,702273,Noah Schultz
+823865,2026-05-19,2026-05-19T20:10:00Z,4169,loanDepot park,Miami Marlins,Atlanta Braves,146,144,4,8,12,666129,Braxton Garrett,527048,Martín Pérez
+824276,2026-05-19,2026-05-19T22:40:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Guardians,116,114,3,4,7,672456,Keider Montero,800048,Parker Messick
+822979,2026-05-19,2026-05-19T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Baltimore Orioles,139,110,4,1,5,643377,Griffin Jax,680694,Kyle Bradish
+823464,2026-05-19,2026-05-19T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Cincinnati Reds,143,113,1,4,5,666200,Jesús Luzardo,695505,Chase Burns
+822736,2026-05-19,2026-05-19T22:45:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,9,6,15,656492,Foster Griffin,690997,Nolan McLean
+823548,2026-05-19,2026-05-19T23:05:00Z,3313,Yankee Stadium,New York Yankees,Toronto Blue Jays,147,141,5,4,9,701542,Will Warren,656302,Dylan Cease
+824112,2026-05-19,2026-05-19T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Boston Red Sox,118,111,1,7,8,663559,Bailey Falter,624133,Ranger Suarez
+823704,2026-05-19,2026-05-19T23:40:00Z,3312,Target Field,Minnesota Twins,Houston Astros,142,117,1,2,3,805673,Zebby Matthews,669920,Jason Alexander
+824677,2026-05-19,2026-05-19T23:40:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,2,5,7,676962,Ben Brown,694819,Jacob Misiorowski
+823059,2026-05-19,2026-05-19T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,9,6,15,669461,Matthew Liberatore,656605,Mitch Keller
+824356,2026-05-19,2026-05-20T00:40:00Z,19,Coors Field,Colorado Rockies,Texas Rangers,115,140,0,10,10,671111,Sammy Peralta,641302,Tyler Alexander
+824033,2026-05-19,2026-05-20T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Athletics,108,133,6,14,20,672282,Reid Detmers,682052,Jacob Lopez
+823302,2026-05-19,2026-05-20T01:40:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,4,5,9,656288,Griffin Canning,686218,Emmet Sheehan
+825086,2026-05-19,2026-05-20T01:40:00Z,15,Chase Field,Arizona Diamondbacks,San Francisco Giants,109,137,5,3,8,669194,Ryne Nelson,694738,Landen Roupp
+823136,2026-05-19,2026-05-20T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Chicago White Sox,136,145,1,2,3,682243,Bryce Miller,641743,Anthony Kay
+823462,2026-05-20,2026-05-20T17:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Cincinnati Reds,143,113,4,9,13,605400,Aaron Nola,671096,Andrew Abbott
+822977,2026-05-20,2026-05-20T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Baltimore Orioles,139,110,5,3,8,571927,Steven Matz,669358,Shane Baz
+823703,2026-05-20,2026-05-20T17:40:00Z,3312,Target Field,Minnesota Twins,Houston Astros,142,117,4,1,5,657746,Joe Ryan,681347,Mike Burrows
+824355,2026-05-20,2026-05-20T19:10:00Z,19,Coors Field,Colorado Rockies,Texas Rangers,115,140,4,5,9,607536,Kyle Freeland,683004,Jack Leiter
+825084,2026-05-20,2026-05-20T19:40:00Z,15,Chase Field,Arizona Diamondbacks,San Francisco Giants,109,137,6,3,9,518876,Merrill Kelly,641816,Tyler Mahle
+823134,2026-05-20,2026-05-20T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Chicago White Sox,136,145,5,4,9,676106,Emerson Hancock,680732,Sean Burke
+824273,2026-05-20,2026-05-20T22:40:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Guardians,116,114,2,3,5,623454,Drew Anderson,676440,Tanner Bibee
+823866,2026-05-20,2026-05-20T22:40:00Z,4169,loanDepot park,Miami Marlins,Atlanta Braves,146,144,1,9,10,676083,Janson Junk,519242,Chris Sale
+822735,2026-05-20,2026-05-20T22:45:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,8,4,12,641793,Zack Littell,804267,Zach Thornton
+823547,2026-05-20,2026-05-20T23:05:00Z,3313,Yankee Stadium,New York Yankees,Toronto Blue Jays,147,141,1,2,3,693645,Cam Schlittler,702056,Trey Yesavage
+824111,2026-05-20,2026-05-20T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Boston Red Sox,118,111,3,4,7,608379,Michael Wacha,813349,Connelly Early
+824678,2026-05-20,2026-05-20T23:40:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,0,5,5,665795,Edward Cabrera,690986,Kyle Harrison
+823057,2026-05-20,2026-05-20T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,0,7,7,700241,Michael McGreevy,669387,Carmen Mlodzinski
+823299,2026-05-20,2026-05-21T00:40:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,0,4,4,681190,Randy Vásquez,660271,Shohei Ohtani
+824032,2026-05-20,2026-05-21T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Athletics,108,133,5,6,11,686799,Jack Kochanowicz,650644,Aaron Civale
+824274,2026-05-21,2026-05-21T17:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Guardians,116,114,1,3,4,663554,Casey Mize,676282,Joey Cantillo
+823056,2026-05-21,2026-05-21T17:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,2,6,8,669160,Dustin May,677952,Braxton Ashcraft
+822733,2026-05-21,2026-05-21T20:05:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,1,2,3,676917,Cade Cavalli,656849,David Peterson
+823864,2026-05-21,2026-05-21T22:40:00Z,4169,loanDepot park,Miami Marlins,Atlanta Braves,146,144,3,9,12,645261,Sandy Alcantara,675911,Spencer Strider
+823545,2026-05-21,2026-05-21T23:05:00Z,3313,Yankee Stadium,New York Yankees,Toronto Blue Jays,147,141,0,2,2,607074,Carlos Rodón,680755,Braydon Fisher
+824031,2026-05-21,2026-05-22T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Athletics,108,133,2,3,5,667755,José Soriano,622663,Luis Severino
+825083,2026-05-21,2026-05-22T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,2,1,3,593958,Eduardo Rodriguez,688642,Zach Agnos
+824679,2026-05-22,2026-05-22T18:20:00Z,17,Wrigley Field,Chicago Cubs,Houston Astros,112,117,2,4,6,592791,Jameson Taillon,681293,Spencer Arrighetti
+823461,2026-05-22,2026-05-22T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Cleveland Guardians,143,114,0,1,1,650911,Cristopher Sánchez,668909,Gavin Williams
+823546,2026-05-22,2026-05-22T23:05:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,2,4,6,543037,Gerrit Cole,607259,Nick Martinez
+822816,2026-05-22,2026-05-22T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Pittsburgh Pirates,141,134,6,2,8,592332,Kevin Gausman,696149,Bubba Chandler
+824761,2026-05-22,2026-05-22T23:10:00Z,3,Fenway Park,Boston Red Sox,Minnesota Twins,111,142,6,8,14,801139,Payton Tolle,687570,Connor Prielipp
+823863,2026-05-22,2026-05-22T23:10:00Z,4169,loanDepot park,Miami Marlins,New York Mets,146,121,2,1,3,691587,Eury Pérez,668964,Tobias Myers
+824842,2026-05-22,2026-05-22T23:15:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Detroit Tigers,110,116,7,4,11,669211,Keegan Akin,656427,Jack Flaherty
+824922,2026-05-22,2026-05-22T23:15:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,5,4,9,693821,Bryce Elder,663992,Richard Lovelady
+824110,2026-05-22,2026-05-22T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Seattle Mariners,118,136,0,2,2,702070,Noah Cameron,669302,Logan Gilbert
+823788,2026-05-22,2026-05-22T23:40:00Z,32,American Family Field,Milwaukee Brewers,Los Angeles Dodgers,158,119,5,1,6,701656,Logan Henderson,680736,Justin Wrobleski
+824029,2026-05-22,2026-05-23T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Texas Rangers,108,140,9,6,15,680570,Grayson Rodriguez,594798,Jacob deGrom
+825082,2026-05-22,2026-05-23T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,2,3,5,647336,Michael Soroka,608372,Tomoyuki Sugano
+823298,2026-05-22,2026-05-23T01:40:00Z,2680,Petco Park,San Diego Padres,Athletics,135,133,7,3,10,621111,Walker Buehler,605488,Jeffrey Springs
+823223,2026-05-22,2026-05-23T02:15:00Z,2395,Oracle Park,San Francisco Giants,Chicago White Sox,137,145,4,9,13,686790,Trevor McDonald,663436,Davis Martin
+824518,2026-05-23,2026-05-23T17:10:00Z,2602,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,113,138,1,8,9,663978,Chris Paddack,669467,Andre Pallante
+824516,2026-05-23,2026-05-23T23:15:00Z,2602,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,113,138,7,6,13,695534,Chase Petty,681517,Kyle Leahy
+824674,2026-05-23,2026-05-23T18:20:00Z,17,Wrigley Field,Chicago Cubs,Houston Astros,112,117,0,3,3,607067,Colin Rea,678906,Kai-Wei Teng
+822814,2026-05-23,2026-05-23T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Pittsburgh Pirates,141,134,5,2,7,571578,Patrick Corbin,694973,Paul Skenes
+823458,2026-05-23,2026-05-23T20:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Cleveland Guardians,143,114,3,0,3,554430,Zack Wheeler,677944,Slade Cecconi
+823222,2026-05-23,2026-05-23T20:05:00Z,2395,Oracle Park,San Francisco Giants,Chicago White Sox,137,145,10,3,13,605288,Adrian Houser,663542,Bryan Hudson
+824109,2026-05-23,2026-05-23T20:10:00Z,7,Kauffman Stadium,Kansas City Royals,Seattle Mariners,118,136,5,0,5,663568,Stephen Kolek,669923,George Kirby
+824760,2026-05-23,2026-05-23T20:10:00Z,3,Fenway Park,Boston Red Sox,Minnesota Twins,111,142,2,4,6,663558,Jovani Morán,671737,Taj Bradley
+824920,2026-05-23,2026-05-23T20:10:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,0,2,2,656550,Grant Holmes,663623,Jake Irvin
+823862,2026-05-23,2026-05-23T20:10:00Z,4169,loanDepot park,Miami Marlins,New York Mets,146,121,4,1,5,676974,Max Meyer,642547,Freddy Peralta
+823787,2026-05-23,2026-05-23T23:15:00Z,32,American Family Field,Milwaukee Brewers,Los Angeles Dodgers,158,119,3,11,14,688107,Robert Gasser,808963,Roki Sasaki
+823300,2026-05-23,2026-05-24T01:40:00Z,2680,Petco Park,San Diego Padres,Athletics,135,133,2,0,2,608337,Lucas Giolito,669372,J.T. Ginn
+824030,2026-05-23,2026-05-24T02:05:00Z,1,Angel Stadium,Los Angeles Angels,Texas Rangers,108,140,5,2,7,700712,Walbert Ureña,543135,Nathan Eovaldi
+825080,2026-05-23,2026-05-24T02:10:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,5,4,9,668678,Zac Gallen,547179,Michael Lorenzen
+822813,2026-05-24,2026-05-24T16:15:00Z,14,Rogers Centre,Toronto Blue Jays,Pittsburgh Pirates,141,134,1,4,5,656302,Dylan Cease,656605,Mitch Keller
+824839,2026-05-24,2026-05-24T16:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Detroit Tigers,110,116,5,3,8,687064,Brandon Young,664285,Framber Valdez
+824840,2026-05-24,2026-05-24T22:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Detroit Tigers,110,116,1,4,5,669432,Trevor Rogers,675512,Troy Melton
+824759,2026-05-24,2026-05-24T17:35:00Z,3,Fenway Park,Boston Red Sox,Minnesota Twins,111,142,5,6,11,543243,Sonny Gray,641927,Bailey Ober
+823459,2026-05-24,2026-05-24T17:35:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Cleveland Guardians,143,114,1,3,4,691725,Andrew Painter,800048,Parker Messick
+823544,2026-05-24,2026-05-24T17:35:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,2,0,2,677960,Ryan Weathers,656876,Drew Rasmussen
+823861,2026-05-24,2026-05-24T17:40:00Z,4169,loanDepot park,Miami Marlins,New York Mets,146,121,4,0,4,663969,Tyler Phillips,681035,Christian Scott
+824108,2026-05-24,2026-05-24T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Seattle Mariners,118,136,8,6,14,607625,Seth Lugo,693433,Bryan Woo
+823786,2026-05-24,2026-05-24T18:10:00Z,32,American Family Field,Milwaukee Brewers,Los Angeles Dodgers,158,119,1,5,6,687075,Brandon Sproat,808967,Yoshinobu Yamamoto
+824676,2026-05-24,2026-05-24T18:20:00Z,17,Wrigley Field,Chicago Cubs,Houston Astros,112,117,5,8,13,684007,Shota Imanaga,663567,Peter Lambert
+823220,2026-05-24,2026-05-24T20:05:00Z,2395,Oracle Park,San Francisco Giants,Chicago White Sox,137,145,8,5,13,592662,Robbie Ray,702273,Noah Schultz
+825081,2026-05-24,2026-05-24T20:10:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,9,1,10,669194,Ryne Nelson,500779,Jose Quintana
+823297,2026-05-24,2026-05-24T20:10:00Z,2680,Petco Park,San Diego Padres,Athletics,135,133,2,5,7,650633,Michael King,665622,Luis Medina
+824921,2026-05-24,2026-05-24T20:10:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,1,2,3,527048,Martín Pérez,656492,Foster Griffin
+824028,2026-05-24,2026-05-24T23:20:00Z,1,Angel Stadium,Los Angeles Angels,Texas Rangers,108,140,2,1,3,672282,Reid Detmers,669022,MacKenzie Gore
+823380,2026-05-25,2026-05-25T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,2,1,3,669387,Carmen Mlodzinski,676962,Ben Brown
+824838,2026-05-25,2026-05-25T17:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,9,7,16,680694,Kyle Bradish,663556,Shane McClanahan
+824598,2026-05-25,2026-05-25T18:10:00Z,4,Rate Field,Chicago White Sox,Minnesota Twins,145,142,3,1,4,641743,Anthony Kay,805673,Zebby Matthews
+823784,2026-05-25,2026-05-25T18:10:00Z,32,American Family Field,Milwaukee Brewers,St. Louis Cardinals,158,138,5,1,6,694819,Jacob Misiorowski,669461,Matthew Liberatore
+824107,2026-05-25,2026-05-25T19:40:00Z,7,Kauffman Stadium,Kansas City Royals,New York Yankees,118,147,3,4,7,608379,Michael Wacha,701542,Will Warren
+823625,2026-05-25,2026-05-25T20:10:00Z,3289,Citi Field,New York Mets,Cincinnati Reds,121,113,2,7,9,690997,Nolan McLean,666157,Nick Lodolo
+823219,2026-05-25,2026-05-25T21:05:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,2,6,8,694738,Landen Roupp,518876,Merrill Kelly
+824437,2026-05-25,2026-05-25T22:10:00Z,5,Progressive Field,Cleveland Guardians,Washington Nationals,114,120,2,10,12,676440,Tanner Bibee,676571,PJ Poulin
+823296,2026-05-25,2026-05-25T22:40:00Z,2680,Petco Park,San Diego Padres,Philadelphia Phillies,135,143,0,3,3,656288,Griffin Canning,666200,Jesús Luzardo
+822899,2026-05-25,2026-05-25T23:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,0,9,9,677958,Kumar Rocker,837227,Tatsuya Imai
+822812,2026-05-25,2026-05-25T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Miami Marlins,141,146,2,8,10,702056,Trey Yesavage,676083,Janson Junk
+823948,2026-05-25,2026-05-26T01:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,5,3,8,686218,Emmet Sheehan,685299,Tanner Gordon
+825005,2026-05-25,2026-05-26T01:40:00Z,2529,Sutter Health Park,Athletics,Seattle Mariners,133,136,2,9,11,650644,Aaron Civale,622491,Luis Castillo
+824434,2026-05-26,2026-05-26T22:10:00Z,5,Progressive Field,Cleveland Guardians,Washington Nationals,114,120,3,6,9,676282,Joey Cantillo,676917,Cade Cavalli
+824837,2026-05-26,2026-05-26T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,6,1,7,669358,Shane Baz,643377,Griffin Jax
+824275,2026-05-26,2026-05-26T22:40:00Z,2394,Comerica Park,Detroit Tigers,Los Angeles Angels,116,108,6,10,16,672456,Keider Montero,686799,Jack Kochanowicz
+823379,2026-05-26,2026-05-26T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,12,1,13,677952,Braxton Ashcraft,696136,Jordan Wicks
+824758,2026-05-26,2026-05-26T22:45:00Z,3,Fenway Park,Boston Red Sox,Atlanta Braves,111,144,6,7,13,624133,Ranger Suarez,675911,Spencer Strider
+822811,2026-05-26,2026-05-26T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Miami Marlins,141,146,8,1,9,680755,Braydon Fisher,645261,Sandy Alcantara
+823624,2026-05-26,2026-05-26T23:10:00Z,3289,Citi Field,New York Mets,Cincinnati Reds,121,113,2,7,9,656849,David Peterson,695505,Chase Burns
+824597,2026-05-26,2026-05-26T23:40:00Z,4,Rate Field,Chicago White Sox,Minnesota Twins,145,142,3,5,8,680732,Sean Burke,657746,Joe Ryan
+824106,2026-05-26,2026-05-26T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,New York Yankees,118,147,1,15,16,663559,Bailey Falter,693645,Cam Schlittler
+823785,2026-05-26,2026-05-26T23:40:00Z,32,American Family Field,Milwaukee Brewers,St. Louis Cardinals,158,138,6,0,6,690986,Kyle Harrison,700241,Michael McGreevy
+822898,2026-05-26,2026-05-27T00:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,10,7,17,683004,Jack Leiter,669920,Jason Alexander
+825004,2026-05-26,2026-05-27T01:40:00Z,2529,Sutter Health Park,Athletics,Seattle Mariners,133,136,1,4,5,695611,Gage Jump,676106,Emerson Hancock
+823294,2026-05-26,2026-05-27T01:40:00Z,2680,Petco Park,San Diego Padres,Philadelphia Phillies,135,143,3,4,7,681190,Randy Vásquez,605400,Aaron Nola
+823216,2026-05-26,2026-05-27T01:45:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,5,7,12,641816,Tyler Mahle,593958,Eduardo Rodriguez
+823949,2026-05-26,2026-05-27T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,15,6,21,641778,Eric Lauer,607536,Kyle Freeland
+822809,2026-05-27,2026-05-27T17:07:00Z,14,Rogers Centre,Toronto Blue Jays,Miami Marlins,141,146,2,1,3,592332,Kevin Gausman,691587,Eury Pérez
+824432,2026-05-27,2026-05-27T17:10:00Z,5,Progressive Field,Cleveland Guardians,Washington Nationals,114,120,3,2,5,668909,Gavin Williams,676571,PJ Poulin
+823783,2026-05-27,2026-05-27T17:40:00Z,32,American Family Field,Milwaukee Brewers,St. Louis Cardinals,158,138,2,1,3,694477,Chad Patrick,669160,Dustin May
+825003,2026-05-27,2026-05-27T19:05:00Z,2529,Sutter Health Park,Athletics,Seattle Mariners,133,136,1,9,10,605488,Jeffrey Springs,669302,Logan Gilbert
+823217,2026-05-27,2026-05-27T19:45:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,2,3,5,686790,Trevor McDonald,647336,Michael Soroka
+823295,2026-05-27,2026-05-27T20:10:00Z,2680,Petco Park,San Diego Padres,Philadelphia Phillies,135,143,0,3,3,621111,Walker Buehler,650911,Cristopher Sánchez
+824836,2026-05-27,2026-05-27T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,11,2,13,694346,Trey Gibson,571927,Steven Matz
+824270,2026-05-27,2026-05-27T22:40:00Z,2394,Comerica Park,Detroit Tigers,Los Angeles Angels,116,108,4,0,4,663554,Casey Mize,667755,José Soriano
+823376,2026-05-27,2026-05-27T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,4,10,14,696149,Bubba Chandler,592791,Jameson Taillon
+824756,2026-05-27,2026-05-27T22:45:00Z,3,Fenway Park,Boston Red Sox,Atlanta Braves,111,144,8,0,8,813349,Connelly Early,693821,Bryce Elder
+823626,2026-05-27,2026-05-27T23:10:00Z,3289,Citi Field,New York Mets,Cincinnati Reds,121,113,4,2,6,623211,Huascar Brazobán,671096,Andrew Abbott
+824596,2026-05-27,2026-05-27T23:40:00Z,4,Rate Field,Chicago White Sox,Minnesota Twins,145,142,15,2,17,689818,David Sandlin,687570,Connor Prielipp
+824104,2026-05-27,2026-05-27T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,New York Yankees,118,147,0,7,7,702070,Noah Cameron,543037,Gerrit Cole
+822897,2026-05-27,2026-05-28T00:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,3,4,7,594798,Jacob deGrom,681347,Mike Burrows
+823947,2026-05-27,2026-05-28T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,4,1,5,660271,Shohei Ohtani,608372,Tomoyuki Sugano
+824272,2026-05-28,2026-05-28T17:10:00Z,2394,Comerica Park,Detroit Tigers,Los Angeles Angels,116,108,1,7,8,656427,Jack Flaherty,680570,Grayson Rodriguez
+824595,2026-05-28,2026-05-28T18:10:00Z,4,Rate Field,Chicago White Sox,Minnesota Twins,145,142,6,2,8,663436,Davis Martin,680573,Simeon Woods Richardson
+824757,2026-05-28,2026-05-28T20:10:00Z,3,Fenway Park,Boston Red Sox,Atlanta Braves,111,144,2,10,12,801139,Payton Tolle,519242,Chris Sale
+824834,2026-05-28,2026-05-28T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,110,141,1,2,3,605135,Chris Bassitt,571578,Patrick Corbin
+823378,2026-05-28,2026-05-28T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,2,7,9,694973,Paul Skenes,607067,Colin Rea
+822896,2026-05-28,2026-05-29T00:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,1,5,6,543135,Nathan Eovaldi,681293,Spencer Arrighetti
+824515,2026-05-29,2026-05-29T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Atlanta Braves,113,144,3,8,11,663978,Chris Paddack,656550,Grant Holmes
+822732,2026-05-29,2026-05-29T22:45:00Z,3309,Nationals Park,Washington Nationals,San Diego Padres,120,135,5,7,12,687606,Paxton Schultz,608337,Lucas Giolito
+823377,2026-05-29,2026-05-29T22:45:00Z,31,PNC Park,Pittsburgh Pirates,Minnesota Twins,134,142,6,5,11,683003,Jared Jones,671737,Taj Bradley
+824835,2026-05-29,2026-05-29T23:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,110,141,5,6,11,669432,Trevor Rogers,671936,Adam Macko
+824433,2026-05-29,2026-05-29T23:10:00Z,5,Progressive Field,Cleveland Guardians,Boston Red Sox,114,111,4,3,7,677944,Slade Cecconi,701719,Tyler Samaniego
+822978,2026-05-29,2026-05-29T23:10:00Z,12,Tropicana Field,Tampa Bay Rays,Los Angeles Angels,139,108,8,5,13,607259,Nick Martinez,700712,Walbert Ureña
+823623,2026-05-29,2026-05-29T23:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,9,7,16,642547,Freddy Peralta,676974,Max Meyer
+823055,2026-05-29,2026-05-29T23:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Chicago Cubs,138,112,6,5,11,669467,Andre Pallante,684007,Shota Imanaga
+824594,2026-05-29,2026-05-29T23:40:00Z,4,Rate Field,Chicago White Sox,Detroit Tigers,145,116,4,3,7,685126,Brandon Eisert,675512,Troy Melton
+822894,2026-05-29,2026-05-30T00:05:00Z,5325,Globe Life Field,Texas Rangers,Kansas City Royals,140,118,9,1,10,669022,MacKenzie Gore,663568,Stephen Kolek
+824191,2026-05-29,2026-05-30T00:10:00Z,2392,Daikin Park,Houston Astros,Milwaukee Brewers,117,158,4,5,9,678906,Kai-Wei Teng,689441,Coleman Crow
+824353,2026-05-29,2026-05-30T00:40:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,8,6,14,547179,Michael Lorenzen,657277,Logan Webb
+825002,2026-05-29,2026-05-30T01:40:00Z,2529,Sutter Health Park,Athletics,New York Yankees,133,147,2,8,10,622663,Luis Severino,607074,Carlos Rodón
+823135,2026-05-29,2026-05-30T02:10:00Z,680,T-Mobile Park,Seattle Mariners,Arizona Diamondbacks,136,109,7,6,13,669923,George Kirby,668678,Zac Gallen
+823946,2026-05-29,2026-05-30T02:15:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Philadelphia Phillies,119,143,4,2,6,680736,Justin Wrobleski,554430,Zack Wheeler
+824593,2026-05-30,2026-05-30T18:10:00Z,4,Rate Field,Chicago White Sox,Detroit Tigers,145,116,7,1,8,641743,Anthony Kay,664285,Framber Valdez
+822731,2026-05-30,2026-05-30T20:05:00Z,3309,Nationals Park,Washington Nationals,San Diego Padres,120,135,9,4,13,656492,Foster Griffin,650633,Michael King
+822893,2026-05-30,2026-05-30T20:05:00Z,5325,Globe Life Field,Texas Rangers,Kansas City Royals,140,118,7,6,13,677958,Kumar Rocker,607625,Seth Lugo
+824833,2026-05-30,2026-05-30T20:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,110,141,6,5,11,687064,Brandon Young,702056,Trey Yesavage
+823375,2026-05-30,2026-05-30T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Minnesota Twins,134,142,10,9,19,656605,Mitch Keller,641927,Bailey Ober
+824431,2026-05-30,2026-05-30T20:10:00Z,5,Progressive Field,Cleveland Guardians,Boston Red Sox,114,111,1,9,10,800048,Parker Messick,543243,Sonny Gray
+822975,2026-05-30,2026-05-30T20:10:00Z,12,Tropicana Field,Tampa Bay Rays,Los Angeles Angels,139,108,3,14,17,656876,Drew Rasmussen,672282,Reid Detmers
+823622,2026-05-30,2026-05-30T20:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,6,1,7,681035,Christian Scott,663969,Tyler Phillips
+824190,2026-05-30,2026-05-30T20:10:00Z,2392,Daikin Park,Houston Astros,Milwaukee Brewers,117,158,9,2,11,663567,Peter Lambert,687075,Brandon Sproat
+823054,2026-05-30,2026-05-30T23:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Chicago Cubs,138,112,1,6,7,681517,Kyle Leahy,676962,Ben Brown
+824513,2026-05-30,2026-05-30T23:15:00Z,2602,Great American Ball Park,Cincinnati Reds,Atlanta Braves,113,144,2,5,7,663903,Brady Singer,527048,Martín Pérez
+824352,2026-05-30,2026-05-31T01:10:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,8,3,11,663372,Ryan Feltner,605288,Adrian Houser
+825000,2026-05-30,2026-05-31T02:05:00Z,2529,Sutter Health Park,Athletics,New York Yankees,133,147,6,4,10,669372,J.T. Ginn,677960,Ryan Weathers
+823132,2026-05-30,2026-05-31T02:10:00Z,680,T-Mobile Park,Seattle Mariners,Arizona Diamondbacks,136,109,5,1,6,693433,Bryan Woo,669194,Ryne Nelson
+823945,2026-05-30,2026-05-31T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Philadelphia Phillies,119,143,3,4,7,808963,Roki Sasaki,666200,Jesús Luzardo
+824832,2026-05-31,2026-05-31T16:15:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,110,141,9,5,14,680694,Kyle Bradish,693686,Spencer Miles
+822729,2026-05-31,2026-05-31T17:35:00Z,3309,Nationals Park,Washington Nationals,San Diego Padres,120,135,4,2,6,641793,Zack Littell,656288,Griffin Canning
+823373,2026-05-31,2026-05-31T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Minnesota Twins,134,142,9,3,12,677952,Braxton Ashcraft,805673,Zebby Matthews
+824430,2026-05-31,2026-05-31T17:40:00Z,5,Progressive Field,Cleveland Guardians,Boston Red Sox,114,111,4,9,13,676440,Tanner Bibee,624133,Ranger Suarez
+822976,2026-05-31,2026-05-31T17:40:00Z,12,Tropicana Field,Tampa Bay Rays,Los Angeles Angels,139,108,5,2,7,663556,Shane McClanahan,686799,Jack Kochanowicz
+824512,2026-05-31,2026-05-31T17:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Atlanta Braves,113,144,6,4,10,666157,Nick Lodolo,675911,Spencer Strider
+823621,2026-05-31,2026-05-31T17:40:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,10,1,11,690997,Nolan McLean,667463,John King
+824592,2026-05-31,2026-05-31T18:10:00Z,4,Rate Field,Chicago White Sox,Detroit Tigers,145,116,2,1,3,680732,Sean Burke,672456,Keider Montero
+824187,2026-05-31,2026-05-31T18:10:00Z,2392,Daikin Park,Houston Astros,Milwaukee Brewers,117,158,0,2,2,837227,Tatsuya Imai,694819,Jacob Misiorowski
+822895,2026-05-31,2026-05-31T18:35:00Z,5325,Globe Life Field,Texas Rangers,Kansas City Royals,140,118,6,3,9,683004,Jack Leiter,608379,Michael Wacha
+824354,2026-05-31,2026-05-31T19:10:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,6,19,25,685299,Tanner Gordon,592662,Robbie Ray
+825001,2026-05-31,2026-05-31T20:05:00Z,2529,Sutter Health Park,Athletics,New York Yankees,133,147,8,13,21,682052,Jacob Lopez,701542,Will Warren
+823133,2026-05-31,2026-05-31T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Arizona Diamondbacks,136,109,3,2,5,682243,Bryce Miller,518876,Merrill Kelly
+823944,2026-05-31,2026-05-31T20:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Philadelphia Phillies,119,143,9,1,10,808967,Yoshinobu Yamamoto,691725,Andrew Painter
+823053,2026-05-31,2026-05-31T23:20:00Z,2889,Busch Stadium,St. Louis Cardinals,Chicago Cubs,138,112,5,1,6,669461,Matthew Liberatore,696136,Jordan Wicks
+822974,2026-06-01,2026-06-01T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Detroit Tigers,139,116,9,10,19,643377,Griffin Jax,680744,Ty Madden
+822730,2026-06-01,2026-06-01T22:45:00Z,3309,Nationals Park,Washington Nationals,Miami Marlins,120,146,3,7,10,676917,Cade Cavalli,645261,Sandy Alcantara
+824510,2026-06-01,2026-06-01T23:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Kansas City Royals,113,118,2,9,11,680689,Lyon Richardson,679883,Luinder Avila
+823702,2026-06-01,2026-06-01T23:40:00Z,3312,Target Field,Minnesota Twins,Chicago White Sox,142,145,9,6,15,657746,Joe Ryan,689818,David Sandlin
+823781,2026-06-01,2026-06-01T23:40:00Z,32,American Family Field,Milwaukee Brewers,San Francisco Giants,158,137,16,2,18,675660,Shane Drohan,694738,Landen Roupp
+823050,2026-06-01,2026-06-01T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Texas Rangers,138,140,1,2,3,700241,Michael McGreevy,594798,Jacob deGrom
+824027,2026-06-01,2026-06-02T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Colorado Rockies,108,115,8,9,17,667755,José Soriano,607536,Kyle Freeland
+825078,2026-06-01,2026-06-02T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,4,1,5,593958,Eduardo Rodriguez,686218,Emmet Sheehan
+823131,2026-06-01,2026-06-02T01:40:00Z,680,T-Mobile Park,Seattle Mariners,New York Mets,136,121,3,2,5,676106,Emerson Hancock,681810,Austin Warren
+822971,2026-06-02,2026-06-02T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Detroit Tigers,139,116,0,8,8,571927,Steven Matz,656427,Jack Flaherty
+823460,2026-06-02,2026-06-02T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,San Diego Padres,143,135,3,2,5,605400,Aaron Nola,681190,Randy Vásquez
+824754,2026-06-02,2026-06-02T22:45:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,2,4,6,813349,Connelly Early,669358,Shane Baz
+822728,2026-06-02,2026-06-02T22:45:00Z,3309,Nationals Park,Washington Nationals,Miami Marlins,120,146,3,7,10,663992,Richard Lovelady,669199,Lake Bachar
+823541,2026-06-02,2026-06-02T23:05:00Z,3313,Yankee Stadium,New York Yankees,Cleveland Guardians,147,114,4,9,13,693645,Cam Schlittler,676282,Joey Cantillo
+824511,2026-06-02,2026-06-02T23:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Kansas City Royals,113,118,4,3,7,671096,Andrew Abbott,702070,Noah Cameron
+824918,2026-06-02,2026-06-02T23:15:00Z,4705,Truist Park,Atlanta Braves,Toronto Blue Jays,144,141,4,3,7,693821,Bryce Elder,592332,Kevin Gausman
+823700,2026-06-02,2026-06-02T23:40:00Z,3312,Target Field,Minnesota Twins,Chicago White Sox,142,145,6,4,10,687570,Connor Prielipp,663436,Davis Martin
+823782,2026-06-02,2026-06-02T23:40:00Z,32,American Family Field,Milwaukee Brewers,San Francisco Giants,158,137,8,3,11,690986,Kyle Harrison,686790,Trevor McDonald
+823052,2026-06-02,2026-06-02T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Texas Rangers,138,140,4,7,11,669160,Dustin May,543135,Nathan Eovaldi
+824675,2026-06-02,2026-06-03T00:05:00Z,17,Wrigley Field,Chicago Cubs,Athletics,112,133,1,2,3,592791,Jameson Taillon,695611,Gage Jump
+824189,2026-06-02,2026-06-03T00:10:00Z,2392,Daikin Park,Houston Astros,Pittsburgh Pirates,117,134,6,10,16,681347,Mike Burrows,696149,Bubba Chandler
+824026,2026-06-02,2026-06-03T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Colorado Rockies,108,115,2,8,10,680570,Grayson Rodriguez,608372,Tomoyuki Sugano
+825079,2026-06-02,2026-06-03T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,5,6,11,647336,Michael Soroka,641778,Eric Lauer
+823129,2026-06-02,2026-06-03T01:40:00Z,680,T-Mobile Park,Seattle Mariners,New York Mets,136,121,8,3,11,669302,Logan Gilbert,623211,Huascar Brazobán
+822727,2026-06-03,2026-06-03T17:05:00Z,3309,Nationals Park,Washington Nationals,Miami Marlins,120,146,1,4,5,674841,Andrew Alvarez,676974,Max Meyer
+822973,2026-06-03,2026-06-03T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Detroit Tigers,139,116,2,7,9,607259,Nick Martinez,675512,Troy Melton
+823701,2026-06-03,2026-06-03T17:40:00Z,3312,Target Field,Minnesota Twins,Chicago White Sox,142,145,0,8,8,671737,Taj Bradley,607200,Erick Fedde
+823130,2026-06-03,2026-06-03T19:40:00Z,680,T-Mobile Park,Seattle Mariners,New York Mets,136,121,1,7,8,669923,George Kirby,642547,Freddy Peralta
+823456,2026-06-03,2026-06-03T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,San Diego Padres,143,135,3,2,5,650911,Cristopher Sánchez,621111,Walker Buehler
+824755,2026-06-03,2026-06-03T22:45:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,8,1,9,801139,Payton Tolle,605135,Chris Bassitt
+823540,2026-06-03,2026-06-03T23:05:00Z,3313,Yankee Stadium,New York Yankees,Cleveland Guardians,147,114,4,5,9,543037,Gerrit Cole,668909,Gavin Williams
+824509,2026-06-03,2026-06-03T23:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Kansas City Royals,113,118,2,5,7,695505,Chase Burns,663568,Stephen Kolek
+824917,2026-06-03,2026-06-03T23:15:00Z,4705,Truist Park,Atlanta Braves,Toronto Blue Jays,144,141,7,3,10,656550,Grant Holmes,571578,Patrick Corbin
+823780,2026-06-03,2026-06-03T23:40:00Z,32,American Family Field,Milwaukee Brewers,San Francisco Giants,158,137,0,1,1,688107,Robert Gasser,657277,Logan Webb
+823051,2026-06-03,2026-06-03T23:45:00Z,2889,Busch Stadium,St. Louis Cardinals,Texas Rangers,138,140,5,3,8,669467,Andre Pallante,669022,MacKenzie Gore
+824671,2026-06-03,2026-06-04T00:05:00Z,17,Wrigley Field,Chicago Cubs,Athletics,112,133,4,5,9,607067,Colin Rea,605488,Jeffrey Springs
+824188,2026-06-03,2026-06-04T00:10:00Z,2392,Daikin Park,Houston Astros,Pittsburgh Pirates,117,134,11,9,20,681293,Spencer Arrighetti,694973,Paul Skenes
+824024,2026-06-03,2026-06-04T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Colorado Rockies,108,115,11,4,15,700712,Walbert Ureña,547179,Michael Lorenzen
+825077,2026-06-03,2026-06-04T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,0,7,7,668678,Zac Gallen,660271,Shohei Ohtani
+823457,2026-06-04,2026-06-04T17:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,San Diego Padres,143,135,6,4,10,554430,Zack Wheeler,608337,Lucas Giolito
+824753,2026-06-04,2026-06-04T17:35:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,2,8,10,678394,Brayan Bello,669432,Trevor Rogers
+823542,2026-06-04,2026-06-04T17:35:00Z,3313,Yankee Stadium,New York Yankees,Cleveland Guardians,147,114,2,1,3,607074,Carlos Rodón,677944,Slade Cecconi
+823779,2026-06-04,2026-06-04T18:10:00Z,32,American Family Field,Milwaukee Brewers,San Francisco Giants,158,137,9,12,21,689441,Coleman Crow,605288,Adrian Houser
+824919,2026-06-04,2026-06-04T23:15:00Z,4705,Truist Park,Atlanta Braves,Toronto Blue Jays,144,141,2,7,9,519242,Chris Sale,689254,Mason Fluharty
+823698,2026-06-04,2026-06-04T23:40:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,6,8,14,702193,Andrew Morris,607625,Seth Lugo
+824672,2026-06-04,2026-06-05T00:05:00Z,17,Wrigley Field,Chicago Cubs,Athletics,112,133,7,6,13,684007,Shota Imanaga,669372,J.T. Ginn
+824185,2026-06-04,2026-06-05T00:10:00Z,2392,Daikin Park,Houston Astros,Pittsburgh Pirates,117,134,1,5,6,678906,Kai-Wei Teng,683003,Jared Jones
+825076,2026-06-04,2026-06-05T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,3,2,5,669194,Ryne Nelson,680736,Justin Wrobleski
+824673,2026-06-05,2026-06-05T18:20:00Z,17,Wrigley Field,Chicago Cubs,San Francisco Giants,112,137,3,18,21,665795,Edward Cabrera,592662,Robbie Ray
+824271,2026-06-05,2026-06-05T22:40:00Z,2394,Comerica Park,Detroit Tigers,Seattle Mariners,116,136,7,3,10,664285,Framber Valdez,693433,Bryan Woo
+823455,2026-06-05,2026-06-05T22:40:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Chicago White Sox,143,145,8,6,14,666200,Jesús Luzardo,641743,Anthony Kay
+823538,2026-06-05,2026-06-05T23:05:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,3,5,8,677960,Ryan Weathers,543243,Sonny Gray
+822810,2026-06-05,2026-06-05T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Baltimore Orioles,141,110,3,13,16,702056,Trey Yesavage,687064,Brandon Young
+823860,2026-06-05,2026-06-05T23:10:00Z,4169,loanDepot park,Miami Marlins,Tampa Bay Rays,146,139,0,6,6,687473,Ryan Gusto,656876,Drew Rasmussen
+824914,2026-06-05,2026-06-05T23:15:00Z,4705,Truist Park,Atlanta Braves,Pittsburgh Pirates,144,134,6,3,9,527048,Martín Pérez,656605,Mitch Keller
+824186,2026-06-05,2026-06-06T00:10:00Z,2392,Daikin Park,Houston Astros,Athletics,117,133,5,1,6,663567,Peter Lambert,678022,Jack Perkins
+823049,2026-06-05,2026-06-06T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,10,3,13,681517,Kyle Leahy,663903,Brady Singer
+822892,2026-06-05,2026-06-06T00:15:00Z,5325,Globe Life Field,Texas Rangers,Cleveland Guardians,140,114,3,2,5,677958,Kumar Rocker,800048,Parker Messick
+823699,2026-06-05,2026-06-06T00:15:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,5,3,8,805673,Zebby Matthews,608379,Michael Wacha
+824350,2026-06-05,2026-06-06T00:40:00Z,19,Coors Field,Colorado Rockies,Milwaukee Brewers,115,158,7,9,16,663372,Ryan Feltner,687075,Brandon Sproat
+825073,2026-06-05,2026-06-06T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Washington Nationals,109,120,1,14,15,518876,Merrill Kelly,656492,Foster Griffin
+823293,2026-06-05,2026-06-06T01:40:00Z,2680,Petco Park,San Diego Padres,New York Mets,135,121,0,5,5,650633,Michael King,681035,Christian Scott
+823943,2026-06-05,2026-06-06T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,119,108,1,0,1,808963,Roki Sasaki,672282,Reid Detmers
+824269,2026-06-06,2026-06-06T17:10:00Z,2394,Comerica Park,Detroit Tigers,Seattle Mariners,116,136,0,4,4,672456,Keider Montero,682243,Bryce Miller
+823697,2026-06-06,2026-06-06T18:10:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,2,3,5,657746,Joe Ryan,679883,Luinder Avila
+823048,2026-06-06,2026-06-06T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,6,5,11,669461,Matthew Liberatore,666157,Nick Lodolo
+824669,2026-06-06,2026-06-06T18:20:00Z,17,Wrigley Field,Chicago Cubs,San Francisco Giants,112,137,3,2,5,676962,Ben Brown,694738,Landen Roupp
+822808,2026-06-06,2026-06-06T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,Baltimore Orioles,141,110,6,4,10,680755,Braydon Fisher,680694,Kyle Bradish
+823454,2026-06-06,2026-06-06T20:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Chicago White Sox,143,145,3,6,9,691725,Andrew Painter,685126,Brandon Eisert
+825075,2026-06-06,2026-06-06T20:10:00Z,15,Chase Field,Arizona Diamondbacks,Washington Nationals,109,120,1,6,7,593958,Eduardo Rodriguez,641793,Zack Littell
+824184,2026-06-06,2026-06-06T20:10:00Z,2392,Daikin Park,Houston Astros,Athletics,117,133,13,2,15,837227,Tatsuya Imai,695034,Kade Morris
+824915,2026-06-06,2026-06-06T20:10:00Z,4705,Truist Park,Atlanta Braves,Pittsburgh Pirates,144,134,6,3,9,675911,Spencer Strider,677952,Braxton Ashcraft
+823859,2026-06-06,2026-06-06T20:10:00Z,4169,loanDepot park,Miami Marlins,Tampa Bay Rays,146,139,4,3,7,669199,Lake Bachar,663556,Shane McClanahan
+822891,2026-06-06,2026-06-06T23:35:00Z,5325,Globe Life Field,Texas Rangers,Cleveland Guardians,140,114,0,6,6,683004,Jack Leiter,676440,Tanner Bibee
+824351,2026-06-06,2026-06-07T01:10:00Z,19,Coors Field,Colorado Rockies,Milwaukee Brewers,115,158,1,7,8,688642,Zach Agnos,694819,Jacob Misiorowski
+823942,2026-06-06,2026-06-07T02:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,119,108,9,2,11,808967,Yoshinobu Yamamoto,686799,Jack Kochanowicz
+823292,2026-06-06,2026-06-07T02:10:00Z,2680,Petco Park,San Diego Padres,New York Mets,135,121,3,2,5,656288,Griffin Canning,690997,Nolan McLean
+824916,2026-06-07,2026-06-07T17:35:00Z,4705,Truist Park,Atlanta Braves,Pittsburgh Pirates,144,134,3,2,5,693821,Bryce Elder,682254,Mason Montgomery
+823453,2026-06-07,2026-06-07T17:35:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Chicago White Sox,143,145,9,5,14,605400,Aaron Nola,656457,Tyler Gilbert
+823537,2026-06-07,2026-06-07T17:35:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,6,1,7,693645,Cam Schlittler,624133,Ranger Suarez
+822807,2026-06-07,2026-06-07T17:37:00Z,14,Rogers Centre,Toronto Blue Jays,Baltimore Orioles,141,110,6,4,10,592332,Kevin Gausman,669358,Shane Baz
+824268,2026-06-07,2026-06-07T17:40:00Z,2394,Comerica Park,Detroit Tigers,Seattle Mariners,116,136,5,4,9,656427,Jack Flaherty,622491,Luis Castillo
+823857,2026-06-07,2026-06-07T17:40:00Z,4169,loanDepot park,Miami Marlins,Tampa Bay Rays,146,139,4,1,5,645261,Sandy Alcantara,643377,Griffin Jax
+824183,2026-06-07,2026-06-07T18:10:00Z,2392,Daikin Park,Houston Astros,Athletics,117,133,0,5,5,681347,Mike Burrows,695611,Gage Jump
+823696,2026-06-07,2026-06-07T18:10:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,5,6,11,687570,Connor Prielipp,702070,Noah Cameron
+823047,2026-06-07,2026-06-07T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,5,3,8,700241,Michael McGreevy,695076,Rhett Lowder
+822890,2026-06-07,2026-06-07T18:35:00Z,5325,Globe Life Field,Texas Rangers,Cleveland Guardians,140,114,10,0,10,594798,Jacob deGrom,676282,Joey Cantillo
+824349,2026-06-07,2026-06-07T19:10:00Z,19,Coors Field,Colorado Rockies,Milwaukee Brewers,115,158,4,12,16,607536,Kyle Freeland,675660,Shane Drohan
+825074,2026-06-07,2026-06-07T19:15:00Z,15,Chase Field,Arizona Diamondbacks,Washington Nationals,109,120,5,1,6,647336,Michael Soroka,676917,Cade Cavalli
+823941,2026-06-07,2026-06-07T20:10:00Z,22,UNIQLO Field at Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,119,108,5,13,18,686218,Emmet Sheehan,667755,José Soriano
+823291,2026-06-07,2026-06-07T20:10:00Z,2680,Petco Park,San Diego Padres,New York Mets,135,121,3,7,10,681190,Randy Vásquez,623211,Huascar Brazobán
+824670,2026-06-07,2026-06-08T00:30:00Z,17,Wrigley Field,Chicago Cubs,San Francisco Giants,112,137,1,2,3,592791,Jameson Taillon,686790,Trevor McDonald
+824829,2026-06-08,2026-06-08T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Seattle Mariners,110,136,3,6,9,694346,Trey Gibson,676106,Emerson Hancock
+822972,2026-06-08,2026-06-08T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,3,1,4,693855,Ian Seymour,813349,Connelly Early
+824427,2026-06-08,2026-06-08T22:40:00Z,5,Progressive Field,Cleveland Guardians,New York Yankees,114,147,5,7,12,668909,Gavin Williams,701542,Will Warren
+822806,2026-06-08,2026-06-08T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Philadelphia Phillies,141,143,2,5,7,571578,Patrick Corbin,650911,Cristopher Sánchez
+824025,2026-06-08,2026-06-09T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,4,5,9,680570,Grayson Rodriguez,681293,Spencer Arrighetti
+823289,2026-06-08,2026-06-09T01:40:00Z,2680,Petco Park,San Diego Padres,Cincinnati Reds,135,113,6,2,8,621111,Walker Buehler,671096,Andrew Abbott
+823218,2026-06-08,2026-06-09T01:45:00Z,2395,Oracle Park,San Francisco Giants,Washington Nationals,137,120,3,4,7,657277,Logan Webb,663992,Richard Lovelady
+824998,2026-06-08,2026-06-09T02:05:00Z,5355,Las Vegas Ballpark,Athletics,Milwaukee Brewers,133,158,14,15,29,605488,Jeffrey Springs,690986,Kyle Harrison
+824830,2026-06-09,2026-06-09T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Seattle Mariners,110,136,5,6,11,669432,Trevor Rogers,669302,Logan Gilbert
+823374,2026-06-09,2026-06-09T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Los Angeles Dodgers,134,119,3,12,15,694973,Paul Skenes,641778,Eric Lauer
+822969,2026-06-09,2026-06-09T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,4,3,7,607259,Nick Martinez,801139,Payton Tolle
+824267,2026-06-09,2026-06-09T22:40:00Z,2394,Comerica Park,Detroit Tigers,Minnesota Twins,116,142,10,4,14,675512,Troy Melton,671737,Taj Bradley
+823858,2026-06-09,2026-06-09T22:40:00Z,4169,loanDepot park,Miami Marlins,Arizona Diamondbacks,146,109,10,6,16,676974,Max Meyer,668678,Zac Gallen
+824429,2026-06-09,2026-06-09T22:40:00Z,5,Progressive Field,Cleveland Guardians,New York Yankees,114,147,2,3,5,677944,Slade Cecconi,543037,Gerrit Cole
+822805,2026-06-09,2026-06-09T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Philadelphia Phillies,141,143,3,2,5,656302,Dylan Cease,554430,Zack Wheeler
+823620,2026-06-09,2026-06-09T23:10:00Z,3289,Citi Field,New York Mets,St. Louis Cardinals,121,138,0,7,7,642547,Freddy Peralta,669160,Dustin May
+824105,2026-06-09,2026-06-09T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Texas Rangers,118,140,5,3,8,663568,Stephen Kolek,543135,Nathan Eovaldi
+824591,2026-06-09,2026-06-09T23:40:00Z,4,Rate Field,Chicago White Sox,Atlanta Braves,145,144,6,5,11,685126,Brandon Eisert,656550,Grant Holmes
+824347,2026-06-09,2026-06-10T00:40:00Z,19,Coors Field,Colorado Rockies,Chicago Cubs,115,112,7,3,10,608372,Tomoyuki Sugano,607067,Colin Rea
+824023,2026-06-09,2026-06-10T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,10,1,11,700712,Walbert Ureña,678906,Kai-Wei Teng
+823290,2026-06-09,2026-06-10T01:40:00Z,2680,Petco Park,San Diego Padres,Cincinnati Reds,135,113,3,5,8,608337,Lucas Giolito,695505,Chase Burns
+823214,2026-06-09,2026-06-10T01:45:00Z,2395,Oracle Park,San Francisco Giants,Washington Nationals,137,120,3,6,9,605288,Adrian Houser,674841,Andrew Alvarez
+824999,2026-06-09,2026-06-10T02:05:00Z,5355,Las Vegas Ballpark,Athletics,Milwaukee Brewers,133,158,7,5,12,669372,J.T. Ginn,688107,Robert Gasser
+822970,2026-06-10,2026-06-10T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,7,5,12,656876,Drew Rasmussen,687562,Jake Bennett
+824428,2026-06-10,2026-06-10T17:10:00Z,5,Progressive Field,Cleveland Guardians,New York Yankees,114,147,4,8,12,800048,Parker Messick,607074,Carlos Rodón
+823215,2026-06-10,2026-06-10T19:45:00Z,2395,Oracle Park,San Francisco Giants,Washington Nationals,137,120,11,10,21,592662,Robbie Ray,656492,Foster Griffin
+823287,2026-06-10,2026-06-10T20:10:00Z,2680,Petco Park,San Diego Padres,Cincinnati Reds,135,113,5,4,9,650633,Michael King,663903,Brady Singer
+824831,2026-06-10,2026-06-10T22:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Seattle Mariners,110,136,7,2,9,687064,Brandon Young,669923,George Kirby
+823372,2026-06-10,2026-06-10T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Los Angeles Dodgers,134,119,9,8,17,683003,Jared Jones,660271,Shohei Ohtani
+824266,2026-06-10,2026-06-10T22:40:00Z,2394,Comerica Park,Detroit Tigers,Minnesota Twins,116,142,4,6,10,664285,Framber Valdez,702474,Mike Paredes
+823856,2026-06-10,2026-06-10T22:40:00Z,4169,loanDepot park,Miami Marlins,Arizona Diamondbacks,146,109,8,0,8,687473,Ryan Gusto,669194,Ryne Nelson
+822804,2026-06-10,2026-06-10T23:07:00Z,14,Rogers Centre,Toronto Blue Jays,Philadelphia Phillies,141,143,4,7,11,453286,Max Scherzer,666200,Jesús Luzardo
+823618,2026-06-10,2026-06-10T23:10:00Z,3289,Citi Field,New York Mets,St. Louis Cardinals,121,138,2,9,11,681810,Austin Warren,669467,Andre Pallante
+824103,2026-06-10,2026-06-10T23:40:00Z,7,Kauffman Stadium,Kansas City Royals,Texas Rangers,118,140,4,6,10,607625,Seth Lugo,669022,MacKenzie Gore
+824590,2026-06-10,2026-06-10T23:40:00Z,4,Rate Field,Chicago White Sox,Atlanta Braves,145,144,2,1,3,663436,Davis Martin,519242,Chris Sale
+824348,2026-06-10,2026-06-11T00:40:00Z,19,Coors Field,Colorado Rockies,Chicago Cubs,115,112,3,2,5,547179,Michael Lorenzen,684007,Shota Imanaga
+824996,2026-06-10,2026-06-11T01:05:00Z,5355,Las Vegas Ballpark,Athletics,Milwaukee Brewers,133,158,4,3,7,678022,Jack Perkins,687075,Brandon Sproat
+824022,2026-06-10,2026-06-11T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,3,2,5,672282,Reid Detmers,663567,Peter Lambert
+823619,2026-06-11,2026-06-11T17:10:00Z,3289,Citi Field,New York Mets,St. Louis Cardinals,121,138,5,4,9,681035,Christian Scott,690928,Hunter Dobbins
+824265,2026-06-11,2026-06-11T17:10:00Z,2394,Comerica Park,Detroit Tigers,Minnesota Twins,116,142,11,0,11,672456,Keider Montero,805673,Zebby Matthews
+823855,2026-06-11,2026-06-11T17:10:00Z,4169,loanDepot park,Miami Marlins,Arizona Diamondbacks,146,109,2,0,2,663969,Tyler Phillips,518876,Merrill Kelly
+824101,2026-06-11,2026-06-11T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Texas Rangers,118,140,2,4,6,608379,Michael Wacha,677958,Kumar Rocker
+824346,2026-06-11,2026-06-11T19:10:00Z,19,Coors Field,Colorado Rockies,Chicago Cubs,115,112,3,9,12,663372,Ryan Feltner,665795,Edward Cabrera
+823371,2026-06-11,2026-06-11T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Los Angeles Dodgers,134,119,6,8,14,656605,Mitch Keller,680736,Justin Wrobleski
+824827,2026-06-11,2026-06-11T23:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Seattle Mariners,110,136,7,5,12,680694,Kyle Bradish,693433,Bryan Woo
+823370,2026-06-12,2026-06-12T22:40:00Z,31,PNC Park,Pittsburgh Pirates,Miami Marlins,134,146,3,8,11,677952,Braxton Ashcraft,645261,Sandy Alcantara
+822726,2026-06-12,2026-06-12T22:45:00Z,3309,Nationals Park,Washington Nationals,Seattle Mariners,120,136,2,10,12,641793,Zack Littell,682243,Bryce Miller
+824826,2026-06-12,2026-06-12T23:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,San Diego Padres,110,135,7,3,10,669358,Shane Baz,656288,Griffin Canning
+824425,2026-06-12,2026-06-12T23:10:00Z,5,Progressive Field,Cleveland Guardians,Detroit Tigers,114,116,3,2,5,676440,Tanner Bibee,656427,Jack Flaherty
+824752,2026-06-12,2026-06-12T23:10:00Z,3,Fenway Park,Boston Red Sox,Texas Rangers,111,140,10,1,11,543243,Sonny Gray,683004,Jack Leiter
+824507,2026-06-12,2026-06-12T23:15:00Z,2602,Great American Ball Park,Cincinnati Reds,Arizona Diamondbacks,113,109,2,5,7,666157,Nick Lodolo,593958,Eduardo Rodriguez
+823617,2026-06-12,2026-06-12T23:15:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,7,5,12,690997,Nolan McLean,675911,Spencer Strider
+822803,2026-06-12,2026-06-12T23:37:00Z,14,Rogers Centre,Toronto Blue Jays,New York Yankees,141,147,8,5,13,702056,Trey Yesavage,677960,Ryan Weathers
+824588,2026-06-12,2026-06-12T23:40:00Z,4,Rate Field,Chicago White Sox,Los Angeles Dodgers,145,119,8,2,10,641743,Anthony Kay,808963,Roki Sasaki
+823778,2026-06-12,2026-06-12T23:40:00Z,32,American Family Field,Milwaukee Brewers,Philadelphia Phillies,158,143,6,0,6,694819,Jacob Misiorowski,621383,Tanner Banks
+824102,2026-06-12,2026-06-13T00:10:00Z,7,Kauffman Stadium,Kansas City Royals,Houston Astros,118,117,8,10,18,679883,Luinder Avila,837227,Tatsuya Imai
+823695,2026-06-12,2026-06-13T00:10:00Z,3312,Target Field,Minnesota Twins,St. Louis Cardinals,142,138,9,8,17,657746,Joe Ryan,681517,Kyle Leahy
+824020,2026-06-12,2026-06-13T01:38:00Z,1,Angel Stadium,Los Angeles Angels,Tampa Bay Rays,108,139,4,3,7,691951,Sam Aldegheri,663556,Shane McClanahan
+824997,2026-06-12,2026-06-13T02:05:00Z,5355,Las Vegas Ballpark,Athletics,Colorado Rockies,133,115,6,4,10,695611,Gage Jump,807743,Sean Sullivan
+823211,2026-06-12,2026-06-13T02:15:00Z,2395,Oracle Park,San Francisco Giants,Chicago Cubs,137,112,1,5,6,694738,Landen Roupp,665871,Javier Assad
+823694,2026-06-13,2026-06-13T18:10:00Z,3312,Target Field,Minnesota Twins,St. Louis Cardinals,142,138,6,9,15,687570,Connor Prielipp,669461,Matthew Liberatore
+822802,2026-06-13,2026-06-13T19:07:00Z,14,Rogers Centre,Toronto Blue Jays,New York Yankees,141,147,1,3,4,592332,Kevin Gausman,693645,Cam Schlittler
+824828,2026-06-13,2026-06-13T20:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,San Diego Padres,110,135,3,9,12,694346,Trey Gibson,681190,Randy Vásquez
+822725,2026-06-13,2026-06-13T20:05:00Z,3309,Nationals Park,Washington Nationals,Seattle Mariners,120,136,8,3,11,676917,Cade Cavalli,622491,Luis Castillo
+823369,2026-06-13,2026-06-13T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Miami Marlins,134,146,3,2,5,696149,Bubba Chandler,669199,Lake Bachar
+824508,2026-06-13,2026-06-13T20:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Arizona Diamondbacks,113,109,2,1,3,695076,Rhett Lowder,647336,Michael Soroka
+824426,2026-06-13,2026-06-13T20:10:00Z,5,Progressive Field,Cleveland Guardians,Detroit Tigers,114,116,3,1,4,676282,Joey Cantillo,669373,Tarik Skubal
+824749,2026-06-13,2026-06-13T20:10:00Z,3,Fenway Park,Boston Red Sox,Texas Rangers,111,140,6,3,9,624133,Ranger Suarez,594798,Jacob deGrom
+823616,2026-06-13,2026-06-13T20:10:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,1,3,4,640455,Sean Manaea,527048,Martín Pérez
+824587,2026-06-13,2026-06-13T20:10:00Z,4,Rate Field,Chicago White Sox,Los Angeles Dodgers,145,119,1,7,8,680732,Sean Burke,808967,Yoshinobu Yamamoto
+824100,2026-06-13,2026-06-13T23:10:00Z,7,Kauffman Stadium,Kansas City Royals,Houston Astros,118,117,7,8,15,702070,Noah Cameron,681347,Mike Burrows
+823776,2026-06-13,2026-06-13T23:10:00Z,32,American Family Field,Milwaukee Brewers,Philadelphia Phillies,158,143,8,9,17,675660,Shane Drohan,605400,Aaron Nola
+824995,2026-06-13,2026-06-14T02:05:00Z,5355,Las Vegas Ballpark,Athletics,Colorado Rockies,133,115,7,5,12,683155,Joey Estes,607536,Kyle Freeland
+823213,2026-06-13,2026-06-14T02:05:00Z,2395,Oracle Park,San Francisco Giants,Chicago Cubs,137,112,1,6,7,686790,Trevor McDonald,676962,Ben Brown
+824019,2026-06-13,2026-06-14T02:07:00Z,1,Angel Stadium,Los Angeles Angels,Tampa Bay Rays,108,139,8,0,8,667755,José Soriano,643377,Griffin Jax
+823368,2026-06-14,2026-06-14T16:15:00Z,31,PNC Park,Pittsburgh Pirates,Miami Marlins,134,146,2,4,6,694973,Paul Skenes,676974,Max Meyer
+824823,2026-06-14,2026-06-14T17:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,San Diego Padres,110,135,2,5,7,669432,Trevor Rogers,621111,Walker Buehler
+822722,2026-06-14,2026-06-14T17:35:00Z,3309,Nationals Park,Washington Nationals,Seattle Mariners,120,136,10,1,11,676571,PJ Poulin,676106,Emerson Hancock
+822801,2026-06-14,2026-06-14T17:37:00Z,14,Rogers Centre,Toronto Blue Jays,New York Yankees,141,147,3,8,11,571578,Patrick Corbin,701542,Will Warren
+824506,2026-06-14,2026-06-14T17:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Arizona Diamondbacks,113,109,3,5,8,671096,Andrew Abbott,668678,Zac Gallen
+823615,2026-06-14,2026-06-14T17:40:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,8,1,9,642547,Freddy Peralta,693821,Bryce Elder
+824099,2026-06-14,2026-06-14T18:10:00Z,7,Kauffman Stadium,Kansas City Royals,Houston Astros,118,117,4,0,4,663568,Stephen Kolek,681293,Spencer Arrighetti
+823693,2026-06-14,2026-06-14T18:10:00Z,3312,Target Field,Minnesota Twins,St. Louis Cardinals,142,138,5,4,9,671737,Taj Bradley,700241,Michael McGreevy
+824586,2026-06-14,2026-06-14T18:10:00Z,4,Rate Field,Chicago White Sox,Los Angeles Dodgers,145,119,6,4,10,663542,Bryan Hudson,686218,Emmet Sheehan
+823777,2026-06-14,2026-06-14T18:10:00Z,32,American Family Field,Milwaukee Brewers,Philadelphia Phillies,158,143,4,0,4,690986,Kyle Harrison,650911,Cristopher Sánchez
+824994,2026-06-14,2026-06-14T19:05:00Z,5355,Las Vegas Ballpark,Athletics,Colorado Rockies,133,115,9,23,32,605488,Jeffrey Springs,608372,Tomoyuki Sugano
+823212,2026-06-14,2026-06-14T19:10:00Z,2395,Oracle Park,San Francisco Giants,Chicago Cubs,137,112,5,1,6,657277,Logan Webb,669020,Ryan Rolison
+824021,2026-06-14,2026-06-14T20:07:00Z,1,Angel Stadium,Los Angeles Angels,Tampa Bay Rays,108,139,3,8,11,680570,Grayson Rodriguez,668984,Casey Legumina
+824751,2026-06-14,2026-06-14T23:20:00Z,3,Fenway Park,Boston Red Sox,Texas Rangers,111,140,4,6,10,813349,Connelly Early,543135,Nathan Eovaldi

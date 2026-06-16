@@ -1,0 +1,899 @@
+game_pk,date,game_time_utc,venue_id,venue_name,home_team,away_team,home_team_id,away_team_id,home_runs,away_runs,total_runs,home_sp_id,home_sp_name,away_sp_id,away_sp_name
+631377,2020-07-23,2020-07-24T02:08:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,8,1,9,669160,Dustin May,456501,Johnny Cueto
+631242,2020-07-24,2020-07-24T20:10:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,1,0,1,594798,Jacob deGrom,647336,Michael Soroka
+631589,2020-07-24,2020-07-24T22:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Detroit Tigers,113,116,7,1,8,543243,Sonny Gray,571510,Matthew Boyd
+630966,2020-07-24,2020-07-24T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,4,6,10,450203,Charlie Morton,547943,Hyun Jin Ryu
+631121,2020-07-24,2020-07-24T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Miami Marlins,143,146,2,5,7,605400,Aaron Nola,645261,Sandy Alcantara
+631563,2020-07-24,2020-07-24T23:10:00Z,5,Progressive Field,Cleveland Indians,Kansas City Royals,114,118,2,0,2,669456,Shane Bieber,518633,Danny Duffy
+631641,2020-07-24,2020-07-24T23:10:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,3,0,3,543294,Kyle Hendricks,605540,Brandon Woodruff
+631664,2020-07-24,2020-07-24T23:30:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,13,2,15,543135,Nathan Eovaldi,543548,Tommy Milone
+630941,2020-07-24,2020-07-25T00:05:00Z,5325,Globe Life Field,Texas Rangers,Colorado Rockies,140,115,1,0,1,458681,Lance Lynn,608566,Germán Márquez
+631514,2020-07-24,2020-07-25T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,145,142,5,10,15,608337,Lucas Giolito,621244,José Berríos
+630989,2020-07-24,2020-07-25T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,5,4,9,656427,Jack Flaherty,605397,Joe Musgrove
+631091,2020-07-24,2020-07-25T01:10:00Z,2680,Petco Park,San Diego Padres,Arizona Diamondbacks,135,109,7,2,9,663978,Chris Paddack,518516,Madison Bumgarner
+631438,2020-07-24,2020-07-25T01:10:00Z,2392,Minute Maid Park,Houston Astros,Seattle Mariners,117,136,8,2,10,434378,Justin Verlander,594835,Marco Gonzales
+631378,2020-07-24,2020-07-25T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,9,1,10,548389,Ross Stripling,542881,Tyler Anderson
+631182,2020-07-24,2020-07-25T02:10:00Z,10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,133,108,7,3,10,593423,Frankie Montas,571760,Andrew Heaney
+631642,2020-07-25,2020-07-25T17:05:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,3,8,11,506433,Yu Darvish,669203,Corbin Burnes
+631666,2020-07-25,2020-07-25T17:35:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,2,7,9,527048,Martín Pérez,502171,Alex Cobb
+631515,2020-07-25,2020-07-25T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,145,142,10,3,13,572971,Dallas Keuchel,677976,Randy Dobnak
+630992,2020-07-25,2020-07-25T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,9,1,10,425794,Adam Wainwright,592866,Trevor Williams
+630967,2020-07-25,2020-07-25T19:10:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,4,1,5,642232,Ryan Yarbrough,533167,Matt Shoemaker
+630942,2020-07-25,2020-07-25T20:05:00Z,5325,Globe Life Field,Texas Rangers,Colorado Rockies,140,115,2,3,5,501985,Mike Minor,592351,Jon Gray
+631108,2020-07-25,2020-07-25T20:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Miami Marlins,143,146,7,1,8,554430,Zack Wheeler,592761,Caleb Smith
+631181,2020-07-25,2020-07-25T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,133,108,1,4,5,640455,Sean Manaea,605164,Dylan Bundy
+631453,2020-07-25,2020-07-25T20:10:00Z,2392,Minute Maid Park,Houston Astros,Seattle Mariners,117,136,7,2,9,621121,Lance McCullers Jr.,592836,Taijuan Walker
+631382,2020-07-25,2020-07-25T20:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,4,5,9,622072,Alex Wood,657277,Logan Webb
+631241,2020-07-25,2020-07-25T20:10:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,3,5,8,571927,Steven Matz,608331,Max Fried
+631603,2020-07-25,2020-07-25T21:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Detroit Tigers,113,116,4,6,10,622491,Luis Castillo,467100,Iván Nova
+631565,2020-07-25,2020-07-25T21:10:00Z,5,Progressive Field,Cleveland Indians,Kansas City Royals,114,118,2,3,5,605182,Mike Clevinger,663903,Brady Singer
+630899,2020-07-25,2020-07-25T23:15:00Z,3309,Nationals Park,Washington Nationals,New York Yankees,120,147,9,2,11,607200,Erick Fedde,572020,James Paxton
+631092,2020-07-25,2020-07-26T01:10:00Z,2680,Petco Park,San Diego Padres,Arizona Diamondbacks,135,109,5,1,6,659275,Dinelson Lamet,592662,Robbie Ray
+631126,2020-07-26,2020-07-26T17:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Miami Marlins,143,146,6,11,17,592826,Vince Velasquez,667498,Robert Dugger
+630856,2020-07-26,2020-07-26T17:05:00Z,3309,Nationals Park,Washington Nationals,New York Yankees,120,147,2,3,5,571578,Patrick Corbin,642528,Jonathan Loáisiga
+631591,2020-07-26,2020-07-26T17:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Detroit Tigers,113,116,2,3,5,545333,Trevor Bauer,605513,Spencer Turnbull
+631566,2020-07-26,2020-07-26T17:10:00Z,5,Progressive Field,Cleveland Indians,Kansas City Royals,114,118,9,2,11,471911,Carlos Carrasco,671790,Ronald Bolaños
+630968,2020-07-26,2020-07-26T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,6,5,11,605483,Blake Snell,641672,Thomas Hatch
+631668,2020-07-26,2020-07-26T17:35:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,4,7,11,543901,Ryan Weber,453281,Wade LeBlanc
+631441,2020-07-26,2020-07-26T18:10:00Z,2392,Minute Maid Park,Houston Astros,Seattle Mariners,117,136,6,7,13,425844,Zack Greinke,579328,Yusei Kikuchi
+631517,2020-07-26,2020-07-26T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,145,142,2,14,16,625643,Reynaldo López,628317,Kenta Maeda
+630993,2020-07-26,2020-07-26T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,1,5,6,641712,Dakota Hudson,656605,Mitch Keller
+631643,2020-07-26,2020-07-26T18:20:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,9,1,10,543022,Tyler Chatwood,642547,Freddy Peralta
+630943,2020-07-26,2020-07-26T18:35:00Z,5325,Globe Life Field,Texas Rangers,Colorado Rockies,140,115,2,5,7,446372,Corey Kluber,607536,Kyle Freeland
+631165,2020-07-26,2020-07-26T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,133,108,6,4,10,571666,Mike Fiers,660271,Shohei Ohtani
+631097,2020-07-26,2020-07-26T20:10:00Z,2680,Petco Park,San Diego Padres,Arizona Diamondbacks,135,109,3,4,7,572070,Garrett Richards,668678,Zac Gallen
+631240,2020-07-26,2020-07-26T23:08:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,1,14,15,519144,Rick Porcello,656794,Sean Newcomb
+631384,2020-07-26,2020-07-27T02:08:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,1,3,4,628711,Julio Urías,592767,Drew Smyly
+631168,2020-07-27,2020-07-27T19:40:00Z,10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,133,108,3,0,3,605135,Chris Bassitt,656288,Griffin Canning
+631098,2020-07-27,2020-07-27T20:10:00Z,2680,Petco Park,San Diego Padres,Arizona Diamondbacks,135,109,6,2,8,664192,Joey Lucchesi,596133,Luke Weaver
+630861,2020-07-27,2020-07-27T22:05:00Z,3309,Nationals Park,Washington Nationals,Toronto Blue Jays,120,141,1,4,5,434671,Aníbal Sánchez,663423,Trent Thornton
+631592,2020-07-27,2020-07-27T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago Cubs,113,112,7,8,15,489119,Wade Miley,452657,Jon Lester
+630969,2020-07-27,2020-07-27T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Atlanta Braves,139,144,14,5,19,607192,Tyler Glasnow,592314,Mike Foltynewicz
+631130,2020-07-27,2020-07-27T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,134,158,5,6,11,643230,Steven Brault,605288,Adrian Houser
+631489,2020-07-27,2020-07-27T23:10:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,6,14,20,605242,Michael Fulmer,543557,Mike Montgomery
+631442,2020-07-27,2020-07-27T23:10:00Z,2392,Minute Maid Park,Houston Astros,Seattle Mariners,117,136,8,5,13,657624,Josh James,608665,Kendall Graveman
+631669,2020-07-27,2020-07-27T23:35:00Z,3,Fenway Park,Boston Red Sox,New York Mets,111,121,4,7,11,592612,Josh Osich,608379,Michael Wacha
+631573,2020-07-28,2020-07-28T19:40:00Z,5,Progressive Field,Cleveland Indians,Chicago White Sox,114,145,4,3,7,650644,Aaron Civale,656302,Dylan Cease
+631567,2020-07-28,2020-07-28T19:45:00Z,5,Progressive Field,Cleveland Indians,Chicago White Sox,114,145,5,3,8,592644,Adam Plutko,607074,Carlos Rodón
+630866,2020-07-28,2020-07-28T22:05:00Z,3309,Nationals Park,Washington Nationals,Toronto Blue Jays,120,141,1,5,6,608723,Austin Voth,543699,Tanner Roark
+631593,2020-07-28,2020-07-28T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago Cubs,113,112,5,8,13,641816,Tyler Mahle,621219,Alec Mills
+630970,2020-07-28,2020-07-28T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Atlanta Braves,139,144,5,2,7,630023,Yonny Chirinos,657140,Kyle Wright
+631132,2020-07-28,2020-07-28T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,134,158,8,6,14,502706,Derek Holland,458676,Josh Lindblom
+631490,2020-07-28,2020-07-28T23:10:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,4,3,7,665621,Rony García,622092,Kyle Zimmer
+631663,2020-07-28,2020-07-28T23:30:00Z,3,Fenway Park,Boston Red Sox,New York Mets,111,121,3,8,11,664180,Matt Hall,656849,David Peterson
+631269,2020-07-28,2020-07-29T00:10:00Z,3312,Target Field,Minnesota Twins,St. Louis Cardinals,142,138,6,3,9,456701,Homer Bailey,593372,Carlos Martinez
+630944,2020-07-28,2020-07-29T01:05:00Z,5325,Globe Life Field,Texas Rangers,Arizona Diamondbacks,140,109,1,4,5,502043,Kyle Gibson,518876,Merrill Kelly
+631443,2020-07-28,2020-07-29T01:10:00Z,2392,Minute Maid Park,Houston Astros,Los Angeles Dodgers,117,119,2,5,7,664285,Framber Valdez,621111,Walker Buehler
+631171,2020-07-28,2020-07-29T01:40:00Z,10,Oakland Coliseum,Oakland Athletics,Colorado Rockies,133,115,3,8,11,596043,Daniel Mengden,622608,Antonio Senzatela
+631387,2020-07-28,2020-07-29T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,10,2,12,663776,Patrick Sandoval,656954,Justus Sheffield
+631014,2020-07-28,2020-07-29T01:45:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,3,5,8,502188,Jeff Samardzija,605200,Zach Davies
+631172,2020-07-29,2020-07-29T19:40:00Z,10,Oakland Coliseum,Oakland Athletics,Colorado Rockies,133,115,1,5,6,593423,Frankie Montas,608566,Germán Márquez
+630940,2020-07-29,2020-07-29T20:05:00Z,5325,Globe Life Field,Texas Rangers,Arizona Diamondbacks,140,109,7,4,11,458681,Lance Lynn,518516,Madison Bumgarner
+630916,2020-07-29,2020-07-29T22:05:00Z,3309,Nationals Park,Toronto Blue Jays,Washington Nationals,141,120,0,4,4,663878,Nate Pearson,453286,Max Scherzer
+631569,2020-07-29,2020-07-29T22:10:00Z,5,Progressive Field,Cleveland Indians,Chicago White Sox,114,145,0,4,4,668676,Zach Plesac,608337,Lucas Giolito
+631594,2020-07-29,2020-07-29T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago Cubs,113,112,12,7,19,543243,Sonny Gray,543294,Kyle Hendricks
+631137,2020-07-29,2020-07-29T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,134,158,0,3,3,605397,Joe Musgrove,605540,Brandon Woodruff
+631492,2020-07-29,2020-07-29T23:10:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,5,4,9,571510,Matthew Boyd,518633,Danny Duffy
+631444,2020-07-29,2020-07-29T23:10:00Z,2392,Minute Maid Park,Houston Astros,Los Angeles Dodgers,117,119,2,4,6,664299,Cristian Javier,669160,Dustin May
+631239,2020-07-29,2020-07-29T23:10:00Z,3289,Citi Field,New York Mets,Boston Red Sox,121,111,5,6,11,594798,Jacob deGrom,543135,Nathan Eovaldi
+630272,2020-07-29,2020-07-29T23:10:00Z,4705,Truist Park,Atlanta Braves,Tampa Bay Rays,144,139,7,4,11,647336,Michael Soroka,450203,Charlie Morton
+630495,2020-07-29,2020-07-29T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,3,9,12,592879,Asher Wojciechowski,543037,Gerrit Cole
+631270,2020-07-29,2020-07-30T00:10:00Z,3312,Target Field,Minnesota Twins,St. Louis Cardinals,142,138,3,0,3,448179,Rich Hill,594965,Daniel Ponce de Leon
+631033,2020-07-29,2020-07-30T01:45:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,7,6,13,456501,Johnny Cueto,663978,Chris Paddack
+631389,2020-07-29,2020-07-30T02:10:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,7,10,17,571760,Andrew Heaney,643290,Justin Dunn
+630917,2020-07-30,2020-07-30T20:05:00Z,3309,Nationals Park,Toronto Blue Jays,Washington Nationals,141,120,4,6,10,547943,Hyun Jin Ryu,607200,Erick Fedde
+630496,2020-07-30,2020-07-30T23:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,6,8,14,607644,John Means,457918,J.A. Happ
+631238,2020-07-30,2020-07-30T23:07:00Z,3289,Citi Field,New York Mets,Boston Red Sox,121,111,2,4,6,571927,Steven Matz,527048,Martín Pérez
+631271,2020-07-30,2020-07-30T23:07:00Z,3312,Target Field,Minnesota Twins,Cleveland Indians,142,114,0,2,2,621244,José Berríos,669456,Shane Bieber
+631494,2020-07-30,2020-07-30T23:10:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,3,5,8,467100,Iván Nova,663903,Brady Singer
+630346,2020-07-30,2020-07-30T23:10:00Z,4705,Truist Park,Atlanta Braves,Tampa Bay Rays,144,139,2,1,3,608331,Max Fried,642232,Ryan Yarbrough
+630145,2020-07-30,2020-07-31T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,3,6,9,592662,Robbie Ray,548389,Ross Stripling
+631390,2020-07-30,2020-07-31T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,5,8,13,605164,Dylan Bundy,594835,Marco Gonzales
+631018,2020-07-30,2020-07-31T01:45:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,7,12,19,592332,Kevin Gausman,659275,Dinelson Lamet
+631222,2020-07-31,2020-07-31T23:05:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,5,1,6,656756,Jordan Montgomery,543901,Ryan Weber
+631480,2020-07-31,2020-07-31T23:10:00Z,2394,Comerica Park,Detroit Tigers,Cincinnati Reds,116,113,7,2,9,605513,Spencer Turnbull,622491,Luis Castillo
+630275,2020-07-31,2020-07-31T23:10:00Z,4705,Truist Park,Atlanta Braves,New York Mets,144,121,11,10,21,656794,Sean Newcomb,519144,Rick Porcello
+630592,2020-07-31,2020-07-31T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,6,3,9,502171,Alex Cobb,605483,Blake Snell
+631410,2020-07-31,2020-08-01T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,2,3,5,663460,Kris Bubic,572971,Dallas Keuchel
+631539,2020-07-31,2020-08-01T00:10:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,7,8,15,592351,Jon Gray,572070,Garrett Richards
+631272,2020-07-31,2020-08-01T00:10:00Z,3312,Target Field,Minnesota Twins,Cleveland Indians,142,114,4,1,5,677976,Randy Dobnak,605182,Mike Clevinger
+631647,2020-07-31,2020-08-01T00:15:00Z,17,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,112,134,6,3,9,506433,Yu Darvish,592866,Trevor Williams
+631391,2020-07-31,2020-08-01T01:10:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,6,9,15,542882,Matt Andriese,621121,Lance McCullers Jr.
+631019,2020-07-31,2020-08-01T01:10:00Z,2395,Oracle Park,San Francisco Giants,Texas Rangers,137,140,9,2,11,657277,Logan Webb,501985,Mike Minor
+630201,2020-07-31,2020-08-01T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,5,3,8,668678,Zac Gallen,664062,Tony Gonsolin
+631066,2020-07-31,2020-08-01T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Oakland Athletics,136,133,5,3,8,592836,Taijuan Walker,640455,Sean Manaea
+631413,2020-08-01,2020-08-01T23:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,5,11,16,671790,Ronald Bolaños,461829,Gio Gonzalez
+631392,2020-08-01,2020-08-01T23:07:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,5,4,9,656288,Griffin Canning,425844,Zack Greinke
+631224,2020-08-01,2020-08-01T23:07:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,5,2,7,547888,Masahiro Tanaka,643327,Zack Godley
+631273,2020-08-01,2020-08-01T23:10:00Z,3312,Target Field,Minnesota Twins,Cleveland Indians,142,114,3,0,3,628317,Kenta Maeda,471911,Carlos Carrasco
+630278,2020-08-01,2020-08-01T23:10:00Z,4705,Truist Park,Atlanta Braves,New York Mets,144,121,7,1,8,657053,Touki Toussaint,608379,Michael Wacha
+630492,2020-08-01,2020-08-01T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,5,4,9,453281,Wade LeBlanc,607192,Tyler Glasnow
+630100,2020-08-01,2020-08-02T00:10:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,2,11,13,596133,Luke Weaver,628711,Julio Urías
+631540,2020-08-01,2020-08-02T00:10:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,6,1,7,607536,Kyle Freeland,664192,Joey Lucchesi
+631622,2020-08-01,2020-08-02T00:15:00Z,17,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,112,134,4,3,7,543022,Tyler Chatwood,656605,Mitch Keller
+631067,2020-08-01,2020-08-02T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Oakland Athletics,136,133,2,3,5,579328,Yusei Kikuchi,571666,Mike Fiers
+631020,2020-08-01,2020-08-02T01:10:00Z,2395,Oracle Park,San Francisco Giants,Texas Rangers,137,140,7,3,10,592767,Drew Smyly,543475,Jordan Lyles
+631470,2020-08-02,2020-08-02T16:10:00Z,2394,Comerica Park,Detroit Tigers,Cincinnati Reds,116,113,3,4,7,665621,Rony García,543101,Anthony DeSclafani
+631469,2020-08-02,2020-08-02T16:15:00Z,2394,Comerica Park,Detroit Tigers,Cincinnati Reds,116,113,0,4,4,596057,Daniel Norris,545333,Trevor Bauer
+630493,2020-08-02,2020-08-02T17:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,5,1,6,543548,Tommy Milone,630023,Yonny Chirinos
+630280,2020-08-02,2020-08-02T17:10:00Z,4705,Truist Park,Atlanta Braves,New York Mets,144,121,4,0,4,657140,Kyle Wright,656849,David Peterson
+631415,2020-08-02,2020-08-02T18:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,2,9,11,596001,Jakob Junis,656302,Dylan Cease
+631274,2020-08-02,2020-08-02T18:10:00Z,3312,Target Field,Minnesota Twins,Cleveland Indians,142,114,3,1,4,461325,Tyler Clippard,650644,Aaron Civale
+631606,2020-08-02,2020-08-02T18:20:00Z,17,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,112,134,2,1,3,452657,Jon Lester,643230,Steven Brault
+631541,2020-08-02,2020-08-02T19:10:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,9,6,15,622608,Antonio Senzatela,605200,Zach Davies
+631021,2020-08-02,2020-08-02T20:05:00Z,2395,Oracle Park,San Francisco Giants,Texas Rangers,137,140,5,9,14,502188,Jeff Samardzija,663465,Kolby Allard
+631393,2020-08-02,2020-08-02T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,5,6,11,660271,Shohei Ohtani,657624,Josh James
+630101,2020-08-02,2020-08-02T20:10:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,0,3,3,518876,Merrill Kelly,477132,Clayton Kershaw
+631068,2020-08-02,2020-08-02T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Oakland Athletics,136,133,2,3,5,608665,Kendall Graveman,605135,Chris Bassitt
+631210,2020-08-02,2020-08-02T23:08:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,9,7,16,572020,James Paxton,592169,Austin Brice
+631596,2020-08-03,2020-08-03T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Cleveland Indians,113,114,3,2,5,543243,Sonny Gray,668676,Zach Plesac
+631219,2020-08-03,2020-08-03T23:05:00Z,3313,Yankee Stadium,New York Yankees,Philadelphia Phillies,147,143,6,3,9,543037,Gerrit Cole,453562,Jake Arrieta
+630281,2020-08-03,2020-08-03T23:10:00Z,4705,Truist Park,Atlanta Braves,New York Mets,144,121,2,7,9,647336,Michael Soroka,594798,Jacob deGrom
+631275,2020-08-03,2020-08-04T00:10:00Z,3312,Target Field,Minnesota Twins,Pittsburgh Pirates,142,134,5,4,9,626929,Lewis Thorpe,502706,Derek Holland
+631293,2020-08-03,2020-08-04T00:10:00Z,32,Miller Park,Milwaukee Brewers,Chicago White Sox,158,145,4,6,10,474463,Brett Anderson,607074,Carlos Rodón
+631645,2020-08-03,2020-08-04T00:15:00Z,17,Wrigley Field,Chicago Cubs,Kansas City Royals,112,118,2,0,2,621219,Alec Mills,518633,Danny Duffy
+631542,2020-08-03,2020-08-04T00:40:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,7,6,13,592346,Chi Chi González,456501,Johnny Cueto
+631090,2020-08-03,2020-08-04T01:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,5,4,9,663978,Chris Paddack,621111,Walker Buehler
+631070,2020-08-03,2020-08-04T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Oakland Athletics,136,133,1,11,12,656954,Justus Sheffield,593423,Frankie Montas
+631276,2020-08-04,2020-08-04T18:10:00Z,3312,Target Field,Minnesota Twins,Pittsburgh Pirates,142,134,7,3,10,621244,José Berríos,605397,Joe Musgrove
+631597,2020-08-04,2020-08-04T22:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Cleveland Indians,113,114,2,4,6,641816,Tyler Mahle,669456,Shane Bieber
+630971,2020-08-04,2020-08-04T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,5,1,6,450203,Charlie Morton,543135,Nathan Eovaldi
+630874,2020-08-04,2020-08-04T23:05:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,5,3,8,571578,Patrick Corbin,571927,Steven Matz
+630284,2020-08-04,2020-08-04T23:10:00Z,4705,Truist Park,Atlanta Braves,Toronto Blue Jays,144,141,10,1,11,608331,Max Fried,533167,Matt Shoemaker
+630575,2020-08-04,2020-08-04T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Miami Marlins,110,146,0,4,4,607644,John Means,641154,Pablo López
+631294,2020-08-04,2020-08-05T00:10:00Z,32,Miller Park,Milwaukee Brewers,Chicago White Sox,158,145,2,3,5,605540,Brandon Woodruff,608337,Lucas Giolito
+631608,2020-08-04,2020-08-05T00:15:00Z,17,Wrigley Field,Chicago Cubs,Kansas City Royals,112,118,5,4,9,543294,Kyle Hendricks,663903,Brady Singer
+631543,2020-08-04,2020-08-05T00:40:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,5,2,7,608566,Germán Márquez,592332,Kevin Gausman
+630109,2020-08-04,2020-08-05T01:10:00Z,15,Chase Field,Arizona Diamondbacks,Houston Astros,109,117,2,8,10,518516,Madison Bumgarner,664299,Cristian Javier
+631069,2020-08-04,2020-08-05T01:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,2,5,7,659275,Dinelson Lamet,669160,Dustin May
+631173,2020-08-04,2020-08-05T01:10:00Z,10,Oakland Coliseum,Oakland Athletics,Texas Rangers,133,140,5,1,6,666200,Jesús Luzardo,458681,Lance Lynn
+631057,2020-08-04,2020-08-05T02:10:00Z,680,T-Mobile Park,Seattle Mariners,Los Angeles Angels,136,108,3,5,8,643290,Justin Dunn,571760,Andrew Heaney
+631220,2020-08-05,2020-08-05T20:05:00Z,2681,Citizens Bank Park,New York Yankees,Philadelphia Phillies,147,143,7,11,18,457918,J.A. Happ,554430,Zack Wheeler
+631127,2020-08-05,2020-08-05T20:10:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Yankees,143,147,1,3,4,605400,Aaron Nola,642528,Jonathan Loáisiga
+630591,2020-08-05,2020-08-05T21:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Miami Marlins,110,146,0,1,1,502171,Alex Cobb,622694,Elieser Hernández
+631339,2020-08-05,2020-08-05T21:10:00Z,2,Oriole Park at Camden Yards,Miami Marlins,Baltimore Orioles,146,110,2,1,3,595001,Josh A. Smith,592879,Asher Wojciechowski
+630878,2020-08-05,2020-08-05T22:05:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,1,3,4,453286,Max Scherzer,519144,Rick Porcello
+630972,2020-08-05,2020-08-05T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,0,5,5,642232,Ryan Yarbrough,527048,Martín Pérez
+631140,2020-08-05,2020-08-05T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Minnesota Twins,134,142,2,5,7,592866,Trevor Williams,677976,Randy Dobnak
+631570,2020-08-05,2020-08-05T23:10:00Z,5,Progressive Field,Cleveland Indians,Cincinnati Reds,114,113,2,0,2,605182,Mike Clevinger,622088,Tejay Antone
+630307,2020-08-05,2020-08-05T23:10:00Z,4705,Truist Park,Atlanta Braves,Toronto Blue Jays,144,141,1,2,3,656794,Sean Newcomb,547943,Hyun Jin Ryu
+631417,2020-08-05,2020-08-06T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago Cubs,118,112,1,6,7,663460,Kris Bubic,506433,Yu Darvish
+631518,2020-08-05,2020-08-06T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Milwaukee Brewers,145,158,0,1,1,572971,Dallas Keuchel,605288,Adrian Houser
+631544,2020-08-05,2020-08-06T00:40:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,3,4,7,592351,Jon Gray,657277,Logan Webb
+630110,2020-08-05,2020-08-06T01:10:00Z,15,Chase Field,Arizona Diamondbacks,Houston Astros,109,117,14,7,21,592662,Robbie Ray,621121,Lance McCullers Jr.
+631085,2020-08-05,2020-08-06T01:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,6,7,13,572070,Garrett Richards,548389,Ross Stripling
+631174,2020-08-05,2020-08-06T01:10:00Z,10,Oakland Coliseum,Oakland Athletics,Texas Rangers,133,140,6,4,10,640455,Sean Manaea,502043,Kyle Gibson
+631043,2020-08-05,2020-08-06T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Los Angeles Angels,136,108,7,6,13,594835,Marco Gonzales,527054,Julio Teheran
+631148,2020-08-06,2020-08-06T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Minnesota Twins,134,142,6,5,11,664141,JT Brubaker,628317,Kenta Maeda
+631545,2020-08-06,2020-08-06T19:10:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,6,4,10,607536,Kyle Freeland,542881,Tyler Anderson
+631175,2020-08-06,2020-08-06T19:40:00Z,10,Oakland Coliseum,Oakland Athletics,Texas Rangers,133,140,6,4,10,571666,Mike Fiers,501985,Mike Minor
+631042,2020-08-06,2020-08-06T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Los Angeles Angels,136,108,1,6,7,592836,Taijuan Walker,605164,Dylan Bundy
+631129,2020-08-06,2020-08-06T22:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Yankees,143,147,5,4,9,621107,Zach Eflin,656756,Jordan Montgomery
+631571,2020-08-06,2020-08-06T22:10:00Z,5,Progressive Field,Cleveland Indians,Cincinnati Reds,114,113,13,0,13,471911,Carlos Carrasco,622491,Luis Castillo
+630111,2020-08-06,2020-08-06T23:07:00Z,15,Chase Field,Arizona Diamondbacks,Houston Astros,109,117,5,4,9,668678,Zac Gallen,656232,Brandon Bielak
+631425,2020-08-06,2020-08-06T23:07:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago Cubs,118,112,13,2,15,641745,Brad Keller,543022,Tyler Chatwood
+630313,2020-08-06,2020-08-06T23:10:00Z,4705,Truist Park,Atlanta Braves,Toronto Blue Jays,144,141,4,3,7,657053,Touki Toussaint,663878,Nate Pearson
+631340,2020-08-06,2020-08-06T23:35:00Z,2,Oriole Park at Camden Yards,Miami Marlins,Baltimore Orioles,146,110,8,7,15,657141,Jordan Yamamoto,453281,Wade LeBlanc
+631513,2020-08-06,2020-08-07T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Milwaukee Brewers,145,158,3,8,11,461829,Gio Gonzalez,458676,Josh Lindblom
+630879,2020-08-07,2020-08-07T22:05:00Z,3309,Nationals Park,Washington Nationals,Baltimore Orioles,120,110,0,11,11,434671,Aníbal Sánchez,543548,Tommy Milone
+630974,2020-08-07,2020-08-07T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,New York Yankees,139,147,1,0,1,605483,Blake Snell,547888,Masahiro Tanaka
+631105,2020-08-07,2020-08-07T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Detroit Tigers,134,116,13,17,30,641771,Chad Kuhl,571510,Matthew Boyd
+631237,2020-08-07,2020-08-07T23:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,3,4,7,608379,Michael Wacha,650668,Humberto Mejía
+631623,2020-08-07,2020-08-07T23:30:00Z,3,Fenway Park,Boston Red Sox,Toronto Blue Jays,111,141,5,3,8,543901,Ryan Weber,543699,Tanner Roark
+631419,2020-08-07,2020-08-08T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,3,2,5,596001,Jakob Junis,656970,Devin Smeltzer
+631504,2020-08-07,2020-08-08T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Cleveland Indians,145,114,2,0,2,656302,Dylan Cease,650644,Aaron Civale
+631295,2020-08-07,2020-08-08T00:10:00Z,32,Miller Park,Milwaukee Brewers,Cincinnati Reds,158,113,3,8,11,641778,Eric Lauer,545333,Trevor Bauer
+630920,2020-08-07,2020-08-08T01:05:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Angels,140,108,4,3,7,543475,Jordan Lyles,656288,Griffin Canning
+631176,2020-08-07,2020-08-08T01:10:00Z,10,Oakland Coliseum,Oakland Athletics,Houston Astros,133,117,3,2,5,605135,Chris Bassitt,425844,Zack Greinke
+631073,2020-08-07,2020-08-08T01:10:00Z,2680,Petco Park,San Diego Padres,Arizona Diamondbacks,135,109,3,0,3,605200,Zach Davies,596133,Luke Weaver
+631045,2020-08-07,2020-08-08T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Colorado Rockies,136,115,4,8,12,579328,Yusei Kikuchi,622608,Antonio Senzatela
+631358,2020-08-07,2020-08-08T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,7,2,9,628711,Julio Urías,502188,Jeff Samardzija
+631503,2020-08-08,2020-08-08T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Cleveland Indians,145,114,1,7,8,641582,Matt Foster,668676,Zach Plesac
+630962,2020-08-08,2020-08-08T18:10:00Z,12,Tropicana Field,Tampa Bay Rays,New York Yankees,139,147,4,8,12,607192,Tyler Glasnow,543037,Gerrit Cole
+630973,2020-08-08,2020-08-08T18:15:00Z,12,Tropicana Field,Tampa Bay Rays,New York Yankees,139,147,5,3,8,657044,Ryan Thompson,650633,Michael King
+631106,2020-08-08,2020-08-08T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Detroit Tigers,134,116,5,11,16,502706,Derek Holland,467100,Iván Nova
+631177,2020-08-08,2020-08-08T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,Houston Astros,133,117,3,1,4,593423,Frankie Montas,664285,Framber Valdez
+630880,2020-08-08,2020-08-08T22:05:00Z,3309,Nationals Park,Washington Nationals,Baltimore Orioles,120,110,3,5,8,608723,Austin Voth,664045,Thomas Eshelman
+631133,2020-08-08,2020-08-08T22:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,5,0,5,453562,Jake Arrieta,657140,Kyle Wright
+630935,2020-08-08,2020-08-08T23:05:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Angels,140,108,2,0,2,663465,Kolby Allard,663776,Patrick Sandoval
+631420,2020-08-08,2020-08-08T23:05:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,9,6,15,518633,Danny Duffy,543606,Jake Odorizzi
+631236,2020-08-08,2020-08-08T23:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,8,4,12,656849,David Peterson,641447,Daniel Castano
+631296,2020-08-08,2020-08-08T23:10:00Z,32,Miller Park,Milwaukee Brewers,Cincinnati Reds,158,113,1,4,5,474463,Brett Anderson,543101,Anthony DeSclafani
+631658,2020-08-08,2020-08-08T23:30:00Z,3,Fenway Park,Boston Red Sox,Toronto Blue Jays,111,141,1,2,3,643327,Zack Godley,502624,Chase Anderson
+631074,2020-08-08,2020-08-09T01:10:00Z,2680,Petco Park,San Diego Padres,Arizona Diamondbacks,135,109,2,3,5,663978,Chris Paddack,518876,Merrill Kelly
+631046,2020-08-08,2020-08-09T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Colorado Rockies,136,115,0,5,5,676606,Nick Margevicius,624418,Ryan Castellani
+631343,2020-08-08,2020-08-09T01:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,4,5,9,477132,Clayton Kershaw,456501,Johnny Cueto
+630882,2020-08-09,2020-08-09T16:35:00Z,3309,Nationals Park,Washington Nationals,Baltimore Orioles,120,110,2,6,8,544931,Stephen Strasburg,592879,Asher Wojciechowski
+631136,2020-08-09,2020-08-09T17:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,2,5,7,592826,Vince Velasquez,660623,Huascar Ynoa
+631235,2020-08-09,2020-08-09T17:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,4,2,6,594798,Jacob deGrom,641154,Pablo López
+630946,2020-08-09,2020-08-09T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,New York Yankees,139,147,4,3,7,450203,Charlie Morton,572020,James Paxton
+631110,2020-08-09,2020-08-09T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Detroit Tigers,134,116,1,2,3,643230,Steven Brault,605513,Spencer Turnbull
+631630,2020-08-09,2020-08-09T17:35:00Z,3,Fenway Park,Boston Red Sox,Toronto Blue Jays,111,141,5,3,8,543135,Nathan Eovaldi,533167,Matt Shoemaker
+631421,2020-08-09,2020-08-09T18:05:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,4,2,6,663903,Brady Singer,621244,José Berríos
+631297,2020-08-09,2020-08-09T18:10:00Z,32,Miller Park,Milwaukee Brewers,Cincinnati Reds,158,113,9,3,12,605540,Brandon Woodruff,543243,Sonny Gray
+630922,2020-08-09,2020-08-09T18:35:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Angels,140,108,7,3,10,458681,Lance Lynn,571760,Andrew Heaney
+631178,2020-08-09,2020-08-09T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,Houston Astros,133,117,7,2,9,666200,Jesús Luzardo,664299,Cristian Javier
+631075,2020-08-09,2020-08-09T20:10:00Z,2680,Petco Park,San Diego Padres,Arizona Diamondbacks,135,109,9,5,14,659275,Dinelson Lamet,518516,Madison Bumgarner
+631047,2020-08-09,2020-08-09T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Colorado Rockies,136,115,5,3,8,656954,Justus Sheffield,608566,Germán Márquez
+631373,2020-08-09,2020-08-09T20:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,119,137,6,2,8,621111,Walker Buehler,592332,Kevin Gausman
+631506,2020-08-09,2020-08-09T23:08:00Z,4,Guaranteed Rate Field,Chicago White Sox,Cleveland Indians,145,114,4,5,9,608337,Lucas Giolito,669456,Shane Bieber
+631138,2020-08-10,2020-08-10T22:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,13,8,21,605400,Aaron Nola,656794,Sean Newcomb
+631233,2020-08-10,2020-08-10T23:10:00Z,3289,Citi Field,New York Mets,Washington Nationals,121,120,4,16,20,571927,Steven Matz,571578,Patrick Corbin
+631473,2020-08-10,2020-08-10T23:10:00Z,2394,Comerica Park,Detroit Tigers,Chicago White Sox,116,145,5,1,6,605242,Michael Fulmer,572971,Dallas Keuchel
+631631,2020-08-10,2020-08-10T23:30:00Z,3,Fenway Park,Boston Red Sox,Tampa Bay Rays,111,139,7,8,15,518489,Ryan Brasier,642232,Ryan Yarbrough
+631298,2020-08-10,2020-08-11T00:10:00Z,32,Miller Park,Milwaukee Brewers,Minnesota Twins,158,142,2,4,6,605288,Adrian Houser,677976,Randy Dobnak
+631546,2020-08-10,2020-08-11T00:40:00Z,19,Coors Field,Colorado Rockies,Arizona Diamondbacks,115,109,8,12,20,592351,Jon Gray,592662,Robbie Ray
+630923,2020-08-10,2020-08-11T01:05:00Z,5325,Globe Life Field,Texas Rangers,Seattle Mariners,140,136,2,10,12,502043,Kyle Gibson,643290,Justin Dunn
+631445,2020-08-10,2020-08-11T01:10:00Z,2392,Minute Maid Park,Houston Astros,San Francisco Giants,117,137,6,4,10,621121,Lance McCullers Jr.,657277,Logan Webb
+631395,2020-08-10,2020-08-11T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Oakland Athletics,108,133,10,9,19,527054,Julio Teheran,640455,Sean Manaea
+631346,2020-08-10,2020-08-11T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,119,135,1,2,3,669160,Dustin May,606131,Luis Perdomo
+630901,2020-08-11,2020-08-11T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Miami Marlins,141,146,5,4,9,547943,Hyun Jin Ryu,622694,Elieser Hernández
+631598,2020-08-11,2020-08-11T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Kansas City Royals,113,118,6,5,11,622491,Luis Castillo,663460,Kris Bubic
+631139,2020-08-11,2020-08-11T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Baltimore Orioles,143,110,9,10,19,554430,Zack Wheeler,502171,Alex Cobb
+631192,2020-08-11,2020-08-11T23:05:00Z,3313,Yankee Stadium,New York Yankees,Atlanta Braves,147,144,9,6,15,656756,Jordan Montgomery,657053,Touki Toussaint
+631572,2020-08-11,2020-08-11T23:10:00Z,5,Progressive Field,Cleveland Indians,Chicago Cubs,114,112,1,7,8,592644,Adam Plutko,452657,Jon Lester
+631243,2020-08-11,2020-08-11T23:10:00Z,3289,Citi Field,New York Mets,Washington Nationals,121,120,1,2,3,519144,Rick Porcello,453286,Max Scherzer
+631474,2020-08-11,2020-08-11T23:10:00Z,2394,Comerica Park,Detroit Tigers,Chicago White Sox,116,145,4,8,12,641302,Tyler Alexander,461829,Gio Gonzalez
+631646,2020-08-11,2020-08-11T23:30:00Z,3,Fenway Park,Boston Red Sox,Tampa Bay Rays,111,139,2,8,10,527048,Martín Pérez,552640,Andrew Kittredge
+631299,2020-08-11,2020-08-12T00:10:00Z,32,Miller Park,Milwaukee Brewers,Minnesota Twins,158,142,6,4,10,458676,Josh Lindblom,461325,Tyler Clippard
+631547,2020-08-11,2020-08-12T00:40:00Z,19,Coors Field,Colorado Rockies,Arizona Diamondbacks,115,109,8,7,15,607536,Kyle Freeland,668678,Zac Gallen
+630924,2020-08-11,2020-08-12T01:05:00Z,5325,Globe Life Field,Texas Rangers,Seattle Mariners,140,136,4,2,6,501985,Mike Minor,594835,Marco Gonzales
+631446,2020-08-11,2020-08-12T01:10:00Z,2392,Minute Maid Park,Houston Astros,San Francisco Giants,117,137,6,7,13,656232,Brandon Bielak,542881,Tyler Anderson
+631396,2020-08-11,2020-08-12T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Oakland Athletics,108,133,6,0,6,605164,Dylan Bundy,571666,Mike Fiers
+631347,2020-08-11,2020-08-12T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,119,135,2,6,8,548389,Ross Stripling,572070,Garrett Richards
+631475,2020-08-12,2020-08-12T17:10:00Z,2394,Comerica Park,Detroit Tigers,Chicago White Sox,116,145,5,7,12,571510,Matthew Boyd,656302,Dylan Cease
+631535,2020-08-12,2020-08-12T19:10:00Z,19,Coors Field,Colorado Rockies,Arizona Diamondbacks,115,109,7,13,20,622608,Antonio Senzatela,596133,Luke Weaver
+631397,2020-08-12,2020-08-12T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Oakland Athletics,108,133,4,8,12,656288,Griffin Canning,605135,Chris Bassitt
+631568,2020-08-12,2020-08-12T22:10:00Z,5,Progressive Field,Cleveland Indians,Chicago Cubs,114,112,2,7,9,471911,Carlos Carrasco,543294,Kyle Hendricks
+630902,2020-08-12,2020-08-12T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Miami Marlins,141,146,11,14,25,663878,Nate Pearson,657141,Jordan Yamamoto
+631599,2020-08-12,2020-08-12T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Kansas City Royals,113,118,4,5,9,489119,Wade Miley,641745,Brad Keller
+631141,2020-08-12,2020-08-12T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Baltimore Orioles,143,110,4,5,9,621107,Zach Eflin,453281,Wade LeBlanc
+631208,2020-08-12,2020-08-12T23:05:00Z,3313,Yankee Stadium,New York Yankees,Atlanta Braves,147,144,6,3,9,547888,Masahiro Tanaka,660623,Huascar Ynoa
+631232,2020-08-12,2020-08-12T23:10:00Z,3289,Citi Field,New York Mets,Washington Nationals,121,120,11,6,17,607229,Robert Gsellman,434671,Aníbal Sánchez
+631447,2020-08-12,2020-08-12T23:10:00Z,2392,Minute Maid Park,Houston Astros,San Francisco Giants,117,137,5,1,6,425844,Zack Greinke,502239,Trevor Cahill
+631300,2020-08-12,2020-08-12T23:10:00Z,32,Miller Park,Milwaukee Brewers,Minnesota Twins,158,142,2,12,14,641778,Eric Lauer,628317,Kenta Maeda
+631648,2020-08-12,2020-08-12T23:30:00Z,3,Fenway Park,Boston Red Sox,Tampa Bay Rays,111,139,5,9,14,643327,Zack Godley,605483,Blake Snell
+630926,2020-08-12,2020-08-13T01:05:00Z,5325,Globe Life Field,Texas Rangers,Seattle Mariners,140,136,7,4,11,543475,Jordan Lyles,592836,Taijuan Walker
+631350,2020-08-12,2020-08-13T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,119,135,6,0,6,664062,Tony Gonsolin,605200,Zach Davies
+631231,2020-08-13,2020-08-13T17:10:00Z,3289,Citi Field,New York Mets,Washington Nationals,121,120,8,2,10,656849,David Peterson,608723,Austin Voth
+631142,2020-08-13,2020-08-13T20:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Baltimore Orioles,143,110,4,11,15,453562,Jake Arrieta,664045,Thomas Eshelman
+631650,2020-08-13,2020-08-13T20:30:00Z,3,Fenway Park,Boston Red Sox,Tampa Bay Rays,111,139,8,17,25,606996,Kyle Hart,607192,Tyler Glasnow
+631600,2020-08-13,2020-08-13T21:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,6,9,15,543101,Anthony DeSclafani,592866,Trevor Williams
+631609,2020-08-13,2020-08-13T23:15:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,4,2,6,506433,Yu Darvish,474463,Brett Anderson
+631351,2020-08-13,2020-08-14T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,119,135,11,2,13,628711,Julio Urías,663978,Chris Paddack
+630882,2020-08-14,2020-08-14T21:05:00Z,2,Oriole Park at Camden Yards,Washington Nationals,Baltimore Orioles,120,110,2,6,8,544931,Stephen Strasburg,592879,Asher Wojciechowski
+630903,2020-08-14,2020-08-14T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,141,139,12,4,16,543699,Tanner Roark,670950,Trevor Richards
+631683,2020-08-14,2020-08-14T22:59:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Washington Nationals,110,120,3,15,18,543548,Tommy Milone,544931,Stephen Strasburg
+631150,2020-08-14,2020-08-14T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Mets,143,121,6,5,11,675921,Spencer Howard,621141,Walker Lockett
+631196,2020-08-14,2020-08-14T23:05:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,10,3,13,543037,Gerrit Cole,605155,Colten Brewer
+631476,2020-08-14,2020-08-14T23:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Indians,116,114,5,10,15,467100,Iván Nova,650644,Aaron Civale
+631601,2020-08-14,2020-08-14T23:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,8,1,9,543243,Sonny Gray,641771,Chad Kuhl
+631322,2020-08-14,2020-08-14T23:10:00Z,4169,Marlins Park,Miami Marlins,Atlanta Braves,146,144,8,2,10,641154,Pablo López,657140,Kyle Wright
+631610,2020-08-14,2020-08-15T00:15:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,3,4,7,621219,Alec Mills,605540,Brandon Woodruff
+631516,2020-08-14,2020-08-15T00:40:00Z,19,Coors Field,Colorado Rockies,Texas Rangers,115,140,2,3,5,624418,Ryan Castellani,458681,Lance Lynn
+631448,2020-08-14,2020-08-15T01:10:00Z,2392,Minute Maid Park,Houston Astros,Seattle Mariners,117,136,11,1,12,664285,Framber Valdez,641482,Nestor Cortes
+631381,2020-08-14,2020-08-15T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,108,119,4,7,11,663776,Patrick Sandoval,477132,Clayton Kershaw
+630115,2020-08-14,2020-08-15T01:40:00Z,15,Chase Field,Arizona Diamondbacks,San Diego Padres,109,135,5,1,6,518876,Merrill Kelly,659275,Dinelson Lamet
+631022,2020-08-14,2020-08-15T01:45:00Z,2395,Oracle Park,San Francisco Giants,Oakland Athletics,137,133,7,8,15,456501,Johnny Cueto,666200,Jesús Luzardo
+631508,2020-08-15,2020-08-15T17:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,St. Louis Cardinals,145,138,1,5,6,608337,Lucas Giolito,425794,Adam Wainwright
+631507,2020-08-15,2020-08-15T17:15:00Z,4,Guaranteed Rate Field,Chicago White Sox,St. Louis Cardinals,145,138,3,6,9,641582,Matt Foster,663765,Jake Woodford
+631280,2020-08-15,2020-08-15T17:35:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,4,2,6,543606,Jake Odorizzi,453178,Ian Kennedy
+631279,2020-08-15,2020-08-15T17:40:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,2,4,6,621244,José Berríos,518633,Danny Duffy
+631611,2020-08-15,2020-08-15T19:20:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,5,6,11,607067,Colin Rea,605288,Adrian Houser
+631151,2020-08-15,2020-08-15T22:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Mets,143,121,6,2,8,605400,Aaron Nola,571927,Steven Matz
+631477,2020-08-15,2020-08-15T22:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Indians,116,114,1,3,4,605513,Spencer Turnbull,669456,Shane Bieber
+631330,2020-08-15,2020-08-15T22:10:00Z,4169,Marlins Park,Miami Marlins,Atlanta Braves,146,144,1,2,3,641447,Daniel Castano,608331,Max Fried
+630905,2020-08-15,2020-08-15T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,141,139,2,3,5,502624,Chase Anderson,642232,Ryan Yarbrough
+631023,2020-08-15,2020-08-15T23:07:00Z,2395,Oracle Park,San Francisco Giants,Oakland Athletics,137,133,6,7,13,592332,Kevin Gausman,640455,Sean Manaea
+631197,2020-08-15,2020-08-15T23:07:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,11,5,16,572020,James Paxton,543135,Nathan Eovaldi
+631449,2020-08-15,2020-08-15T23:10:00Z,2392,Minute Maid Park,Houston Astros,Seattle Mariners,117,136,2,1,3,664299,Cristian Javier,676606,Nick Margevicius
+630568,2020-08-15,2020-08-15T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Washington Nationals,110,120,7,3,10,592879,Asher Wojciechowski,571578,Patrick Corbin
+630116,2020-08-15,2020-08-16T00:10:00Z,15,Chase Field,Arizona Diamondbacks,San Diego Padres,109,135,7,6,13,622065,Alex Young,615698,Cal Quantrill
+631533,2020-08-15,2020-08-16T00:10:00Z,19,Coors Field,Colorado Rockies,Texas Rangers,115,140,4,6,10,608566,Germán Márquez,502043,Kyle Gibson
+631363,2020-08-15,2020-08-16T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,108,119,5,6,11,571760,Andrew Heaney,621111,Walker Buehler
+631679,2020-08-16,2020-08-16T17:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Washington Nationals,110,120,5,6,11,607644,John Means,453286,Max Scherzer
+631124,2020-08-16,2020-08-16T17:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Mets,143,121,6,2,8,554430,Zack Wheeler,519144,Rick Porcello
+630905,2020-08-16,2020-08-16T17:07:00Z,2756,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,141,139,2,3,5,502624,Chase Anderson,642232,Ryan Yarbrough
+631479,2020-08-16,2020-08-16T17:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Indians,116,114,5,8,13,605242,Michael Fulmer,592644,Adam Plutko
+631324,2020-08-16,2020-08-16T17:10:00Z,4169,Marlins Park,Miami Marlins,Atlanta Braves,146,144,0,4,4,622694,Elieser Hernández,572362,Robbie Erlin
+630872,2020-08-16,2020-08-16T18:07:00Z,2756,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,141,139,5,7,12,533167,Matt Shoemaker,630023,Yonny Chirinos
+631450,2020-08-16,2020-08-16T18:10:00Z,2392,Minute Maid Park,Houston Astros,Seattle Mariners,117,136,3,2,5,621121,Lance McCullers Jr.,656954,Justus Sheffield
+631252,2020-08-16,2020-08-16T18:10:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,4,2,6,677976,Randy Dobnak,663903,Brady Singer
+631491,2020-08-16,2020-08-16T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,St. Louis Cardinals,145,138,7,2,9,572971,Dallas Keuchel,641712,Dakota Hudson
+631612,2020-08-16,2020-08-16T18:20:00Z,17,Wrigley Field,Chicago Cubs,Milwaukee Brewers,112,158,5,6,11,452657,Jon Lester,458676,Josh Lindblom
+631521,2020-08-16,2020-08-16T19:10:00Z,19,Coors Field,Colorado Rockies,Texas Rangers,115,140,10,6,16,592351,Jon Gray,663465,Kolby Allard
+631024,2020-08-16,2020-08-16T20:05:00Z,2395,Oracle Park,San Francisco Giants,Oakland Athletics,137,133,3,15,18,657277,Logan Webb,571666,Mike Fiers
+631364,2020-08-16,2020-08-16T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,108,119,3,8,11,527054,Julio Teheran,669160,Dustin May
+630117,2020-08-16,2020-08-16T20:10:00Z,15,Chase Field,Arizona Diamondbacks,San Diego Padres,109,135,5,4,9,592662,Robbie Ray,572070,Garrett Richards
+631198,2020-08-16,2020-08-16T23:08:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,4,2,6,457918,J.A. Happ,607391,Chris Mazza
+631613,2020-08-17,2020-08-17T21:15:00Z,17,Wrigley Field,Chicago Cubs,St. Louis Cardinals,112,138,1,3,4,543294,Kyle Hendricks,547942,Kwang Hyun Kim
+630996,2020-08-17,2020-08-17T21:20:00Z,17,Wrigley Field,St. Louis Cardinals,Chicago Cubs,138,112,4,5,9,621052,Alex Reyes,668338,Tyson Miller
+631199,2020-08-17,2020-08-17T23:05:00Z,3313,Yankee Stadium,New York Yankees,Boston Red Sox,147,111,6,3,9,656756,Jordan Montgomery,527048,Martín Pérez
+630316,2020-08-17,2020-08-17T23:10:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,7,6,13,657053,Touki Toussaint,434671,Aníbal Sánchez
+631325,2020-08-17,2020-08-17T23:10:00Z,4169,Marlins Park,Miami Marlins,New York Mets,146,121,4,11,15,657141,Jordan Yamamoto,607229,Robert Gsellman
+631678,2020-08-17,2020-08-17T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,110,141,2,7,9,502171,Alex Cobb,547943,Hyun Jin Ryu
+631258,2020-08-17,2020-08-18T00:10:00Z,3312,Target Field,Minnesota Twins,Kansas City Royals,142,118,4,1,5,605538,Matt Wisler,663460,Kris Bubic
+631493,2020-08-17,2020-08-18T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,145,116,7,2,9,461829,Gio Gonzalez,571510,Matthew Boyd
+630927,2020-08-17,2020-08-18T01:05:00Z,5325,Globe Life Field,Texas Rangers,San Diego Padres,140,135,4,14,18,543475,Jordan Lyles,605200,Zach Davies
+631451,2020-08-17,2020-08-18T01:10:00Z,2392,Minute Maid Park,Houston Astros,Colorado Rockies,117,115,2,1,3,656232,Brandon Bielak,607536,Kyle Freeland
+630118,2020-08-17,2020-08-18T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Oakland Athletics,109,133,4,3,7,668678,Zac Gallen,605135,Chris Bassitt
+631352,2020-08-17,2020-08-18T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Seattle Mariners,119,136,11,9,20,548389,Ross Stripling,643290,Justin Dunn
+631365,2020-08-17,2020-08-18T01:40:00Z,1,Angel Stadium,Los Angeles Angels,San Francisco Giants,108,137,7,6,13,656288,Griffin Canning,542881,Tyler Anderson
+631452,2020-08-18,2020-08-18T19:10:00Z,2392,Minute Maid Park,Houston Astros,Colorado Rockies,117,115,2,1,3,425844,Zack Greinke,622608,Antonio Senzatela
+630928,2020-08-18,2020-08-18T20:05:00Z,5325,Globe Life Field,Texas Rangers,San Diego Padres,140,135,4,6,10,501985,Mike Minor,670970,Adrian Morejon
+631366,2020-08-18,2020-08-18T20:10:00Z,1,Angel Stadium,Los Angeles Angels,San Francisco Giants,108,137,2,8,10,605164,Dylan Bundy,502239,Trevor Cahill
+630174,2020-08-18,2020-08-18T22:10:00Z,15,Chase Field,Arizona Diamondbacks,Oakland Athletics,109,133,10,1,11,596133,Luke Weaver,593423,Frankie Montas
+631114,2020-08-18,2020-08-18T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Cleveland Indians,134,114,3,6,9,664141,JT Brubaker,471911,Carlos Carrasco
+631200,2020-08-18,2020-08-18T23:05:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,3,6,9,547888,Masahiro Tanaka,605483,Blake Snell
+631353,2020-08-18,2020-08-18T23:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,Seattle Mariners,119,136,2,1,3,664062,Tony Gonsolin,594835,Marco Gonzales
+630322,2020-08-18,2020-08-18T23:10:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,5,8,13,458708,Josh Tomlin,608723,Austin Voth
+631326,2020-08-18,2020-08-18T23:10:00Z,4169,Marlins Park,Miami Marlins,New York Mets,146,121,3,8,11,650668,Humberto Mejía,621261,Corey Oswalt
+631651,2020-08-18,2020-08-18T23:30:00Z,3,Fenway Park,Boston Red Sox,Philadelphia Phillies,111,143,6,13,19,643327,Zack Godley,621107,Zach Eflin
+631681,2020-08-18,2020-08-18T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,110,141,7,8,15,453281,Wade LeBlanc,663878,Nate Pearson
+631496,2020-08-18,2020-08-19T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,145,116,10,4,14,656302,Dylan Cease,669373,Tarik Skubal
+631260,2020-08-18,2020-08-19T00:10:00Z,3312,Target Field,Minnesota Twins,Milwaukee Brewers,142,158,4,3,7,628317,Kenta Maeda,669203,Corbin Burnes
+631620,2020-08-18,2020-08-19T00:15:00Z,17,Wrigley Field,Chicago Cubs,St. Louis Cardinals,112,138,6,3,9,506433,Yu Darvish,594965,Daniel Ponce de Leon
+631682,2020-08-19,2020-08-19T17:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,110,141,2,5,7,543548,Tommy Milone,543699,Tanner Roark
+631652,2020-08-19,2020-08-19T17:35:00Z,3,Fenway Park,Boston Red Sox,Philadelphia Phillies,111,143,6,3,9,606996,Kyle Hart,453562,Jake Arrieta
+631621,2020-08-19,2020-08-19T18:20:00Z,17,Wrigley Field,Chicago Cubs,St. Louis Cardinals,112,138,3,9,12,621219,Alec Mills,656427,Jack Flaherty
+630997,2020-08-19,2020-08-19T18:25:00Z,17,Wrigley Field,St. Louis Cardinals,Chicago Cubs,138,112,2,4,6,670912,Johan Oviedo,640470,Adbert Alzolay
+631418,2020-08-19,2020-08-19T21:05:00Z,7,Kauffman Stadium,Kansas City Royals,Cincinnati Reds,118,113,4,0,4,641745,Brad Keller,622491,Luis Castillo
+631422,2020-08-19,2020-08-19T21:10:00Z,7,Kauffman Stadium,Kansas City Royals,Cincinnati Reds,118,113,0,5,5,518774,Matt Harvey,545333,Trevor Bauer
+631120,2020-08-19,2020-08-19T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Cleveland Indians,134,114,1,6,7,643230,Steven Brault,650644,Aaron Civale
+631201,2020-08-19,2020-08-19T23:05:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,2,4,6,543037,Gerrit Cole,607192,Tyler Glasnow
+631327,2020-08-19,2020-08-19T23:10:00Z,4169,Marlins Park,Miami Marlins,New York Mets,146,121,3,5,8,641154,Pablo López,594798,Jacob deGrom
+631497,2020-08-19,2020-08-20T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,145,116,5,3,8,641540,Dane Dunning,663554,Casey Mize
+631249,2020-08-19,2020-08-20T00:10:00Z,3312,Target Field,Minnesota Twins,Milwaukee Brewers,142,158,3,9,12,448179,Rich Hill,474463,Brett Anderson
+631522,2020-08-19,2020-08-20T00:40:00Z,19,Coors Field,Colorado Rockies,Houston Astros,115,117,6,13,19,624418,Ryan Castellani,664285,Framber Valdez
+631076,2020-08-19,2020-08-20T01:10:00Z,2680,Petco Park,San Diego Padres,Texas Rangers,135,140,6,3,9,663978,Chris Paddack,458681,Lance Lynn
+631179,2020-08-19,2020-08-20T01:40:00Z,10,Oakland Coliseum,Oakland Athletics,Arizona Diamondbacks,133,109,4,1,5,666200,Jesús Luzardo,518876,Merrill Kelly
+631048,2020-08-19,2020-08-20T01:40:00Z,680,T-Mobile Park,Seattle Mariners,Los Angeles Dodgers,136,119,6,4,10,592836,Taijuan Walker,628711,Julio Urías
+631025,2020-08-19,2020-08-20T01:45:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Angels,137,108,7,2,9,456501,Johnny Cueto,663776,Patrick Sandoval
+631202,2020-08-20,2020-08-20T17:05:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,5,10,15,572020,James Paxton,595928,John Curtiss
+630919,2020-08-20,2020-08-20T17:07:00Z,2756,Sahlen Field,Toronto Blue Jays,Philadelphia Phillies,141,143,3,2,5,502624,Chase Anderson,675921,Spencer Howard
+630918,2020-08-20,2020-08-20T17:12:00Z,2756,Sahlen Field,Toronto Blue Jays,Philadelphia Phillies,141,143,9,8,17,663423,Trent Thornton,592826,Vince Velasquez
+631498,2020-08-20,2020-08-20T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,145,116,9,0,9,608337,Lucas Giolito,605513,Spencer Turnbull
+631523,2020-08-20,2020-08-20T19:10:00Z,19,Coors Field,Colorado Rockies,Houston Astros,115,117,8,10,18,608566,Germán Márquez,664299,Cristian Javier
+631118,2020-08-20,2020-08-20T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Cleveland Indians,134,114,0,2,2,592866,Trevor Williams,669456,Shane Bieber
+631049,2020-08-20,2020-08-20T23:10:00Z,680,T-Mobile Park,Seattle Mariners,Los Angeles Dodgers,136,119,1,6,7,579328,Yusei Kikuchi,477132,Clayton Kershaw
+631248,2020-08-20,2020-08-20T23:10:00Z,3312,Target Field,Minnesota Twins,Milwaukee Brewers,142,158,7,1,8,621244,José Berríos,605540,Brandon Woodruff
+631684,2020-08-20,2020-08-20T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,110,111,1,7,8,592879,Asher Wojciechowski,543135,Nathan Eovaldi
+631077,2020-08-20,2020-08-21T00:10:00Z,2680,Petco Park,San Diego Padres,Texas Rangers,135,140,8,7,15,659275,Dinelson Lamet,502043,Kyle Gibson
+630986,2020-08-20,2020-08-21T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,5,4,9,425794,Adam Wainwright,543243,Sonny Gray
+631180,2020-08-20,2020-08-21T01:40:00Z,10,Oakland Coliseum,Oakland Athletics,Arizona Diamondbacks,133,109,5,1,6,640455,Sean Manaea,622065,Alex Young
+631026,2020-08-20,2020-08-21T01:45:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Angels,137,108,10,5,15,592332,Kevin Gausman,660761,José Suarez
+630886,2020-08-21,2020-08-21T22:05:00Z,3309,Nationals Park,Washington Nationals,Miami Marlins,120,146,2,3,5,571578,Patrick Corbin,622694,Elieser Hernández
+630960,2020-08-21,2020-08-21T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,5,6,11,642232,Ryan Yarbrough,533167,Matt Shoemaker
+631103,2020-08-21,2020-08-21T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,134,158,7,2,9,641771,Chad Kuhl,605288,Adrian Houser
+631548,2020-08-21,2020-08-21T23:10:00Z,5,Progressive Field,Cleveland Indians,Detroit Tigers,114,116,5,10,15,592644,Adam Plutko,605242,Michael Fulmer
+630324,2020-08-21,2020-08-21T23:10:00Z,4705,Truist Park,Atlanta Braves,Philadelphia Phillies,144,143,11,2,13,608331,Max Fried,605400,Aaron Nola
+631665,2020-08-21,2020-08-21T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,110,111,5,8,13,607644,John Means,605155,Colten Brewer
+631409,2020-08-21,2020-08-22T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,7,2,9,518633,Danny Duffy,543606,Jake Odorizzi
+630990,2020-08-21,2020-08-22T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,2,4,6,641712,Dakota Hudson,543101,Anthony DeSclafani
+631633,2020-08-21,2020-08-22T00:15:00Z,17,Wrigley Field,Chicago Cubs,Chicago White Sox,112,145,1,10,11,452657,Jon Lester,572971,Dallas Keuchel
+631078,2020-08-21,2020-08-22T01:10:00Z,2680,Petco Park,San Diego Padres,Houston Astros,135,117,4,3,7,572070,Garrett Richards,621121,Lance McCullers Jr.
+631050,2020-08-21,2020-08-22T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,7,4,11,676606,Nick Margevicius,663465,Kolby Allard
+631348,2020-08-21,2020-08-22T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,5,1,6,621111,Walker Buehler,592351,Jon Gray
+631186,2020-08-21,2020-08-22T01:40:00Z,10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,133,108,5,3,8,571666,Mike Fiers,571760,Andrew Heaney
+631027,2020-08-21,2020-08-22T01:45:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,6,2,8,657277,Logan Webb,592662,Robbie Ray
+630890,2020-08-22,2020-08-22T20:05:00Z,3309,Nationals Park,Washington Nationals,Miami Marlins,120,146,5,4,9,453286,Max Scherzer,641447,Daniel Castano
+631341,2020-08-22,2020-08-22T20:10:00Z,3309,Nationals Park,Miami Marlins,Washington Nationals,146,120,5,3,8,664350,Sixto Sánchez,640444,Wil Crowe
+631104,2020-08-22,2020-08-22T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,134,158,12,5,17,502706,Derek Holland,458676,Josh Lindblom
+631154,2020-08-22,2020-08-22T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,133,108,3,4,7,605135,Chris Bassitt,656288,Griffin Canning
+630948,2020-08-22,2020-08-22T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,2,1,3,642083,Aaron Slegers,547943,Hyun Jin Ryu
+631403,2020-08-22,2020-08-22T23:05:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,2,7,9,663903,Brady Singer,677976,Randy Dobnak
+631564,2020-08-22,2020-08-22T23:10:00Z,5,Progressive Field,Cleveland Indians,Detroit Tigers,114,116,6,1,7,663474,Triston McKenzie,571510,Matthew Boyd
+630338,2020-08-22,2020-08-22T23:10:00Z,4705,Truist Park,Atlanta Braves,Philadelphia Phillies,144,143,6,5,11,572362,Robbie Erlin,554430,Zack Wheeler
+631667,2020-08-22,2020-08-22T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,110,111,5,4,9,502171,Alex Cobb,527048,Martín Pérez
+630991,2020-08-22,2020-08-23T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,3,0,3,547942,Kwang Hyun Kim,489119,Wade Miley
+631638,2020-08-22,2020-08-23T00:15:00Z,17,Wrigley Field,Chicago Cubs,Chicago White Sox,112,145,4,7,11,543294,Kyle Hendricks,625643,Reynaldo López
+631349,2020-08-22,2020-08-23T01:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,4,3,7,669160,Dustin May,607536,Kyle Freeland
+631079,2020-08-22,2020-08-23T01:10:00Z,2680,Petco Park,San Diego Padres,Houston Astros,135,117,13,2,15,605200,Zach Davies,656232,Brandon Bielak
+631051,2020-08-22,2020-08-23T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,10,1,11,656954,Justus Sheffield,543475,Jordan Lyles
+631028,2020-08-22,2020-08-23T01:15:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,5,1,6,542881,Tyler Anderson,668678,Zac Gallen
+630897,2020-08-23,2020-08-23T16:35:00Z,3309,Nationals Park,Washington Nationals,Miami Marlins,120,146,9,3,12,434671,Aníbal Sánchez,650668,Humberto Mejía
+631670,2020-08-23,2020-08-23T17:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,110,111,5,4,9,453281,Wade LeBlanc,643327,Zack Godley
+631551,2020-08-23,2020-08-23T17:10:00Z,5,Progressive Field,Cleveland Indians,Detroit Tigers,114,116,4,7,11,471911,Carlos Carrasco,669373,Tarik Skubal
+630949,2020-08-23,2020-08-23T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,5,4,9,676596,Josh Fleming,663423,Trent Thornton
+631107,2020-08-23,2020-08-23T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,134,158,5,4,9,664141,JT Brubaker,669203,Corbin Burnes
+631412,2020-08-23,2020-08-23T18:05:00Z,7,Kauffman Stadium,Kansas City Royals,Minnesota Twins,118,142,4,5,9,663460,Kris Bubic,605538,Matt Wisler
+630976,2020-08-23,2020-08-23T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,6,2,8,594965,Daniel Ponce de Leon,641816,Tyler Mahle
+631639,2020-08-23,2020-08-23T18:20:00Z,17,Wrigley Field,Chicago Cubs,Chicago White Sox,112,145,2,1,3,506433,Yu Darvish,656302,Dylan Cease
+631354,2020-08-23,2020-08-23T20:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,11,3,14,548389,Ross Stripling,622608,Antonio Senzatela
+631170,2020-08-23,2020-08-23T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,133,108,5,4,9,593423,Frankie Montas,605164,Dylan Bundy
+631080,2020-08-23,2020-08-23T20:10:00Z,2680,Petco Park,San Diego Padres,Houston Astros,135,117,5,3,8,670970,Adrian Morejon,425844,Zack Greinke
+631029,2020-08-23,2020-08-23T20:10:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,6,1,7,502239,Trevor Cahill,596133,Luke Weaver
+631052,2020-08-23,2020-08-23T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,4,1,5,643290,Justin Dunn,501985,Mike Minor
+630273,2020-08-23,2020-08-23T23:08:00Z,4705,Truist Park,Atlanta Braves,Philadelphia Phillies,144,143,4,5,9,458708,Josh Tomlin,621107,Zach Eflin
+630950,2020-08-24,2020-08-24T19:10:00Z,12,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,139,141,4,6,10,605483,Blake Snell,543699,Tanner Roark
+630898,2020-08-24,2020-08-24T22:05:00Z,3309,Nationals Park,Washington Nationals,Miami Marlins,120,146,8,11,19,608723,Austin Voth,641154,Pablo López
+631468,2020-08-24,2020-08-24T23:10:00Z,2394,Comerica Park,Detroit Tigers,Chicago Cubs,116,112,3,9,12,663554,Casey Mize,621219,Alec Mills
+631552,2020-08-24,2020-08-24T23:10:00Z,5,Progressive Field,Cleveland Indians,Minnesota Twins,114,142,2,3,5,650644,Aaron Civale,628317,Kenta Maeda
+630929,2020-08-24,2020-08-25T00:05:00Z,5325,Globe Life Field,Texas Rangers,Oakland Athletics,140,133,3,2,5,458681,Lance Lynn,666200,Jesús Luzardo
+631301,2020-08-24,2020-08-25T00:10:00Z,32,Miller Park,Milwaukee Brewers,Cincinnati Reds,158,113,4,2,6,474463,Brett Anderson,545333,Trevor Bauer
+630977,2020-08-24,2020-08-25T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Kansas City Royals,138,118,9,3,12,656427,Jack Flaherty,641745,Brad Keller
+631439,2020-08-24,2020-08-25T01:10:00Z,2392,Minute Maid Park,Houston Astros,Los Angeles Angels,117,108,11,4,15,664285,Framber Valdez,663776,Patrick Sandoval
+630193,2020-08-24,2020-08-25T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,2,3,5,664199,Taylor Clarke,624418,Ryan Castellani
+631423,2020-08-25,2020-08-25T20:05:00Z,2392,Minute Maid Park,Houston Astros,Los Angeles Angels,117,108,6,3,9,664299,Cristian Javier,660761,José Suarez
+631426,2020-08-25,2020-08-25T20:10:00Z,2392,Minute Maid Park,Houston Astros,Los Angeles Angels,117,108,5,12,17,656232,Brandon Bielak,527054,Julio Teheran
+631227,2020-08-25,2020-08-25T21:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,0,4,4,519144,Rick Porcello,641447,Daniel Castano
+631323,2020-08-25,2020-08-25T21:15:00Z,3289,Citi Field,Miami Marlins,New York Mets,146,121,3,0,3,669432,Trevor Rogers,607625,Seth Lugo
+630855,2020-08-25,2020-08-25T22:05:00Z,3309,Nationals Park,Washington Nationals,Philadelphia Phillies,120,143,3,8,11,607200,Erick Fedde,453562,Jake Arrieta
+630862,2020-08-25,2020-08-25T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Boston Red Sox,141,111,7,9,16,502624,Chase Anderson,606996,Kyle Hart
+630951,2020-08-25,2020-08-25T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Baltimore Orioles,139,110,4,2,6,607192,Tyler Glasnow,543548,Tommy Milone
+631467,2020-08-25,2020-08-25T23:10:00Z,2394,Comerica Park,Detroit Tigers,Chicago Cubs,116,112,7,1,8,605513,Spencer Turnbull,543022,Tyler Chatwood
+631553,2020-08-25,2020-08-25T23:10:00Z,5,Progressive Field,Cleveland Indians,Minnesota Twins,114,142,4,2,6,669456,Shane Bieber,448179,Rich Hill
+630930,2020-08-25,2020-08-26T00:05:00Z,5325,Globe Life Field,Texas Rangers,Oakland Athletics,140,133,3,10,13,502043,Kyle Gibson,640455,Sean Manaea
+631499,2020-08-25,2020-08-26T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Pittsburgh Pirates,145,134,4,0,4,608337,Lucas Giolito,643230,Steven Brault
+631302,2020-08-25,2020-08-26T00:10:00Z,32,Miller Park,Milwaukee Brewers,Cincinnati Reds,158,113,3,2,5,605540,Brandon Woodruff,622491,Luis Castillo
+630978,2020-08-25,2020-08-26T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Kansas City Royals,138,118,4,5,9,425794,Adam Wainwright,518774,Matt Harvey
+631081,2020-08-25,2020-08-26T01:10:00Z,2680,Petco Park,San Diego Padres,Seattle Mariners,135,136,3,8,11,663978,Chris Paddack,594835,Marco Gonzales
+630194,2020-08-25,2020-08-26T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,4,5,9,622065,Alex Young,608566,Germán Márquez
+631015,2020-08-25,2020-08-26T01:45:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Dodgers,137,119,10,8,18,456501,Johnny Cueto,628711,Julio Urías
+631500,2020-08-26,2020-08-26T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Pittsburgh Pirates,145,134,10,3,13,572971,Dallas Keuchel,592866,Trevor Williams
+630361,2020-08-26,2020-08-26T20:10:00Z,4705,Truist Park,Atlanta Braves,New York Yankees,144,147,5,1,6,666120,Ian Anderson,543037,Gerrit Cole
+630360,2020-08-26,2020-08-26T20:15:00Z,4705,Truist Park,Atlanta Braves,New York Yankees,144,147,2,1,3,608331,Max Fried,547888,Masahiro Tanaka
+630853,2020-08-26,2020-08-26T22:05:00Z,3309,Nationals Park,Washington Nationals,Philadelphia Phillies,120,143,2,3,5,571578,Patrick Corbin,605400,Aaron Nola
+630863,2020-08-26,2020-08-26T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Boston Red Sox,141,111,9,1,10,657240,Julian Merryweather,605155,Colten Brewer
+630952,2020-08-26,2020-08-26T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Baltimore Orioles,139,110,4,3,7,670950,Trevor Richards,592879,Asher Wojciechowski
+631455,2020-08-26,2020-08-26T23:10:00Z,2394,Comerica Park,Detroit Tigers,Chicago Cubs,116,112,7,6,13,605242,Michael Fulmer,452657,Jon Lester
+631554,2020-08-26,2020-08-26T23:10:00Z,5,Progressive Field,Cleveland Indians,Minnesota Twins,114,142,6,3,9,605182,Mike Clevinger,621244,José Berríos
+631226,2020-08-26,2020-08-26T23:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,5,4,9,594798,Jacob deGrom,622694,Elieser Hernández
+630931,2020-08-26,2020-08-27T00:05:00Z,5325,Globe Life Field,Texas Rangers,Oakland Athletics,140,133,1,3,4,663465,Kolby Allard,571666,Mike Fiers
+630979,2020-08-26,2020-08-27T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Kansas City Royals,138,118,6,5,11,641712,Dakota Hudson,596001,Jakob Junis
+630099,2020-08-26,2020-08-27T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,7,8,15,592662,Robbie Ray,592351,Jon Gray
+631083,2020-08-27,2020-08-27T19:10:00Z,2680,Petco Park,San Diego Padres,Seattle Mariners,135,136,10,7,17,659275,Dinelson Lamet,664714,Ljay Newsome
+631082,2020-08-27,2020-08-27T19:15:00Z,2680,Petco Park,San Diego Padres,Seattle Mariners,135,136,3,8,11,572070,Garrett Richards,579328,Yusei Kikuchi
+630999,2020-08-27,2020-08-27T19:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,3,4,7,547942,Kwang Hyun Kim,641771,Chad Kuhl
+631000,2020-08-27,2020-08-27T19:20:00Z,2889,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,138,134,0,2,2,670912,Johan Oviedo,664074,Cody Ponce
+631017,2020-08-27,2020-08-27T20:05:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Dodgers,137,119,0,7,7,657277,Logan Webb,477132,Clayton Kershaw
+631001,2020-08-27,2020-08-27T20:10:00Z,2395,Oracle Park,San Francisco Giants,Los Angeles Dodgers,137,119,0,2,2,592332,Kevin Gausman,657571,Caleb Ferguson
+631290,2020-08-27,2020-08-27T21:10:00Z,32,Miller Park,Milwaukee Brewers,Cincinnati Reds,158,113,1,6,7,605288,Adrian Houser,543243,Sonny Gray
+631303,2020-08-27,2020-08-27T21:15:00Z,32,Miller Park,Milwaukee Brewers,Cincinnati Reds,158,113,0,6,6,458676,Josh Lindblom,489119,Wade Miley
+631203,2020-08-28,2020-08-28T20:05:00Z,3313,Yankee Stadium,New York Yankees,New York Mets,147,121,4,6,10,656756,Jordan Montgomery,608379,Michael Wacha
+631230,2020-08-28,2020-08-28T20:10:00Z,3313,Yankee Stadium,New York Mets,New York Yankees,121,147,4,3,7,656849,David Peterson,642528,Jonathan Loáisiga
+630871,2020-08-28,2020-08-28T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,141,110,5,4,9,547943,Hyun Jin Ryu,607644,John Means
+631125,2020-08-28,2020-08-28T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,7,4,11,554430,Zack Wheeler,572362,Robbie Erlin
+631582,2020-08-28,2020-08-28T23:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago Cubs,113,112,6,5,11,641816,Tyler Mahle,543294,Kyle Hendricks
+631501,2020-08-28,2020-08-28T23:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Kansas City Royals,145,118,6,5,11,625643,Reynaldo López,518633,Danny Duffy
+631304,2020-08-28,2020-08-28T23:10:00Z,4169,Marlins Park,Miami Marlins,Tampa Bay Rays,146,139,0,2,2,664350,Sixto Sánchez,642232,Ryan Yarbrough
+631653,2020-08-28,2020-08-28T23:30:00Z,3,Fenway Park,Boston Red Sox,Washington Nationals,111,120,2,10,12,527048,Martín Pérez,453286,Max Scherzer
+630933,2020-08-28,2020-08-29T00:05:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Dodgers,140,119,6,2,8,501985,Mike Minor,669160,Dustin May
+631291,2020-08-28,2020-08-29T00:10:00Z,32,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,158,134,9,1,10,669203,Corbin Burnes,502706,Derek Holland
+630980,2020-08-28,2020-08-29T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cleveland Indians,138,114,2,14,16,594965,Daniel Ponce de Leon,663474,Triston McKenzie
+631524,2020-08-28,2020-08-29T00:40:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,4,10,14,607536,Kyle Freeland,605200,Zach Davies
+631394,2020-08-28,2020-08-29T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,3,2,5,571760,Andrew Heaney,676606,Nick Margevicius
+630216,2020-08-28,2020-08-29T01:40:00Z,15,Chase Field,Arizona Diamondbacks,San Francisco Giants,109,137,7,4,11,668678,Zac Gallen,542881,Tyler Anderson
+631204,2020-08-29,2020-08-29T17:05:00Z,3313,Yankee Stadium,New York Yankees,New York Mets,147,121,2,1,3,457918,J.A. Happ,607229,Robert Gsellman
+631458,2020-08-29,2020-08-29T17:10:00Z,2394,Comerica Park,Detroit Tigers,Minnesota Twins,116,142,8,2,10,571510,Matthew Boyd,677976,Randy Dobnak
+631457,2020-08-29,2020-08-29T17:15:00Z,2394,Comerica Park,Detroit Tigers,Minnesota Twins,116,142,4,2,6,669373,Tarik Skubal,605538,Matt Wisler
+630981,2020-08-29,2020-08-29T17:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cleveland Indians,138,114,1,2,3,656427,Jack Flaherty,471911,Carlos Carrasco
+631134,2020-08-29,2020-08-29T17:15:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,4,1,5,621107,Zach Eflin,458708,Josh Tomlin
+631502,2020-08-29,2020-08-29T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Kansas City Royals,145,118,6,9,15,656302,Dylan Cease,663903,Brady Singer
+631581,2020-08-29,2020-08-29T20:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago Cubs,113,112,0,3,3,545333,Trevor Bauer,506433,Yu Darvish
+631595,2020-08-29,2020-08-29T20:15:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago Cubs,113,112,6,5,11,622088,Tejay Antone,621219,Alec Mills
+631428,2020-08-29,2020-08-29T20:10:00Z,2392,Minute Maid Park,Houston Astros,Oakland Athletics,117,133,4,2,6,621121,Lance McCullers Jr.,605135,Chris Bassitt
+631427,2020-08-29,2020-08-29T20:15:00Z,2392,Minute Maid Park,Houston Astros,Oakland Athletics,117,133,6,3,9,425844,Zack Greinke,593423,Frankie Montas
+631319,2020-08-29,2020-08-29T22:10:00Z,4169,Marlins Park,Miami Marlins,Tampa Bay Rays,146,139,0,4,4,641154,Pablo López,676596,Josh Fleming
+630906,2020-08-29,2020-08-29T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,141,110,5,0,5,592836,Taijuan Walker,502171,Alex Cobb
+630934,2020-08-29,2020-08-29T23:05:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Dodgers,140,119,4,7,11,458681,Lance Lynn,548389,Ross Stripling
+631277,2020-08-29,2020-08-29T23:10:00Z,32,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,158,134,7,6,13,474463,Brett Anderson,664141,JT Brubaker
+631654,2020-08-29,2020-08-29T23:30:00Z,3,Fenway Park,Boston Red Sox,Washington Nationals,111,120,5,3,8,607391,Chris Mazza,434671,Aníbal Sánchez
+631525,2020-08-29,2020-08-30T00:10:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,4,3,7,622608,Antonio Senzatela,673258,Michel Baez
+630217,2020-08-29,2020-08-30T00:10:00Z,15,Chase Field,Arizona Diamondbacks,San Francisco Giants,109,137,2,5,7,596133,Luke Weaver,502239,Trevor Cahill
+631369,2020-08-29,2020-08-30T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,16,3,19,605164,Dylan Bundy,656954,Justus Sheffield
+631205,2020-08-30,2020-08-30T17:05:00Z,3313,Yankee Stadium,New York Yankees,New York Mets,147,121,8,7,15,650633,Michael King,519144,Rick Porcello
+631229,2020-08-30,2020-08-30T17:10:00Z,3313,Yankee Stadium,New York Mets,New York Yankees,121,147,2,5,7,607625,Seth Lugo,665620,Deivi García
+631584,2020-08-30,2020-08-30T17:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago Cubs,113,112,1,10,11,622491,Luis Castillo,543022,Tyler Chatwood
+631459,2020-08-30,2020-08-30T17:10:00Z,2394,Comerica Park,Detroit Tigers,Minnesota Twins,116,142,3,2,5,663554,Casey Mize,628317,Kenta Maeda
+631306,2020-08-30,2020-08-30T17:10:00Z,4169,Marlins Park,Miami Marlins,Tampa Bay Rays,146,139,7,12,19,645261,Sandy Alcantara,605483,Blake Snell
+631655,2020-08-30,2020-08-30T17:35:00Z,3,Fenway Park,Boston Red Sox,Washington Nationals,111,120,9,5,14,643327,Zack Godley,608723,Austin Voth
+631505,2020-08-30,2020-08-30T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Kansas City Royals,145,118,5,2,7,641540,Dane Dunning,663460,Kris Bubic
+631278,2020-08-30,2020-08-30T18:10:00Z,32,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,158,134,1,5,6,605540,Brandon Woodruff,643230,Steven Brault
+630982,2020-08-30,2020-08-30T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cleveland Indians,138,114,7,2,9,425794,Adam Wainwright,650644,Aaron Civale
+630921,2020-08-30,2020-08-30T18:35:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Dodgers,140,119,2,7,9,502043,Kyle Gibson,664062,Tony Gonsolin
+630852,2020-08-30,2020-08-30T19:07:00Z,2756,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,141,110,6,5,11,543699,Tanner Roark,605347,Jorge López
+631526,2020-08-30,2020-08-30T19:10:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,2,13,15,624418,Ryan Castellani,663978,Chris Paddack
+631371,2020-08-30,2020-08-30T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,1,2,3,656288,Griffin Canning,643290,Justin Dunn
+630219,2020-08-30,2020-08-30T20:10:00Z,15,Chase Field,Arizona Diamondbacks,San Francisco Giants,109,137,1,4,5,664199,Taylor Clarke,456501,Johnny Cueto
+631135,2020-08-30,2020-08-30T23:08:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,143,144,10,12,22,453562,Jake Arrieta,543548,Tommy Milone
+631223,2020-08-31,2020-08-31T17:10:00Z,3289,Citi Field,New York Mets,Miami Marlins,121,146,3,5,8,594798,Jacob deGrom,669432,Trevor Rogers
+630900,2020-08-31,2020-08-31T18:07:00Z,2756,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,141,110,3,4,7,502624,Chase Anderson,669211,Keegan Akin
+631374,2020-08-31,2020-08-31T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Seattle Mariners,108,136,1,2,3,642545,Jaime Barria,594835,Marco Gonzales
+631585,2020-08-31,2020-08-31T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,113,138,5,7,12,543101,Anthony DeSclafani,641712,Dakota Hudson
+631143,2020-08-31,2020-08-31T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,143,120,8,6,14,675921,Spencer Howard,607200,Erick Fedde
+631206,2020-08-31,2020-08-31T23:05:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,3,5,8,543037,Gerrit Cole,607192,Tyler Glasnow
+631656,2020-08-31,2020-08-31T23:30:00Z,3,Fenway Park,Boston Red Sox,Atlanta Braves,111,144,3,6,9,605155,Colten Brewer,608331,Max Fried
+631281,2020-08-31,2020-08-31T23:40:00Z,32,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,158,134,6,5,11,608718,Brent Suter,592866,Trevor Williams
+631414,2020-08-31,2020-09-01T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Cleveland Indians,118,114,2,1,3,641745,Brad Keller,669456,Shane Bieber
+631247,2020-08-31,2020-09-01T00:10:00Z,3312,Target Field,Minnesota Twins,Chicago White Sox,142,145,5,8,13,448179,Rich Hill,608337,Lucas Giolito
+631527,2020-08-31,2020-09-01T01:40:00Z,19,Coors Field,Colorado Rockies,San Diego Padres,115,135,0,6,6,608566,Germán Márquez,572070,Garrett Richards
+631586,2020-09-01,2020-09-01T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,113,138,2,16,18,543243,Sonny Gray,547942,Kwang Hyun Kim
+631307,2020-09-01,2020-09-01T22:40:00Z,4169,Marlins Park,Miami Marlins,Toronto Blue Jays,146,141,3,2,5,622694,Elieser Hernández,657240,Julian Merryweather
+631109,2020-09-01,2020-09-01T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,7,8,15,641771,Chad Kuhl,452657,Jon Lester
+631153,2020-09-01,2020-09-01T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,143,120,6,0,6,605400,Aaron Nola,571578,Patrick Corbin
+631207,2020-09-01,2020-09-01T23:05:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,5,3,8,547888,Masahiro Tanaka,670950,Trevor Richards
+631657,2020-09-01,2020-09-01T23:30:00Z,3,Fenway Park,Boston Red Sox,Atlanta Braves,111,144,3,10,13,543901,Ryan Weber,666120,Ian Anderson
+631671,2020-09-01,2020-09-01T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Mets,110,121,9,5,14,592879,Asher Wojciechowski,642558,Ariel Jurado
+631287,2020-09-01,2020-09-01T23:40:00Z,32,Miller Park,Milwaukee Brewers,Detroit Tigers,158,116,1,12,13,458676,Josh Lindblom,605242,Michael Fulmer
+631416,2020-09-01,2020-09-02T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Cleveland Indians,118,114,1,10,11,518774,Matt Harvey,668676,Zach Plesac
+631430,2020-09-01,2020-09-02T00:10:00Z,2392,Minute Maid Park,Houston Astros,Texas Rangers,117,140,5,6,11,664285,Framber Valdez,472610,Luis García
+631261,2020-09-01,2020-09-02T00:10:00Z,3312,Target Field,Minnesota Twins,Chicago White Sox,142,145,3,2,5,501381,Michael Pineda,572971,Dallas Keuchel
+631528,2020-09-01,2020-09-02T00:40:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,5,23,28,592351,Jon Gray,592332,Kevin Gausman
+631355,2020-09-01,2020-09-02T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,119,109,6,3,9,628711,Julio Urías,622065,Alex Young
+631529,2020-09-02,2020-09-02T19:10:00Z,19,Coors Field,Colorado Rockies,San Francisco Giants,115,137,9,6,15,607536,Kyle Freeland,657277,Logan Webb
+631673,2020-09-02,2020-09-02T20:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Mets,110,121,4,9,13,607644,John Means,608379,Michael Wacha
+631587,2020-09-02,2020-09-02T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,113,138,4,3,7,641816,Tyler Mahle,670912,Johan Oviedo
+631308,2020-09-02,2020-09-02T22:40:00Z,4169,Marlins Park,Miami Marlins,Toronto Blue Jays,146,141,1,2,3,664350,Sixto Sánchez,547943,Hyun Jin Ryu
+631111,2020-09-02,2020-09-02T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,2,8,10,605397,Joe Musgrove,543294,Kyle Hendricks
+631145,2020-09-02,2020-09-02T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,143,120,3,0,3,554430,Zack Wheeler,453286,Max Scherzer
+631194,2020-09-02,2020-09-02T23:05:00Z,3313,Yankee Stadium,New York Yankees,Tampa Bay Rays,147,139,2,5,7,656756,Jordan Montgomery,450203,Charlie Morton
+631624,2020-09-02,2020-09-02T23:30:00Z,3,Fenway Park,Boston Red Sox,Atlanta Braves,111,144,5,7,12,622490,Robinson Leyer,572362,Robbie Erlin
+631283,2020-09-02,2020-09-02T23:40:00Z,32,Miller Park,Milwaukee Brewers,Detroit Tigers,158,116,8,5,13,605288,Adrian Houser,605513,Spencer Turnbull
+631404,2020-09-02,2020-09-03T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Cleveland Indians,118,114,0,5,5,596001,Jakob Junis,663474,Triston McKenzie
+631431,2020-09-02,2020-09-03T00:10:00Z,2392,Minute Maid Park,Houston Astros,Texas Rangers,117,140,2,1,3,664299,Cristian Javier,663465,Kolby Allard
+631253,2020-09-02,2020-09-03T00:10:00Z,3312,Target Field,Minnesota Twins,Chicago White Sox,142,145,8,1,9,621244,José Berríos,625643,Reynaldo López
+631356,2020-09-02,2020-09-03T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,119,109,3,2,5,621111,Walker Buehler,668678,Zac Gallen
+631379,2020-09-02,2020-09-03T01:40:00Z,1,Angel Stadium,Los Angeles Angels,San Diego Padres,108,135,4,11,15,527054,Julio Teheran,659275,Dinelson Lamet
+631112,2020-09-03,2020-09-03T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,6,2,8,664141,JT Brubaker,621219,Alec Mills
+631432,2020-09-03,2020-09-03T18:10:00Z,2392,Minute Maid Park,Houston Astros,Texas Rangers,117,140,8,4,12,425844,Zack Greinke,458681,Lance Lynn
+631146,2020-09-03,2020-09-03T20:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,143,120,6,5,11,621107,Zach Eflin,434671,Aníbal Sánchez
+631234,2020-09-03,2020-09-03T20:10:00Z,3289,Citi Field,New York Mets,New York Yankees,121,147,9,7,16,607229,Robert Gsellman,457918,J.A. Happ
+631368,2020-09-03,2020-09-03T23:10:00Z,1,Angel Stadium,Los Angeles Angels,San Diego Padres,108,135,2,0,2,571760,Andrew Heaney,605182,Mike Clevinger
+631614,2020-09-03,2020-09-03T23:30:00Z,3,Fenway Park,Boston Red Sox,Toronto Blue Jays,111,141,2,6,8,527048,Martín Pérez,592836,Taijuan Walker
+631405,2020-09-03,2020-09-04T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,6,11,17,518633,Danny Duffy,656302,Dylan Cease
+631370,2020-09-03,2020-09-04T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,119,109,5,1,6,477132,Clayton Kershaw,596133,Luke Weaver
+631262,2020-09-04,2020-09-04T18:10:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,2,0,2,677976,Randy Dobnak,571510,Matthew Boyd
+631456,2020-09-04,2020-09-04T18:15:00Z,3312,Target Field,Detroit Tigers,Minnesota Twins,116,142,2,3,5,641302,Tyler Alexander,605538,Matt Wisler
+631113,2020-09-04,2020-09-04T20:05:00Z,31,PNC Park,Pittsburgh Pirates,Cincinnati Reds,134,113,2,4,6,643230,Steven Brault,622491,Luis Castillo
+631602,2020-09-04,2020-09-04T20:10:00Z,31,PNC Park,Cincinnati Reds,Pittsburgh Pirates,113,134,3,4,7,545333,Trevor Bauer,664074,Cody Ponce
+631649,2020-09-04,2020-09-04T20:10:00Z,3,Fenway Park,Boston Red Sox,Toronto Blue Jays,111,141,7,8,15,643327,Zack Godley,543699,Tanner Roark
+630865,2020-09-04,2020-09-04T20:15:00Z,3,Fenway Park,Toronto Blue Jays,Boston Red Sox,141,111,2,3,5,548389,Ross Stripling,607391,Chris Mazza
+630371,2020-09-04,2020-09-04T20:10:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,7,1,8,543548,Tommy Milone,608723,Austin Voth
+630323,2020-09-04,2020-09-04T20:15:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,9,10,19,660623,Huascar Ynoa,640444,Wil Crowe
+631674,2020-09-04,2020-09-04T21:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,5,6,11,664045,Thomas Eshelman,650633,Michael King
+630497,2020-09-04,2020-09-04T21:10:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,6,3,9,605347,Jorge López,665620,Deivi García
+630954,2020-09-04,2020-09-04T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Miami Marlins,139,146,5,4,9,676596,Josh Fleming,641154,Pablo López
+631221,2020-09-04,2020-09-04T23:10:00Z,3289,Citi Field,New York Mets,Philadelphia Phillies,121,143,3,5,8,519144,Rick Porcello,453562,Jake Arrieta
+631555,2020-09-04,2020-09-04T23:10:00Z,5,Progressive Field,Cleveland Indians,Milwaukee Brewers,114,158,1,7,8,471911,Carlos Carrasco,669203,Corbin Burnes
+631406,2020-09-04,2020-09-05T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,4,7,11,663903,Brady Singer,641540,Dane Dunning
+631644,2020-09-04,2020-09-05T00:15:00Z,17,Wrigley Field,Chicago Cubs,St. Louis Cardinals,112,138,4,1,5,506433,Yu Darvish,656427,Jack Flaherty
+631357,2020-09-04,2020-09-05T01:10:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,6,5,11,605164,Dylan Bundy,621121,Lance McCullers Jr.
+631041,2020-09-04,2020-09-05T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,6,3,9,579328,Yusei Kikuchi,621129,Kyle Cody
+631345,2020-09-04,2020-09-05T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,10,6,16,669160,Dustin May,622608,Antonio Senzatela
+631156,2020-09-04,2020-09-05T01:40:00Z,10,Oakland Coliseum,Oakland Athletics,San Diego Padres,133,135,0,7,7,666200,Jesús Luzardo,605200,Zach Davies
+631003,2020-09-04,2020-09-05T01:45:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,5,6,11,542881,Tyler Anderson,664199,Taylor Clarke
+631157,2020-09-05,2020-09-05T20:07:00Z,10,Oakland Coliseum,Oakland Athletics,San Diego Padres,133,135,8,4,12,640455,Sean Manaea,663978,Chris Paddack
+631607,2020-09-05,2020-09-05T21:15:00Z,17,Wrigley Field,Chicago Cubs,St. Louis Cardinals,112,138,2,4,6,640470,Adbert Alzolay,425794,Adam Wainwright
+630998,2020-09-05,2020-09-05T21:20:00Z,17,Wrigley Field,St. Louis Cardinals,Chicago Cubs,138,112,5,1,6,596295,Austin Gomber,607067,Colin Rea
+630955,2020-09-05,2020-09-05T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Miami Marlins,139,146,3,7,10,605483,Blake Snell,645261,Sandy Alcantara
+631115,2020-09-05,2020-09-05T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Cincinnati Reds,134,113,2,6,8,592866,Trevor Williams,543101,Anthony DeSclafani
+631408,2020-09-05,2020-09-05T23:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,3,5,8,663460,Kris Bubic,608337,Lucas Giolito
+631388,2020-09-05,2020-09-05T23:07:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,10,9,19,656288,Griffin Canning,656232,Brandon Bielak
+631440,2020-09-05,2020-09-05T23:12:00Z,1,Angel Stadium,Houston Astros,Los Angeles Angels,117,108,6,7,13,664353,José Urquidy,596071,Dillon Peters
+631264,2020-09-05,2020-09-05T23:10:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,4,3,7,628317,Kenta Maeda,669373,Tarik Skubal
+631228,2020-09-05,2020-09-05T23:10:00Z,3289,Citi Field,New York Mets,Philadelphia Phillies,121,143,5,1,6,607625,Seth Lugo,675921,Spencer Howard
+630383,2020-09-05,2020-09-05T23:10:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,4,10,14,608331,Max Fried,607200,Erick Fedde
+631556,2020-09-05,2020-09-05T23:10:00Z,5,Progressive Field,Cleveland Indians,Milwaukee Brewers,114,158,4,3,7,650644,Aaron Civale,605540,Brandon Woodruff
+631625,2020-09-05,2020-09-05T23:30:00Z,3,Fenway Park,Boston Red Sox,Toronto Blue Jays,111,141,9,8,17,543901,Ryan Weber,502624,Chase Anderson
+631675,2020-09-05,2020-09-05T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,6,1,7,669211,Keegan Akin,543037,Gerrit Cole
+631328,2020-09-05,2020-09-06T01:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,2,5,7,664062,Tony Gonsolin,608566,Germán Márquez
+631044,2020-09-05,2020-09-06T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,5,3,8,656954,Justus Sheffield,502043,Kyle Gibson
+631004,2020-09-05,2020-09-06T01:15:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,4,3,7,502239,Trevor Cahill,518516,Madison Bumgarner
+631676,2020-09-06,2020-09-06T17:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,110,147,5,1,6,665152,Dean Kremer,547888,Masahiro Tanaka
+631209,2020-09-06,2020-09-06T17:10:00Z,3289,Citi Field,New York Mets,Philadelphia Phillies,121,143,14,1,15,594798,Jacob deGrom,605400,Aaron Nola
+630491,2020-09-06,2020-09-06T17:10:00Z,4705,Truist Park,Atlanta Braves,Washington Nationals,144,120,10,3,13,458708,Josh Tomlin,571578,Patrick Corbin
+630956,2020-09-06,2020-09-06T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Miami Marlins,139,146,5,4,9,607192,Tyler Glasnow,669432,Trevor Rogers
+631557,2020-09-06,2020-09-06T17:10:00Z,5,Progressive Field,Cleveland Indians,Milwaukee Brewers,114,158,4,1,5,669456,Shane Bieber,474463,Brett Anderson
+631116,2020-09-06,2020-09-06T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Cincinnati Reds,134,113,3,2,5,641771,Chad Kuhl,622088,Tejay Antone
+631626,2020-09-06,2020-09-06T17:35:00Z,3,Fenway Park,Boston Red Sox,Toronto Blue Jays,111,141,8,10,18,592811,Andrew Triggs,592662,Robbie Ray
+631407,2020-09-06,2020-09-06T18:05:00Z,7,Kauffman Stadium,Kansas City Royals,Chicago White Sox,118,145,2,8,10,518774,Matt Harvey,572971,Dallas Keuchel
+631254,2020-09-06,2020-09-06T18:10:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,8,10,18,448179,Rich Hill,663554,Casey Mize
+631005,2020-09-06,2020-09-06T20:05:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,4,2,6,456501,Johnny Cueto,622065,Alex Young
+631359,2020-09-06,2020-09-06T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Houston Astros,108,117,9,5,14,642545,Jaime Barria,664285,Framber Valdez
+631158,2020-09-06,2020-09-06T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,San Diego Padres,133,135,3,5,8,571666,Mike Fiers,572070,Garrett Richards
+631030,2020-09-06,2020-09-06T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,4,3,7,643290,Justin Dunn,543475,Jordan Lyles
+631604,2020-09-06,2020-09-06T23:08:00Z,17,Wrigley Field,Chicago Cubs,St. Louis Cardinals,112,138,3,7,10,452657,Jon Lester,641712,Dakota Hudson
+631344,2020-09-06,2020-09-07T02:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,119,115,6,7,13,628711,Julio Urías,624418,Ryan Castellani
+631225,2020-09-07,2020-09-07T17:10:00Z,3289,Citi Field,New York Mets,Philadelphia Phillies,121,143,8,9,17,656849,David Peterson,554430,Zack Wheeler
+630415,2020-09-07,2020-09-07T17:10:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,4,5,9,666120,Ian Anderson,570632,José Ureña
+631255,2020-09-07,2020-09-07T18:10:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,6,2,8,501381,Michael Pineda,605242,Michael Fulmer
+631605,2020-09-07,2020-09-07T20:10:00Z,17,Wrigley Field,Chicago Cubs,St. Louis Cardinals,112,138,5,1,6,543294,Kyle Hendricks,670912,Johan Oviedo
+631031,2020-09-07,2020-09-07T20:10:00Z,680,T-Mobile Park,Seattle Mariners,Texas Rangers,136,140,8,4,12,594835,Marco Gonzales,663465,Kolby Allard
+630857,2020-09-07,2020-09-07T22:05:00Z,3309,Nationals Park,Washington Nationals,Tampa Bay Rays,120,139,6,1,7,453286,Max Scherzer,450203,Charlie Morton
+631558,2020-09-07,2020-09-07T22:10:00Z,5,Progressive Field,Cleveland Indians,Kansas City Royals,114,118,5,2,7,668676,Zach Plesac,641745,Brad Keller
+630859,2020-09-07,2020-09-07T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Yankees,141,147,12,7,19,547943,Hyun Jin Ryu,656756,Jordan Montgomery
+631006,2020-09-07,2020-09-08T00:05:00Z,2395,Oracle Park,San Francisco Giants,Arizona Diamondbacks,137,109,4,2,6,592332,Kevin Gausman,668678,Zac Gallen
+631159,2020-09-07,2020-09-08T01:10:00Z,10,Oakland Coliseum,Oakland Athletics,Houston Astros,133,117,6,0,6,605135,Chris Bassitt,664299,Cristian Javier
+631084,2020-09-07,2020-09-08T01:10:00Z,2680,Petco Park,San Diego Padres,Colorado Rockies,135,115,1,0,1,659275,Dinelson Lamet,607536,Kyle Freeland
+630983,2020-09-08,2020-09-08T19:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Minnesota Twins,138,142,3,7,10,593372,Carlos Martinez,621244,José Berríos
+630984,2020-09-08,2020-09-08T19:20:00Z,2889,Busch Stadium,St. Louis Cardinals,Minnesota Twins,138,142,6,4,10,594965,Daniel Ponce de Leon,677976,Randy Dobnak
+631149,2020-09-08,2020-09-08T20:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Boston Red Sox,143,111,6,5,11,621107,Zach Eflin,527048,Martín Pérez
+631152,2020-09-08,2020-09-08T20:10:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Boston Red Sox,143,111,2,5,7,592826,Vince Velasquez,607391,Chris Mazza
+630867,2020-09-08,2020-09-08T22:05:00Z,3309,Nationals Park,Washington Nationals,Tampa Bay Rays,120,139,5,3,8,434671,Aníbal Sánchez,642232,Ryan Yarbrough
+631559,2020-09-08,2020-09-08T22:10:00Z,5,Progressive Field,Cleveland Indians,Kansas City Royals,114,118,6,8,14,663474,Triston McKenzie,596001,Jakob Junis
+631429,2020-09-08,2020-09-08T22:10:00Z,10,Oakland Coliseum,Houston Astros,Oakland Athletics,117,133,2,4,6,425844,Zack Greinke,593423,Frankie Montas
+631160,2020-09-08,2020-09-08T22:15:00Z,10,Oakland Coliseum,Oakland Athletics,Houston Astros,133,117,4,5,9,501985,Mike Minor,608328,Chase De Jong
+630860,2020-09-08,2020-09-08T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Yankees,141,147,2,1,3,592836,Taijuan Walker,457918,J.A. Happ
+631096,2020-09-08,2020-09-08T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Chicago White Sox,134,145,5,4,9,605397,Joe Musgrove,656302,Dylan Cease
+631211,2020-09-08,2020-09-08T23:10:00Z,3289,Citi Field,New York Mets,Baltimore Orioles,121,110,2,11,13,608379,Michael Wacha,607644,John Means
+630438,2020-09-08,2020-09-08T23:10:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,0,8,8,657140,Kyle Wright,664350,Sixto Sánchez
+631460,2020-09-08,2020-09-08T23:10:00Z,2394,Comerica Park,Detroit Tigers,Milwaukee Brewers,116,158,8,3,11,605513,Spencer Turnbull,605288,Adrian Houser
+630904,2020-09-08,2020-09-09T00:05:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Angels,140,108,7,1,8,458681,Lance Lynn,571760,Andrew Heaney
+631615,2020-09-08,2020-09-09T00:15:00Z,17,Wrigley Field,Chicago Cubs,Cincinnati Reds,112,113,3,0,3,621219,Alec Mills,641816,Tyler Mahle
+631071,2020-09-08,2020-09-09T01:10:00Z,2680,Petco Park,San Diego Padres,Colorado Rockies,135,115,14,5,19,605182,Mike Clevinger,592346,Chi Chi González
+630220,2020-09-08,2020-09-09T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,9,10,19,596133,Luke Weaver,621111,Walker Buehler
+631007,2020-09-08,2020-09-09T01:45:00Z,2395,Oracle Park,San Francisco Giants,Seattle Mariners,137,136,6,5,11,657277,Logan Webb,664714,Ljay Newsome
+631461,2020-09-09,2020-09-09T17:10:00Z,2394,Comerica Park,Detroit Tigers,Milwaukee Brewers,116,158,0,19,19,571510,Matthew Boyd,669203,Corbin Burnes
+631560,2020-09-09,2020-09-09T22:10:00Z,5,Progressive Field,Cleveland Indians,Kansas City Royals,114,118,0,3,3,471911,Carlos Carrasco,518633,Danny Duffy
+630864,2020-09-09,2020-09-09T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Yankees,141,147,2,7,9,543699,Tanner Roark,665620,Deivi García
+631100,2020-09-09,2020-09-09T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Chicago White Sox,134,145,1,8,9,664141,JT Brubaker,641540,Dane Dunning
+631212,2020-09-09,2020-09-09T23:10:00Z,3289,Citi Field,New York Mets,Baltimore Orioles,121,110,7,6,13,519144,Rick Porcello,605347,Jorge López
+630439,2020-09-09,2020-09-09T23:10:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,29,9,38,543548,Tommy Milone,641154,Pablo López
+630925,2020-09-09,2020-09-10T00:05:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Angels,140,108,7,3,10,621129,Kyle Cody,527054,Julio Teheran
+631056,2020-09-09,2020-09-10T00:10:00Z,2680,Petco Park,San Diego Padres,Colorado Rockies,135,115,5,3,8,605200,Zach Davies,622608,Antonio Senzatela
+631616,2020-09-09,2020-09-10T00:15:00Z,17,Wrigley Field,Chicago Cubs,Cincinnati Reds,112,113,0,3,3,506433,Yu Darvish,545333,Trevor Bauer
+631161,2020-09-09,2020-09-10T01:10:00Z,10,Oakland Coliseum,Oakland Athletics,Houston Astros,133,117,3,2,5,666200,Jesús Luzardo,677651,Luis Garcia
+630221,2020-09-09,2020-09-10T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,4,6,10,664199,Taylor Clarke,477132,Clayton Kershaw
+631008,2020-09-09,2020-09-10T01:45:00Z,2395,Oracle Park,San Francisco Giants,Seattle Mariners,137,136,10,1,11,542881,Tyler Anderson,676606,Nick Margevicius
+630994,2020-09-10,2020-09-10T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Detroit Tigers,138,116,12,2,14,656427,Jack Flaherty,669373,Tarik Skubal
+630995,2020-09-10,2020-09-10T18:20:00Z,2889,Busch Stadium,St. Louis Cardinals,Detroit Tigers,138,116,3,6,9,596295,Austin Gomber,519455,Jordan Zimmermann
+631162,2020-09-10,2020-09-10T19:40:00Z,10,Oakland Coliseum,Oakland Athletics,Houston Astros,133,117,3,1,4,640455,Sean Manaea,664353,José Urquidy
+630908,2020-09-10,2020-09-10T20:05:00Z,5325,Globe Life Field,Texas Rangers,Los Angeles Angels,140,108,2,6,8,502043,Kyle Gibson,605164,Dylan Bundy
+630869,2020-09-10,2020-09-10T22:05:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,6,7,13,608723,Austin Voth,572362,Robbie Erlin
+631561,2020-09-10,2020-09-10T22:10:00Z,5,Progressive Field,Cleveland Indians,Kansas City Royals,114,118,1,11,12,650644,Aaron Civale,663903,Brady Singer
+630957,2020-09-10,2020-09-10T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,3,4,7,676596,Josh Fleming,592464,Mike Kickham
+631309,2020-09-10,2020-09-10T22:40:00Z,4169,Marlins Park,Miami Marlins,Philadelphia Phillies,146,143,7,6,13,645261,Sandy Alcantara,453562,Jake Arrieta
+631634,2020-09-10,2020-09-11T00:15:00Z,17,Wrigley Field,Chicago Cubs,Cincinnati Reds,112,113,8,5,13,640470,Adbert Alzolay,543243,Sonny Gray
+631072,2020-09-10,2020-09-11T01:10:00Z,2680,Petco Park,San Diego Padres,San Francisco Giants,135,137,6,1,7,663978,Chris Paddack,502239,Trevor Cahill
+630223,2020-09-10,2020-09-11T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,109,119,5,2,7,518516,Madison Bumgarner,669160,Dustin May
+631184,2020-09-11,2020-09-11T20:05:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,6,0,6,543037,Gerrit Cole,502171,Alex Cobb
+631183,2020-09-11,2020-09-11T20:10:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,10,1,11,547888,Masahiro Tanaka,669211,Keegan Akin
+631310,2020-09-11,2020-09-11T21:10:00Z,4169,Marlins Park,Miami Marlins,Philadelphia Phillies,146,143,0,11,11,669432,Trevor Rogers,605400,Aaron Nola
+631318,2020-09-11,2020-09-11T21:15:00Z,4169,Marlins Park,Miami Marlins,Philadelphia Phillies,146,143,5,3,8,641447,Daniel Castano,453284,Blake Parker
+630873,2020-09-11,2020-09-11T22:05:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,8,7,15,607200,Erick Fedde,458708,Josh Tomlin
+630868,2020-09-11,2020-09-11T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Mets,141,121,1,18,19,502624,Chase Anderson,594798,Jacob deGrom
+630958,2020-09-11,2020-09-11T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,11,1,12,605483,Blake Snell,592811,Andrew Triggs
+631399,2020-09-11,2020-09-12T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Pittsburgh Pirates,118,134,4,3,7,663460,Kris Bubic,643230,Steven Brault
+630909,2020-09-11,2020-09-12T00:05:00Z,5325,Globe Life Field,Texas Rangers,Oakland Athletics,140,133,6,10,16,472610,Luis García,571666,Mike Fiers
+631256,2020-09-11,2020-09-12T00:10:00Z,3312,Target Field,Minnesota Twins,Cleveland Indians,142,114,3,1,4,628317,Kenta Maeda,669456,Shane Bieber
+631478,2020-09-11,2020-09-12T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,145,116,4,3,7,608337,Lucas Giolito,663554,Casey Mize
+631284,2020-09-11,2020-09-12T00:10:00Z,32,Miller Park,Milwaukee Brewers,Chicago Cubs,158,112,1,0,1,605540,Brandon Woodruff,452657,Jon Lester
+630985,2020-09-11,2020-09-12T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,1,3,4,425794,Adam Wainwright,622491,Luis Castillo
+631530,2020-09-11,2020-09-12T00:40:00Z,19,Coors Field,Colorado Rockies,Los Angeles Angels,115,108,8,4,12,608566,Germán Márquez,656288,Griffin Canning
+630224,2020-09-11,2020-09-12T01:40:00Z,15,Chase Field,Arizona Diamondbacks,Seattle Mariners,109,136,4,3,7,592761,Caleb Smith,579328,Yusei Kikuchi
+631185,2020-09-12,2020-09-12T17:05:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,2,1,3,656756,Jordan Montgomery,665152,Dean Kremer
+630910,2020-09-12,2020-09-12T21:05:00Z,5325,Globe Life Field,Texas Rangers,Oakland Athletics,140,133,5,2,7,580792,Nick Goody,641726,Daulton Jefferies
+630932,2020-09-12,2020-09-12T21:10:00Z,5325,Globe Life Field,Texas Rangers,Oakland Athletics,140,133,1,10,11,663465,Kolby Allard,605135,Chris Bassitt
+630877,2020-09-12,2020-09-12T22:05:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,1,2,3,571578,Patrick Corbin,666120,Ian Anderson
+631311,2020-09-12,2020-09-12T22:10:00Z,4169,Marlins Park,Miami Marlins,Philadelphia Phillies,146,143,6,12,18,570632,José Ureña,675921,Spencer Howard
+630870,2020-09-12,2020-09-12T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Mets,141,121,3,2,5,592662,Robbie Ray,607625,Seth Lugo
+630959,2020-09-12,2020-09-12T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,5,4,9,607192,Tyler Glasnow,543135,Nathan Eovaldi
+631400,2020-09-12,2020-09-12T23:05:00Z,7,Kauffman Stadium,Kansas City Royals,Pittsburgh Pirates,118,134,7,4,11,672578,Carlos Hernández,592866,Trevor Williams
+631495,2020-09-12,2020-09-12T23:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,145,116,14,0,14,625643,Reynaldo López,605242,Michael Fulmer
+631285,2020-09-12,2020-09-12T23:10:00Z,32,Miller Park,Milwaukee Brewers,Chicago Cubs,158,112,2,4,6,608718,Brent Suter,543294,Kyle Hendricks
+631331,2020-09-12,2020-09-13T00:07:00Z,22,Dodger Stadium,Los Angeles Dodgers,Houston Astros,119,117,5,7,12,628711,Julio Urías,664285,Framber Valdez
+631257,2020-09-12,2020-09-13T00:07:00Z,3312,Target Field,Minnesota Twins,Cleveland Indians,142,114,8,4,12,448179,Rich Hill,668676,Zach Plesac
+631531,2020-09-12,2020-09-13T00:10:00Z,19,Coors Field,Colorado Rockies,Los Angeles Angels,115,108,2,5,7,607536,Kyle Freeland,642545,Jaime Barria
+630225,2020-09-12,2020-09-13T00:10:00Z,15,Chase Field,Arizona Diamondbacks,Seattle Mariners,109,136,3,7,10,668678,Zac Gallen,656954,Justus Sheffield
+630988,2020-09-12,2020-09-13T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,7,1,8,641712,Dakota Hudson,622088,Tejay Antone
+630883,2020-09-13,2020-09-13T16:35:00Z,3309,Nationals Park,Washington Nationals,Atlanta Braves,120,144,4,8,12,453286,Max Scherzer,657140,Kyle Wright
+631187,2020-09-13,2020-09-13T17:05:00Z,3313,Yankee Stadium,New York Yankees,Baltimore Orioles,147,110,3,1,4,457918,J.A. Happ,607644,John Means
+630947,2020-09-13,2020-09-13T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Boston Red Sox,139,111,3,6,9,450203,Charlie Morton,527048,Martín Pérez
+631312,2020-09-13,2020-09-13T17:10:00Z,4169,Marlins Park,Miami Marlins,Philadelphia Phillies,146,143,2,1,3,664350,Sixto Sánchez,665759,Ramón Rosso
+631320,2020-09-13,2020-09-13T17:15:00Z,4169,Marlins Park,Miami Marlins,Philadelphia Phillies,146,143,8,1,9,666129,Braxton Garrett,621107,Zach Eflin
+631401,2020-09-13,2020-09-13T18:05:00Z,7,Kauffman Stadium,Kansas City Royals,Pittsburgh Pirates,118,134,11,0,11,641745,Brad Keller,641771,Chad Kuhl
+631259,2020-09-13,2020-09-13T18:10:00Z,3312,Target Field,Minnesota Twins,Cleveland Indians,142,114,7,5,12,501381,Michael Pineda,663474,Triston McKenzie
+631481,2020-09-13,2020-09-13T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,145,116,5,2,7,680692,Jonathan Stiever,605513,Spencer Turnbull
+631286,2020-09-13,2020-09-13T18:10:00Z,32,Miller Park,Milwaukee Brewers,Chicago Cubs,158,112,0,12,12,605288,Adrian Houser,621219,Alec Mills
+630961,2020-09-13,2020-09-13T18:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,138,113,5,10,15,593372,Carlos Martinez,641816,Tyler Mahle
+630911,2020-09-13,2020-09-13T18:35:00Z,5325,Globe Life Field,Texas Rangers,Oakland Athletics,140,133,6,3,9,458681,Lance Lynn,593423,Frankie Montas
+630875,2020-09-13,2020-09-13T19:07:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Mets,141,121,7,3,10,547943,Hyun Jin Ryu,656849,David Peterson
+631532,2020-09-13,2020-09-13T19:10:00Z,19,Coors Field,Colorado Rockies,Los Angeles Angels,115,108,3,5,8,624418,Ryan Castellani,571760,Andrew Heaney
+630226,2020-09-13,2020-09-13T20:10:00Z,15,Chase Field,Arizona Diamondbacks,Seattle Mariners,109,136,3,7,10,596133,Luke Weaver,643290,Justin Dunn
+631060,2020-09-13,2020-09-13T20:10:00Z,2680,Petco Park,San Diego Padres,San Francisco Giants,135,137,6,0,6,605182,Mike Clevinger,456501,Johnny Cueto
+631058,2020-09-13,2020-09-13T20:15:00Z,2680,Petco Park,San Diego Padres,San Francisco Giants,135,137,3,1,4,572070,Garrett Richards,657277,Logan Webb
+631332,2020-09-13,2020-09-14T00:08:00Z,22,Dodger Stadium,Los Angeles Dodgers,Houston Astros,119,117,8,1,9,660813,Brusdar Graterol,425844,Zack Greinke
+631588,2020-09-14,2020-09-14T20:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,3,1,4,545333,Trevor Bauer,664074,Cody Ponce
+631590,2020-09-14,2020-09-14T20:15:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,9,4,13,543101,Anthony DeSclafani,656605,Mitch Keller
+631321,2020-09-14,2020-09-14T20:10:00Z,4169,Marlins Park,Miami Marlins,Philadelphia Phillies,146,143,6,2,8,641154,Pablo López,592826,Vince Velasquez
+631053,2020-09-14,2020-09-14T21:10:00Z,680,T-Mobile Park,Seattle Mariners,Oakland Athletics,136,133,6,5,11,594835,Marco Gonzales,666200,Jesús Luzardo
+631054,2020-09-14,2020-09-14T21:15:00Z,680,T-Mobile Park,Seattle Mariners,Oakland Athletics,136,133,0,9,9,642231,Jimmy Yacabonis,501985,Mike Minor
+631282,2020-09-14,2020-09-14T21:10:00Z,32,Miller Park,Milwaukee Brewers,St. Louis Cardinals,158,138,2,1,3,458676,Josh Lindblom,547942,Kwang Hyun Kim
+631288,2020-09-14,2020-09-14T21:15:00Z,32,Miller Park,Milwaukee Brewers,St. Louis Cardinals,158,138,2,3,5,669203,Corbin Burnes,594965,Daniel Ponce de Leon
+631677,2020-09-14,2020-09-14T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Atlanta Braves,110,144,14,1,15,605347,Jorge López,657053,Touki Toussaint
+631482,2020-09-14,2020-09-15T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,145,142,3,1,4,656302,Dylan Cease,621244,José Berríos
+631061,2020-09-14,2020-09-15T01:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,7,2,9,659275,Dinelson Lamet,477132,Clayton Kershaw
+631574,2020-09-15,2020-09-15T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,4,1,5,547179,Michael Lorenzen,605397,Joe Musgrove
+630936,2020-09-15,2020-09-15T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Washington Nationals,139,120,6,1,7,595928,John Curtiss,434671,Aníbal Sánchez
+631314,2020-09-15,2020-09-15T22:40:00Z,4169,Marlins Park,Miami Marlins,Boston Red Sox,146,111,0,2,2,645261,Sandy Alcantara,656557,Tanner Houck
+631144,2020-09-15,2020-09-15T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Mets,143,121,4,1,5,453562,Jake Arrieta,519144,Rick Porcello
+631195,2020-09-15,2020-09-15T23:05:00Z,3313,Yankee Stadium,New York Yankees,Toronto Blue Jays,147,141,20,6,26,665620,Deivi García,592836,Taijuan Walker
+631462,2020-09-15,2020-09-15T23:10:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,6,0,6,571510,Matthew Boyd,596001,Jakob Junis
+631680,2020-09-15,2020-09-15T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Atlanta Braves,110,144,1,5,6,664045,Thomas Eshelman,660623,Huascar Ynoa
+631263,2020-09-15,2020-09-15T23:40:00Z,32,Miller Park,Milwaukee Brewers,St. Louis Cardinals,158,138,18,3,21,474463,Brett Anderson,656427,Jack Flaherty
+631433,2020-09-15,2020-09-16T00:10:00Z,2392,Minute Maid Park,Houston Astros,Texas Rangers,117,140,4,1,5,664353,José Urquidy,621129,Kyle Cody
+631483,2020-09-15,2020-09-16T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,145,142,6,2,8,641540,Dane Dunning,677976,Randy Dobnak
+631618,2020-09-15,2020-09-16T00:15:00Z,17,Wrigley Field,Chicago Cubs,Cleveland Indians,112,114,6,5,11,506433,Yu Darvish,471911,Carlos Carrasco
+631520,2020-09-15,2020-09-16T00:40:00Z,19,Coors Field,Colorado Rockies,Oakland Athletics,115,133,3,1,4,622608,Antonio Senzatela,640455,Sean Manaea
+631062,2020-09-15,2020-09-16T01:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,1,3,4,605200,Zach Davies,664062,Tony Gonsolin
+631360,2020-09-15,2020-09-16T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Arizona Diamondbacks,108,109,8,9,17,527054,Julio Teheran,518516,Madison Bumgarner
+630937,2020-09-16,2020-09-16T17:10:00Z,12,Tropicana Field,Tampa Bay Rays,Washington Nationals,139,120,2,4,6,664126,Pete Fairbanks,608723,Austin Voth
+631509,2020-09-16,2020-09-16T19:10:00Z,19,Coors Field,Colorado Rockies,Oakland Athletics,115,133,1,3,4,608566,Germán Márquez,571666,Mike Fiers
+631063,2020-09-16,2020-09-16T20:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Dodgers,135,119,5,7,12,670970,Adrian Morejon,660813,Brusdar Graterol
+631265,2020-09-16,2020-09-16T21:10:00Z,32,Miller Park,Milwaukee Brewers,St. Louis Cardinals,158,138,2,4,6,605540,Brandon Woodruff,425794,Adam Wainwright
+631289,2020-09-16,2020-09-16T21:15:00Z,32,Miller Park,Milwaukee Brewers,St. Louis Cardinals,158,138,6,0,6,608718,Brent Suter,670912,Johan Oviedo
+631575,2020-09-16,2020-09-16T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,113,134,1,0,1,622491,Luis Castillo,664141,JT Brubaker
+631315,2020-09-16,2020-09-16T22:40:00Z,4169,Marlins Park,Miami Marlins,Boston Red Sox,146,111,8,4,12,669432,Trevor Rogers,592464,Mike Kickham
+631119,2020-09-16,2020-09-16T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Mets,143,121,4,5,9,554430,Zack Wheeler,594798,Jacob deGrom
+631189,2020-09-16,2020-09-16T23:05:00Z,3313,Yankee Stadium,New York Yankees,Toronto Blue Jays,147,141,13,2,15,543037,Gerrit Cole,543699,Tanner Roark
+631463,2020-09-16,2020-09-16T23:10:00Z,2394,Comerica Park,Detroit Tigers,Kansas City Royals,116,118,0,4,4,669373,Tarik Skubal,663903,Brady Singer
+631659,2020-09-16,2020-09-16T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Atlanta Braves,110,144,5,1,6,669211,Keegan Akin,430935,Cole Hamels
+631434,2020-09-16,2020-09-17T00:10:00Z,2392,Minute Maid Park,Houston Astros,Texas Rangers,117,140,0,1,1,621121,Lance McCullers Jr.,502043,Kyle Gibson
+631484,2020-09-16,2020-09-17T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,145,142,1,5,6,608337,Lucas Giolito,543606,Jake Odorizzi
+631619,2020-09-16,2020-09-17T00:15:00Z,17,Wrigley Field,Chicago Cubs,Cleveland Indians,112,114,3,2,5,452657,Jon Lester,650644,Aaron Civale
+631361,2020-09-16,2020-09-17T01:40:00Z,1,Angel Stadium,Los Angeles Angels,Arizona Diamondbacks,108,109,6,9,15,605164,Dylan Bundy,592761,Caleb Smith
+631032,2020-09-16,2020-09-17T01:45:00Z,2395,Oracle Park,Seattle Mariners,San Francisco Giants,136,137,3,9,12,664714,Ljay Newsome,592767,Drew Smyly
+631313,2020-09-17,2020-09-17T17:10:00Z,4169,Marlins Park,Miami Marlins,Boston Red Sox,146,111,3,5,8,570632,José Ureña,543135,Nathan Eovaldi
+631485,2020-09-17,2020-09-17T18:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,145,142,4,3,7,625643,Reynaldo López,628317,Kenta Maeda
+631362,2020-09-17,2020-09-17T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Arizona Diamondbacks,108,109,7,3,10,656288,Griffin Canning,622065,Alex Young
+631034,2020-09-17,2020-09-17T20:10:00Z,2395,Oracle Park,Seattle Mariners,San Francisco Giants,136,137,4,6,10,676606,Nick Margevicius,542881,Tyler Anderson
+631660,2020-09-17,2020-09-17T20:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,1,3,4,665152,Dean Kremer,605483,Blake Snell
+630953,2020-09-17,2020-09-17T20:40:00Z,2,Oriole Park at Camden Yards,Tampa Bay Rays,Baltimore Orioles,139,110,10,6,16,670950,Trevor Richards,669145,Bruce Zimmermann
+631101,2020-09-17,2020-09-17T23:05:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,5,1,6,643230,Steven Brault,641712,Dakota Hudson
+631117,2020-09-17,2020-09-17T23:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,New York Mets,143,121,6,10,16,605400,Aaron Nola,607625,Seth Lugo
+631190,2020-09-17,2020-09-17T23:05:00Z,3313,Yankee Stadium,New York Yankees,Toronto Blue Jays,147,141,10,7,17,547888,Masahiro Tanaka,657240,Julian Merryweather
+631464,2020-09-17,2020-09-17T23:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Indians,116,114,3,10,13,663554,Casey Mize,669456,Shane Bieber
+631435,2020-09-17,2020-09-17T23:10:00Z,2392,Minute Maid Park,Houston Astros,Texas Rangers,117,140,2,1,3,664285,Framber Valdez,543475,Jordan Lyles
+631510,2020-09-17,2020-09-18T00:40:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,3,9,12,607536,Kyle Freeland,628711,Julio Urías
+631102,2020-09-18,2020-09-18T20:05:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,5,6,11,592866,Trevor Williams,593372,Carlos Martinez
+630987,2020-09-18,2020-09-18T20:10:00Z,31,PNC Park,St. Louis Cardinals,Pittsburgh Pirates,138,134,7,2,9,594965,Daniel Ponce de Leon,641771,Chad Kuhl
+630907,2020-09-18,2020-09-18T20:05:00Z,2681,Citizens Bank Park,Toronto Blue Jays,Philadelphia Phillies,141,143,0,7,7,592662,Robbie Ray,621107,Zach Eflin
+631122,2020-09-18,2020-09-18T20:10:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Toronto Blue Jays,143,141,8,7,15,571735,David Hale,548389,Ross Stripling
+631316,2020-09-18,2020-09-18T21:10:00Z,4169,Marlins Park,Miami Marlins,Washington Nationals,146,120,0,5,5,664350,Sixto Sánchez,607200,Erick Fedde
+631342,2020-09-18,2020-09-18T21:15:00Z,4169,Marlins Park,Miami Marlins,Washington Nationals,146,120,14,3,17,641447,Daniel Castano,640444,Wil Crowe
+631465,2020-09-18,2020-09-18T23:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Indians,116,114,0,1,1,605242,Michael Fulmer,668676,Zach Plesac
+631213,2020-09-18,2020-09-18T23:10:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,2,15,17,571927,Steven Matz,608331,Max Fried
+631576,2020-09-18,2020-09-18T23:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago White Sox,113,145,7,1,8,641816,Tyler Mahle,680692,Jonathan Stiever
+631627,2020-09-18,2020-09-18T23:30:00Z,3,Fenway Park,Boston Red Sox,New York Yankees,111,147,5,6,11,527048,Martín Pérez,656756,Jordan Montgomery
+631661,2020-09-18,2020-09-18T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,1,2,3,502171,Alex Cobb,607192,Tyler Glasnow
+631436,2020-09-18,2020-09-19T00:10:00Z,2392,Minute Maid Park,Houston Astros,Arizona Diamondbacks,117,109,3,6,9,425844,Zack Greinke,668678,Zac Gallen
+631511,2020-09-18,2020-09-19T00:10:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,6,15,21,624418,Ryan Castellani,622072,Alex Wood
+631266,2020-09-18,2020-09-19T00:10:00Z,32,Miller Park,Milwaukee Brewers,Kansas City Royals,158,118,9,5,14,605288,Adrian Houser,518633,Danny Duffy
+631629,2020-09-18,2020-09-19T00:15:00Z,17,Wrigley Field,Chicago Cubs,Minnesota Twins,112,142,1,0,1,543294,Kyle Hendricks,448179,Rich Hill
+631367,2020-09-18,2020-09-19T01:10:00Z,1,Angel Stadium,Los Angeles Angels,Texas Rangers,108,140,6,2,8,642545,Jaime Barria,623474,Jimmy Herget
+631040,2020-09-18,2020-09-19T01:40:00Z,2680,Petco Park,Seattle Mariners,San Diego Padres,136,135,1,6,7,579328,Yusei Kikuchi,663978,Chris Paddack
+631163,2020-09-18,2020-09-19T01:40:00Z,10,Oakland Coliseum,Oakland Athletics,San Francisco Giants,133,137,6,0,6,605135,Chris Bassitt,657277,Logan Webb
+631164,2020-09-19,2020-09-19T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,San Francisco Giants,133,137,6,0,6,666200,Jesús Luzardo,592332,Kevin Gausman
+631123,2020-09-19,2020-09-19T22:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Toronto Blue Jays,143,141,3,1,4,592826,Vince Velasquez,547943,Hyun Jin Ryu
+631466,2020-09-19,2020-09-19T22:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Indians,116,114,5,2,7,605513,Spencer Turnbull,663474,Triston McKenzie
+631317,2020-09-19,2020-09-19T22:10:00Z,4169,Marlins Park,Miami Marlins,Washington Nationals,146,120,7,3,10,641154,Pablo López,571578,Patrick Corbin
+631147,2020-09-19,2020-09-19T23:05:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,4,5,9,656605,Mitch Keller,547942,Kwang Hyun Kim
+631214,2020-09-19,2020-09-19T23:07:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,7,2,9,656849,David Peterson,666120,Ian Anderson
+631577,2020-09-19,2020-09-19T23:07:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago White Sox,113,145,0,5,5,545333,Trevor Bauer,572971,Dallas Keuchel
+631437,2020-09-19,2020-09-19T23:10:00Z,2392,Minute Maid Park,Houston Astros,Arizona Diamondbacks,117,109,3,2,5,664299,Cristian Javier,596133,Luke Weaver
+631267,2020-09-19,2020-09-19T23:10:00Z,32,Miller Park,Milwaukee Brewers,Kansas City Royals,158,118,5,0,5,669203,Corbin Burnes,663460,Kris Bubic
+631628,2020-09-19,2020-09-19T23:30:00Z,3,Fenway Park,Boston Red Sox,New York Yankees,111,147,0,8,8,607391,Chris Mazza,457918,J.A. Happ
+631662,2020-09-19,2020-09-19T23:35:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,1,3,4,605347,Jorge López,450203,Charlie Morton
+631512,2020-09-19,2020-09-20T00:10:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,1,6,7,592346,Chi Chi González,477132,Clayton Kershaw
+631632,2020-09-19,2020-09-20T00:15:00Z,17,Wrigley Field,Chicago Cubs,Minnesota Twins,112,142,1,8,9,621219,Alec Mills,501381,Michael Pineda
+631036,2020-09-19,2020-09-20T01:10:00Z,2680,Petco Park,Seattle Mariners,San Diego Padres,136,135,4,1,5,656954,Justus Sheffield,672715,Luis Patiño
+631372,2020-09-19,2020-09-20T01:10:00Z,1,Angel Stadium,Los Angeles Angels,Texas Rangers,108,140,4,3,7,571760,Andrew Heaney,458681,Lance Lynn
+631672,2020-09-20,2020-09-20T17:05:00Z,2,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,110,139,2,1,3,607644,John Means,642232,Ryan Yarbrough
+631635,2020-09-20,2020-09-20T17:07:00Z,3,Fenway Park,Boston Red Sox,New York Yankees,111,147,10,2,12,656557,Tanner Houck,665620,Deivi García
+631454,2020-09-20,2020-09-20T17:10:00Z,2394,Comerica Park,Detroit Tigers,Cleveland Indians,116,114,4,7,11,571510,Matthew Boyd,471911,Carlos Carrasco
+631215,2020-09-20,2020-09-20T17:10:00Z,3289,Citi Field,New York Mets,Atlanta Braves,121,144,0,7,7,519144,Rick Porcello,657140,Kyle Wright
+631578,2020-09-20,2020-09-20T17:10:00Z,2602,Great American Ball Park,Cincinnati Reds,Chicago White Sox,113,145,7,3,10,547179,Michael Lorenzen,656302,Dylan Cease
+631305,2020-09-20,2020-09-20T17:10:00Z,4169,Marlins Park,Miami Marlins,Washington Nationals,146,120,2,1,3,645261,Sandy Alcantara,453286,Max Scherzer
+631329,2020-09-20,2020-09-20T17:15:00Z,4169,Marlins Park,Miami Marlins,Washington Nationals,146,120,0,15,15,666129,Braxton Garrett,664069,Ben Braymer
+631424,2020-09-20,2020-09-20T18:10:00Z,2392,Minute Maid Park,Houston Astros,Arizona Diamondbacks,117,109,3,2,5,664353,José Urquidy,518516,Madison Bumgarner
+631268,2020-09-20,2020-09-20T18:10:00Z,32,Miller Park,Milwaukee Brewers,Kansas City Royals,158,118,5,3,8,458676,Josh Lindblom,641745,Brad Keller
+631128,2020-09-20,2020-09-20T19:05:00Z,2681,Citizens Bank Park,Philadelphia Phillies,Toronto Blue Jays,143,141,3,6,9,658431,Adonis Medina,592836,Taijuan Walker
+631519,2020-09-20,2020-09-20T19:10:00Z,19,Coors Field,Colorado Rockies,Los Angeles Dodgers,115,119,6,3,9,622608,Antonio Senzatela,664062,Tony Gonsolin
+631086,2020-09-20,2020-09-20T20:05:00Z,31,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,134,138,1,2,3,605397,Joe Musgrove,656427,Jack Flaherty
+631037,2020-09-20,2020-09-20T20:10:00Z,2680,Petco Park,Seattle Mariners,San Diego Padres,136,135,4,7,11,643290,Justin Dunn,659275,Dinelson Lamet
+631166,2020-09-20,2020-09-20T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,San Francisco Giants,133,137,2,14,16,501985,Mike Minor,542881,Tyler Anderson
+631375,2020-09-20,2020-09-20T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Texas Rangers,108,140,2,7,9,527054,Julio Teheran,621129,Kyle Cody
+631617,2020-09-20,2020-09-20T23:08:00Z,17,Wrigley Field,Chicago Cubs,Minnesota Twins,112,142,0,4,4,506433,Yu Darvish,621244,José Berríos
+631376,2020-09-21,2020-09-21T20:10:00Z,1,Angel Stadium,Los Angeles Angels,Texas Rangers,108,140,8,5,13,605164,Dylan Bundy,502043,Kyle Gibson
+630884,2020-09-21,2020-09-21T22:05:00Z,3309,Nationals Park,Washington Nationals,Philadelphia Phillies,120,143,5,1,6,434671,Aníbal Sánchez,554430,Zack Wheeler
+631562,2020-09-21,2020-09-21T22:10:00Z,5,Progressive Field,Cleveland Indians,Chicago White Sox,114,145,7,4,11,650644,Aaron Civale,641540,Dane Dunning
+630876,2020-09-21,2020-09-21T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Yankees,141,147,11,5,16,533167,Matt Shoemaker,650633,Michael King
+631579,2020-09-21,2020-09-21T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Milwaukee Brewers,113,158,6,3,9,622491,Luis Castillo,605540,Brandon Woodruff
+631087,2020-09-21,2020-09-21T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,0,5,5,664141,JT Brubaker,452657,Jon Lester
+631216,2020-09-21,2020-09-21T23:10:00Z,3289,Citi Field,New York Mets,Tampa Bay Rays,121,139,1,2,3,594798,Jacob deGrom,664126,Pete Fairbanks
+630440,2020-09-21,2020-09-21T23:10:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,5,4,9,660623,Huascar Ynoa,669432,Trevor Rogers
+631402,2020-09-21,2020-09-22T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,St. Louis Cardinals,118,138,4,1,5,672578,Carlos Hernández,425794,Adam Wainwright
+631038,2020-09-21,2020-09-22T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Houston Astros,136,117,6,1,7,594835,Marco Gonzales,621121,Lance McCullers Jr.
+631009,2020-09-21,2020-09-22T01:45:00Z,2395,Oracle Park,San Francisco Giants,Colorado Rockies,137,115,2,7,9,456501,Johnny Cueto,608566,Germán Márquez
+630888,2020-09-22,2020-09-22T19:05:00Z,3309,Nationals Park,Washington Nationals,Philadelphia Phillies,120,143,5,1,6,608723,Austin Voth,605400,Aaron Nola
+630896,2020-09-22,2020-09-22T19:10:00Z,3309,Nationals Park,Washington Nationals,Philadelphia Phillies,120,143,8,7,15,502179,Paolo Espino,571735,David Hale
+631550,2020-09-22,2020-09-22T22:10:00Z,5,Progressive Field,Cleveland Indians,Chicago White Sox,114,145,5,3,8,615698,Cal Quantrill,625643,Reynaldo López
+630881,2020-09-22,2020-09-22T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Yankees,141,147,1,12,13,543699,Tanner Roark,543037,Gerrit Cole
+631580,2020-09-22,2020-09-22T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Milwaukee Brewers,113,158,2,3,5,543243,Sonny Gray,474463,Brett Anderson
+631088,2020-09-22,2020-09-22T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,3,2,5,643230,Steven Brault,500779,Jose Quintana
+631217,2020-09-22,2020-09-22T23:10:00Z,3289,Citi Field,New York Mets,Tampa Bay Rays,121,139,5,2,7,607625,Seth Lugo,605483,Blake Snell
+630385,2020-09-22,2020-09-22T23:10:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,11,1,12,669060,Bryse Wilson,570632,José Ureña
+631636,2020-09-22,2020-09-22T23:30:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,8,3,11,601713,Nick Pivetta,669211,Keegan Akin
+631251,2020-09-22,2020-09-22T23:40:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,5,4,9,456701,Homer Bailey,669373,Tarik Skubal
+631411,2020-09-22,2020-09-23T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,St. Louis Cardinals,118,138,0,5,5,663903,Brady Singer,596295,Austin Gomber
+631064,2020-09-22,2020-09-23T01:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Angels,135,108,2,4,6,605200,Zach Davies,656288,Griffin Canning
+631039,2020-09-22,2020-09-23T01:10:00Z,680,T-Mobile Park,Seattle Mariners,Houston Astros,136,117,1,6,7,664714,Ljay Newsome,664285,Framber Valdez
+630243,2020-09-22,2020-09-23T01:10:00Z,15,Chase Field,Arizona Diamondbacks,Texas Rangers,109,140,7,0,7,592761,Caleb Smith,543475,Jordan Lyles
+631333,2020-09-22,2020-09-23T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Oakland Athletics,119,133,7,2,9,669160,Dustin May,593423,Frankie Montas
+631010,2020-09-22,2020-09-23T01:45:00Z,2395,Oracle Park,San Francisco Giants,Colorado Rockies,137,115,5,2,7,592767,Drew Smyly,607536,Kyle Freeland
+631065,2020-09-23,2020-09-23T20:10:00Z,2680,Petco Park,San Diego Padres,Los Angeles Angels,135,108,2,5,7,605182,Mike Clevinger,642545,Jaime Barria
+630892,2020-09-23,2020-09-23T22:05:00Z,3309,Nationals Park,Washington Nationals,Philadelphia Phillies,120,143,3,12,15,607200,Erick Fedde,621107,Zach Eflin
+630263,2020-09-23,2020-09-23T22:10:00Z,15,Chase Field,Arizona Diamondbacks,Texas Rangers,109,140,7,3,10,622065,Alex Young,605138,Wes Benjamin
+631534,2020-09-23,2020-09-23T22:10:00Z,5,Progressive Field,Cleveland Indians,Chicago White Sox,114,145,3,2,5,669456,Shane Bieber,608337,Lucas Giolito
+630885,2020-09-23,2020-09-23T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Yankees,141,147,14,1,15,592662,Robbie Ray,547888,Masahiro Tanaka
+631035,2020-09-23,2020-09-23T22:40:00Z,680,T-Mobile Park,Seattle Mariners,Houston Astros,136,117,3,2,5,676606,Nick Margevicius,425844,Zack Greinke
+631583,2020-09-23,2020-09-23T22:40:00Z,2602,Great American Ball Park,Cincinnati Reds,Milwaukee Brewers,113,158,6,1,7,545333,Trevor Bauer,605288,Adrian Houser
+631089,2020-09-23,2020-09-23T23:05:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,2,1,3,592866,Trevor Williams,543294,Kyle Hendricks
+631218,2020-09-23,2020-09-23T23:10:00Z,3289,Citi Field,New York Mets,Tampa Bay Rays,121,139,5,8,13,608379,Michael Wacha,607192,Tyler Glasnow
+630554,2020-09-23,2020-09-23T23:10:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,9,4,13,608331,Max Fried,664350,Sixto Sánchez
+631637,2020-09-23,2020-09-23T23:30:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,9,1,10,543135,Nathan Eovaldi,665152,Dean Kremer
+631250,2020-09-23,2020-09-23T23:40:00Z,3312,Target Field,Minnesota Twins,Detroit Tigers,142,116,7,6,13,628317,Kenta Maeda,663554,Casey Mize
+631380,2020-09-23,2020-09-24T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,St. Louis Cardinals,118,138,12,3,15,518633,Danny Duffy,593372,Carlos Martinez
+631334,2020-09-23,2020-09-24T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Oakland Athletics,119,133,4,6,10,523260,Joe Kelly,640455,Sean Manaea
+631011,2020-09-23,2020-09-24T01:45:00Z,2395,Oracle Park,San Francisco Giants,Colorado Rockies,137,115,7,2,9,670056,Caleb Baragar,624418,Ryan Castellani
+631099,2020-09-24,2020-09-24T17:35:00Z,31,PNC Park,Pittsburgh Pirates,Chicago Cubs,134,112,7,0,7,641771,Chad Kuhl,621219,Alec Mills
+631012,2020-09-24,2020-09-24T19:45:00Z,2395,Oracle Park,San Francisco Giants,Colorado Rockies,137,115,4,5,9,592332,Kevin Gausman,592346,Chi Chi González
+630893,2020-09-24,2020-09-24T22:05:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,2,3,5,571578,Patrick Corbin,656849,David Peterson
+631549,2020-09-24,2020-09-24T22:10:00Z,5,Progressive Field,Cleveland Indians,Chicago White Sox,114,145,5,4,9,668676,Zach Plesac,572971,Dallas Keuchel
+630887,2020-09-24,2020-09-24T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,New York Yankees,141,147,4,1,5,547943,Hyun Jin Ryu,656756,Jordan Montgomery
+631685,2020-09-24,2020-09-24T23:10:00Z,4705,Truist Park,Atlanta Braves,Miami Marlins,144,146,2,4,6,666120,Ian Anderson,641154,Pablo López
+631640,2020-09-24,2020-09-24T23:30:00Z,3,Fenway Park,Boston Red Sox,Baltimore Orioles,111,110,1,13,14,527048,Martín Pérez,502171,Alex Cobb
+631398,2020-09-24,2020-09-25T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Detroit Tigers,118,116,8,7,15,663460,Kris Bubic,605242,Michael Fulmer
+630912,2020-09-24,2020-09-25T00:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,4,12,16,458681,Lance Lynn,664299,Cristian Javier
+630975,2020-09-24,2020-09-25T00:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,138,158,4,2,6,547942,Kwang Hyun Kim,669203,Corbin Burnes
+631335,2020-09-24,2020-09-25T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Oakland Athletics,119,133,5,1,6,621111,Walker Buehler,571666,Mike Fiers
+630963,2020-09-25,2020-09-25T21:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,138,158,0,3,3,656427,Jack Flaherty,608718,Brent Suter
+631292,2020-09-25,2020-09-25T21:20:00Z,2889,Busch Stadium,Milwaukee Brewers,St. Louis Cardinals,158,138,1,9,10,458676,Josh Lindblom,594965,Daniel Ponce de Leon
+630889,2020-09-25,2020-09-25T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,141,110,10,5,15,592836,Taijuan Walker,605347,Jorge López
+630270,2020-09-25,2020-09-25T22:40:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,4,0,4,668678,Zac Gallen,622608,Antonio Senzatela
+630203,2020-09-25,2020-09-25T22:45:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,11,5,16,664199,Taylor Clarke,665733,Antonio Santos
+630938,2020-09-25,2020-09-25T22:40:00Z,12,Tropicana Field,Tampa Bay Rays,Philadelphia Phillies,139,143,6,4,10,450203,Charlie Morton,592826,Vince Velasquez
+631191,2020-09-25,2020-09-25T23:05:00Z,3313,Yankee Stadium,New York Yankees,Miami Marlins,147,146,3,4,7,457918,J.A. Happ,645261,Sandy Alcantara
+631536,2020-09-25,2020-09-25T23:10:00Z,5,Progressive Field,Cleveland Indians,Pittsburgh Pirates,114,134,4,3,7,471911,Carlos Carrasco,656605,Mitch Keller
+631013,2020-09-25,2020-09-25T23:10:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,5,4,9,542881,Tyler Anderson,663978,Chris Paddack
+631059,2020-09-25,2020-09-25T23:15:00Z,2395,Oracle Park,San Diego Padres,San Francisco Giants,135,137,6,5,11,659275,Dinelson Lamet,502188,Jeff Samardzija
+630569,2020-09-25,2020-09-25T23:10:00Z,4705,Truist Park,Atlanta Braves,Boston Red Sox,144,111,8,7,15,657140,Kyle Wright,607391,Chris Mazza
+631383,2020-09-25,2020-09-26T00:05:00Z,7,Kauffman Stadium,Kansas City Royals,Detroit Tigers,118,116,3,2,5,641745,Brad Keller,605513,Spencer Turnbull
+630913,2020-09-25,2020-09-26T00:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,5,4,9,621129,Kyle Cody,664353,José Urquidy
+631246,2020-09-25,2020-09-26T00:10:00Z,3312,Target Field,Minnesota Twins,Cincinnati Reds,142,113,2,7,9,621244,José Berríos,641816,Tyler Mahle
+631486,2020-09-25,2020-09-26T00:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Chicago Cubs,145,112,0,10,10,656302,Dylan Cease,506433,Yu Darvish
+631336,2020-09-25,2020-09-26T01:40:00Z,22,Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,119,108,9,5,14,477132,Clayton Kershaw,571760,Andrew Heaney
+631167,2020-09-25,2020-09-26T01:40:00Z,10,Oakland Coliseum,Oakland Athletics,Seattle Mariners,133,136,3,1,4,605135,Chris Bassitt,579328,Yusei Kikuchi
+631193,2020-09-26,2020-09-26T17:05:00Z,3313,Yankee Stadium,New York Yankees,Miami Marlins,147,146,11,4,15,665620,Deivi García,669432,Trevor Rogers
+630895,2020-09-26,2020-09-26T19:05:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,4,3,7,453286,Max Scherzer,594798,Jacob deGrom
+630894,2020-09-26,2020-09-26T19:10:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,5,3,8,434671,Aníbal Sánchez,519144,Rick Porcello
+631169,2020-09-26,2020-09-26T20:10:00Z,10,Oakland Coliseum,Oakland Athletics,Seattle Mariners,133,136,1,5,6,501985,Mike Minor,656954,Justus Sheffield
+631055,2020-09-26,2020-09-26T20:15:00Z,10,Oakland Coliseum,Seattle Mariners,Oakland Athletics,136,133,12,3,15,643290,Justin Dunn,621112,Paul Blackburn
+630891,2020-09-26,2020-09-26T22:37:00Z,2756,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,141,110,5,2,7,643615,T.J. Zeuch,607644,John Means
+631385,2020-09-26,2020-09-26T23:05:00Z,7,Kauffman Stadium,Kansas City Royals,Detroit Tigers,118,116,3,4,7,672578,Carlos Hernández,571510,Matthew Boyd
+630914,2020-09-26,2020-09-26T23:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,6,1,7,502043,Kyle Gibson,621121,Lance McCullers Jr.
+630939,2020-09-26,2020-09-26T23:07:00Z,12,Tropicana Field,Tampa Bay Rays,Philadelphia Phillies,139,143,4,3,7,595928,John Curtiss,554430,Zack Wheeler
+630964,2020-09-26,2020-09-26T23:07:00Z,2889,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,138,158,0,3,3,425794,Adam Wainwright,605540,Brandon Woodruff
+631537,2020-09-26,2020-09-26T23:10:00Z,5,Progressive Field,Cleveland Indians,Pittsburgh Pirates,114,134,0,8,8,650644,Aaron Civale,605397,Joe Musgrove
+631245,2020-09-26,2020-09-26T23:10:00Z,3312,Target Field,Minnesota Twins,Cincinnati Reds,142,113,7,3,10,501381,Michael Pineda,622491,Luis Castillo
+630570,2020-09-26,2020-09-26T23:10:00Z,4705,Truist Park,Atlanta Braves,Boston Red Sox,144,111,2,8,10,656353,Tucker Davidson,656557,Tanner Houck
+631487,2020-09-26,2020-09-26T23:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Chicago Cubs,145,112,9,5,14,641540,Dane Dunning,452657,Jon Lester
+630271,2020-09-26,2020-09-27T00:10:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,3,10,13,596133,Luke Weaver,608566,Germán Márquez
+631337,2020-09-26,2020-09-27T01:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,119,108,7,6,13,664062,Tony Gonsolin,527054,Julio Teheran
+631016,2020-09-26,2020-09-27T01:15:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,2,6,8,456501,Johnny Cueto,605200,Zach Davies
+631386,2020-09-27,2020-09-27T17:05:00Z,7,Kauffman Stadium,Kansas City Royals,Detroit Tigers,118,116,3,1,4,663903,Brady Singer,519455,Jordan Zimmermann
+630854,2020-09-27,2020-09-27T19:05:00Z,3309,Nationals Park,Washington Nationals,New York Mets,120,121,15,5,20,608723,Austin Voth,607625,Seth Lugo
+631002,2020-09-27,2020-09-27T19:05:00Z,2395,Oracle Park,San Francisco Giants,San Diego Padres,137,135,4,5,9,592767,Drew Smyly,670970,Adrian Morejon
+630915,2020-09-27,2020-09-27T19:05:00Z,5325,Globe Life Field,Texas Rangers,Houston Astros,140,117,8,4,12,543475,Jordan Lyles,608328,Chase De Jong
+631188,2020-09-27,2020-09-27T19:05:00Z,3313,Yankee Stadium,New York Yankees,Miami Marlins,147,146,0,5,5,657376,Clarke Schmidt,570632,José Ureña
+630858,2020-09-27,2020-09-27T19:07:00Z,2756,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,141,110,5,7,12,543699,Tanner Roark,669211,Keegan Akin
+630202,2020-09-27,2020-09-27T19:10:00Z,15,Chase Field,Arizona Diamondbacks,Colorado Rockies,109,115,11,3,14,518516,Madison Bumgarner,607536,Kyle Freeland
+631338,2020-09-27,2020-09-27T19:10:00Z,22,Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,119,108,5,0,5,624647,Victor González,663776,Patrick Sandoval
+631538,2020-09-27,2020-09-27T19:10:00Z,5,Progressive Field,Cleveland Indians,Pittsburgh Pirates,114,134,8,6,14,615698,Cal Quantrill,664141,JT Brubaker
+631155,2020-09-27,2020-09-27T19:10:00Z,10,Oakland Coliseum,Oakland Athletics,Seattle Mariners,133,136,6,2,8,593423,Frankie Montas,594835,Marco Gonzales
+631244,2020-09-27,2020-09-27T19:10:00Z,3312,Target Field,Minnesota Twins,Cincinnati Reds,142,113,3,5,8,448179,Rich Hill,543243,Sonny Gray
+630945,2020-09-27,2020-09-27T19:10:00Z,12,Tropicana Field,Tampa Bay Rays,Philadelphia Phillies,139,143,5,0,5,676596,Josh Fleming,605400,Aaron Nola
+630573,2020-09-27,2020-09-27T19:10:00Z,4705,Truist Park,Atlanta Braves,Boston Red Sox,144,111,1,9,10,669060,Bryse Wilson,601713,Nick Pivetta
+631488,2020-09-27,2020-09-27T19:10:00Z,4,Guaranteed Rate Field,Chicago White Sox,Chicago Cubs,145,112,8,10,18,625643,Reynaldo López,640470,Adbert Alzolay
+630965,2020-09-27,2020-09-27T19:15:00Z,2889,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,138,158,5,2,7,596295,Austin Gomber,474463,Brett Anderson

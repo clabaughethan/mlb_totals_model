@@ -1,0 +1,2463 @@
+date,away_team_abbr,home_team_abbr,away_team,home_team,open_total,close_total,away_final,home_final,season
+2016-04-03,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,6.5,6.5,1,4,2016
+2016-04-03,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.0,7.0,5,3,2016
+2016-04-03,NYM,KAN,New York Mets,Kansas City Royals,7.0,8.0,3,4,2016
+2016-04-04,SFO,MIL,San Francisco Giants,Milwaukee Brewers,7.0,8.0,12,3,2016
+2016-04-04,WAS,ATL,Washington Nationals,Atlanta Braves,6.5,7.0,4,3,2016
+2016-04-04,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,8.5,7.5,2,6,2016
+2016-04-04,LOS,SDG,LOS,San Diego Padres,5.5,6.0,15,0,2016
+2016-04-04,COL,ARI,Colorado Rockies,Arizona Diamondbacks,7.0,8.0,10,5,2016
+2016-04-04,MIN,BAL,Minnesota Twins,Baltimore Orioles,8.0,9.0,2,3,2016
+2016-04-04,SEA,TEX,Seattle Mariners,Texas Rangers,7.5,8.0,2,3,2016
+2016-04-04,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.5,8.5,5,3,2016
+2016-04-04,CWS,OAK,Chicago White Sox,Oakland Athletics,6.0,7.0,4,3,2016
+2016-04-04,CUB,LAA,Chicago Cubs,Los Angeles Angels,6.5,7.0,9,0,2016
+2016-04-05,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,7.5,7.0,5,6,2016
+2016-04-05,SFO,MIL,San Francisco Giants,Milwaukee Brewers,8.0,8.0,2,1,2016
+2016-04-05,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,9.0,6,11,2016
+2016-04-05,LOS,SDG,LOS,San Diego Padres,6.5,7.5,3,0,2016
+2016-04-05,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,8.5,2,3,2016
+2016-04-05,SEA,TEX,Seattle Mariners,Texas Rangers,8.5,9.0,10,2,2016
+2016-04-05,CWS,OAK,Chicago White Sox,Oakland Athletics,7.5,7.5,5,4,2016
+2016-04-05,NYM,KAN,New York Mets,Kansas City Royals,7.5,8.5,2,0,2016
+2016-04-05,DET,MIA,Detroit Tigers,Miami Marlins,7.5,7.5,8,7,2016
+2016-04-05,CUB,LAA,Chicago Cubs,Los Angeles Angels,7.5,7.5,6,1,2016
+2016-04-05,HOU,NYY,Houston Astros,New York Yankees,7.0,6.5,5,3,2016
+2016-04-05,BOS,CLE,Boston Red Sox,Cleveland Guardians,6.5,6.0,6,2,2016
+2016-04-06,SFO,MIL,San Francisco Giants,Milwaukee Brewers,8.5,9.0,3,4,2016
+2016-04-06,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,8.5,4,3,2016
+2016-04-06,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,7.5,7.5,1,5,2016
+2016-04-06,WAS,ATL,Washington Nationals,Atlanta Braves,7.5,7.0,3,1,2016
+2016-04-06,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,8.0,8.0,2,3,2016
+2016-04-06,LOS,SDG,LOS,San Diego Padres,7.0,7.0,7,0,2016
+2016-04-06,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,8.5,3,5,2016
+2016-04-06,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,9.5,9,5,2016
+2016-04-06,BOS,CLE,Boston Red Sox,Cleveland Guardians,7.0,7.5,6,7,2016
+2016-04-06,HOU,NYY,Houston Astros,New York Yankees,7.0,7.5,6,16,2016
+2016-04-06,MIN,BAL,Minnesota Twins,Baltimore Orioles,8.5,8.5,2,4,2016
+2016-04-06,CWS,OAK,Chicago White Sox,Oakland Athletics,7.0,8.0,1,2,2016
+2016-04-06,DET,MIA,Detroit Tigers,Miami Marlins,7.0,7.0,7,3,2016
+2016-04-07,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,8.5,8.5,6,10,2016
+2016-04-07,MIA,WAS,Miami Marlins,Washington Nationals,8.0,8.5,6,4,2016
+2016-04-07,LOS,SFO,LOS,San Francisco Giants,7.0,8.0,6,12,2016
+2016-04-07,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,9.0,9.0,14,6,2016
+2016-04-07,CWS,OAK,Chicago White Sox,Oakland Athletics,8.5,8.5,6,1,2016
+2016-04-07,HOU,NYY,Houston Astros,New York Yankees,8.0,9.0,5,8,2016
+2016-04-07,MIN,BAL,Minnesota Twins,Baltimore Orioles,8.5,8.5,2,4,2016
+2016-04-07,TEX,LAA,Texas Rangers,Los Angeles Angels,8.0,8.0,3,4,2016
+2016-04-08,PHI,NYM,Philadelphia Phillies,New York Mets,6.5,7.0,2,7,2016
+2016-04-08,SDG,COL,San Diego Padres,Colorado Rockies,10.5,11.0,13,6,2016
+2016-04-08,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,7.5,8.0,6,5,2016
+2016-04-08,STL,ATL,St. Louis Cardinals,Atlanta Braves,7.0,7.0,7,4,2016
+2016-04-08,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,9.5,9.0,2,3,2016
+2016-04-08,LOS,SFO,LOS,San Francisco Giants,8.0,8.5,2,3,2016
+2016-04-08,NYY,DET,New York Yankees,Detroit Tigers,8.0,8.0,0,4,2016
+2016-04-08,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.0,7,1,2016
+2016-04-08,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,7.5,7.5,1,6,2016
+2016-04-08,BOS,TOR,Boston Red Sox,Toronto Blue Jays,8.5,9.0,8,7,2016
+2016-04-08,MIN,KAN,Minnesota Twins,Kansas City Royals,7.5,7.5,3,4,2016
+2016-04-08,TEX,LAA,Texas Rangers,Los Angeles Angels,8.0,8.0,7,3,2016
+2016-04-08,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,8.0,3,2,2016
+2016-04-08,HOU,MIL,Houston Astros,Milwaukee Brewers,9.0,9.0,4,6,2016
+2016-04-09,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,7.5,7.0,1,5,2016
+2016-04-09,LOS,SFO,LOS,San Francisco Giants,6.0,6.0,3,2,2016
+2016-04-09,STL,ATL,St. Louis Cardinals,Atlanta Braves,7.0,7.0,12,2,2016
+2016-04-09,PHI,NYM,Philadelphia Phillies,New York Mets,7.5,7.0,1,0,2016
+2016-04-09,SDG,COL,San Diego Padres,Colorado Rockies,10.0,11.5,16,3,2016
+2016-04-09,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,8.0,8.0,4,2,2016
+2016-04-09,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,9.0,8,4,2016
+2016-04-09,NYY,DET,New York Yankees,Detroit Tigers,9.0,9.0,8,4,2016
+2016-04-09,CLE,CWS,Cleveland Guardians,Chicago White Sox,7.5,7.0,3,7,2016
+2016-04-09,MIN,KAN,Minnesota Twins,Kansas City Royals,8.0,7.5,0,7,2016
+2016-04-09,TEX,LAA,Texas Rangers,Los Angeles Angels,7.0,7.0,4,1,2016
+2016-04-09,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,8.0,6,1,2016
+2016-04-09,HOU,MIL,Houston Astros,Milwaukee Brewers,8.5,9.0,6,4,2016
+2016-04-10,PHI,NYM,Philadelphia Phillies,New York Mets,6.5,6.5,5,2,2016
+2016-04-10,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,9.0,1,2,2016
+2016-04-10,MIA,WAS,Miami Marlins,Washington Nationals,8.0,8.0,2,4,2016
+2016-04-10,STL,ATL,St. Louis Cardinals,Atlanta Braves,7.0,7.5,12,7,2016
+2016-04-10,LOS,SFO,LOS,San Francisco Giants,7.0,7.5,6,9,2016
+2016-04-10,SDG,COL,San Diego Padres,Colorado Rockies,11.0,11.5,3,6,2016
+2016-04-10,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,8.0,8.0,7,3,2016
+2016-04-10,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.5,9.5,0,3,2016
+2016-04-10,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,8.0,8.0,3,5,2016
+2016-04-10,MIN,KAN,Minnesota Twins,Kansas City Royals,8.0,8.5,3,4,2016
+2016-04-10,TEX,LAA,Texas Rangers,Los Angeles Angels,8.0,8.5,1,3,2016
+2016-04-10,OAK,SEA,Oakland Athletics,Seattle Mariners,7.0,7.5,2,1,2016
+2016-04-10,HOU,MIL,Houston Astros,Milwaukee Brewers,7.5,9.0,2,3,2016
+2016-04-11,SDG,PHI,San Diego Padres,Philadelphia Phillies,7.5,8.0,4,3,2016
+2016-04-11,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,7.5,1,10,2016
+2016-04-11,ATL,WAS,Atlanta Braves,Washington Nationals,7.0,7.5,4,6,2016
+2016-04-11,MIA,NYM,Miami Marlins,New York Mets,7.0,7.5,10,3,2016
+2016-04-11,CIN,CUB,Cincinnati Reds,Chicago Cubs,7.5,7.0,3,5,2016
+2016-04-11,BAL,BOS,Baltimore Orioles,Boston Red Sox,8.0,8.5,9,7,2016
+2016-04-11,CWS,MIN,Chicago White Sox,Minnesota Twins,8.0,7.5,4,1,2016
+2016-04-11,KAN,HOU,Kansas City Royals,Houston Astros,8.5,8.5,2,8,2016
+2016-04-11,LAA,OAK,Los Angeles Angels,Oakland Athletics,7.0,7.5,4,1,2016
+2016-04-11,TEX,SEA,Texas Rangers,Seattle Mariners,7.5,7.5,7,3,2016
+2016-04-11,PIT,DET,Pittsburgh Pirates,Detroit Tigers,9.0,8.5,7,4,2016
+2016-04-12,ARI,LOS,Arizona Diamondbacks,LOS,7.0,7.0,4,2,2016
+2016-04-12,ATL,WAS,Atlanta Braves,Washington Nationals,7.5,7.5,1,2,2016
+2016-04-12,SDG,PHI,San Diego Padres,Philadelphia Phillies,8.5,7.5,0,3,2016
+2016-04-12,MIA,NYM,Miami Marlins,New York Mets,6.0,6.0,2,1,2016
+2016-04-12,SFO,COL,San Francisco Giants,Colorado Rockies,11.0,11.5,7,2,2016
+2016-04-12,NYY,TOR,New York Yankees,Toronto Blue Jays,8.5,8.0,3,2,2016
+2016-04-12,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,7.0,7.0,1,5,2016
+2016-04-12,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,9.0,9,5,2016
+2016-04-12,KAN,HOU,Kansas City Royals,Houston Astros,8.5,8.0,3,2,2016
+2016-04-12,LAA,OAK,Los Angeles Angels,Oakland Athletics,7.5,8.0,5,4,2016
+2016-04-12,TEX,SEA,Texas Rangers,Seattle Mariners,7.5,7.0,8,0,2016
+2016-04-12,PIT,DET,Pittsburgh Pirates,Detroit Tigers,8.5,8.5,2,8,2016
+2016-04-13,MIA,NYM,Miami Marlins,New York Mets,8.0,7.0,1,2,2016
+2016-04-13,ATL,WAS,Atlanta Braves,Washington Nationals,7.5,8.0,0,3,2016
+2016-04-13,SDG,PHI,San Diego Padres,Philadelphia Phillies,8.0,7.0,1,2,2016
+2016-04-13,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.0,7.5,2,9,2016
+2016-04-13,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,7.0,6,4,2016
+2016-04-13,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,11.5,6,10,2016
+2016-04-13,ARI,LOS,Arizona Diamondbacks,LOS,7.5,8.0,1,3,2016
+2016-04-13,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.0,9.0,5,1,2016
+2016-04-13,TEX,SEA,Texas Rangers,Seattle Mariners,8.0,7.5,2,4,2016
+2016-04-13,NYY,TOR,New York Yankees,Toronto Blue Jays,8.5,8.0,2,7,2016
+2016-04-13,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.0,8.5,2,4,2016
+2016-04-13,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,7.0,7.0,4,1,2016
+2016-04-13,KAN,HOU,Kansas City Royals,Houston Astros,8.0,8.5,4,2,2016
+2016-04-13,CWS,MIN,Chicago White Sox,Minnesota Twins,8.0,8.0,3,0,2016
+2016-04-13,DET,PIT,Detroit Tigers,Pittsburgh Pirates,7.5,8.5,7,3,2016
+2016-04-14,SDG,PHI,San Diego Padres,Philadelphia Phillies,7.5,7.0,0,3,2016
+2016-04-14,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,7.5,0,7,2016
+2016-04-14,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,11.5,6,11,2016
+2016-04-14,ATL,WAS,Atlanta Braves,Washington Nationals,7.5,7.0,2,6,2016
+2016-04-14,CIN,CUB,Cincinnati Reds,Chicago Cubs,7.5,7.0,1,8,2016
+2016-04-14,ARI,LOS,Arizona Diamondbacks,LOS,7.5,7.5,2,5,2016
+2016-04-14,CWS,MIN,Chicago White Sox,Minnesota Twins,8.0,8.5,3,1,2016
+2016-04-14,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,7.0,7.0,6,0,2016
+2016-04-14,NYY,TOR,New York Yankees,Toronto Blue Jays,8.0,9.0,2,4,2016
+2016-04-14,BAL,TEX,Baltimore Orioles,Texas Rangers,8.5,8.0,3,6,2016
+2016-04-14,KAN,HOU,Kansas City Royals,Houston Astros,8.5,8.5,6,2,2016
+2016-04-14,DET,PIT,Detroit Tigers,Pittsburgh Pirates,7.0,6.5,7,4,2016
+2016-04-15,COL,CUB,Colorado Rockies,Chicago Cubs,8.0,7.5,6,1,2016
+2016-04-15,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,7.5,8,4,2016
+2016-04-15,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.0,7.5,9,1,2016
+2016-04-15,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,8.0,6,3,2016
+2016-04-15,CIN,STL,Cincinnati Reds,St. Louis Cardinals,7.5,7.5,3,14,2016
+2016-04-15,SFO,LOS,San Francisco Giants,LOS,6.0,6.0,3,7,2016
+2016-04-15,ARI,SDG,Arizona Diamondbacks,San Diego Padres,6.5,6.5,3,2,2016
+2016-04-15,SEA,NYY,Seattle Mariners,New York Yankees,8.5,8.0,7,1,2016
+2016-04-15,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.0,9.0,3,5,2016
+2016-04-15,CWS,TAM,Chicago White Sox,Tampa Bay Rays,6.5,6.5,1,0,2016
+2016-04-15,BAL,TEX,Baltimore Orioles,Texas Rangers,9.0,9.0,11,5,2016
+2016-04-15,DET,HOU,Detroit Tigers,Houston Astros,8.0,9.5,0,1,2016
+2016-04-15,LAA,MIN,Los Angeles Angels,Minnesota Twins,8.0,8.5,4,5,2016
+2016-04-15,KAN,OAK,Kansas City Royals,Oakland Athletics,7.0,7.0,4,2,2016
+2016-04-15,NYM,CLE,New York Mets,Cleveland Guardians,8.0,8.0,6,5,2016
+2016-04-16,CIN,STL,Cincinnati Reds,St. Louis Cardinals,7.5,7.5,9,8,2016
+2016-04-16,COL,CUB,Colorado Rockies,Chicago Cubs,6.5,7.0,2,6,2016
+2016-04-16,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,8.0,0,5,2016
+2016-04-16,WAS,PHI,Washington Nationals,Philadelphia Phillies,6.5,7.0,8,1,2016
+2016-04-16,ATL,MIA,Atlanta Braves,Miami Marlins,7.5,8.5,6,4,2016
+2016-04-16,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.0,7.5,3,5,2016
+2016-04-16,SFO,LOS,San Francisco Giants,LOS,7.0,7.5,4,3,2016
+2016-04-16,SEA,NYY,Seattle Mariners,New York Yankees,7.5,7.5,3,2,2016
+2016-04-16,LAA,MIN,Los Angeles Angels,Minnesota Twins,8.5,9.5,4,6,2016
+2016-04-16,KAN,OAK,Kansas City Royals,Oakland Athletics,8.0,7.5,3,5,2016
+2016-04-16,TOR,BOS,Toronto Blue Jays,Boston Red Sox,8.5,8.0,2,4,2016
+2016-04-16,CWS,TAM,Chicago White Sox,Tampa Bay Rays,7.5,8.0,2,7,2016
+2016-04-16,DET,HOU,Detroit Tigers,Houston Astros,8.5,9.0,5,3,2016
+2016-04-16,BAL,TEX,Baltimore Orioles,Texas Rangers,9.0,9.5,4,8,2016
+2016-04-16,NYM,CLE,New York Mets,Cleveland Guardians,7.0,7.5,5,7,2016
+2016-04-17,ATL,MIA,Atlanta Braves,Miami Marlins,7.5,8.0,6,5,2016
+2016-04-17,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.0,8.0,2,3,2016
+2016-04-17,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,8.0,3,9,2016
+2016-04-17,CIN,STL,Cincinnati Reds,St. Louis Cardinals,7.5,8.0,3,4,2016
+2016-04-17,COL,CUB,Colorado Rockies,Chicago Cubs,7.0,7.5,2,0,2016
+2016-04-17,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.0,7.0,7,3,2016
+2016-04-17,SFO,LOS,San Francisco Giants,LOS,7.0,8.0,1,3,2016
+2016-04-17,SEA,NYY,Seattle Mariners,New York Yankees,7.5,7.5,3,4,2016
+2016-04-17,CWS,TAM,Chicago White Sox,Tampa Bay Rays,7.5,7.0,2,3,2016
+2016-04-17,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.0,9.0,5,3,2016
+2016-04-17,DET,HOU,Detroit Tigers,Houston Astros,9.0,8.5,4,5,2016
+2016-04-17,LAA,MIN,Los Angeles Angels,Minnesota Twins,8.5,9.0,2,3,2016
+2016-04-17,KAN,OAK,Kansas City Royals,Oakland Athletics,7.5,8.5,2,3,2016
+2016-04-17,NYM,CLE,New York Mets,Cleveland Guardians,7.5,7.5,6,0,2016
+2016-04-18,NYM,PHI,New York Mets,Philadelphia Phillies,6.5,7.5,5,2,2016
+2016-04-18,WAS,MIA,Washington Nationals,Miami Marlins,7.0,7.5,1,6,2016
+2016-04-18,COL,CIN,Colorado Rockies,Cincinnati Reds,8.5,8.5,5,1,2016
+2016-04-18,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.0,8.5,5,0,2016
+2016-04-18,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,8.0,9,7,2016
+2016-04-18,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,8.5,4,3,2016
+2016-04-18,LAA,CWS,Los Angeles Angels,Chicago White Sox,8.5,9.0,7,0,2016
+2016-04-18,MIL,MIN,Milwaukee Brewers,Minnesota Twins,8.5,8.0,4,7,2016
+2016-04-19,NYM,PHI,New York Mets,Philadelphia Phillies,7.5,7.5,11,1,2016
+2016-04-19,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.5,7,0,2016
+2016-04-19,LOS,ATL,LOS,Atlanta Braves,7.5,8.0,1,8,2016
+2016-04-19,COL,CIN,Colorado Rockies,Cincinnati Reds,8.0,8.5,3,4,2016
+2016-04-19,CUB,STL,Chicago Cubs,St. Louis Cardinals,7.5,7.5,2,1,2016
+2016-04-19,PIT,SDG,Pittsburgh Pirates,San Diego Padres,7.0,7.5,4,5,2016
+2016-04-19,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,7.5,3,0,2016
+2016-04-19,SEA,CLE,Seattle Mariners,Cleveland Guardians,7.5,7.5,2,3,2016
+2016-04-19,OAK,NYY,Oakland Athletics,New York Yankees,8.0,8.5,3,2,2016
+2016-04-19,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,8.5,9.0,4,3,2016
+2016-04-19,TAM,BOS,Tampa Bay Rays,Boston Red Sox,8.5,8.5,3,0,2016
+2016-04-19,DET,KAN,Detroit Tigers,Kansas City Royals,7.5,8.0,6,8,2016
+2016-04-19,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,5,7,2016
+2016-04-19,LAA,CWS,Los Angeles Angels,Chicago White Sox,8.5,8.0,0,5,2016
+2016-04-19,MIL,MIN,Milwaukee Brewers,Minnesota Twins,8.5,8.0,6,5,2016
+2016-04-20,COL,CIN,Colorado Rockies,Cincinnati Reds,8.0,7.5,5,6,2016
+2016-04-20,CUB,STL,Chicago Cubs,St. Louis Cardinals,7.5,7.5,3,5,2016
+2016-04-20,NYM,PHI,New York Mets,Philadelphia Phillies,8.0,8.0,4,5,2016
+2016-04-20,WAS,MIA,Washington Nationals,Miami Marlins,8.0,7.5,3,1,2016
+2016-04-20,LOS,ATL,LOS,Atlanta Braves,8.0,8.5,5,3,2016
+2016-04-20,PIT,SDG,Pittsburgh Pirates,San Diego Padres,7.5,8.0,2,8,2016
+2016-04-20,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,6.5,6.5,2,1,2016
+2016-04-20,LAA,CWS,Los Angeles Angels,Chicago White Sox,7.0,7.0,1,2,2016
+2016-04-20,SEA,CLE,Seattle Mariners,Cleveland Guardians,7.5,7.5,2,1,2016
+2016-04-20,OAK,NYY,Oakland Athletics,New York Yankees,8.5,8.5,5,2,2016
+2016-04-20,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.0,9.0,3,4,2016
+2016-04-20,TAM,BOS,Tampa Bay Rays,Boston Red Sox,8.0,8.0,3,7,2016
+2016-04-20,DET,KAN,Detroit Tigers,Kansas City Royals,7.5,8.0,3,2,2016
+2016-04-20,HOU,TEX,Houston Astros,Texas Rangers,8.5,8.5,1,2,2016
+2016-04-20,MIN,MIL,Minnesota Twins,Milwaukee Brewers,8.5,9.0,5,10,2016
+2016-04-21,WAS,MIA,Washington Nationals,Miami Marlins,7.0,7.0,1,5,2016
+2016-04-21,LOS,ATL,LOS,Atlanta Braves,6.5,6.5,2,1,2016
+2016-04-21,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,7.5,6,2,2016
+2016-04-21,CUB,CIN,Chicago Cubs,Cincinnati Reds,7.0,7.5,16,0,2016
+2016-04-21,PIT,SDG,Pittsburgh Pirates,San Diego Padres,6.5,7.0,11,1,2016
+2016-04-21,SEA,CLE,Seattle Mariners,Cleveland Guardians,8.5,9.0,10,7,2016
+2016-04-21,LAA,CWS,Los Angeles Angels,Chicago White Sox,9.0,10.5,3,2,2016
+2016-04-21,TAM,BOS,Tampa Bay Rays,Boston Red Sox,7.5,8.5,12,8,2016
+2016-04-21,OAK,NYY,Oakland Athletics,New York Yankees,8.5,8.0,7,3,2016
+2016-04-21,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.0,8.5,2,3,2016
+2016-04-21,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,9.0,0,4,2016
+2016-04-21,HOU,TEX,Houston Astros,Texas Rangers,9.0,8.5,4,7,2016
+2016-04-21,MIN,MIL,Minnesota Twins,Milwaukee Brewers,8.5,9.0,8,1,2016
+2016-04-22,NYM,ATL,New York Mets,Atlanta Braves,7.5,8.0,6,3,2016
+2016-04-22,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.0,8.5,8,1,2016
+2016-04-22,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,8.5,8.0,5,2,2016
+2016-04-22,LOS,COL,LOS,Colorado Rockies,11.0,11.0,5,7,2016
+2016-04-22,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,8.5,9.0,8,7,2016
+2016-04-22,MIA,SFO,Miami Marlins,San Francisco Giants,7.5,8.0,1,8,2016
+2016-04-22,STL,SDG,St. Louis Cardinals,San Diego Padres,7.5,7.0,1,4,2016
+2016-04-22,TAM,NYY,Tampa Bay Rays,New York Yankees,8.0,9.0,3,6,2016
+2016-04-22,OAK,TOR,Oakland Athletics,Toronto Blue Jays,8.0,8.0,8,5,2016
+2016-04-22,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.0,2,1,2016
+2016-04-22,TEX,CWS,Texas Rangers,Chicago White Sox,8.5,7.5,0,5,2016
+2016-04-22,BOS,HOU,Boston Red Sox,Houston Astros,9.0,8.5,6,2,2016
+2016-04-22,BAL,KAN,Baltimore Orioles,Kansas City Royals,9.0,8.5,2,4,2016
+2016-04-22,SEA,LAA,Seattle Mariners,Los Angeles Angels,7.0,7.5,5,2,2016
+2016-04-22,MIN,WAS,Minnesota Twins,Washington Nationals,7.5,8.0,4,8,2016
+2016-04-23,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.5,8.5,5,13,2016
+2016-04-23,NYM,ATL,New York Mets,Atlanta Braves,8.0,7.5,8,2,2016
+2016-04-23,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,8.5,8.5,10,6,2016
+2016-04-23,LOS,COL,LOS,Colorado Rockies,11.0,11.0,4,1,2016
+2016-04-23,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,9.5,9.0,1,7,2016
+2016-04-23,STL,SDG,St. Louis Cardinals,San Diego Padres,7.5,7.0,11,2,2016
+2016-04-23,MIA,SFO,Miami Marlins,San Francisco Giants,7.0,7.0,2,7,2016
+2016-04-23,TAM,NYY,Tampa Bay Rays,New York Yankees,8.0,7.5,2,3,2016
+2016-04-23,OAK,TOR,Oakland Athletics,Toronto Blue Jays,9.0,8.5,3,9,2016
+2016-04-23,CLE,DET,Cleveland Guardians,Detroit Tigers,7.5,8.0,10,1,2016
+2016-04-23,TEX,CWS,Texas Rangers,Chicago White Sox,8.5,8.0,3,4,2016
+2016-04-23,BOS,HOU,Boston Red Sox,Houston Astros,8.5,8.5,3,8,2016
+2016-04-23,BAL,KAN,Baltimore Orioles,Kansas City Royals,9.0,9.0,8,3,2016
+2016-04-23,SEA,LAA,Seattle Mariners,Los Angeles Angels,7.5,7.0,2,4,2016
+2016-04-23,MIN,WAS,Minnesota Twins,Washington Nationals,8.0,8.5,0,2,2016
+2016-04-24,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.0,9,0,2016
+2016-04-24,NYM,ATL,New York Mets,Atlanta Braves,7.5,7.5,3,2,2016
+2016-04-24,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,8.5,8.5,5,8,2016
+2016-04-24,MIA,SFO,Miami Marlins,San Francisco Giants,8.0,8.0,5,4,2016
+2016-04-24,LOS,COL,LOS,Colorado Rockies,11.5,11.0,12,10,2016
+2016-04-24,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,9.0,8.5,12,10,2016
+2016-04-24,STL,SDG,St. Louis Cardinals,San Diego Padres,7.5,8.0,8,5,2016
+2016-04-24,TAM,NYY,Tampa Bay Rays,New York Yankees,7.5,7.5,8,1,2016
+2016-04-24,OAK,TOR,Oakland Athletics,Toronto Blue Jays,9.5,9.5,3,6,2016
+2016-04-24,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.0,6,3,2016
+2016-04-24,TEX,CWS,Texas Rangers,Chicago White Sox,8.5,8.5,1,4,2016
+2016-04-24,BAL,KAN,Baltimore Orioles,Kansas City Royals,9.0,8.5,1,6,2016
+2016-04-24,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,8.0,9,4,2016
+2016-04-24,BOS,HOU,Boston Red Sox,Houston Astros,9.0,9.0,7,5,2016
+2016-04-24,MIN,WAS,Minnesota Twins,Washington Nationals,7.5,7.0,5,6,2016
+2016-04-25,CIN,NYM,Cincinnati Reds,New York Mets,6.5,6.5,3,5,2016
+2016-04-25,PIT,COL,Pittsburgh Pirates,Colorado Rockies,11.5,11.5,6,1,2016
+2016-04-25,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,8.0,7.5,7,12,2016
+2016-04-25,MIA,LOS,Miami Marlins,LOS,7.5,7.5,3,2,2016
+2016-04-25,SDG,SFO,San Diego Padres,San Francisco Giants,6.5,6.5,4,5,2016
+2016-04-25,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.5,8.5,7,5,2016
+2016-04-25,OAK,DET,Oakland Athletics,Detroit Tigers,8.0,8.5,3,7,2016
+2016-04-25,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.0,7.5,0,2,2016
+2016-04-25,NYY,TEX,New York Yankees,Texas Rangers,9.5,9.0,3,1,2016
+2016-04-25,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.0,7.5,3,4,2016
+2016-04-25,KAN,LAA,Kansas City Royals,Los Angeles Angels,7.5,7.0,1,6,2016
+2016-04-25,HOU,SEA,Houston Astros,Seattle Mariners,7.5,7.5,2,3,2016
+2016-04-25,BOS,ATL,Boston Red Sox,Atlanta Braves,8.0,7.5,1,0,2016
+2016-04-26,PHI,WAS,Philadelphia Phillies,Washington Nationals,6.5,7.0,4,3,2016
+2016-04-26,CIN,NYM,Cincinnati Reds,New York Mets,7.5,7.0,3,4,2016
+2016-04-26,MIL,CUB,Milwaukee Brewers,Chicago Cubs,7.0,7.0,3,4,2016
+2016-04-26,PIT,COL,Pittsburgh Pirates,Colorado Rockies,11.0,9.5,9,4,2016
+2016-04-26,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,9.0,8.5,8,2,2016
+2016-04-26,MIA,LOS,Miami Marlins,LOS,6.5,6.5,6,3,2016
+2016-04-26,SDG,SFO,San Diego Padres,San Francisco Giants,7.0,7.0,0,1,2016
+2016-04-26,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.0,8.0,10,1,2016
+2016-04-26,OAK,DET,Oakland Athletics,Detroit Tigers,8.5,9.0,5,1,2016
+2016-04-26,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,7.5,7.5,1,3,2016
+2016-04-26,NYY,TEX,New York Yankees,Texas Rangers,9.0,9.0,1,10,2016
+2016-04-26,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.5,8.0,5,6,2016
+2016-04-26,KAN,LAA,Kansas City Royals,Los Angeles Angels,7.5,7.5,4,9,2016
+2016-04-26,HOU,SEA,Houston Astros,Seattle Mariners,7.0,7.0,1,11,2016
+2016-04-26,BOS,ATL,Boston Red Sox,Atlanta Braves,8.0,7.0,11,4,2016
+2016-04-27,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,7.5,9,13,2016
+2016-04-27,PHI,WAS,Philadelphia Phillies,Washington Nationals,7.5,7.0,3,0,2016
+2016-04-27,CIN,NYM,Cincinnati Reds,New York Mets,7.5,7.5,2,5,2016
+2016-04-27,PIT,COL,Pittsburgh Pirates,Colorado Rockies,11.0,10.5,9,8,2016
+2016-04-27,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,8.5,9.0,11,4,2016
+2016-04-27,MIA,LOS,Miami Marlins,LOS,7.5,8.0,2,0,2016
+2016-04-27,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.5,8.5,4,0,2016
+2016-04-27,OAK,DET,Oakland Athletics,Detroit Tigers,8.0,7.5,4,9,2016
+2016-04-27,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,7.5,7.5,3,1,2016
+2016-04-27,NYY,TEX,New York Yankees,Texas Rangers,9.0,9.0,2,3,2016
+2016-04-27,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.5,8.0,6,5,2016
+2016-04-27,KAN,LAA,Kansas City Royals,Los Angeles Angels,7.5,7.5,2,4,2016
+2016-04-27,HOU,SEA,Houston Astros,Seattle Mariners,7.5,7.0,7,4,2016
+2016-04-27,ATL,BOS,Atlanta Braves,Boston Red Sox,8.5,9.0,4,9,2016
+2016-04-28,MIL,CUB,Milwaukee Brewers,Chicago Cubs,6.5,6.5,2,7,2016
+2016-04-28,PHI,WAS,Philadelphia Phillies,Washington Nationals,7.5,7.0,3,0,2016
+2016-04-28,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,9.0,8.5,0,3,2016
+2016-04-28,MIA,LAD,Miami Marlins,Los Angeles Dodgers,6.5,6.0,5,3,2016
+2016-04-28,OAK,DET,Oakland Athletics,Detroit Tigers,8.5,8.5,3,7,2016
+2016-04-28,CWS,BAL,Chicago White Sox,Baltimore Orioles,9.0,8.5,2,10,2016
+2016-04-28,ATL,BOS,Atlanta Braves,Boston Red Sox,8.5,8.5,5,3,2016
+2016-04-29,ATL,CUB,Atlanta Braves,Chicago Cubs,7.5,6.5,1,6,2016
+2016-04-29,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,7.5,7.5,1,4,2016
+2016-04-29,SFO,NYM,San Francisco Giants,New York Mets,7.5,7.0,1,13,2016
+2016-04-29,MIA,MIL,Miami Marlins,Milwaukee Brewers,9.0,8.5,6,3,2016
+2016-04-29,WAS,STL,Washington Nationals,St. Louis Cardinals,7.5,7.0,5,4,2016
+2016-04-29,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,9.0,9,0,2016
+2016-04-29,SDG,LOS,San Diego Padres,LOS,7.5,7.5,5,1,2016
+2016-04-29,CWS,BAL,Chicago White Sox,Baltimore Orioles,8.5,9.0,3,6,2016
+2016-04-29,NYY,BOS,New York Yankees,Boston Red Sox,8.5,8.0,2,4,2016
+2016-04-29,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.5,7.0,6,1,2016
+2016-04-29,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,9.0,2,4,2016
+2016-04-29,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,8.0,9,2,2016
+2016-04-29,HOU,OAK,Houston Astros,Oakland Athletics,7.5,7.5,4,7,2016
+2016-04-29,KAN,SEA,Kansas City Royals,Seattle Mariners,7.0,7.0,0,1,2016
+2016-04-29,CLE,PHI,Cleveland Guardians,Philadelphia Phillies,7.5,7.0,3,4,2016
+2016-04-30,WAS,STL,Washington Nationals,St. Louis Cardinals,7.5,7.5,6,1,2016
+2016-04-30,SFO,NYM,San Francisco Giants,New York Mets,7.0,7.0,5,6,2016
+2016-04-30,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,7.5,7.5,1,5,2016
+2016-04-30,MIA,MIL,Miami Marlins,Milwaukee Brewers,8.5,9.0,7,5,2016
+2016-04-30,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,8.5,5,2,2016
+2016-04-30,SDG,LOS,San Diego Padres,LOS,7.5,7.5,5,2,2016
+2016-04-30,DET,MIN,Detroit Tigers,Minnesota Twins,8.5,8.0,4,1,2016
+2016-04-30,HOU,OAK,Houston Astros,Oakland Athletics,8.0,9.0,0,2,2016
+2016-04-30,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.5,7.5,3,4,2016
+2016-04-30,CWS,BAL,Chicago White Sox,Baltimore Orioles,8.5,7.5,8,7,2016
+2016-04-30,NYY,BOS,New York Yankees,Boston Red Sox,8.5,8.0,0,8,2016
+2016-04-30,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,9.0,2,7,2016
+2016-04-30,KAN,SEA,Kansas City Royals,Seattle Mariners,7.5,7.0,0,6,2016
+2016-04-30,CLE,PHI,Cleveland Guardians,Philadelphia Phillies,7.5,7.5,3,4,2016
+2016-05-01,SFO,NYM,San Francisco Giants,New York Mets,6.5,6.0,6,1,2016
+2016-05-01,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.0,8.5,6,5,2016
+2016-05-01,MIA,MIL,Miami Marlins,Milwaukee Brewers,9.0,9.0,5,14,2016
+2016-05-01,WAS,STL,Washington Nationals,St. Louis Cardinals,7.0,7.0,6,1,2016
+2016-05-01,ATL,CUB,Atlanta Braves,Chicago Cubs,6.5,7.0,4,3,2016
+2016-05-01,SDG,LOS,San Diego Padres,LOS,6.5,6.5,0,1,2016
+2016-05-01,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,9.0,6,3,2016
+2016-05-01,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.5,7.5,5,1,2016
+2016-05-01,CWS,BAL,Chicago White Sox,Baltimore Orioles,7.5,7.5,7,1,2016
+2016-05-01,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,8.5,6,5,2016
+2016-05-01,LAA,TEX,Los Angeles Angels,Texas Rangers,8.5,8.5,9,6,2016
+2016-05-01,HOU,OAK,Houston Astros,Oakland Athletics,8.0,8.5,2,1,2016
+2016-05-01,KAN,SEA,Kansas City Royals,Seattle Mariners,7.5,7.5,4,1,2016
+2016-05-01,NYY,BOS,New York Yankees,Boston Red Sox,8.0,7.0,7,8,2016
+2016-05-01,CLE,PHI,Cleveland Guardians,Philadelphia Phillies,7.0,7.0,1,2,2016
+2016-05-02,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,7.0,7.0,7,2,2016
+2016-05-02,SFO,CIN,San Francisco Giants,Cincinnati Reds,7.5,8.0,9,6,2016
+2016-05-02,ATL,NYM,Atlanta Braves,New York Mets,7.0,7.5,1,4,2016
+2016-05-02,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,7.5,7.5,3,10,2016
+2016-05-02,COL,SDG,Colorado Rockies,San Diego Padres,7.5,7.0,1,2,2016
+2016-05-02,TEX,TOR,Texas Rangers,Toronto Blue Jays,9.0,9.0,2,1,2016
+2016-05-02,MIN,HOU,Minnesota Twins,Houston Astros,8.0,8.0,6,2,2016
+2016-05-02,SEA,OAK,Seattle Mariners,Oakland Athletics,7.5,8.0,4,3,2016
+2016-05-02,LAA,MIL,Los Angeles Angels,Milwaukee Brewers,8.5,9.0,5,8,2016
+2016-05-02,WAS,KAN,Washington Nationals,Kansas City Royals,7.5,7.0,2,0,2016
+2016-05-03,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,6.5,7.0,7,1,2016
+2016-05-03,ARI,MIA,Arizona Diamondbacks,Miami Marlins,8.0,8.5,4,7,2016
+2016-05-03,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.5,8.5,3,1,2016
+2016-05-03,ATL,NYM,Atlanta Braves,New York Mets,7.0,7.0,3,0,2016
+2016-05-03,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,7.0,7.0,1,0,2016
+2016-05-03,COL,SDG,Colorado Rockies,San Diego Padres,7.0,7.5,3,6,2016
+2016-05-03,DET,CLE,Detroit Tigers,Cleveland Guardians,8.0,8.0,3,7,2016
+2016-05-03,NYY,BAL,New York Yankees,Baltimore Orioles,8.5,8.0,1,4,2016
+2016-05-03,TEX,TOR,Texas Rangers,Toronto Blue Jays,9.0,9.0,1,3,2016
+2016-05-03,BOS,CWS,Boston Red Sox,Chicago White Sox,8.0,8.0,1,4,2016
+2016-05-03,MIN,HOU,Minnesota Twins,Houston Astros,8.5,8.5,4,6,2016
+2016-05-03,SEA,OAK,Seattle Mariners,Oakland Athletics,7.0,7.5,8,2,2016
+2016-05-03,LOS,TAM,LOS,Tampa Bay Rays,7.5,7.5,10,5,2016
+2016-05-03,LAA,MIL,Los Angeles Angels,Milwaukee Brewers,9.0,8.5,4,5,2016
+2016-05-03,WAS,KAN,Washington Nationals,Kansas City Royals,8.0,7.5,6,7,2016
+2016-05-04,SFO,CIN,San Francisco Giants,Cincinnati Reds,9.0,8.5,4,7,2016
+2016-05-04,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,7.5,7.5,6,2,2016
+2016-05-04,ATL,NYM,Atlanta Braves,New York Mets,7.0,7.0,0,8,2016
+2016-05-04,COL,SDG,Colorado Rockies,San Diego Padres,7.5,7.5,2,0,2016
+2016-05-04,ARI,MIA,Arizona Diamondbacks,Miami Marlins,7.5,7.0,3,4,2016
+2016-05-04,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,7.5,7.5,4,5,2016
+2016-05-04,SEA,OAK,Seattle Mariners,Oakland Athletics,7.0,7.5,9,8,2016
+2016-05-04,DET,CLE,Detroit Tigers,Cleveland Guardians,7.5,7.5,0,4,2016
+2016-05-04,NYY,BAL,New York Yankees,Baltimore Orioles,8.5,8.5,7,0,2016
+2016-05-04,TEX,TOR,Texas Rangers,Toronto Blue Jays,8.5,9.0,3,4,2016
+2016-05-04,MIN,HOU,Minnesota Twins,Houston Astros,8.0,9.0,4,16,2016
+2016-05-04,BOS,CWS,Boston Red Sox,Chicago White Sox,8.5,8.0,5,2,2016
+2016-05-04,LAA,MIL,Los Angeles Angels,Milwaukee Brewers,9.0,9.0,7,3,2016
+2016-05-04,WAS,KAN,Washington Nationals,Kansas City Royals,7.5,7.0,13,2,2016
+2016-05-04,LOS,TAM,LOS,Tampa Bay Rays,7.5,7.0,5,8,2016
+2016-05-05,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,7.0,6.5,0,4,2016
+2016-05-05,ARI,MIA,Arizona Diamondbacks,Miami Marlins,8.0,8.5,0,4,2016
+2016-05-05,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.0,9.0,5,9,2016
+2016-05-05,WAS,CUB,Washington Nationals,Chicago Cubs,8.0,7.5,2,5,2016
+2016-05-05,NYM,SDG,New York Mets,San Diego Padres,6.5,7.0,3,5,2016
+2016-05-05,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,7.5,17,7,2016
+2016-05-05,DET,CLE,Detroit Tigers,Cleveland Guardians,8.5,8.5,4,9,2016
+2016-05-05,NYY,BAL,New York Yankees,Baltimore Orioles,7.5,7.0,0,1,2016
+2016-05-05,TEX,TOR,Texas Rangers,Toronto Blue Jays,8.5,8.5,2,12,2016
+2016-05-05,SEA,HOU,Seattle Mariners,Houston Astros,8.5,9.0,6,3,2016
+2016-05-05,BOS,CWS,Boston Red Sox,Chicago White Sox,9.0,8.5,7,3,2016
+2016-05-06,WAS,CUB,Washington Nationals,Chicago Cubs,7.5,8.5,6,8,2016
+2016-05-06,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.5,7.0,4,6,2016
+2016-05-06,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.5,1,5,2016
+2016-05-06,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,7.0,7.0,7,2,2016
+2016-05-06,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,7.0,7.5,4,2,2016
+2016-05-06,COL,SFO,Colorado Rockies,San Francisco Giants,6.5,7.0,4,6,2016
+2016-05-06,NYM,SDG,New York Mets,San Diego Padres,6.0,6.5,0,2,2016
+2016-05-06,BOS,NYY,Boston Red Sox,New York Yankees,8.0,7.0,2,3,2016
+2016-05-06,TEX,DET,Texas Rangers,Detroit Tigers,7.5,8.0,5,1,2016
+2016-05-06,KAN,CLE,Kansas City Royals,Cleveland Guardians,7.0,7.0,1,7,2016
+2016-05-06,MIN,CWS,Minnesota Twins,Chicago White Sox,8.5,9.0,4,10,2016
+2016-05-06,SEA,HOU,Seattle Mariners,Houston Astros,8.5,9.0,3,6,2016
+2016-05-06,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,7.5,7.5,5,2,2016
+2016-05-06,LOS,TOR,LOS,Toronto Blue Jays,8.0,8.0,2,5,2016
+2016-05-07,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.0,9.0,4,6,2016
+2016-05-07,WAS,CUB,Washington Nationals,Chicago Cubs,7.0,7.5,5,8,2016
+2016-05-07,COL,SFO,Colorado Rockies,San Francisco Giants,7.5,7.0,1,2,2016
+2016-05-07,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,9.0,13,7,2016
+2016-05-07,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,8.5,4,3,2016
+2016-05-07,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,7.5,7.5,4,2,2016
+2016-05-07,NYM,SDG,New York Mets,San Diego Padres,7.0,7.5,6,3,2016
+2016-05-07,BOS,NYY,Boston Red Sox,New York Yankees,7.5,7.5,2,8,2016
+2016-05-07,TEX,DET,Texas Rangers,Detroit Tigers,9.0,10.0,10,5,2016
+2016-05-07,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,8.5,7,0,2016
+2016-05-07,OAK,BAL,Oakland Athletics,Baltimore Orioles,8.5,8.5,2,5,2016
+2016-05-07,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.5,3,2,2016
+2016-05-07,MIN,CWS,Minnesota Twins,Chicago White Sox,7.0,7.0,2,7,2016
+2016-05-07,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.0,8.0,4,2,2016
+2016-05-07,LOS,TOR,LOS,Toronto Blue Jays,7.5,8.0,6,2,2016
+2016-05-07,OAK,BAL,Oakland Athletics,Baltimore Orioles,8.0,8.0,8,4,2016
+2016-05-08,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.5,7.5,6,5,2016
+2016-05-08,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.5,5,4,2016
+2016-05-08,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,8.0,8.0,5,3,2016
+2016-05-08,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,7.5,7.5,10,5,2016
+2016-05-08,WAS,CUB,Washington Nationals,Chicago Cubs,7.0,8.0,3,4,2016
+2016-05-08,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,8.0,2,0,2016
+2016-05-08,NYM,SDG,New York Mets,San Diego Padres,7.5,7.5,4,3,2016
+2016-05-08,TEX,DET,Texas Rangers,Detroit Tigers,9.0,9.0,8,3,2016
+2016-05-08,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,7.5,4,5,2016
+2016-05-08,OAK,BAL,Oakland Athletics,Baltimore Orioles,8.0,8.5,3,11,2016
+2016-05-08,SEA,HOU,Seattle Mariners,Houston Astros,9.0,8.5,1,5,2016
+2016-05-08,MIN,CWS,Minnesota Twins,Chicago White Sox,8.0,7.5,1,3,2016
+2016-05-08,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.5,8.0,3,1,2016
+2016-05-08,BOS,NYY,Boston Red Sox,New York Yankees,8.0,8.5,5,1,2016
+2016-05-08,LOS,TOR,LOS,Toronto Blue Jays,8.5,9.5,4,2,2016
+2016-05-09,MIL,MIA,Milwaukee Brewers,Miami Marlins,7.5,7.5,1,4,2016
+2016-05-09,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,8.5,2,3,2016
+2016-05-09,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,10.5,10,5,2016
+2016-05-09,NYM,LOS,New York Mets,LOS,7.5,7.0,4,2,2016
+2016-05-09,KAN,NYY,Kansas City Royals,New York Yankees,8.5,8.0,3,6,2016
+2016-05-09,OAK,BOS,Oakland Athletics,Boston Red Sox,8.5,8.5,7,14,2016
+2016-05-09,CWS,TEX,Chicago White Sox,Texas Rangers,9.5,10.0,8,4,2016
+2016-05-09,CLE,HOU,Cleveland Guardians,Houston Astros,8.0,7.5,1,7,2016
+2016-05-09,TAM,SEA,Tampa Bay Rays,Seattle Mariners,7.0,7.0,2,5,2016
+2016-05-09,DET,WAS,Detroit Tigers,Washington Nationals,7.5,7.0,4,5,2016
+2016-05-09,TOR,SFO,Toronto Blue Jays,San Francisco Giants,8.0,8.0,3,1,2016
+2016-05-10,PHI,ATL,Philadelphia Phillies,Atlanta Braves,7.5,7.5,3,2,2016
+2016-05-10,MIL,MIA,Milwaukee Brewers,Miami Marlins,8.5,8.5,10,2,2016
+2016-05-10,SDG,CUB,San Diego Padres,Chicago Cubs,7.5,7.5,7,8,2016
+2016-05-10,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,10.5,5,1,2016
+2016-05-10,NYM,LOS,New York Mets,LOS,7.0,7.0,2,3,2016
+2016-05-10,KAN,NYY,Kansas City Royals,New York Yankees,7.5,7.0,7,10,2016
+2016-05-10,OAK,BOS,Oakland Athletics,Boston Red Sox,9.0,9.5,5,13,2016
+2016-05-10,CWS,TEX,Chicago White Sox,Texas Rangers,9.5,9.5,11,13,2016
+2016-05-10,CLE,HOU,Cleveland Guardians,Houston Astros,8.5,8.5,4,0,2016
+2016-05-10,BAL,MIN,Baltimore Orioles,Minnesota Twins,8.5,7.5,5,3,2016
+2016-05-10,TAM,SEA,Tampa Bay Rays,Seattle Mariners,7.0,7.0,4,6,2016
+2016-05-10,DET,WAS,Detroit Tigers,Washington Nationals,8.0,8.0,5,4,2016
+2016-05-10,STL,LAA,St. Louis Cardinals,Los Angeles Angels,8.0,7.5,8,1,2016
+2016-05-10,TOR,SFO,Toronto Blue Jays,San Francisco Giants,8.0,8.0,4,0,2016
+2016-05-11,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,10.5,7,8,2016
+2016-05-11,MIL,MIA,Milwaukee Brewers,Miami Marlins,8.5,8.5,2,3,2016
+2016-05-11,PHI,ATL,Philadelphia Phillies,Atlanta Braves,7.5,7.5,1,5,2016
+2016-05-11,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,9.0,5,4,2016
+2016-05-11,SDG,CUB,San Diego Padres,Chicago Cubs,7.5,7.0,1,0,2016
+2016-05-11,NYM,LOS,New York Mets,LOS,6.5,6.5,4,3,2016
+2016-05-11,BAL,MIN,Baltimore Orioles,Minnesota Twins,8.5,8.5,9,2,2016
+2016-05-11,CWS,TEX,Chicago White Sox,Texas Rangers,9.0,9.0,5,6,2016
+2016-05-11,CLE,HOU,Cleveland Guardians,Houston Astros,8.5,8.0,3,5,2016
+2016-05-11,TAM,SEA,Tampa Bay Rays,Seattle Mariners,7.0,7.5,5,6,2016
+2016-05-11,KAN,NYY,Kansas City Royals,New York Yankees,7.5,7.5,7,3,2016
+2016-05-11,OAK,BOS,Oakland Athletics,Boston Red Sox,9.5,9.0,3,13,2016
+2016-05-11,TOR,SFO,Toronto Blue Jays,San Francisco Giants,7.0,7.0,4,5,2016
+2016-05-11,DET,WAS,Detroit Tigers,Washington Nationals,7.0,7.0,2,3,2016
+2016-05-11,STL,LAA,St. Louis Cardinals,Los Angeles Angels,7.5,7.5,5,2,2016
+2016-05-11,SDG,CUB,San Diego Padres,Chicago Cubs,8.0,7.5,7,4,2016
+2016-05-12,PHI,ATL,Philadelphia Phillies,Atlanta Braves,7.0,7.0,7,4,2016
+2016-05-12,SDG,MIL,San Diego Padres,Milwaukee Brewers,8.5,9.0,3,0,2016
+2016-05-12,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.0,8.0,4,2,2016
+2016-05-12,NYM,LOS,New York Mets,LOS,6.0,6.0,0,5,2016
+2016-05-12,KAN,NYY,Kansas City Royals,New York Yankees,8.0,7.5,3,7,2016
+2016-05-12,DET,BAL,Detroit Tigers,Baltimore Orioles,9.5,9.5,5,7,2016
+2016-05-12,HOU,BOS,Houston Astros,Boston Red Sox,8.0,8.0,1,11,2016
+2016-05-12,STL,LAA,St. Louis Cardinals,Los Angeles Angels,8.0,8.0,12,10,2016
+2016-05-13,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.5,9.0,4,9,2016
+2016-05-13,MIA,WAS,Miami Marlins,Washington Nationals,8.0,8.5,3,5,2016
+2016-05-13,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,8.0,8.0,2,3,2016
+2016-05-13,SDG,MIL,San Diego Padres,Milwaukee Brewers,9.0,9.0,0,1,2016
+2016-05-13,NYM,COL,New York Mets,Colorado Rockies,10.5,10.5,2,5,2016
+2016-05-13,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.5,3,1,2016
+2016-05-13,STL,LOS,St. Louis Cardinals,LOS,7.5,7.5,4,8,2016
+2016-05-13,CWS,NYY,Chicago White Sox,New York Yankees,7.0,7.0,7,1,2016
+2016-05-13,DET,BAL,Detroit Tigers,Baltimore Orioles,8.5,9.0,0,1,2016
+2016-05-13,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,8.5,6,7,2016
+2016-05-13,HOU,BOS,Houston Astros,Boston Red Sox,9.0,9.0,7,6,2016
+2016-05-13,OAK,TAM,Oakland Athletics,Tampa Bay Rays,7.5,7.0,6,3,2016
+2016-05-13,TOR,TEX,Toronto Blue Jays,Texas Rangers,10.0,9.5,5,0,2016
+2016-05-13,LAA,SEA,Los Angeles Angels,Seattle Mariners,7.5,8.0,7,6,2016
+2016-05-13,ATL,KAN,Atlanta Braves,Kansas City Royals,7.5,7.5,1,5,2016
+2016-05-14,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.5,8.5,2,8,2016
+2016-05-14,MIA,WAS,Miami Marlins,Washington Nationals,8.5,8.0,7,1,2016
+2016-05-14,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,8.0,7.5,3,4,2016
+2016-05-14,SDG,MIL,San Diego Padres,Milwaukee Brewers,9.0,9.0,8,7,2016
+2016-05-14,NYM,COL,New York Mets,Colorado Rockies,10.5,11.5,4,7,2016
+2016-05-14,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.5,9.0,5,3,2016
+2016-05-14,STL,LOS,St. Louis Cardinals,LOS,7.5,7.5,3,5,2016
+2016-05-14,CWS,NYY,Chicago White Sox,New York Yankees,7.5,8.0,1,2,2016
+2016-05-14,HOU,BOS,Houston Astros,Boston Red Sox,9.5,10.0,5,6,2016
+2016-05-14,MIN,CLE,Minnesota Twins,Cleveland Guardians,7.5,7.5,6,3,2016
+2016-05-14,OAK,TAM,Oakland Athletics,Tampa Bay Rays,8.0,8.0,0,6,2016
+2016-05-14,DET,BAL,Detroit Tigers,Baltimore Orioles,9.5,9.0,3,9,2016
+2016-05-14,TOR,TEX,Toronto Blue Jays,Texas Rangers,9.5,8.5,5,6,2016
+2016-05-14,LAA,SEA,Los Angeles Angels,Seattle Mariners,7.5,7.5,9,7,2016
+2016-05-14,ATL,KAN,Atlanta Braves,Kansas City Royals,8.5,8.0,5,0,2016
+2016-05-14,MIA,WAS,Miami Marlins,Washington Nationals,7.5,7.5,4,6,2016
+2016-05-15,MIA,WAS,Miami Marlins,Washington Nationals,7.0,7.5,5,1,2016
+2016-05-15,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,8.5,7.5,9,4,2016
+2016-05-15,SDG,MIL,San Diego Padres,Milwaukee Brewers,9.0,9.0,2,3,2016
+2016-05-15,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.0,7.5,2,1,2016
+2016-05-15,NYM,COL,New York Mets,Colorado Rockies,10.0,10.0,3,4,2016
+2016-05-15,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,2,1,2016
+2016-05-15,STL,LOS,St. Louis Cardinals,LOS,7.5,8.0,5,2,2016
+2016-05-15,CWS,NYY,Chicago White Sox,New York Yankees,8.0,8.0,5,7,2016
+2016-05-15,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.0,7.5,5,1,2016
+2016-05-15,OAK,TAM,Oakland Athletics,Tampa Bay Rays,7.5,7.5,7,6,2016
+2016-05-15,DET,BAL,Detroit Tigers,Baltimore Orioles,8.5,9.0,6,5,2016
+2016-05-15,HOU,BOS,Houston Astros,Boston Red Sox,10.5,10.5,9,10,2016
+2016-05-15,TOR,TEX,Toronto Blue Jays,Texas Rangers,9.5,9.0,6,7,2016
+2016-05-15,LAA,SEA,Los Angeles Angels,Seattle Mariners,7.5,7.5,3,0,2016
+2016-05-15,ATL,KAN,Atlanta Braves,Kansas City Royals,8.0,7.5,2,4,2016
+2016-05-16,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,8.0,8.0,5,8,2016
+2016-05-16,MIA,PHI,Miami Marlins,Philadelphia Phillies,7.5,7.5,5,3,2016
+2016-05-16,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,8.0,8.0,13,2,2016
+2016-05-16,MIN,DET,Minnesota Twins,Detroit Tigers,8.5,8.5,8,10,2016
+2016-05-16,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,8.0,1,3,2016
+2016-05-16,CIN,CLE,Cincinnati Reds,Cleveland Guardians,8.5,8.5,6,15,2016
+2016-05-16,NYY,ARI,New York Yankees,Arizona Diamondbacks,9.0,9.0,2,12,2016
+2016-05-16,LAA,LOS,Los Angeles Angels,LOS,7.5,7.5,7,6,2016
+2016-05-17,MIA,PHI,Miami Marlins,Philadelphia Phillies,7.0,7.0,1,3,2016
+2016-05-17,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,7.5,7.5,9,12,2016
+2016-05-17,WAS,NYM,Washington Nationals,New York Mets,6.5,6.0,0,2,2016
+2016-05-17,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,8.5,2,4,2016
+2016-05-17,COL,STL,Colorado Rockies,St. Louis Cardinals,7.5,7.0,3,1,2016
+2016-05-17,SFO,SDG,San Francisco Giants,San Diego Padres,6.5,7.0,5,1,2016
+2016-05-17,SEA,BAL,Seattle Mariners,Baltimore Orioles,8.5,9.0,10,0,2016
+2016-05-17,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,8.0,8.0,12,2,2016
+2016-05-17,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.5,2,7,2016
+2016-05-17,HOU,CWS,Houston Astros,Chicago White Sox,8.5,7.5,6,5,2016
+2016-05-17,BOS,KAN,Boston Red Sox,Kansas City Royals,7.5,7.0,4,8,2016
+2016-05-17,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,7.5,5,8,2016
+2016-05-17,CIN,CLE,Cincinnati Reds,Cleveland Guardians,8.0,7.5,1,13,2016
+2016-05-17,NYY,ARI,New York Yankees,Arizona Diamondbacks,8.5,8.0,3,5,2016
+2016-05-17,LAA,LOS,Los Angeles Angels,LOS,6.5,6.5,1,5,2016
+2016-05-18,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.5,8.0,2,4,2016
+2016-05-18,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,7.0,7.0,3,1,2016
+2016-05-18,WAS,NYM,Washington Nationals,New York Mets,7.5,7.0,7,1,2016
+2016-05-18,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.5,2,1,2016
+2016-05-18,COL,STL,Colorado Rockies,St. Louis Cardinals,7.5,8.0,0,2,2016
+2016-05-18,SFO,SDG,San Francisco Giants,San Diego Padres,6.5,6.5,2,1,2016
+2016-05-18,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.0,3,6,2016
+2016-05-18,BOS,KAN,Boston Red Sox,Kansas City Royals,8.5,7.5,2,3,2016
+2016-05-18,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,8.0,1,8,2016
+2016-05-18,SEA,BAL,Seattle Mariners,Baltimore Orioles,8.5,8.5,2,5,2016
+2016-05-18,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,8.5,8.5,6,3,2016
+2016-05-18,HOU,CWS,Houston Astros,Chicago White Sox,8.5,8.5,5,3,2016
+2016-05-18,CLE,CIN,Cleveland Guardians,Cincinnati Reds,8.0,8.5,8,7,2016
+2016-05-18,NYY,ARI,New York Yankees,Arizona Diamondbacks,9.5,9.0,4,2,2016
+2016-05-18,LOS,LAA,LOS,Los Angeles Angels,8.5,8.0,1,8,2016
+2016-05-18,BOS,KAN,Boston Red Sox,Kansas City Royals,7.5,7.0,5,2,2016
+2016-05-19,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.5,3,5,2016
+2016-05-19,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,8.0,8.0,2,8,2016
+2016-05-19,WAS,NYM,Washington Nationals,New York Mets,7.0,6.5,9,1,2016
+2016-05-19,COL,STL,Colorado Rockies,St. Louis Cardinals,7.5,7.0,7,13,2016
+2016-05-19,SFO,SDG,San Francisco Giants,San Diego Padres,7.0,7.0,3,1,2016
+2016-05-19,SEA,BAL,Seattle Mariners,Baltimore Orioles,8.5,9.0,7,2,2016
+2016-05-19,HOU,CWS,Houston Astros,Chicago White Sox,7.5,7.5,1,2,2016
+2016-05-19,TOR,MIN,Toronto Blue Jays,Minnesota Twins,8.5,9.0,3,2,2016
+2016-05-19,NYY,OAK,New York Yankees,Oakland Athletics,8.0,8.0,4,1,2016
+2016-05-19,CLE,CIN,Cleveland Guardians,Cincinnati Reds,8.5,8.5,7,2,2016
+2016-05-19,LOS,LAA,LOS,Los Angeles Angels,8.0,7.5,4,7,2016
+2016-05-20,COL,PIT,Colorado Rockies,Pittsburgh Pirates,7.5,7.5,1,2,2016
+2016-05-20,ATL,PHI,Atlanta Braves,Philadelphia Phillies,7.0,7.5,7,1,2016
+2016-05-20,WAS,MIA,Washington Nationals,Miami Marlins,8.5,9.0,4,1,2016
+2016-05-20,MIL,NYM,Milwaukee Brewers,New York Mets,7.5,7.5,2,3,2016
+2016-05-20,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,7.5,7.0,11,7,2016
+2016-05-20,CUB,SFO,Chicago Cubs,San Francisco Giants,6.5,7.0,8,1,2016
+2016-05-20,LOS,SDG,LOS,San Diego Padres,7.5,7.5,6,7,2016
+2016-05-20,TAM,DET,Tampa Bay Rays,Detroit Tigers,8.5,9.0,7,5,2016
+2016-05-20,CLE,BOS,Cleveland Guardians,Boston Red Sox,8.5,8.5,4,2,2016
+2016-05-20,TEX,HOU,Texas Rangers,Houston Astros,9.0,8.5,2,1,2016
+2016-05-20,KAN,CWS,Kansas City Royals,Chicago White Sox,8.0,7.5,4,1,2016
+2016-05-20,TOR,MIN,Toronto Blue Jays,Minnesota Twins,8.0,8.5,9,3,2016
+2016-05-20,NYY,OAK,New York Yankees,Oakland Athletics,8.0,7.5,8,3,2016
+2016-05-20,BAL,LAA,Baltimore Orioles,Los Angeles Angels,8.0,7.5,9,4,2016
+2016-05-20,SEA,CIN,Seattle Mariners,Cincinnati Reds,8.5,8.5,8,3,2016
+2016-05-21,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,8.0,7.5,2,6,2016
+2016-05-21,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,8.0,2,0,2016
+2016-05-21,COL,PIT,Colorado Rockies,Pittsburgh Pirates,8.0,7.5,5,1,2016
+2016-05-21,MIL,NYM,Milwaukee Brewers,New York Mets,7.0,7.0,4,5,2016
+2016-05-21,WAS,MIA,Washington Nationals,Miami Marlins,7.0,7.0,2,3,2016
+2016-05-21,CUB,SFO,Chicago Cubs,San Francisco Giants,7.0,7.5,3,5,2016
+2016-05-21,LOS,SDG,LOS,San Diego Padres,7.5,7.5,2,3,2016
+2016-05-21,KAN,CWS,Kansas City Royals,Chicago White Sox,9.0,9.0,2,1,2016
+2016-05-21,TOR,MIN,Toronto Blue Jays,Minnesota Twins,9.0,10.0,3,5,2016
+2016-05-21,NYY,OAK,New York Yankees,Oakland Athletics,7.5,7.0,5,1,2016
+2016-05-21,CLE,BOS,Cleveland Guardians,Boston Red Sox,9.0,10.0,1,9,2016
+2016-05-21,TAM,DET,Tampa Bay Rays,Detroit Tigers,8.5,9.0,4,5,2016
+2016-05-21,TEX,HOU,Texas Rangers,Houston Astros,9.0,8.5,2,1,2016
+2016-05-21,BAL,LAA,Baltimore Orioles,Los Angeles Angels,8.0,8.0,3,1,2016
+2016-05-21,SEA,CIN,Seattle Mariners,Cincinnati Reds,8.0,8.5,4,0,2016
+2016-05-22,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.0,8,2,2016
+2016-05-22,MIL,NYM,Milwaukee Brewers,New York Mets,7.0,7.0,1,3,2016
+2016-05-22,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.0,7.5,0,5,2016
+2016-05-22,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,7.0,7.0,7,2,2016
+2016-05-22,LOS,SDG,LOS,San Diego Padres,7.5,7.5,9,5,2016
+2016-05-22,CUB,SFO,Chicago Cubs,San Francisco Giants,7.0,7.0,0,1,2016
+2016-05-22,TAM,DET,Tampa Bay Rays,Detroit Tigers,8.0,8.5,4,9,2016
+2016-05-22,CLE,BOS,Cleveland Guardians,Boston Red Sox,8.5,8.5,2,5,2016
+2016-05-22,TEX,HOU,Texas Rangers,Houston Astros,8.0,7.5,9,2,2016
+2016-05-22,KAN,CWS,Kansas City Royals,Chicago White Sox,8.5,7.5,2,3,2016
+2016-05-22,TOR,MIN,Toronto Blue Jays,Minnesota Twins,8.5,9.0,3,1,2016
+2016-05-22,BAL,LAA,Baltimore Orioles,Los Angeles Angels,9.0,8.5,2,10,2016
+2016-05-22,NYY,OAK,New York Yankees,Oakland Athletics,8.0,7.5,5,4,2016
+2016-05-22,SEA,CIN,Seattle Mariners,Cincinnati Reds,9.0,9.0,5,4,2016
+2016-05-23,NYM,WAS,New York Mets,Washington Nationals,7.5,7.5,7,1,2016
+2016-05-23,CUB,STL,Chicago Cubs,St. Louis Cardinals,7.5,8.0,3,4,2016
+2016-05-23,CIN,LOS,Cincinnati Reds,LOS,6.5,6.0,0,1,2016
+2016-05-23,SDG,SFO,San Diego Padres,San Francisco Giants,6.5,6.5,0,1,2016
+2016-05-23,LAA,TEX,Los Angeles Angels,Texas Rangers,9.5,9.5,2,0,2016
+2016-05-23,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,9.5,5,1,2016
+2016-05-23,KAN,MIN,Kansas City Royals,Minnesota Twins,8.5,8.0,10,4,2016
+2016-05-23,OAK,SEA,Oakland Athletics,Seattle Mariners,7.0,7.0,5,0,2016
+2016-05-23,PHI,DET,Philadelphia Phillies,Detroit Tigers,8.5,8.5,4,5,2016
+2016-05-23,TAM,MIA,Tampa Bay Rays,Miami Marlins,7.5,7.5,6,7,2016
+2016-05-23,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,9.0,6,7,2016
+2016-05-23,COL,PIT,Colorado Rockies,Pittsburgh Pirates,8.5,8.5,3,6,2016
+2016-05-24,NYM,WAS,New York Mets,Washington Nationals,7.0,7.0,4,7,2016
+2016-05-24,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,7.5,8.5,1,12,2016
+2016-05-24,MIL,ATL,Milwaukee Brewers,Atlanta Braves,7.5,7.5,2,1,2016
+2016-05-24,CUB,STL,Chicago Cubs,St. Louis Cardinals,7.5,8.0,12,3,2016
+2016-05-24,CIN,LOS,Cincinnati Reds,LOS,7.5,7.5,2,8,2016
+2016-05-24,SDG,SFO,San Diego Padres,San Francisco Giants,7.0,7.0,2,8,2016
+2016-05-24,TOR,NYY,Toronto Blue Jays,New York Yankees,8.0,8.0,0,6,2016
+2016-05-24,LAA,TEX,Los Angeles Angels,Texas Rangers,10.0,9.0,1,4,2016
+2016-05-24,CLE,CWS,Cleveland Guardians,Chicago White Sox,7.0,7.5,6,2,2016
+2016-05-24,BAL,HOU,Baltimore Orioles,Houston Astros,8.5,8.5,2,3,2016
+2016-05-24,KAN,MIN,Kansas City Royals,Minnesota Twins,8.0,8.0,7,4,2016
+2016-05-24,OAK,SEA,Oakland Athletics,Seattle Mariners,7.5,7.5,5,6,2016
+2016-05-24,TAM,MIA,Tampa Bay Rays,Miami Marlins,8.0,8.0,4,3,2016
+2016-05-24,PHI,DET,Philadelphia Phillies,Detroit Tigers,8.5,8.5,1,3,2016
+2016-05-24,COL,BOS,Colorado Rockies,Boston Red Sox,8.5,8.5,3,8,2016
+2016-05-25,NYM,WAS,New York Mets,Washington Nationals,7.5,8.0,2,0,2016
+2016-05-25,CUB,STL,Chicago Cubs,St. Louis Cardinals,7.0,7.5,9,8,2016
+2016-05-25,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,7.5,3,4,2016
+2016-05-25,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,8.0,8.5,4,5,2016
+2016-05-25,MIL,ATL,Milwaukee Brewers,Atlanta Braves,7.5,7.5,3,2,2016
+2016-05-25,CIN,LOS,Cincinnati Reds,LOS,7.5,7.0,1,3,2016
+2016-05-25,KAN,MIN,Kansas City Royals,Minnesota Twins,8.5,8.0,5,7,2016
+2016-05-25,LAA,TEX,Los Angeles Angels,Texas Rangers,9.5,9.5,9,15,2016
+2016-05-25,CLE,CWS,Cleveland Guardians,Chicago White Sox,7.5,7.5,4,3,2016
+2016-05-25,TOR,NYY,Toronto Blue Jays,New York Yankees,8.5,9.0,8,4,2016
+2016-05-25,BAL,HOU,Baltimore Orioles,Houston Astros,8.5,9.0,3,4,2016
+2016-05-25,OAK,SEA,Oakland Athletics,Seattle Mariners,7.5,8.0,3,13,2016
+2016-05-25,PHI,DET,Philadelphia Phillies,Detroit Tigers,8.5,8.0,8,5,2016
+2016-05-25,COL,BOS,Colorado Rockies,Boston Red Sox,9.5,9.5,3,10,2016
+2016-05-25,MIA,TAM,Miami Marlins,Tampa Bay Rays,8.0,8.5,4,3,2016
+2016-05-26,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,7.5,7.5,3,8,2016
+2016-05-26,STL,WAS,St. Louis Cardinals,Washington Nationals,8.0,8.5,1,2,2016
+2016-05-26,MIL,ATL,Milwaukee Brewers,Atlanta Braves,7.5,7.5,6,2,2016
+2016-05-26,TOR,NYY,Toronto Blue Jays,New York Yankees,8.5,9.5,3,1,2016
+2016-05-26,BAL,HOU,Baltimore Orioles,Houston Astros,8.0,8.0,2,4,2016
+2016-05-26,MIA,TAM,Miami Marlins,Tampa Bay Rays,6.5,6.5,9,1,2016
+2016-05-26,COL,BOS,Colorado Rockies,Boston Red Sox,9.5,9.0,8,2,2016
+2016-05-27,PHI,CUB,Philadelphia Phillies,Chicago Cubs,9.0,9.0,2,6,2016
+2016-05-27,STL,WAS,St. Louis Cardinals,Washington Nationals,7.0,7.0,6,2,2016
+2016-05-27,LOS,NYM,LOS,New York Mets,7.0,7.0,5,6,2016
+2016-05-27,MIA,ATL,Miami Marlins,Atlanta Braves,7.5,7.5,2,4,2016
+2016-05-27,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.0,5,9,2016
+2016-05-27,SFO,COL,San Francisco Giants,Colorado Rockies,11.0,11.0,2,5,2016
+2016-05-27,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,10.0,10,3,2016
+2016-05-27,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.5,8.5,5,7,2016
+2016-05-27,BAL,CLE,Baltimore Orioles,Cleveland Guardians,8.5,9.0,6,4,2016
+2016-05-27,NYY,TAM,New York Yankees,Tampa Bay Rays,7.0,7.0,4,1,2016
+2016-05-27,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,7.5,5,7,2016
+2016-05-27,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,7.5,2,7,2016
+2016-05-27,DET,OAK,Detroit Tigers,Oakland Athletics,8.0,8.5,4,1,2016
+2016-05-27,MIN,SEA,Minnesota Twins,Seattle Mariners,7.5,7.5,7,2,2016
+2016-05-27,PIT,TEX,Pittsburgh Pirates,Texas Rangers,9.0,9.0,9,1,2016
+2016-05-28,PHI,CUB,Philadelphia Phillies,Chicago Cubs,11.5,9.5,1,4,2016
+2016-05-28,MIA,ATL,Miami Marlins,Atlanta Braves,8.0,8.0,2,7,2016
+2016-05-28,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.5,7,6,2016
+2016-05-28,SFO,COL,San Francisco Giants,Colorado Rockies,10.5,11.0,10,5,2016
+2016-05-28,LOS,NYM,LOS,New York Mets,7.0,6.5,9,1,2016
+2016-05-28,STL,WAS,St. Louis Cardinals,Washington Nationals,7.5,8.0,9,4,2016
+2016-05-28,SDG,ARI,San Diego Padres,Arizona Diamondbacks,8.5,8.5,7,8,2016
+2016-05-28,BOS,TOR,Boston Red Sox,Toronto Blue Jays,8.5,9.0,9,10,2016
+2016-05-28,CWS,KAN,Chicago White Sox,Kansas City Royals,8.0,8.0,7,8,2016
+2016-05-28,DET,OAK,Detroit Tigers,Oakland Athletics,8.5,9.5,3,12,2016
+2016-05-28,BAL,CLE,Baltimore Orioles,Cleveland Guardians,8.0,8.5,4,11,2016
+2016-05-28,NYY,TAM,New York Yankees,Tampa Bay Rays,8.0,7.5,5,9,2016
+2016-05-28,HOU,LAA,Houston Astros,Los Angeles Angels,7.5,8.0,4,2,2016
+2016-05-28,MIN,SEA,Minnesota Twins,Seattle Mariners,8.0,8.0,6,5,2016
+2016-05-28,PIT,TEX,Pittsburgh Pirates,Texas Rangers,9.0,9.0,2,5,2016
+2016-05-29,STL,WAS,St. Louis Cardinals,Washington Nationals,7.5,7.5,2,10,2016
+2016-05-29,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.0,4,5,2016
+2016-05-29,PHI,CUB,Philadelphia Phillies,Chicago Cubs,8.5,9.0,2,7,2016
+2016-05-29,SDG,ARI,San Diego Padres,Arizona Diamondbacks,8.5,8.0,3,6,2016
+2016-05-29,SFO,COL,San Francisco Giants,Colorado Rockies,10.5,10.5,8,3,2016
+2016-05-29,MIA,ATL,Miami Marlins,Atlanta Braves,7.0,8.0,7,3,2016
+2016-05-29,LOS,NYM,LOS,New York Mets,6.0,6.5,4,2,2016
+2016-05-29,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,8.5,5,3,2016
+2016-05-29,BAL,CLE,Baltimore Orioles,Cleveland Guardians,9.0,8.5,6,4,2016
+2016-05-29,NYY,TAM,New York Yankees,Tampa Bay Rays,7.5,7.0,2,1,2016
+2016-05-29,CWS,KAN,Chicago White Sox,Kansas City Royals,7.0,7.0,4,5,2016
+2016-05-29,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,8.0,8,6,2016
+2016-05-29,DET,OAK,Detroit Tigers,Oakland Athletics,8.5,9.0,2,4,2016
+2016-05-29,MIN,SEA,Minnesota Twins,Seattle Mariners,8.0,7.5,5,4,2016
+2016-05-29,PIT,TEX,Pittsburgh Pirates,Texas Rangers,9.5,9.0,2,6,2016
+2016-05-30,SFO,ATL,San Francisco Giants,Atlanta Braves,7.5,8.0,3,5,2016
+2016-05-30,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,9.0,6,0,2016
+2016-05-30,LOS,CUB,LOS,Chicago Cubs,8.0,8.5,0,2,2016
+2016-05-30,CIN,COL,Cincinnati Reds,Colorado Rockies,11.0,11.5,11,8,2016
+2016-05-30,WAS,PHI,Washington Nationals,Philadelphia Phillies,7.5,8.0,4,3,2016
+2016-05-30,PIT,MIA,Pittsburgh Pirates,Miami Marlins,9.0,9.0,10,0,2016
+2016-05-30,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,9.0,7,2,2016
+2016-05-30,MIN,OAK,Minnesota Twins,Oakland Athletics,8.5,9.0,2,3,2016
+2016-05-30,TEX,CLE,Texas Rangers,Cleveland Guardians,8.5,9.0,9,2,2016
+2016-05-30,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,9.0,2,4,2016
+2016-05-30,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.0,7.5,2,6,2016
+2016-05-30,DET,LAA,Detroit Tigers,Los Angeles Angels,8.0,7.5,1,5,2016
+2016-05-30,CWS,NYM,Chicago White Sox,New York Mets,7.0,7.0,0,1,2016
+2016-05-30,SDG,SEA,San Diego Padres,Seattle Mariners,8.0,8.0,3,9,2016
+2016-05-30,HOU,ARI,Houston Astros,Arizona Diamondbacks,9.0,9.0,8,3,2016
+2016-05-31,WAS,PHI,Washington Nationals,Philadelphia Phillies,7.5,7.0,5,1,2016
+2016-05-31,PIT,MIA,Pittsburgh Pirates,Miami Marlins,7.0,6.5,1,3,2016
+2016-05-31,SFO,ATL,San Francisco Giants,Atlanta Braves,8.0,9.0,4,0,2016
+2016-05-31,LOS,CUB,LOS,Chicago Cubs,7.5,7.5,5,0,2016
+2016-05-31,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.0,10,3,2016
+2016-05-31,CIN,COL,Cincinnati Reds,Colorado Rockies,11.0,10.5,4,17,2016
+2016-05-31,TEX,CLE,Texas Rangers,Cleveland Guardians,7.5,8.0,7,3,2016
+2016-05-31,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,8.5,6,2,2016
+2016-05-31,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,8.5,1,4,2016
+2016-05-31,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.0,7.5,5,10,2016
+2016-05-31,DET,LAA,Detroit Tigers,Los Angeles Angels,8.5,8.5,9,11,2016
+2016-05-31,MIN,OAK,Minnesota Twins,Oakland Athletics,8.5,8.5,4,7,2016
+2016-05-31,HOU,ARI,Houston Astros,Arizona Diamondbacks,9.0,8.5,8,5,2016
+2016-05-31,SDG,SEA,San Diego Padres,Seattle Mariners,7.5,7.5,4,16,2016
+2016-05-31,CWS,NYM,Chicago White Sox,New York Mets,7.5,7.5,6,4,2016
+2016-06-01,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.0,1,3,2016
+2016-06-01,WAS,PHI,Washington Nationals,Philadelphia Phillies,7.5,7.5,7,2,2016
+2016-06-01,SFO,ATL,San Francisco Giants,Atlanta Braves,8.5,8.5,4,5,2016
+2016-06-01,PIT,MIA,Pittsburgh Pirates,Miami Marlins,8.5,9.0,2,3,2016
+2016-06-01,LOS,CUB,LOS,Chicago Cubs,8.5,8.5,1,2,2016
+2016-06-01,CIN,COL,Cincinnati Reds,Colorado Rockies,11.0,11.5,7,2,2016
+2016-06-01,MIN,OAK,Minnesota Twins,Oakland Athletics,8.5,8.5,1,5,2016
+2016-06-01,TEX,CLE,Texas Rangers,Cleveland Guardians,8.0,8.0,4,5,2016
+2016-06-01,DET,LAA,Detroit Tigers,Los Angeles Angels,8.0,8.0,3,0,2016
+2016-06-01,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,9.0,9,13,2016
+2016-06-01,NYY,TOR,New York Yankees,Toronto Blue Jays,8.0,8.0,0,7,2016
+2016-06-01,TAM,KAN,Tampa Bay Rays,Kansas City Royals,7.5,7.0,3,6,2016
+2016-06-01,CWS,NYM,Chicago White Sox,New York Mets,7.5,7.5,2,1,2016
+2016-06-01,ARI,HOU,Arizona Diamondbacks,Houston Astros,8.5,8.5,4,5,2016
+2016-06-01,SEA,SDG,Seattle Mariners,San Diego Padres,7.0,8.0,6,14,2016
+2016-06-02,SFO,ATL,San Francisco Giants,Atlanta Braves,7.0,7.5,6,0,2016
+2016-06-02,LOS,CUB,LOS,Chicago Cubs,8.5,8.5,2,7,2016
+2016-06-02,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.0,8.0,4,1,2016
+2016-06-02,PIT,MIA,Pittsburgh Pirates,Miami Marlins,8.0,8.0,3,4,2016
+2016-06-02,CIN,COL,Cincinnati Reds,Colorado Rockies,11.5,12.5,11,4,2016
+2016-06-02,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.0,7,12,2016
+2016-06-02,KAN,CLE,Kansas City Royals,Cleveland Guardians,7.5,7.5,4,5,2016
+2016-06-02,TAM,MIN,Tampa Bay Rays,Minnesota Twins,8.5,9.0,4,6,2016
+2016-06-02,ARI,HOU,Arizona Diamondbacks,Houston Astros,7.5,7.0,3,0,2016
+2016-06-02,SEA,SDG,Seattle Mariners,San Diego Padres,7.5,8.5,16,13,2016
+2016-06-02,NYY,DET,New York Yankees,Detroit Tigers,9.0,9.0,5,4,2016
+2016-06-03,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,8.5,8.5,0,6,2016
+2016-06-03,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,7.5,8.0,3,6,2016
+2016-06-03,NYM,MIA,New York Mets,Miami Marlins,7.0,7.0,6,2,2016
+2016-06-03,WAS,CIN,Washington Nationals,Cincinnati Reds,8.5,9.0,2,7,2016
+2016-06-03,SFO,STL,San Francisco Giants,St. Louis Cardinals,7.0,7.5,5,1,2016
+2016-06-03,ATL,LOS,Atlanta Braves,LOS,7.0,7.0,2,4,2016
+2016-06-03,COL,SDG,Colorado Rockies,San Diego Padres,7.0,7.5,0,4,2016
+2016-06-03,NYY,BAL,New York Yankees,Baltimore Orioles,8.0,8.0,5,6,2016
+2016-06-03,CWS,DET,Chicago White Sox,Detroit Tigers,8.5,9.0,3,10,2016
+2016-06-03,KAN,CLE,Kansas City Royals,Cleveland Guardians,7.5,7.5,1,6,2016
+2016-06-03,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.0,9.5,5,2,2016
+2016-06-03,SEA,TEX,Seattle Mariners,Texas Rangers,8.5,8.5,3,7,2016
+2016-06-03,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,2,12,2016
+2016-06-03,TAM,MIN,Tampa Bay Rays,Minnesota Twins,8.5,8.5,4,2,2016
+2016-06-03,LAA,PIT,Los Angeles Angels,Pittsburgh Pirates,8.0,8.5,9,2,2016
+2016-06-04,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,8.5,10.0,3,5,2016
+2016-06-04,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.0,8.0,6,3,2016
+2016-06-04,WAS,CIN,Washington Nationals,Cincinnati Reds,8.0,8.0,3,6,2016
+2016-06-04,NYM,MIA,New York Mets,Miami Marlins,8.0,9.0,6,4,2016
+2016-06-04,SFO,STL,San Francisco Giants,St. Louis Cardinals,8.0,8.0,4,7,2016
+2016-06-04,ATL,LOS,Atlanta Braves,LOS,6.0,6.0,0,4,2016
+2016-06-04,COL,SDG,Colorado Rockies,San Diego Padres,7.5,8.0,3,4,2016
+2016-06-04,TAM,MIN,Tampa Bay Rays,Minnesota Twins,8.5,8.5,7,4,2016
+2016-06-04,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,9.5,4,6,2016
+2016-06-04,CWS,DET,Chicago White Sox,Detroit Tigers,8.0,8.5,4,7,2016
+2016-06-04,OAK,HOU,Oakland Athletics,Houston Astros,8.0,8.5,5,6,2016
+2016-06-04,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,8.0,1,7,2016
+2016-06-04,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.5,8,6,2016
+2016-06-04,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,9.0,4,10,2016
+2016-06-04,LAA,PIT,Los Angeles Angels,Pittsburgh Pirates,8.5,8.5,7,8,2016
+2016-06-05,WAS,CIN,Washington Nationals,Cincinnati Reds,9.0,9.5,10,9,2016
+2016-06-05,NYM,MIA,New York Mets,Miami Marlins,7.0,7.0,0,1,2016
+2016-06-05,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.5,8.0,1,8,2016
+2016-06-05,SFO,STL,San Francisco Giants,St. Louis Cardinals,8.5,8.5,3,6,2016
+2016-06-05,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,8.0,8.0,3,2,2016
+2016-06-05,ATL,LOS,Atlanta Braves,LOS,7.5,7.5,6,12,2016
+2016-06-05,COL,SDG,Colorado Rockies,San Diego Padres,8.0,8.0,10,3,2016
+2016-06-05,CWS,DET,Chicago White Sox,Detroit Tigers,8.0,8.0,2,5,2016
+2016-06-05,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,8.0,0,7,2016
+2016-06-05,NYY,BAL,New York Yankees,Baltimore Orioles,8.0,9.0,1,3,2016
+2016-06-05,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,9.5,5,4,2016
+2016-06-05,TAM,MIN,Tampa Bay Rays,Minnesota Twins,9.0,8.5,7,5,2016
+2016-06-05,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,2,5,2016
+2016-06-05,SEA,TEX,Seattle Mariners,Texas Rangers,9.5,9.5,2,3,2016
+2016-06-05,LAA,PIT,Los Angeles Angels,Pittsburgh Pirates,7.5,7.5,5,4,2016
+2016-06-06,CUB,PHI,Chicago Cubs,Philadelphia Phillies,8.0,8.5,6,4,2016
+2016-06-06,NYM,PIT,New York Mets,Pittsburgh Pirates,8.0,7.5,NL,NL,2016
+2016-06-06,ATL,SDG,Atlanta Braves,San Diego Padres,7.5,7.5,2,7,2016
+2016-06-06,COL,LOS,Colorado Rockies,LOS,7.5,7.5,6,1,2016
+2016-06-06,LAA,NYY,Los Angeles Angels,New York Yankees,8.0,8.5,2,5,2016
+2016-06-06,KAN,BAL,Kansas City Royals,Baltimore Orioles,9.0,8.5,1,4,2016
+2016-06-06,TOR,DET,Toronto Blue Jays,Detroit Tigers,9.0,9.5,0,11,2016
+2016-06-06,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.5,5,6,2016
+2016-06-06,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.5,8.5,3,1,2016
+2016-06-06,TAM,ARI,Tampa Bay Rays,Arizona Diamondbacks,9.0,8.0,6,4,2016
+2016-06-07,NYM,PIT,New York Mets,Pittsburgh Pirates,7.5,7.5,1,3,2016
+2016-06-07,CUB,PHI,Chicago Cubs,Philadelphia Phillies,8.0,8.0,2,3,2016
+2016-06-07,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,9.0,6,7,2016
+2016-06-07,ATL,SDG,Atlanta Braves,San Diego Padres,8.0,8.0,3,4,2016
+2016-06-07,COL,LOS,Colorado Rockies,LOS,8.5,8.0,3,4,2016
+2016-06-07,KAN,BAL,Kansas City Royals,Baltimore Orioles,9.0,9.0,1,9,2016
+2016-06-07,LAA,NYY,Los Angeles Angels,New York Yankees,9.0,9.0,3,6,2016
+2016-06-07,TOR,DET,Toronto Blue Jays,Detroit Tigers,9.0,9.5,2,3,2016
+2016-06-07,HOU,TEX,Houston Astros,Texas Rangers,9.0,8.5,3,4,2016
+2016-06-07,OAK,MIL,Oakland Athletics,Milwaukee Brewers,9.0,9.0,4,5,2016
+2016-06-07,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.0,9.0,1,7,2016
+2016-06-07,WAS,CWS,Washington Nationals,Chicago White Sox,9.0,8.5,10,5,2016
+2016-06-07,MIA,MIN,Miami Marlins,Minnesota Twins,9.0,9.0,4,6,2016
+2016-06-07,TAM,ARI,Tampa Bay Rays,Arizona Diamondbacks,8.5,8.0,0,5,2016
+2016-06-07,BOS,SFO,Boston Red Sox,San Francisco Giants,8.0,7.5,5,3,2016
+2016-06-07,NYM,PIT,New York Mets,Pittsburgh Pirates,7.5,7.5,1,3,2016
+2016-06-08,CUB,PHI,Chicago Cubs,Philadelphia Phillies,8.0,7.5,8,1,2016
+2016-06-08,ATL,SDG,Atlanta Braves,San Diego Padres,7.0,6.5,4,2,2016
+2016-06-08,NYM,PIT,New York Mets,Pittsburgh Pirates,7.5,7.0,6,5,2016
+2016-06-08,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.5,12,7,2016
+2016-06-08,COL,LOS,Colorado Rockies,LOS,7.5,7.0,1,0,2016
+2016-06-08,TOR,DET,Toronto Blue Jays,Detroit Tigers,9.0,9.0,7,2,2016
+2016-06-08,LAA,NYY,Los Angeles Angels,New York Yankees,9.0,9.0,6,12,2016
+2016-06-08,KAN,BAL,Kansas City Royals,Baltimore Orioles,8.5,8.5,0,4,2016
+2016-06-08,HOU,TEX,Houston Astros,Texas Rangers,9.0,8.5,3,1,2016
+2016-06-08,CLE,SEA,Cleveland Guardians,Seattle Mariners,7.5,7.5,0,5,2016
+2016-06-08,TAM,ARI,Tampa Bay Rays,Arizona Diamondbacks,8.5,8.5,6,3,2016
+2016-06-08,OAK,MIL,Oakland Athletics,Milwaukee Brewers,9.0,9.0,0,4,2016
+2016-06-08,MIA,MIN,Miami Marlins,Minnesota Twins,9.0,8.5,5,7,2016
+2016-06-08,WAS,CWS,Washington Nationals,Chicago White Sox,8.0,7.5,11,4,2016
+2016-06-08,BOS,SFO,Boston Red Sox,San Francisco Giants,6.5,6.0,1,2,2016
+2016-06-09,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.5,3,2,2016
+2016-06-09,NYM,MIL,New York Mets,Milwaukee Brewers,8.5,9.0,5,2,2016
+2016-06-09,HOU,TEX,Houston Astros,Texas Rangers,9.5,9.5,3,5,2016
+2016-06-09,LAA,NYY,Los Angeles Angels,New York Yankees,9.0,9.0,3,6,2016
+2016-06-09,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.0,9.0,6,5,2016
+2016-06-09,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.5,8.0,5,3,2016
+2016-06-09,WAS,CWS,Washington Nationals,Chicago White Sox,9.0,9.0,1,3,2016
+2016-06-09,MIA,MIN,Miami Marlins,Minnesota Twins,9.0,9.5,10,3,2016
+2016-06-09,PIT,COL,Pittsburgh Pirates,Colorado Rockies,11.5,13.0,5,11,2016
+2016-06-10,PHI,WAS,Philadelphia Phillies,Washington Nationals,7.0,7.5,6,9,2016
+2016-06-10,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.0,8.0,9,3,2016
+2016-06-10,CUB,ATL,Chicago Cubs,Atlanta Braves,8.0,8.0,1,5,2016
+2016-06-10,NYM,MIL,New York Mets,Milwaukee Brewers,8.0,9.0,2,1,2016
+2016-06-10,SDG,COL,San Diego Padres,Colorado Rockies,11.0,12.0,7,5,2016
+2016-06-10,MIA,ARI,Miami Marlins,Arizona Diamondbacks,9.0,9.5,8,6,2016
+2016-06-10,LOS,SFO,LOS,San Francisco Giants,5.5,5.0,3,2,2016
+2016-06-10,DET,NYY,Detroit Tigers,New York Yankees,9.0,10.5,0,4,2016
+2016-06-10,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.0,8.5,3,4,2016
+2016-06-10,HOU,TAM,Houston Astros,Tampa Bay Rays,8.0,7.0,3,4,2016
+2016-06-10,BOS,MIN,Boston Red Sox,Minnesota Twins,9.5,9.0,8,1,2016
+2016-06-10,KAN,CWS,Kansas City Royals,Chicago White Sox,7.5,8.0,5,7,2016
+2016-06-10,CLE,LAA,Cleveland Guardians,Los Angeles Angels,8.0,7.5,6,2,2016
+2016-06-10,TEX,SEA,Texas Rangers,Seattle Mariners,8.0,7.5,5,7,2016
+2016-06-10,OAK,CIN,Oakland Athletics,Cincinnati Reds,9.0,8.5,1,2,2016
+2016-06-11,PHI,WAS,Philadelphia Phillies,Washington Nationals,7.5,7.5,0,8,2016
+2016-06-11,NYM,MIL,New York Mets,Milwaukee Brewers,9.5,9.5,4,7,2016
+2016-06-11,CUB,ATL,Chicago Cubs,Atlanta Braves,7.0,7.5,8,2,2016
+2016-06-11,SDG,COL,San Diego Padres,Colorado Rockies,11.5,12.5,3,5,2016
+2016-06-11,LOS,SFO,LOS,San Francisco Giants,7.5,8.0,4,5,2016
+2016-06-11,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.0,8.0,5,1,2016
+2016-06-11,MIA,ARI,Miami Marlins,Arizona Diamondbacks,8.0,9.0,3,5,2016
+2016-06-11,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.0,6,11,2016
+2016-06-11,BOS,MIN,Boston Red Sox,Minnesota Twins,9.5,10.0,15,4,2016
+2016-06-11,KAN,CWS,Kansas City Royals,Chicago White Sox,8.5,8.5,4,1,2016
+2016-06-11,HOU,TAM,Houston Astros,Tampa Bay Rays,8.0,7.5,4,3,2016
+2016-06-11,DET,NYY,Detroit Tigers,New York Yankees,8.0,8.0,6,1,2016
+2016-06-11,CLE,LAA,Cleveland Guardians,Los Angeles Angels,8.0,7.5,3,4,2016
+2016-06-11,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,7.5,2,1,2016
+2016-06-11,OAK,CIN,Oakland Athletics,Cincinnati Reds,9.5,9.5,1,2,2016
+2016-06-12,CUB,ATL,Chicago Cubs,Atlanta Braves,8.0,8.0,13,2,2016
+2016-06-12,NYM,MIL,New York Mets,Milwaukee Brewers,8.5,7.5,3,5,2016
+2016-06-12,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.5,8.5,4,5,2016
+2016-06-12,MIA,ARI,Miami Marlins,Arizona Diamondbacks,9.5,8.5,0,6,2016
+2016-06-12,SDG,COL,San Diego Padres,Colorado Rockies,12.0,13.0,1,2,2016
+2016-06-12,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,8.5,8,3,2016
+2016-06-12,LOS,SFO,LOS,San Francisco Giants,8.0,7.5,1,2,2016
+2016-06-12,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.0,9,10,2016
+2016-06-12,HOU,TAM,Houston Astros,Tampa Bay Rays,8.5,7.5,0,5,2016
+2016-06-12,DET,NYY,Detroit Tigers,New York Yankees,9.0,8.5,4,1,2016
+2016-06-12,KAN,CWS,Kansas City Royals,Chicago White Sox,9.0,8.5,3,1,2016
+2016-06-12,BOS,MIN,Boston Red Sox,Minnesota Twins,9.5,9.0,4,7,2016
+2016-06-12,CLE,LAA,Cleveland Guardians,Los Angeles Angels,9.0,7.5,8,3,2016
+2016-06-12,TEX,SEA,Texas Rangers,Seattle Mariners,8.0,7.0,6,4,2016
+2016-06-12,OAK,CIN,Oakland Athletics,Cincinnati Reds,9.5,10.0,6,1,2016
+2016-06-13,CUB,WAS,Chicago Cubs,Washington Nationals,7.0,7.5,1,4,2016
+2016-06-13,CIN,ATL,Cincinnati Reds,Atlanta Braves,8.5,8.5,9,8,2016
+2016-06-13,LOS,ARI,LOS,Arizona Diamondbacks,8.0,9.0,2,3,2016
+2016-06-13,MIA,SDG,Miami Marlins,San Diego Padres,7.5,7.5,13,4,2016
+2016-06-13,MIL,SFO,Milwaukee Brewers,San Francisco Giants,7.5,7.5,5,11,2016
+2016-06-13,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,10.0,9,10,2016
+2016-06-13,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.0,8.0,1,2,2016
+2016-06-13,MIN,LAA,Minnesota Twins,Los Angeles Angels,8.5,8.5,9,4,2016
+2016-06-13,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.0,5,14,2016
+2016-06-13,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,9.0,8.5,7,0,2016
+2016-06-14,CUB,WAS,Chicago Cubs,Washington Nationals,8.0,8.0,4,3,2016
+2016-06-14,PIT,NYM,Pittsburgh Pirates,New York Mets,7.5,7.0,4,0,2016
+2016-06-14,CIN,ATL,Cincinnati Reds,Atlanta Braves,7.5,7.5,3,1,2016
+2016-06-14,LOS,ARI,LOS,Arizona Diamondbacks,8.5,9.0,7,4,2016
+2016-06-14,MIA,SDG,Miami Marlins,San Diego Padres,7.5,7.0,5,2,2016
+2016-06-14,MIL,SFO,Milwaukee Brewers,San Francisco Giants,6.5,7.0,2,3,2016
+2016-06-14,BAL,BOS,Baltimore Orioles,Boston Red Sox,8.5,8.5,3,2,2016
+2016-06-14,SEA,TAM,Seattle Mariners,Tampa Bay Rays,7.5,8.0,7,8,2016
+2016-06-14,DET,CWS,Detroit Tigers,Chicago White Sox,9.0,8.5,11,8,2016
+2016-06-14,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,8.5,2,3,2016
+2016-06-14,MIN,LAA,Minnesota Twins,Los Angeles Angels,8.5,7.5,4,5,2016
+2016-06-14,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.5,10,6,2016
+2016-06-14,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,9.0,8.5,3,11,2016
+2016-06-14,HOU,STL,Houston Astros,St. Louis Cardinals,8.5,8.5,5,2,2016
+2016-06-14,NYY,COL,New York Yankees,Colorado Rockies,11.0,10.0,10,13,2016
+2016-06-15,MIA,SDG,Miami Marlins,San Diego Padres,8.5,8.5,3,6,2016
+2016-06-15,LOS,ARI,LOS,Arizona Diamondbacks,7.0,7.0,3,2,2016
+2016-06-15,MIL,SFO,Milwaukee Brewers,San Francisco Giants,7.0,7.0,1,10,2016
+2016-06-15,CUB,WAS,Chicago Cubs,Washington Nationals,7.5,7.5,4,5,2016
+2016-06-15,PIT,NYM,Pittsburgh Pirates,New York Mets,7.0,7.0,2,11,2016
+2016-06-15,CIN,ATL,Cincinnati Reds,Atlanta Braves,8.5,8.0,8,9,2016
+2016-06-15,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,9.5,4,6,2016
+2016-06-15,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.0,7.5,2,3,2016
+2016-06-15,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,9.0,3,5,2016
+2016-06-15,CLE,KAN,Cleveland Guardians,Kansas City Royals,7.5,7.5,4,9,2016
+2016-06-15,MIN,LAA,Minnesota Twins,Los Angeles Angels,8.5,8.0,2,10,2016
+2016-06-15,TEX,OAK,Texas Rangers,Oakland Athletics,7.5,8.0,7,5,2016
+2016-06-15,NYY,COL,New York Yankees,Colorado Rockies,12.0,12.0,3,6,2016
+2016-06-15,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,8.5,8.0,7,2,2016
+2016-06-15,HOU,STL,Houston Astros,St. Louis Cardinals,8.5,8.5,4,1,2016
+2016-06-16,CIN,ATL,Cincinnati Reds,Atlanta Braves,8.0,8.0,2,7,2016
+2016-06-16,PIT,NYM,Pittsburgh Pirates,New York Mets,7.5,8.0,4,6,2016
+2016-06-16,MIL,LOS,Milwaukee Brewers,LOS,7.5,7.5,8,6,2016
+2016-06-16,WAS,SDG,Washington Nationals,San Diego Padres,8.0,7.5,8,5,2016
+2016-06-16,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.0,7.5,6,4,2016
+2016-06-16,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.5,5,1,2016
+2016-06-16,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,10.5,5,1,2016
+2016-06-16,NYY,MIN,New York Yankees,Minnesota Twins,8.5,8.5,4,1,2016
+2016-06-16,DET,KAN,Detroit Tigers,Kansas City Royals,7.5,8.0,10,4,2016
+2016-06-16,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,8.0,7.5,13,2,2016
+2016-06-17,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.0,6.5,0,6,2016
+2016-06-17,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,8.5,8.0,10,2,2016
+2016-06-17,COL,MIA,Colorado Rockies,Miami Marlins,8.0,7.5,1,5,2016
+2016-06-17,ATL,NYM,Atlanta Braves,New York Mets,7.5,7.5,5,1,2016
+2016-06-17,MIL,LOS,Milwaukee Brewers,LOS,7.5,7.5,2,3,2016
+2016-06-17,WAS,SDG,Washington Nationals,San Diego Padres,7.5,8.0,7,5,2016
+2016-06-17,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.0,9.0,13,3,2016
+2016-06-17,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.0,7.5,2,3,2016
+2016-06-17,SEA,BOS,Seattle Mariners,Boston Red Sox,9.5,10.0,8,4,2016
+2016-06-17,NYY,MIN,New York Yankees,Minnesota Twins,8.0,8.0,8,2,2016
+2016-06-17,DET,KAN,Detroit Tigers,Kansas City Royals,8.0,8.5,3,10,2016
+2016-06-17,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.0,8.0,2,3,2016
+2016-06-17,SFO,TAM,San Francisco Giants,Tampa Bay Rays,7.5,7.5,5,1,2016
+2016-06-17,CIN,HOU,Cincinnati Reds,Houston Astros,9.0,9.0,4,2,2016
+2016-06-17,TEX,STL,Texas Rangers,St. Louis Cardinals,8.0,8.0,1,0,2016
+2016-06-18,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,7.0,7.5,4,1,2016
+2016-06-18,COL,MIA,Colorado Rockies,Miami Marlins,8.0,8.5,6,9,2016
+2016-06-18,ATL,NYM,Atlanta Braves,New York Mets,8.0,7.5,4,3,2016
+2016-06-18,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.5,8.0,3,4,2016
+2016-06-18,WAS,SDG,Washington Nationals,San Diego Padres,7.0,7.0,3,7,2016
+2016-06-18,MIL,LOS,Milwaukee Brewers,LOS,8.0,8.5,6,10,2016
+2016-06-18,NYY,MIN,New York Yankees,Minnesota Twins,9.0,8.5,7,6,2016
+2016-06-18,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,10.0,2,4,2016
+2016-06-18,SEA,BOS,Seattle Mariners,Boston Red Sox,10.0,10.0,2,6,2016
+2016-06-18,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,8.5,7,1,2016
+2016-06-18,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.0,8.0,2,13,2016
+2016-06-18,DET,KAN,Detroit Tigers,Kansas City Royals,8.5,9.0,5,16,2016
+2016-06-18,CIN,HOU,Cincinnati Reds,Houston Astros,8.5,7.5,4,5,2016
+2016-06-18,SFO,TAM,San Francisco Giants,Tampa Bay Rays,8.0,8.0,6,4,2016
+2016-06-18,TEX,STL,Texas Rangers,St. Louis Cardinals,8.5,9.0,4,3,2016
+2016-06-19,ATL,NYM,Atlanta Braves,New York Mets,6.5,7.0,6,0,2016
+2016-06-19,COL,MIA,Colorado Rockies,Miami Marlins,8.0,8.0,0,3,2016
+2016-06-19,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,9.0,9.0,5,1,2016
+2016-06-19,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.5,9.0,5,10,2016
+2016-06-19,MIL,LOS,Milwaukee Brewers,LOS,8.0,8.0,1,2,2016
+2016-06-19,WAS,SDG,Washington Nationals,San Diego Padres,8.0,8.5,3,6,2016
+2016-06-19,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.5,2,3,2016
+2016-06-19,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,9.0,6,11,2016
+2016-06-19,SEA,BOS,Seattle Mariners,Boston Red Sox,9.0,9.0,1,2,2016
+2016-06-19,NYY,MIN,New York Yankees,Minnesota Twins,9.0,9.0,4,7,2016
+2016-06-19,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,9.0,1,2,2016
+2016-06-19,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.5,2,0,2016
+2016-06-19,SFO,TAM,San Francisco Giants,Tampa Bay Rays,8.0,8.0,5,1,2016
+2016-06-19,CIN,HOU,Cincinnati Reds,Houston Astros,8.5,8.5,0,6,2016
+2016-06-19,TEX,STL,Texas Rangers,St. Louis Cardinals,8.5,9.0,5,4,2016
+2016-06-20,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,9.0,8.5,3,1,2016
+2016-06-20,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,7.0,8.5,0,1,2016
+2016-06-20,COL,MIA,Colorado Rockies,Miami Marlins,8.5,8.0,5,3,2016
+2016-06-20,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.5,8.0,3,2,2016
+2016-06-20,WAS,LOS,Washington Nationals,LOS,5.5,6.5,1,4,2016
+2016-06-20,SEA,DET,Seattle Mariners,Detroit Tigers,10.0,11.0,7,8,2016
+2016-06-20,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,8.0,8.5,4,7,2016
+2016-06-20,CWS,BOS,Chicago White Sox,Boston Red Sox,10.0,10.0,3,1,2016
+2016-06-20,LAA,HOU,Los Angeles Angels,Houston Astros,8.5,8.5,7,10,2016
+2016-06-20,BAL,TEX,Baltimore Orioles,Texas Rangers,9.5,9.5,3,4,2016
+2016-06-21,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,8.0,8.0,15,4,2016
+2016-06-21,ATL,MIA,Atlanta Braves,Miami Marlins,7.0,7.0,3,2,2016
+2016-06-21,STL,CUB,St. Louis Cardinals,Chicago Cubs,8.0,9.0,4,3,2016
+2016-06-21,WAS,LOS,Washington Nationals,LOS,7.5,7.5,2,3,2016
+2016-06-21,SEA,DET,Seattle Mariners,Detroit Tigers,9.0,9.0,2,4,2016
+2016-06-21,CWS,BOS,Chicago White Sox,Boston Red Sox,9.0,9.5,3,1,2016
+2016-06-21,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,8.0,8.0,0,6,2016
+2016-06-21,LAA,HOU,Los Angeles Angels,Houston Astros,8.5,8.5,2,3,2016
+2016-06-21,COL,NYY,Colorado Rockies,New York Yankees,9.0,9.0,8,4,2016
+2016-06-21,SDG,BAL,San Diego Padres,Baltimore Orioles,9.5,10.0,10,7,2016
+2016-06-21,ARI,TOR,Arizona Diamondbacks,Toronto Blue Jays,9.0,9.0,4,2,2016
+2016-06-21,KAN,NYM,Kansas City Royals,New York Mets,7.0,7.5,1,2,2016
+2016-06-21,CIN,TEX,Cincinnati Reds,Texas Rangers,9.5,10.0,8,2,2016
+2016-06-21,PHI,MIN,Philadelphia Phillies,Minnesota Twins,8.5,8.0,10,14,2016
+2016-06-21,MIL,OAK,Milwaukee Brewers,Oakland Athletics,8.0,8.0,3,5,2016
+2016-06-22,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,7.5,0,3,2016
+2016-06-22,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.5,7.5,7,2,2016
+2016-06-22,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,8.0,7.5,7,6,2016
+2016-06-22,WAS,LOS,Washington Nationals,LOS,7.5,7.5,3,4,2016
+2016-06-22,LAA,HOU,Los Angeles Angels,Houston Astros,8.5,7.5,2,3,2016
+2016-06-22,CWS,BOS,Chicago White Sox,Boston Red Sox,9.5,9.5,8,6,2016
+2016-06-22,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,8.0,8.5,1,6,2016
+2016-06-22,SEA,DET,Seattle Mariners,Detroit Tigers,8.5,9.0,1,5,2016
+2016-06-22,COL,NYY,Colorado Rockies,New York Yankees,9.0,9.0,8,9,2016
+2016-06-22,KAN,NYM,Kansas City Royals,New York Mets,7.0,6.0,3,4,2016
+2016-06-22,MIL,OAK,Milwaukee Brewers,Oakland Athletics,8.5,8.0,4,2,2016
+2016-06-22,ARI,TOR,Arizona Diamondbacks,Toronto Blue Jays,9.5,9.0,2,5,2016
+2016-06-22,SDG,BAL,San Diego Padres,Baltimore Orioles,10.0,10.5,2,7,2016
+2016-06-22,CIN,TEX,Cincinnati Reds,Texas Rangers,9.0,9.0,4,6,2016
+2016-06-22,PHI,MIN,Philadelphia Phillies,Minnesota Twins,8.5,9.0,5,6,2016
+2016-06-23,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,8.5,8.5,5,3,2016
+2016-06-23,SDG,CIN,San Diego Padres,Cincinnati Reds,9.5,9.5,7,4,2016
+2016-06-23,CUB,MIA,Chicago Cubs,Miami Marlins,7.5,7.0,2,4,2016
+2016-06-23,NYM,ATL,New York Mets,Atlanta Braves,7.5,8.0,3,4,2016
+2016-06-23,ARI,COL,Arizona Diamondbacks,Colorado Rockies,10.5,11.0,7,6,2016
+2016-06-23,SEA,DET,Seattle Mariners,Detroit Tigers,10.0,10.0,4,5,2016
+2016-06-23,CWS,BOS,Chicago White Sox,Boston Red Sox,10.5,10.5,7,8,2016
+2016-06-23,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,5,4,2016
+2016-06-23,PHI,MIN,Philadelphia Phillies,Minnesota Twins,8.5,8.0,7,3,2016
+2016-06-24,LOS,PIT,LOS,Pittsburgh Pirates,8.0,8.5,6,8,2016
+2016-06-24,SDG,CIN,San Diego Padres,Cincinnati Reds,9.5,9.0,13,4,2016
+2016-06-24,CUB,MIA,Chicago Cubs,Miami Marlins,7.5,8.0,5,4,2016
+2016-06-24,NYM,ATL,New York Mets,Atlanta Braves,8.0,8.0,8,6,2016
+2016-06-24,WAS,MIL,Washington Nationals,Milwaukee Brewers,7.5,7.5,3,5,2016
+2016-06-24,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,11.5,10,9,2016
+2016-06-24,PHI,SFO,Philadelphia Phillies,San Francisco Giants,8.0,8.0,4,5,2016
+2016-06-24,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.5,9.5,3,6,2016
+2016-06-24,MIN,NYY,Minnesota Twins,New York Yankees,8.5,8.0,3,5,2016
+2016-06-24,CLE,DET,Cleveland Guardians,Detroit Tigers,8.0,8.0,7,4,2016
+2016-06-24,BOS,TEX,Boston Red Sox,Texas Rangers,9.0,9.5,8,7,2016
+2016-06-24,TOR,CWS,Toronto Blue Jays,Chicago White Sox,9.0,8.5,2,3,2016
+2016-06-24,HOU,KAN,Houston Astros,Kansas City Royals,8.5,8.0,13,4,2016
+2016-06-24,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,7,4,2016
+2016-06-24,STL,SEA,St. Louis Cardinals,Seattle Mariners,8.0,8.5,3,4,2016
+2016-06-25,CUB,MIA,Chicago Cubs,Miami Marlins,8.0,8.5,6,9,2016
+2016-06-25,WAS,MIL,Washington Nationals,Milwaukee Brewers,9.0,9.5,5,6,2016
+2016-06-25,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,12.0,6,11,2016
+2016-06-25,SDG,CIN,San Diego Padres,Cincinnati Reds,9.0,9.5,3,0,2016
+2016-06-25,LOS,PIT,LOS,Pittsburgh Pirates,8.0,8.0,1,6,2016
+2016-06-25,NYM,ATL,New York Mets,Atlanta Braves,7.0,7.0,1,0,2016
+2016-06-25,PHI,SFO,Philadelphia Phillies,San Francisco Giants,6.5,7.0,3,2,2016
+2016-06-25,MIN,NYY,Minnesota Twins,New York Yankees,9.0,9.0,1,2,2016
+2016-06-25,TOR,CWS,Toronto Blue Jays,Chicago White Sox,9.5,9.0,10,8,2016
+2016-06-25,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,8.5,6,8,2016
+2016-06-25,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,9.0,6,0,2016
+2016-06-25,HOU,KAN,Houston Astros,Kansas City Royals,8.5,9.0,13,5,2016
+2016-06-25,BOS,TEX,Boston Red Sox,Texas Rangers,10.0,9.5,3,10,2016
+2016-06-25,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,7,3,2016
+2016-06-25,STL,SEA,St. Louis Cardinals,Seattle Mariners,8.0,8.5,4,5,2016
+2016-06-25,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,0,5,2016
+2016-06-26,CUB,MIA,Chicago Cubs,Miami Marlins,6.5,6.5,1,6,2016
+2016-06-26,SDG,CIN,San Diego Padres,Cincinnati Reds,10.0,9.5,0,3,2016
+2016-06-26,LOS,PIT,LOS,Pittsburgh Pirates,7.0,7.0,3,4,2016
+2016-06-26,NYM,ATL,New York Mets,Atlanta Braves,8.0,7.5,2,5,2016
+2016-06-26,WAS,MIL,Washington Nationals,Milwaukee Brewers,8.5,9.5,3,2,2016
+2016-06-26,PHI,SFO,Philadelphia Phillies,San Francisco Giants,7.0,6.5,7,8,2016
+2016-06-26,ARI,COL,Arizona Diamondbacks,Colorado Rockies,12.5,12.5,7,9,2016
+2016-06-26,MIN,NYY,Minnesota Twins,New York Yankees,9.5,9.5,7,1,2016
+2016-06-26,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.5,9,3,2016
+2016-06-26,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.5,9.0,5,12,2016
+2016-06-26,TOR,CWS,Toronto Blue Jays,Chicago White Sox,8.5,9.0,2,5,2016
+2016-06-26,HOU,KAN,Houston Astros,Kansas City Royals,8.5,8.5,1,6,2016
+2016-06-26,BOS,TEX,Boston Red Sox,Texas Rangers,10.0,10.5,2,6,2016
+2016-06-26,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,6,7,2016
+2016-06-26,STL,SEA,St. Louis Cardinals,Seattle Mariners,8.5,8.0,11,6,2016
+2016-06-27,LOS,PIT,LOS,Pittsburgh Pirates,8.5,8.5,5,4,2016
+2016-06-27,NYM,WAS,New York Mets,Washington Nationals,7.0,7.5,4,11,2016
+2016-06-27,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.0,8.5,11,8,2016
+2016-06-27,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,9.0,8.5,8,0,2016
+2016-06-27,TEX,NYY,Texas Rangers,New York Yankees,9.0,10.0,9,6,2016
+2016-06-27,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.0,7,13,2016
+2016-06-27,HOU,LAA,Houston Astros,Los Angeles Angels,7.5,7.5,4,2,2016
+2016-06-27,CLE,ATL,Cleveland Guardians,Atlanta Braves,8.0,7.5,8,3,2016
+2016-06-27,STL,KAN,St. Louis Cardinals,Kansas City Royals,8.5,8.0,2,6,2016
+2016-06-27,TOR,COL,Toronto Blue Jays,Colorado Rockies,12.5,11.0,5,9,2016
+2016-06-27,OAK,SFO,Oakland Athletics,San Francisco Giants,7.5,7.5,8,3,2016
+2016-06-28,NYM,WAS,New York Mets,Washington Nationals,8.0,8.5,0,5,2016
+2016-06-28,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.5,9.0,7,2,2016
+2016-06-28,LOS,MIL,LOS,Milwaukee Brewers,9.0,8.5,6,5,2016
+2016-06-28,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,8.0,7.5,4,3,2016
+2016-06-28,TEX,NYY,Texas Rangers,New York Yankees,8.5,8.0,7,1,2016
+2016-06-28,BOS,TAM,Boston Red Sox,Tampa Bay Rays,7.5,7.5,8,2,2016
+2016-06-28,MIN,CWS,Minnesota Twins,Chicago White Sox,8.5,8.0,4,0,2016
+2016-06-28,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,9.0,7,1,2016
+2016-06-28,MIA,DET,Miami Marlins,Detroit Tigers,9.5,10.0,5,7,2016
+2016-06-28,CLE,ATL,Cleveland Guardians,Atlanta Braves,7.5,7.5,5,3,2016
+2016-06-28,STL,KAN,St. Louis Cardinals,Kansas City Royals,8.5,8.0,8,4,2016
+2016-06-28,TOR,COL,Toronto Blue Jays,Colorado Rockies,12.5,12.5,14,9,2016
+2016-06-28,BAL,SDG,Baltimore Orioles,San Diego Padres,8.5,8.5,11,7,2016
+2016-06-28,PIT,SEA,Pittsburgh Pirates,Seattle Mariners,8.0,8.0,2,5,2016
+2016-06-28,OAK,SFO,Oakland Athletics,San Francisco Giants,8.0,8.0,13,11,2016
+2016-06-29,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.0,9,2,2016
+2016-06-29,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,9.0,9.0,9,8,2016
+2016-06-29,NYM,WAS,New York Mets,Washington Nationals,7.5,8.0,2,4,2016
+2016-06-29,LOS,MIL,LOS,Milwaukee Brewers,9.0,8.5,0,7,2016
+2016-06-29,BOS,TAM,Boston Red Sox,Tampa Bay Rays,7.5,8.0,0,4,2016
+2016-06-29,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,9.0,10,4,2016
+2016-06-29,TEX,NYY,Texas Rangers,New York Yankees,8.5,9.0,7,9,2016
+2016-06-29,MIN,CWS,Minnesota Twins,Chicago White Sox,9.5,9.0,6,9,2016
+2016-06-29,MIA,DET,Miami Marlins,Detroit Tigers,9.5,10.0,3,10,2016
+2016-06-29,TOR,COL,Toronto Blue Jays,Colorado Rockies,12.5,12.0,5,3,2016
+2016-06-29,BAL,SDG,Baltimore Orioles,San Diego Padres,8.5,9.5,12,6,2016
+2016-06-29,CLE,ATL,Cleveland Guardians,Atlanta Braves,8.0,8.0,3,0,2016
+2016-06-29,KAN,STL,Kansas City Royals,St. Louis Cardinals,8.5,8.0,3,2,2016
+2016-06-29,SFO,OAK,San Francisco Giants,Oakland Athletics,8.5,8.0,1,7,2016
+2016-06-29,PIT,SEA,Pittsburgh Pirates,Seattle Mariners,8.5,8.5,8,1,2016
+2016-06-30,LOS,MIL,LOS,Milwaukee Brewers,8.0,8.5,8,1,2016
+2016-06-30,CIN,WAS,Cincinnati Reds,Washington Nationals,8.5,8.5,4,13,2016
+2016-06-30,CUB,NYM,Chicago Cubs,New York Mets,7.5,7.5,3,4,2016
+2016-06-30,MIA,ATL,Miami Marlins,Atlanta Braves,8.0,8.5,5,8,2016
+2016-06-30,TEX,NYY,Texas Rangers,New York Yankees,9.0,9.0,1,2,2016
+2016-06-30,MIN,CWS,Minnesota Twins,Chicago White Sox,9.5,9.0,5,6,2016
+2016-06-30,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,8.5,8.5,4,1,2016
+2016-06-30,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.0,8.5,10,7,2016
+2016-06-30,BAL,SEA,Baltimore Orioles,Seattle Mariners,8.5,8.0,3,5,2016
+2016-06-30,KAN,STL,Kansas City Royals,St. Louis Cardinals,9.0,8.5,4,2,2016
+2016-06-30,SFO,OAK,San Francisco Giants,Oakland Athletics,7.0,7.5,12,6,2016
+2016-07-01,CIN,WAS,Cincinnati Reds,Washington Nationals,8.5,8.5,2,3,2016
+2016-07-01,CUB,NYM,Chicago Cubs,New York Mets,7.0,7.0,2,10,2016
+2016-07-01,MIA,ATL,Miami Marlins,Atlanta Braves,7.5,8.5,7,5,2016
+2016-07-01,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,8.5,1,7,2016
+2016-07-01,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,8.0,6,4,2016
+2016-07-01,COL,LOS,Colorado Rockies,LOS,7.5,7.5,0,5,2016
+2016-07-01,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,8.5,9.0,2,1,2016
+2016-07-01,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,8.5,10,2,2016
+2016-07-01,LAA,BOS,Los Angeles Angels,Boston Red Sox,10.0,10.0,4,5,2016
+2016-07-01,CWS,HOU,Chicago White Sox,Houston Astros,9.0,8.5,0,5,2016
+2016-07-01,TEX,MIN,Texas Rangers,Minnesota Twins,9.5,9.5,3,2,2016
+2016-07-01,BAL,SEA,Baltimore Orioles,Seattle Mariners,8.5,8.0,2,5,2016
+2016-07-01,KAN,PHI,Kansas City Royals,Philadelphia Phillies,8.5,8.0,3,4,2016
+2016-07-01,PIT,OAK,Pittsburgh Pirates,Oakland Athletics,8.0,8.0,7,3,2016
+2016-07-01,NYY,SDG,New York Yankees,San Diego Padres,8.0,7.5,6,7,2016
+2016-07-02,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,8.0,0,3,2016
+2016-07-02,MIA,ATL,Miami Marlins,Atlanta Braves,7.5,8.0,1,9,2016
+2016-07-02,CIN,WAS,Cincinnati Reds,Washington Nationals,8.5,8.5,9,4,2016
+2016-07-02,CUB,NYM,Chicago Cubs,New York Mets,7.0,7.5,3,4,2016
+2016-07-02,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,8.5,5,6,2016
+2016-07-02,COL,LOS,Colorado Rockies,LOS,8.0,7.5,1,6,2016
+2016-07-02,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,9.0,9.0,6,9,2016
+2016-07-02,TEX,MIN,Texas Rangers,Minnesota Twins,9.5,9.5,5,17,2016
+2016-07-02,CWS,HOU,Chicago White Sox,Houston Astros,8.0,7.5,7,6,2016
+2016-07-02,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.0,8.5,3,2,2016
+2016-07-02,LAA,BOS,Los Angeles Angels,Boston Red Sox,10.0,10.5,21,2,2016
+2016-07-02,BAL,SEA,Baltimore Orioles,Seattle Mariners,8.5,8.0,6,12,2016
+2016-07-02,KAN,PHI,Kansas City Royals,Philadelphia Phillies,8.0,7.5,6,2,2016
+2016-07-02,PIT,OAK,Pittsburgh Pirates,Oakland Athletics,8.0,8.5,4,2,2016
+2016-07-02,NYY,SDG,New York Yankees,San Diego Padres,8.0,7.0,1,2,2016
+2016-07-03,CUB,NYM,Chicago Cubs,New York Mets,6.5,6.5,3,14,2016
+2016-07-03,CIN,WAS,Cincinnati Reds,Washington Nationals,8.0,8.0,1,12,2016
+2016-07-03,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,8.0,8,9,2016
+2016-07-03,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,8.5,5,4,2016
+2016-07-03,COL,LOS,Colorado Rockies,LOS,8.0,7.5,1,4,2016
+2016-07-03,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,9.0,5,2,2016
+2016-07-03,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,8.5,8.0,1,17,2016
+2016-07-03,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,8.5,5,1,2016
+2016-07-03,LAA,BOS,Los Angeles Angels,Boston Red Sox,10.0,11.0,5,10,2016
+2016-07-03,CWS,HOU,Chicago White Sox,Houston Astros,8.5,7.5,4,1,2016
+2016-07-03,TEX,MIN,Texas Rangers,Minnesota Twins,8.5,8.5,4,5,2016
+2016-07-03,BAL,SEA,Baltimore Orioles,Seattle Mariners,9.0,8.5,4,9,2016
+2016-07-03,KAN,PHI,Kansas City Royals,Philadelphia Phillies,7.5,7.5,2,7,2016
+2016-07-03,PIT,OAK,Pittsburgh Pirates,Oakland Athletics,8.5,8.5,6,3,2016
+2016-07-03,NYY,SDG,New York Yankees,San Diego Padres,9.0,8.0,6,3,2016
+2016-07-04,MIL,WAS,Milwaukee Brewers,Washington Nationals,7.0,7.0,1,0,2016
+2016-07-04,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.5,4,2,2016
+2016-07-04,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.5,8.5,4,10,2016
+2016-07-04,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,8.0,2,8,2016
+2016-07-04,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,8.0,1,3,2016
+2016-07-04,MIA,NYM,Miami Marlins,New York Mets,7.5,8.5,6,8,2016
+2016-07-04,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,9.5,8,4,2016
+2016-07-04,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.0,8.5,2,4,2016
+2016-07-04,TEX,BOS,Texas Rangers,Boston Red Sox,10.5,11.5,5,12,2016
+2016-07-04,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.5,1,2,2016
+2016-07-04,OAK,MIN,Oakland Athletics,Minnesota Twins,9.5,10.5,3,1,2016
+2016-07-04,NYY,CWS,New York Yankees,Chicago White Sox,9.5,10.0,2,8,2016
+2016-07-04,KAN,TOR,Kansas City Royals,Toronto Blue Jays,9.0,8.5,2,6,2016
+2016-07-04,DET,CLE,Detroit Tigers,Cleveland Guardians,8.0,8.5,3,5,2016
+2016-07-04,BAL,LOS,Baltimore Orioles,LOS,8.0,8.0,5,7,2016
+2016-07-05,CIN,CUB,Cincinnati Reds,Chicago Cubs,9.0,9.5,9,5,2016
+2016-07-05,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,9.0,1,5,2016
+2016-07-05,MIL,WAS,Milwaukee Brewers,Washington Nationals,8.5,8.5,5,2,2016
+2016-07-05,MIA,NYM,Miami Marlins,New York Mets,8.5,7.5,5,2,2016
+2016-07-05,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,9.0,5,2,2016
+2016-07-05,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,10.0,5,7,2016
+2016-07-05,COL,SFO,Colorado Rockies,San Francisco Giants,6.5,7.0,7,3,2016
+2016-07-05,KAN,TOR,Kansas City Royals,Toronto Blue Jays,9.5,9.5,3,8,2016
+2016-07-05,DET,CLE,Detroit Tigers,Cleveland Guardians,8.0,8.5,1,12,2016
+2016-07-05,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.5,8.5,13,5,2016
+2016-07-05,TEX,BOS,Texas Rangers,Boston Red Sox,9.0,9.5,7,2,2016
+2016-07-05,SEA,HOU,Seattle Mariners,Houston Astros,8.0,7.5,2,5,2016
+2016-07-05,OAK,MIN,Oakland Athletics,Minnesota Twins,9.5,10.0,4,11,2016
+2016-07-05,NYY,CWS,New York Yankees,Chicago White Sox,8.5,8.0,9,0,2016
+2016-07-05,BAL,LOS,Baltimore Orioles,LOS,7.5,7.5,4,1,2016
+2016-07-06,ATL,PHI,Atlanta Braves,Philadelphia Phillies,7.5,9.0,3,4,2016
+2016-07-06,MIA,NYM,Miami Marlins,New York Mets,7.5,8.0,2,4,2016
+2016-07-06,CIN,CUB,Cincinnati Reds,Chicago Cubs,11.0,10.5,5,3,2016
+2016-07-06,MIL,WAS,Milwaukee Brewers,Washington Nationals,8.5,9.5,4,7,2016
+2016-07-06,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.0,8.5,7,5,2016
+2016-07-06,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,9.5,13,6,2016
+2016-07-06,COL,SFO,Colorado Rockies,San Francisco Giants,7.0,7.0,1,5,2016
+2016-07-06,DET,CLE,Detroit Tigers,Cleveland Guardians,8.5,9.0,12,2,2016
+2016-07-06,OAK,MIN,Oakland Athletics,Minnesota Twins,9.0,9.0,0,4,2016
+2016-07-06,KAN,TOR,Kansas City Royals,Toronto Blue Jays,9.0,8.5,2,4,2016
+2016-07-06,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.5,9.0,7,2,2016
+2016-07-06,TEX,BOS,Texas Rangers,Boston Red Sox,10.5,10.5,6,11,2016
+2016-07-06,SEA,HOU,Seattle Mariners,Houston Astros,8.5,9.0,8,9,2016
+2016-07-06,NYY,CWS,New York Yankees,Chicago White Sox,9.0,8.5,0,5,2016
+2016-07-06,BAL,LOS,Baltimore Orioles,LOS,7.5,7.5,6,4,2016
+2016-07-07,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.0,8.5,1,5,2016
+2016-07-07,WAS,NYM,Washington Nationals,New York Mets,7.5,9.0,7,9,2016
+2016-07-07,PHI,COL,Philadelphia Phillies,Colorado Rockies,12.0,12.5,2,11,2016
+2016-07-07,SDG,LOS,San Diego Padres,LOS,7.0,7.5,6,0,2016
+2016-07-07,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,9.0,8.5,5,1,2016
+2016-07-07,DET,TOR,Detroit Tigers,Toronto Blue Jays,9.5,9.5,4,5,2016
+2016-07-07,NYY,CLE,New York Yankees,Cleveland Guardians,8.5,9.0,5,4,2016
+2016-07-07,MIN,TEX,Minnesota Twins,Texas Rangers,10.5,11.0,10,1,2016
+2016-07-07,OAK,HOU,Oakland Athletics,Houston Astros,8.0,8.5,3,1,2016
+2016-07-07,SEA,KAN,Seattle Mariners,Kansas City Royals,8.5,8.5,3,4,2016
+2016-07-07,ATL,CUB,Atlanta Braves,Chicago Cubs,9.5,9.5,4,3,2016
+2016-07-08,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,7.5,8.0,4,8,2016
+2016-07-08,CIN,MIA,Cincinnati Reds,Miami Marlins,7.0,7.0,1,3,2016
+2016-07-08,WAS,NYM,Washington Nationals,New York Mets,6.5,7.0,3,1,2016
+2016-07-08,PHI,COL,Philadelphia Phillies,Colorado Rockies,11.0,11.0,5,3,2016
+2016-07-08,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,9.0,3,4,2016
+2016-07-08,SDG,LOS,San Diego Padres,LOS,8.0,8.0,6,10,2016
+2016-07-08,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,7.5,2,6,2016
+2016-07-08,LAA,BAL,Los Angeles Angels,Baltimore Orioles,9.5,10.0,9,5,2016
+2016-07-08,DET,TOR,Detroit Tigers,Toronto Blue Jays,10.0,10.5,0,6,2016
+2016-07-08,TAM,BOS,Tampa Bay Rays,Boston Red Sox,10.0,10.5,5,6,2016
+2016-07-08,NYY,CLE,New York Yankees,Cleveland Guardians,8.0,8.0,2,10,2016
+2016-07-08,MIN,TEX,Minnesota Twins,Texas Rangers,9.5,9.0,5,6,2016
+2016-07-08,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,9,10,2016
+2016-07-08,SEA,KAN,Seattle Mariners,Kansas City Royals,8.5,8.5,3,2,2016
+2016-07-08,ATL,CWS,Atlanta Braves,Chicago White Sox,8.0,8.0,11,8,2016
+2016-07-09,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.0,8,1,2016
+2016-07-09,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,7.5,2,4,2016
+2016-07-09,CIN,MIA,Cincinnati Reds,Miami Marlins,9.0,9.0,2,4,2016
+2016-07-09,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.0,9.0,6,12,2016
+2016-07-09,WAS,NYM,Washington Nationals,New York Mets,7.5,8.0,6,1,2016
+2016-07-09,SDG,LOS,San Diego Padres,LOS,8.0,8.5,3,4,2016
+2016-07-09,PHI,COL,Philadelphia Phillies,Colorado Rockies,11.5,11.5,3,8,2016
+2016-07-09,DET,TOR,Detroit Tigers,Toronto Blue Jays,10.0,10.0,3,2,2016
+2016-07-09,LAA,BAL,Los Angeles Angels,Baltimore Orioles,10.0,10.5,2,3,2016
+2016-07-09,TAM,BOS,Tampa Bay Rays,Boston Red Sox,10.5,10.0,1,4,2016
+2016-07-09,NYY,CLE,New York Yankees,Cleveland Guardians,8.5,7.5,7,6,2016
+2016-07-09,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.0,3,2,2016
+2016-07-09,SEA,KAN,Seattle Mariners,Kansas City Royals,8.5,9.5,3,5,2016
+2016-07-09,MIN,TEX,Minnesota Twins,Texas Rangers,11.5,10.5,8,6,2016
+2016-07-09,ATL,CWS,Atlanta Braves,Chicago White Sox,7.5,7.5,4,5,2016
+2016-07-10,WAS,NYM,Washington Nationals,New York Mets,8.0,8.0,3,2,2016
+2016-07-10,CIN,MIA,Cincinnati Reds,Miami Marlins,9.0,9.0,3,7,2016
+2016-07-10,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,9.0,6,5,2016
+2016-07-10,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,8.5,5,1,2016
+2016-07-10,PHI,COL,Philadelphia Phillies,Colorado Rockies,11.5,13.5,10,3,2016
+2016-07-10,SDG,LOS,San Diego Padres,LOS,8.5,8.0,1,3,2016
+2016-07-10,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.0,7.5,0,4,2016
+2016-07-10,DET,TOR,Detroit Tigers,Toronto Blue Jays,10.5,10.0,1,6,2016
+2016-07-10,NYY,CLE,New York Yankees,Cleveland Guardians,7.5,7.5,11,7,2016
+2016-07-10,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,8.5,0,4,2016
+2016-07-10,LAA,BAL,Los Angeles Angels,Baltimore Orioles,10.0,10.5,2,4,2016
+2016-07-10,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,1,2,2016
+2016-07-10,SEA,KAN,Seattle Mariners,Kansas City Royals,9.0,10.0,8,5,2016
+2016-07-10,MIN,TEX,Minnesota Twins,Texas Rangers,10.5,10.5,15,5,2016
+2016-07-10,ATL,CWS,Atlanta Braves,Chicago White Sox,9.5,9.5,2,0,2016
+2016-07-15,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,8.5,5,3,2016
+2016-07-15,PIT,WAS,Pittsburgh Pirates,Washington Nationals,7.5,8.0,1,5,2016
+2016-07-15,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.0,9.0,4,5,2016
+2016-07-15,COL,ATL,Colorado Rockies,Atlanta Braves,8.5,8.0,11,2,2016
+2016-07-15,MIA,STL,Miami Marlins,St. Louis Cardinals,8.0,8.0,7,6,2016
+2016-07-15,LOS,ARI,LOS,Arizona Diamondbacks,9.0,9.0,13,7,2016
+2016-07-15,SFO,SDG,San Francisco Giants,San Diego Padres,7.5,7.5,1,4,2016
+2016-07-15,BOS,NYY,Boston Red Sox,New York Yankees,9.0,9.0,5,3,2016
+2016-07-15,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.5,4,3,2016
+2016-07-15,KAN,DET,Kansas City Royals,Detroit Tigers,8.5,8.5,2,4,2016
+2016-07-15,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.5,8.5,5,2,2016
+2016-07-15,CWS,LAA,Chicago White Sox,Los Angeles Angels,8.0,8.0,0,7,2016
+2016-07-15,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.5,8.0,7,8,2016
+2016-07-15,HOU,SEA,Houston Astros,Seattle Mariners,8.0,8.0,7,3,2016
+2016-07-15,TEX,CUB,Texas Rangers,Chicago Cubs,8.0,8.5,0,6,2016
+2016-07-16,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,8.5,2,4,2016
+2016-07-16,PIT,WAS,Pittsburgh Pirates,Washington Nationals,8.0,8.0,0,6,2016
+2016-07-16,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.5,9.5,9,1,2016
+2016-07-16,COL,ATL,Colorado Rockies,Atlanta Braves,8.5,8.0,4,3,2016
+2016-07-16,MIA,STL,Miami Marlins,St. Louis Cardinals,8.0,8.0,0,5,2016
+2016-07-16,LOS,ARI,LOS,Arizona Diamondbacks,9.0,9.0,1,2,2016
+2016-07-16,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,8.5,6,7,2016
+2016-07-16,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.5,8.5,4,5,2016
+2016-07-16,BOS,NYY,Boston Red Sox,New York Yankees,9.5,10.0,5,2,2016
+2016-07-16,HOU,SEA,Houston Astros,Seattle Mariners,8.0,7.5,0,1,2016
+2016-07-16,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.0,2,1,2016
+2016-07-16,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.5,9.0,4,5,2016
+2016-07-16,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,8,4,2016
+2016-07-16,CWS,LAA,Chicago White Sox,Los Angeles Angels,8.5,8.5,0,1,2016
+2016-07-16,TEX,CUB,Texas Rangers,Chicago Cubs,8.5,7.5,1,3,2016
+2016-07-17,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.0,9.0,0,1,2016
+2016-07-17,PIT,WAS,Pittsburgh Pirates,Washington Nationals,8.0,7.5,2,1,2016
+2016-07-17,NYM,PHI,New York Mets,Philadelphia Phillies,8.0,8.0,5,0,2016
+2016-07-17,COL,ATL,Colorado Rockies,Atlanta Braves,7.5,7.0,0,1,2016
+2016-07-17,MIA,STL,Miami Marlins,St. Louis Cardinals,8.5,8.0,6,3,2016
+2016-07-17,LOS,ARI,LOS,Arizona Diamondbacks,9.0,7.5,5,6,2016
+2016-07-17,SFO,SDG,San Francisco Giants,San Diego Padres,7.5,8.5,3,5,2016
+2016-07-17,KAN,DET,Kansas City Royals,Detroit Tigers,8.5,8.5,2,4,2016
+2016-07-17,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.0,2,5,2016
+2016-07-17,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,9.5,6,1,2016
+2016-07-17,CWS,LAA,Chicago White Sox,Los Angeles Angels,9.0,9.5,1,8,2016
+2016-07-17,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.5,8.0,5,3,2016
+2016-07-17,HOU,SEA,Houston Astros,Seattle Mariners,8.0,8.0,8,1,2016
+2016-07-17,BOS,NYY,Boston Red Sox,New York Yankees,8.0,7.5,1,3,2016
+2016-07-17,TEX,CUB,Texas Rangers,Chicago Cubs,10.0,9.0,4,1,2016
+2016-07-18,MIA,PHI,Miami Marlins,Philadelphia Phillies,7.5,7.0,3,2,2016
+2016-07-18,ATL,CIN,Atlanta Braves,Cincinnati Reds,9.0,9.0,2,8,2016
+2016-07-18,NYM,CUB,New York Mets,Chicago Cubs,7.5,8.0,1,5,2016
+2016-07-18,SDG,STL,San Diego Padres,St. Louis Cardinals,8.5,9.5,2,10,2016
+2016-07-18,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,9.0,1,2,2016
+2016-07-18,MIN,DET,Minnesota Twins,Detroit Tigers,10.0,10.0,0,1,2016
+2016-07-18,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.0,8.0,3,7,2016
+2016-07-18,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.5,4,7,2016
+2016-07-18,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.0,5,9,2016
+2016-07-18,CWS,SEA,Chicago White Sox,Seattle Mariners,7.5,7.5,3,4,2016
+2016-07-18,TAM,COL,Tampa Bay Rays,Colorado Rockies,12.0,11.0,4,7,2016
+2016-07-19,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.5,2,1,2016
+2016-07-19,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,8.0,2,3,2016
+2016-07-19,LOS,WAS,LOS,Washington Nationals,8.5,8.5,8,4,2016
+2016-07-19,ATL,CIN,Atlanta Braves,Cincinnati Reds,9.0,9.0,5,4,2016
+2016-07-19,NYM,CUB,New York Mets,Chicago Cubs,7.0,6.5,2,1,2016
+2016-07-19,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,9.0,1,7,2016
+2016-07-19,MIN,DET,Minnesota Twins,Detroit Tigers,10.0,9.5,6,2,2016
+2016-07-19,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,7.5,7,3,2016
+2016-07-19,HOU,OAK,Houston Astros,Oakland Athletics,8.0,8.5,3,4,2016
+2016-07-19,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,10.0,6,8,2016
+2016-07-19,CWS,SEA,Chicago White Sox,Seattle Mariners,8.0,7.5,6,1,2016
+2016-07-19,SFO,BOS,San Francisco Giants,Boston Red Sox,10.5,10.0,0,4,2016
+2016-07-19,TAM,COL,Tampa Bay Rays,Colorado Rockies,12.0,12.0,10,1,2016
+2016-07-19,TOR,ARI,Toronto Blue Jays,Arizona Diamondbacks,9.5,9.0,5,1,2016
+2016-07-20,ATL,CIN,Atlanta Braves,Cincinnati Reds,9.0,9.0,3,6,2016
+2016-07-20,NYM,CUB,New York Mets,Chicago Cubs,9.0,9.5,2,6,2016
+2016-07-20,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,9.0,9,5,2016
+2016-07-20,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.5,1,4,2016
+2016-07-20,LOS,WAS,LOS,Washington Nationals,9.0,8.5,1,8,2016
+2016-07-20,SDG,STL,San Diego Padres,St. Louis Cardinals,8.5,8.5,2,3,2016
+2016-07-20,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,8.5,4,1,2016
+2016-07-20,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,8.0,11,4,2016
+2016-07-20,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.5,7,0,2016
+2016-07-20,CWS,SEA,Chicago White Sox,Seattle Mariners,8.0,8.0,5,6,2016
+2016-07-20,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,8.5,0,5,2016
+2016-07-20,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,9.0,4,7,2016
+2016-07-20,TAM,COL,Tampa Bay Rays,Colorado Rockies,11.5,12.0,11,3,2016
+2016-07-20,TOR,ARI,Toronto Blue Jays,Arizona Diamondbacks,9.5,9.0,10,4,2016
+2016-07-20,SFO,BOS,San Francisco Giants,Boston Red Sox,10.5,10.0,7,11,2016
+2016-07-21,LOS,WAS,LOS,Washington Nationals,8.0,7.0,6,3,2016
+2016-07-21,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.5,8.0,9,3,2016
+2016-07-21,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,9.5,3,5,2016
+2016-07-21,SDG,STL,San Diego Padres,St. Louis Cardinals,8.5,8.5,5,6,2016
+2016-07-21,ATL,COL,Atlanta Braves,Colorado Rockies,12.0,12.0,3,7,2016
+2016-07-21,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,8.5,4,1,2016
+2016-07-21,MIN,BOS,Minnesota Twins,Boston Red Sox,10.0,10.0,2,13,2016
+2016-07-21,DET,CWS,Detroit Tigers,Chicago White Sox,10.0,10.5,2,1,2016
+2016-07-21,TAM,OAK,Tampa Bay Rays,Oakland Athletics,8.0,8.0,7,3,2016
+2016-07-22,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,8.0,8.5,4,0,2016
+2016-07-22,SDG,WAS,San Diego Padres,Washington Nationals,9.0,9.0,5,3,2016
+2016-07-22,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,9.5,9.5,2,6,2016
+2016-07-22,NYM,MIA,New York Mets,Miami Marlins,8.5,8.0,5,3,2016
+2016-07-22,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,9.5,5,2,2016
+2016-07-22,LOS,STL,LOS,St. Louis Cardinals,8.5,8.0,3,4,2016
+2016-07-22,ATL,COL,Atlanta Braves,Colorado Rockies,11.0,10.5,3,4,2016
+2016-07-22,CLE,BAL,Cleveland Guardians,Baltimore Orioles,9.0,9.5,1,5,2016
+2016-07-22,SEA,TOR,Seattle Mariners,Toronto Blue Jays,9.0,9.5,2,1,2016
+2016-07-22,MIN,BOS,Minnesota Twins,Boston Red Sox,10.5,11.0,2,1,2016
+2016-07-22,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.5,7,5,2016
+2016-07-22,LAA,HOU,Los Angeles Angels,Houston Astros,8.0,7.5,1,2,2016
+2016-07-22,TEX,KAN,Texas Rangers,Kansas City Royals,8.0,7.5,1,3,2016
+2016-07-22,TAM,OAK,Tampa Bay Rays,Oakland Athletics,8.0,8.0,0,1,2016
+2016-07-22,SFO,NYY,San Francisco Giants,New York Yankees,8.0,7.5,2,3,2016
+2016-07-23,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,8.5,8.0,4,7,2016
+2016-07-23,SDG,WAS,San Diego Padres,Washington Nationals,7.5,9.0,2,3,2016
+2016-07-23,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,9.5,9.5,1,6,2016
+2016-07-23,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.5,1,6,2016
+2016-07-23,NYM,MIA,New York Mets,Miami Marlins,6.5,6.0,2,7,2016
+2016-07-23,LOS,STL,LOS,St. Louis Cardinals,8.0,7.5,7,2,2016
+2016-07-23,ATL,COL,Atlanta Braves,Colorado Rockies,11.5,12.0,4,8,2016
+2016-07-23,SEA,TOR,Seattle Mariners,Toronto Blue Jays,9.5,9.5,14,5,2016
+2016-07-23,CLE,BAL,Cleveland Guardians,Baltimore Orioles,9.0,9.0,2,5,2016
+2016-07-23,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,9.0,2,7,2016
+2016-07-23,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,9.5,3,3,2016
+2016-07-23,MIN,BOS,Minnesota Twins,Boston Red Sox,9.5,9.5,11,9,2016
+2016-07-23,TEX,KAN,Texas Rangers,Kansas City Royals,7.5,9.0,7,4,2016
+2016-07-23,TAM,OAK,Tampa Bay Rays,Oakland Athletics,8.5,8.5,3,4,2016
+2016-07-23,SFO,NYY,San Francisco Giants,New York Yankees,9.0,9.0,2,1,2016
+2016-07-24,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,9.5,10.5,9,8,2016
+2016-07-24,NYM,MIA,New York Mets,Miami Marlins,8.5,8.5,3,0,2016
+2016-07-24,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,8.0,8.0,4,5,2016
+2016-07-24,SDG,WAS,San Diego Padres,Washington Nationals,9.0,9.5,10,6,2016
+2016-07-24,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.0,6,5,2016
+2016-07-24,LOS,STL,LOS,St. Louis Cardinals,9.0,9.0,9,6,2016
+2016-07-24,ATL,COL,Atlanta Braves,Colorado Rockies,12.0,12.5,2,7,2016
+2016-07-24,SEA,TOR,Seattle Mariners,Toronto Blue Jays,9.5,9.5,0,2,2016
+2016-07-24,MIN,BOS,Minnesota Twins,Boston Red Sox,10.0,10.0,7,8,2016
+2016-07-24,CLE,BAL,Cleveland Guardians,Baltimore Orioles,8.5,9.0,3,5,2016
+2016-07-24,DET,CWS,Detroit Tigers,Chicago White Sox,9.0,9.0,4,5,2016
+2016-07-24,LAA,HOU,Los Angeles Angels,Houston Astros,9.5,9.5,3,13,2016
+2016-07-24,TEX,KAN,Texas Rangers,Kansas City Royals,9.0,9.0,2,1,2016
+2016-07-24,TAM,OAK,Tampa Bay Rays,Oakland Athletics,8.5,9.0,2,3,2016
+2016-07-24,SFO,NYY,San Francisco Giants,New York Yankees,8.5,9.5,2,5,2016
+2016-07-25,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.5,7.5,4,0,2016
+2016-07-25,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,9.5,9.5,2,7,2016
+2016-07-25,CIN,SFO,Cincinnati Reds,San Francisco Giants,8.0,7.5,7,5,2016
+2016-07-25,DET,BOS,Detroit Tigers,Boston Red Sox,10.0,10.0,4,2,2016
+2016-07-25,OAK,TEX,Oakland Athletics,Texas Rangers,10.5,10.0,6,7,2016
+2016-07-25,NYY,HOU,New York Yankees,Houston Astros,8.0,7.0,2,1,2016
+2016-07-25,LAA,KAN,Los Angeles Angels,Kansas City Royals,8.5,9.0,6,2,2016
+2016-07-25,COL,BAL,Colorado Rockies,Baltimore Orioles,9.5,10.5,2,3,2016
+2016-07-25,SDG,TOR,San Diego Padres,Toronto Blue Jays,9.5,10.0,2,4,2016
+2016-07-25,CUB,CWS,Chicago Cubs,Chicago White Sox,8.5,9.0,4,5,2016
+2016-07-26,STL,NYM,St. Louis Cardinals,New York Mets,7.5,8.0,1,3,2016
+2016-07-26,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,7.5,0,5,2016
+2016-07-26,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,9.5,9.0,4,9,2016
+2016-07-26,CIN,SFO,Cincinnati Reds,San Francisco Giants,8.0,8.0,7,9,2016
+2016-07-26,DET,BOS,Detroit Tigers,Boston Red Sox,11.0,11.0,9,8,2016
+2016-07-26,OAK,TEX,Oakland Athletics,Texas Rangers,10.0,11.0,6,3,2016
+2016-07-26,NYY,HOU,New York Yankees,Houston Astros,8.5,8.5,6,3,2016
+2016-07-26,LAA,KAN,Los Angeles Angels,Kansas City Royals,9.0,9.0,13,0,2016
+2016-07-26,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,8.0,7.5,7,4,2016
+2016-07-26,COL,BAL,Colorado Rockies,Baltimore Orioles,9.0,9.5,6,3,2016
+2016-07-26,SDG,TOR,San Diego Padres,Toronto Blue Jays,9.5,9.5,6,7,2016
+2016-07-26,WAS,CLE,Washington Nationals,Cleveland Guardians,8.5,8.0,6,7,2016
+2016-07-26,ATL,MIN,Atlanta Braves,Minnesota Twins,9.0,9.5,2,0,2016
+2016-07-26,CUB,CWS,Chicago Cubs,Chicago White Sox,9.5,9.0,0,3,2016
+2016-07-26,TAM,LOS,Tampa Bay Rays,LOS,7.5,7.5,2,3,2016
+2016-07-27,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,7.0,1,11,2016
+2016-07-27,CIN,SFO,Cincinnati Reds,San Francisco Giants,7.5,7.0,2,1,2016
+2016-07-27,STL,NYM,St. Louis Cardinals,New York Mets,8.0,9.0,5,4,2016
+2016-07-27,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,9.5,9.0,8,1,2016
+2016-07-27,DET,BOS,Detroit Tigers,Boston Red Sox,10.5,10.5,4,3,2016
+2016-07-27,OAK,TEX,Oakland Athletics,Texas Rangers,9.5,8.5,6,4,2016
+2016-07-27,NYY,HOU,New York Yankees,Houston Astros,7.5,7.0,1,4,2016
+2016-07-27,LAA,KAN,Los Angeles Angels,Kansas City Royals,8.5,7.5,5,7,2016
+2016-07-27,WAS,CLE,Washington Nationals,Cleveland Guardians,7.5,7.5,4,1,2016
+2016-07-27,SDG,TOR,San Diego Padres,Toronto Blue Jays,10.0,9.5,8,4,2016
+2016-07-27,TAM,LOS,Tampa Bay Rays,LOS,8.0,8.0,3,1,2016
+2016-07-27,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,8.0,8.5,1,10,2016
+2016-07-27,COL,BAL,Colorado Rockies,Baltimore Orioles,9.5,9.0,3,1,2016
+2016-07-27,CWS,CUB,Chicago White Sox,Chicago Cubs,9.0,9.0,1,8,2016
+2016-07-27,ATL,MIN,Atlanta Braves,Minnesota Twins,9.0,8.0,9,7,2016
+2016-07-28,COL,NYM,Colorado Rockies,New York Mets,7.0,6.5,2,1,2016
+2016-07-28,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,9.0,7.5,4,6,2016
+2016-07-28,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,8.0,7,5,2016
+2016-07-28,STL,MIA,St. Louis Cardinals,Miami Marlins,7.0,6.5,5,4,2016
+2016-07-28,WAS,SFO,Washington Nationals,San Francisco Giants,7.0,7.0,4,2,2016
+2016-07-28,KAN,TEX,Kansas City Royals,Texas Rangers,9.0,9.0,2,3,2016
+2016-07-28,BOS,LAA,Boston Red Sox,Los Angeles Angels,8.5,9.0,1,2,2016
+2016-07-28,CWS,CUB,Chicago White Sox,Chicago Cubs,6.5,7.0,1,3,2016
+2016-07-28,BAL,MIN,Baltimore Orioles,Minnesota Twins,9.5,9.0,2,6,2016
+2016-07-29,STL,MIA,St. Louis Cardinals,Miami Marlins,8.5,7.5,11,6,2016
+2016-07-29,COL,NYM,Colorado Rockies,New York Mets,7.0,8.0,6,1,2016
+2016-07-29,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,8.5,1,2,2016
+2016-07-29,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,8.5,1,3,2016
+2016-07-29,ARI,LOS,Arizona Diamondbacks,LOS,7.5,8.0,7,9,2016
+2016-07-29,WAS,SFO,Washington Nationals,San Francisco Giants,7.0,7.0,4,1,2016
+2016-07-29,CIN,SDG,Cincinnati Reds,San Diego Padres,8.5,9.5,6,0,2016
+2016-07-29,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.0,5,6,2016
+2016-07-29,NYY,TAM,New York Yankees,Tampa Bay Rays,8.0,7.5,1,5,2016
+2016-07-29,OAK,CLE,Oakland Athletics,Cleveland Guardians,8.5,9.0,3,5,2016
+2016-07-29,HOU,DET,Houston Astros,Detroit Tigers,9.0,9.0,6,14,2016
+2016-07-29,KAN,TEX,Kansas City Royals,Texas Rangers,9.5,9.0,3,8,2016
+2016-07-29,CWS,MIN,Chicago White Sox,Minnesota Twins,8.5,8.5,1,2,2016
+2016-07-29,BOS,LAA,Boston Red Sox,Los Angeles Angels,9.5,9.0,6,2,2016
+2016-07-29,SEA,CUB,Seattle Mariners,Chicago Cubs,7.0,7.5,1,12,2016
+2016-07-30,WAS,SFO,Washington Nationals,San Francisco Giants,8.0,8.5,3,5,2016
+2016-07-30,PHI,ATL,Philadelphia Phillies,Atlanta Braves,7.5,7.5,9,5,2016
+2016-07-30,STL,MIA,St. Louis Cardinals,Miami Marlins,8.5,8.0,0,11,2016
+2016-07-30,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,8.5,3,5,2016
+2016-07-30,COL,NYM,Colorado Rockies,New York Mets,8.0,8.0,7,2,2016
+2016-07-30,CIN,SDG,Cincinnati Reds,San Diego Padres,8.0,8.5,1,2,2016
+2016-07-30,ARI,LOS,Arizona Diamondbacks,LOS,8.0,8.0,4,2,2016
+2016-07-30,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.5,1,9,2016
+2016-07-30,NYY,TAM,New York Yankees,Tampa Bay Rays,8.0,7.0,3,6,2016
+2016-07-30,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,9.0,6,5,2016
+2016-07-30,OAK,CLE,Oakland Athletics,Cleveland Guardians,9.0,9.5,3,6,2016
+2016-07-30,HOU,DET,Houston Astros,Detroit Tigers,8.5,8.5,2,3,2016
+2016-07-30,KAN,TEX,Kansas City Royals,Texas Rangers,10.0,10.0,1,2,2016
+2016-07-30,BOS,LAA,Boston Red Sox,Los Angeles Angels,8.5,8.0,2,5,2016
+2016-07-30,SEA,CUB,Seattle Mariners,Chicago Cubs,7.5,7.5,4,1,2016
+2016-07-31,STL,MIA,St. Louis Cardinals,Miami Marlins,8.0,7.5,4,5,2016
+2016-07-31,COL,NYM,Colorado Rockies,New York Mets,7.0,6.5,4,6,2016
+2016-07-31,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,8.5,1,2,2016
+2016-07-31,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,8.5,2,4,2016
+2016-07-31,WAS,SFO,Washington Nationals,San Francisco Giants,8.5,8.5,1,3,2016
+2016-07-31,ARI,LOS,Arizona Diamondbacks,LOS,8.5,8.0,3,14,2016
+2016-07-31,CIN,SDG,Cincinnati Reds,San Diego Padres,9.0,8.5,3,2,2016
+2016-07-31,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,8.5,8.5,6,2,2016
+2016-07-31,NYY,TAM,New York Yankees,Tampa Bay Rays,7.0,7.0,3,5,2016
+2016-07-31,OAK,CLE,Oakland Athletics,Cleveland Guardians,8.0,8.0,0,8,2016
+2016-07-31,HOU,DET,Houston Astros,Detroit Tigers,9.0,9.5,0,11,2016
+2016-07-31,CWS,MIN,Chicago White Sox,Minnesota Twins,9.0,8.5,4,6,2016
+2016-07-31,KAN,TEX,Kansas City Royals,Texas Rangers,10.0,10.0,3,5,2016
+2016-07-31,BOS,LAA,Boston Red Sox,Los Angeles Angels,8.5,8.5,5,3,2016
+2016-07-31,SEA,CUB,Seattle Mariners,Chicago Cubs,8.0,8.5,6,7,2016
+2016-08-01,MIA,CUB,Miami Marlins,Chicago Cubs,8.0,7.5,0,5,2016
+2016-08-01,WAS,ARI,Washington Nationals,Arizona Diamondbacks,8.0,8.5,14,1,2016
+2016-08-01,MIL,SDG,Milwaukee Brewers,San Diego Padres,8.0,8.0,3,7,2016
+2016-08-01,KAN,TAM,Kansas City Royals,Tampa Bay Rays,7.5,7.0,3,0,2016
+2016-08-01,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.0,8.5,12,5,2016
+2016-08-01,TOR,HOU,Toronto Blue Jays,Houston Astros,9.0,8.5,1,2,2016
+2016-08-01,BOS,SEA,Boston Red Sox,Seattle Mariners,9.0,8.5,2,1,2016
+2016-08-01,NYY,NYM,New York Yankees,New York Mets,8.0,7.5,6,5,2016
+2016-08-02,SFO,PHI,San Francisco Giants,Philadelphia Phillies,7.5,7.5,8,13,2016
+2016-08-02,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,7.5,7.5,5,3,2016
+2016-08-02,STL,CIN,St. Louis Cardinals,Cincinnati Reds,8.5,8.5,5,7,2016
+2016-08-02,MIA,CUB,Miami Marlins,Chicago Cubs,7.0,7.0,2,3,2016
+2016-08-02,LOS,COL,LOS,Colorado Rockies,10.5,10.5,3,7,2016
+2016-08-02,WAS,ARI,Washington Nationals,Arizona Diamondbacks,9.0,8.5,10,4,2016
+2016-08-02,MIL,SDG,Milwaukee Brewers,San Diego Padres,7.5,7.5,3,2,2016
+2016-08-02,TEX,BAL,Texas Rangers,Baltimore Orioles,8.5,8.5,1,5,2016
+2016-08-02,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.0,8.0,10,6,2016
+2016-08-02,KAN,TAM,Kansas City Royals,Tampa Bay Rays,7.5,7.5,3,2,2016
+2016-08-02,CWS,DET,Chicago White Sox,Detroit Tigers,9.5,9.5,5,11,2016
+2016-08-02,TOR,HOU,Toronto Blue Jays,Houston Astros,8.5,8.0,2,1,2016
+2016-08-02,OAK,LAA,Oakland Athletics,Los Angeles Angels,7.5,7.5,4,5,2016
+2016-08-02,BOS,SEA,Boston Red Sox,Seattle Mariners,8.0,8.0,4,5,2016
+2016-08-02,NYY,NYM,New York Yankees,New York Mets,6.5,6.5,1,7,2016
+2016-08-03,MIA,CUB,Miami Marlins,Chicago Cubs,8.5,9.0,4,5,2016
+2016-08-03,WAS,ARI,Washington Nationals,Arizona Diamondbacks,8.5,8.0,8,3,2016
+2016-08-03,MIL,SDG,Milwaukee Brewers,San Diego Padres,8.0,8.5,3,12,2016
+2016-08-03,SFO,PHI,San Francisco Giants,Philadelphia Phillies,7.5,8.0,4,5,2016
+2016-08-03,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,8.5,8.5,4,8,2016
+2016-08-03,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.0,5,4,2016
+2016-08-03,LOS,COL,LOS,Colorado Rockies,11.0,11.5,2,12,2016
+2016-08-03,TEX,BAL,Texas Rangers,Baltimore Orioles,8.5,8.0,2,3,2016
+2016-08-03,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,13,5,2016
+2016-08-03,CWS,DET,Chicago White Sox,Detroit Tigers,8.5,8.0,1,2,2016
+2016-08-03,KAN,TAM,Kansas City Royals,Tampa Bay Rays,7.5,7.0,0,12,2016
+2016-08-03,TOR,HOU,Toronto Blue Jays,Houston Astros,8.5,8.0,3,1,2016
+2016-08-03,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,6,8,2016
+2016-08-03,BOS,SEA,Boston Red Sox,Seattle Mariners,8.0,8.0,1,3,2016
+2016-08-03,NYM,NYY,New York Mets,New York Yankees,8.5,8.0,5,9,2016
+2016-08-04,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.5,0,7,2016
+2016-08-04,SFO,PHI,San Francisco Giants,Philadelphia Phillies,8.0,8.0,3,2,2016
+2016-08-04,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,9.0,9.0,2,5,2016
+2016-08-04,LOS,COL,LOS,Colorado Rockies,10.5,10.5,4,2,2016
+2016-08-04,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.5,2,9,2016
+2016-08-04,KAN,TAM,Kansas City Royals,Tampa Bay Rays,7.5,7.5,2,3,2016
+2016-08-04,CWS,DET,Chicago White Sox,Detroit Tigers,8.5,8.5,6,3,2016
+2016-08-04,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,8,6,2016
+2016-08-04,TEX,BAL,Texas Rangers,Baltimore Orioles,9.0,10.0,5,3,2016
+2016-08-04,TOR,HOU,Toronto Blue Jays,Houston Astros,8.5,8.5,4,1,2016
+2016-08-04,BOS,SEA,Boston Red Sox,Seattle Mariners,8.5,8.5,3,2,2016
+2016-08-04,NYM,NYY,New York Mets,New York Yankees,8.5,8.5,4,1,2016
+2016-08-05,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.0,8.0,2,3,2016
+2016-08-05,SFO,WAS,San Francisco Giants,Washington Nationals,8.5,8.5,1,5,2016
+2016-08-05,ATL,STL,Atlanta Braves,St. Louis Cardinals,8.5,8.5,0,1,2016
+2016-08-05,MIA,COL,Miami Marlins,Colorado Rockies,11.5,11.5,5,3,2016
+2016-08-05,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.5,9.5,2,3,2016
+2016-08-05,PHI,SDG,Philadelphia Phillies,San Diego Padres,8.0,8.0,5,4,2016
+2016-08-05,CLE,NYY,Cleveland Guardians,New York Yankees,8.5,8.0,7,13,2016
+2016-08-05,MIN,TAM,Minnesota Twins,Tampa Bay Rays,7.5,7.5,6,2,2016
+2016-08-05,BAL,CWS,Baltimore Orioles,Chicago White Sox,9.0,9.5,7,5,2016
+2016-08-05,TEX,HOU,Texas Rangers,Houston Astros,8.5,8.5,0,5,2016
+2016-08-05,TOR,KAN,Toronto Blue Jays,Kansas City Royals,9.0,9.0,4,3,2016
+2016-08-05,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,9.0,4,6,2016
+2016-08-05,NYM,DET,New York Mets,Detroit Tigers,7.5,7.5,3,4,2016
+2016-08-05,CUB,OAK,Chicago Cubs,Oakland Athletics,8.5,8.5,7,2,2016
+2016-08-05,BOS,LOS,Boston Red Sox,LOS,8.0,7.5,9,0,2016
+2016-08-06,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.5,8.5,3,5,2016
+2016-08-06,SFO,WAS,San Francisco Giants,Washington Nationals,8.0,8.5,7,1,2016
+2016-08-06,ATL,STL,Atlanta Braves,St. Louis Cardinals,8.5,9.0,13,5,2016
+2016-08-06,MIA,COL,Miami Marlins,Colorado Rockies,11.5,12.0,6,12,2016
+2016-08-06,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.5,9.5,15,6,2016
+2016-08-06,PHI,SDG,Philadelphia Phillies,San Diego Padres,8.5,8.5,7,9,2016
+2016-08-06,CLE,NYY,Cleveland Guardians,New York Yankees,8.0,8.5,5,2,2016
+2016-08-06,MIN,TAM,Minnesota Twins,Tampa Bay Rays,7.5,7.0,3,7,2016
+2016-08-06,BAL,CWS,Baltimore Orioles,Chicago White Sox,9.0,9.0,2,4,2016
+2016-08-06,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.0,3,2,2016
+2016-08-06,TOR,KAN,Toronto Blue Jays,Kansas City Royals,7.5,7.5,2,4,2016
+2016-08-06,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.0,7.5,6,8,2016
+2016-08-06,BOS,LOS,Boston Red Sox,LOS,8.5,9.0,0,3,2016
+2016-08-06,CUB,OAK,Chicago Cubs,Oakland Athletics,7.5,7.5,4,0,2016
+2016-08-06,NYM,DET,New York Mets,Detroit Tigers,9.5,9.5,5,6,2016
+2016-08-07,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,7.5,8.0,7,3,2016
+2016-08-07,SFO,WAS,San Francisco Giants,Washington Nationals,7.5,7.5,0,1,2016
+2016-08-07,ATL,STL,Atlanta Braves,St. Louis Cardinals,8.0,8.0,6,3,2016
+2016-08-07,MIA,COL,Miami Marlins,Colorado Rockies,11.0,10.5,10,7,2016
+2016-08-07,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.5,9.5,3,9,2016
+2016-08-07,PHI,SDG,Philadelphia Phillies,San Diego Padres,8.0,8.5,6,5,2016
+2016-08-07,CLE,NYY,Cleveland Guardians,New York Yankees,8.5,8.0,2,3,2016
+2016-08-07,MIN,TAM,Minnesota Twins,Tampa Bay Rays,8.0,8.0,6,3,2016
+2016-08-07,BAL,CWS,Baltimore Orioles,Chicago White Sox,9.5,9.0,10,2,2016
+2016-08-07,TEX,HOU,Texas Rangers,Houston Astros,8.0,7.5,5,3,2016
+2016-08-07,TOR,KAN,Toronto Blue Jays,Kansas City Royals,8.5,8.5,1,7,2016
+2016-08-07,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.0,7.5,1,3,2016
+2016-08-07,NYM,DET,New York Mets,Detroit Tigers,8.5,8.5,3,1,2016
+2016-08-07,CUB,OAK,Chicago Cubs,Oakland Athletics,8.0,8.0,3,1,2016
+2016-08-07,BOS,LOS,Boston Red Sox,LOS,7.0,7.0,5,8,2016
+2016-08-08,SFO,MIA,San Francisco Giants,Miami Marlins,6.5,6.5,8,7,2016
+2016-08-08,ATL,MIL,Atlanta Braves,Milwaukee Brewers,9.0,8.5,4,3,2016
+2016-08-08,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,8.5,4,5,2016
+2016-08-08,PHI,LOS,Philadelphia Phillies,LOS,8.0,8.0,4,9,2016
+2016-08-08,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,5,7,2016
+2016-08-08,HOU,MIN,Houston Astros,Minnesota Twins,9.0,8.5,1,3,2016
+2016-08-08,BAL,OAK,Baltimore Orioles,Oakland Athletics,8.5,8.0,2,3,2016
+2016-08-08,DET,SEA,Detroit Tigers,Seattle Mariners,7.5,7.5,0,3,2016
+2016-08-08,TEX,COL,Texas Rangers,Colorado Rockies,10.5,10.5,4,3,2016
+2016-08-09,SDG,PIT,San Diego Padres,Pittsburgh Pirates,8.5,9.0,4,6,2016
+2016-08-09,SFO,MIA,San Francisco Giants,Miami Marlins,8.0,8.5,0,2,2016
+2016-08-09,ARI,NYM,Arizona Diamondbacks,New York Mets,7.0,7.0,5,3,2016
+2016-08-09,ATL,MIL,Atlanta Braves,Milwaukee Brewers,9.0,10.0,2,1,2016
+2016-08-09,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,9.0,7,4,2016
+2016-08-09,PHI,LOS,Philadelphia Phillies,LOS,7.0,7.0,3,9,2016
+2016-08-09,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,9,2,2016
+2016-08-09,NYY,BOS,New York Yankees,Boston Red Sox,9.5,9.0,3,5,2016
+2016-08-09,HOU,MIN,Houston Astros,Minnesota Twins,9.0,9.0,7,5,2016
+2016-08-09,CWS,KAN,Chicago White Sox,Kansas City Royals,7.5,7.5,7,5,2016
+2016-08-09,BAL,OAK,Baltimore Orioles,Oakland Athletics,8.5,9.0,1,2,2016
+2016-08-09,DET,SEA,Detroit Tigers,Seattle Mariners,8.5,8.5,5,6,2016
+2016-08-09,TEX,COL,Texas Rangers,Colorado Rockies,11.5,12.5,7,5,2016
+2016-08-09,CLE,WAS,Cleveland Guardians,Washington Nationals,7.5,7.0,3,1,2016
+2016-08-09,LAA,CUB,Los Angeles Angels,Chicago Cubs,9.0,9.0,1,5,2016
+2016-08-10,SFO,MIA,San Francisco Giants,Miami Marlins,8.5,7.5,1,0,2016
+2016-08-10,PHI,LOS,Philadelphia Phillies,LOS,8.0,7.5,6,2,2016
+2016-08-10,SDG,PIT,San Diego Padres,Pittsburgh Pirates,9.0,9.5,4,0,2016
+2016-08-10,ARI,NYM,Arizona Diamondbacks,New York Mets,7.5,7.5,3,2,2016
+2016-08-10,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.0,2,3,2016
+2016-08-10,ATL,MIL,Atlanta Braves,Milwaukee Brewers,9.0,9.5,3,4,2016
+2016-08-10,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,8.5,0,7,2016
+2016-08-10,NYY,BOS,New York Yankees,Boston Red Sox,9.5,9.5,9,4,2016
+2016-08-10,CWS,KAN,Chicago White Sox,Kansas City Royals,8.0,8.0,2,3,2016
+2016-08-10,BAL,OAK,Baltimore Orioles,Oakland Athletics,9.0,9.0,0,1,2016
+2016-08-10,DET,SEA,Detroit Tigers,Seattle Mariners,7.5,7.0,1,3,2016
+2016-08-10,CLE,WAS,Cleveland Guardians,Washington Nationals,8.5,8.0,4,7,2016
+2016-08-10,LAA,CUB,Los Angeles Angels,Chicago Cubs,8.5,9.0,1,3,2016
+2016-08-10,COL,TEX,Colorado Rockies,Texas Rangers,10.0,10.5,4,5,2016
+2016-08-11,ARI,NYM,Arizona Diamondbacks,New York Mets,7.5,7.5,9,0,2016
+2016-08-11,SDG,PIT,San Diego Padres,Pittsburgh Pirates,8.5,8.5,0,4,2016
+2016-08-11,ATL,MIL,Atlanta Braves,Milwaukee Brewers,9.0,9.5,3,11,2016
+2016-08-11,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.0,9.0,3,4,2016
+2016-08-11,HOU,MIN,Houston Astros,Minnesota Twins,9.0,9.0,15,7,2016
+2016-08-11,BAL,OAK,Baltimore Orioles,Oakland Athletics,8.5,8.0,9,6,2016
+2016-08-11,NYY,BOS,New York Yankees,Boston Red Sox,9.0,9.0,4,2,2016
+2016-08-11,LAA,CLE,Los Angeles Angels,Cleveland Guardians,8.0,8.5,4,14,2016
+2016-08-11,CWS,KAN,Chicago White Sox,Kansas City Royals,8.0,7.5,1,2,2016
+2016-08-11,COL,TEX,Colorado Rockies,Texas Rangers,10.5,10.5,12,9,2016
+2016-08-11,HOU,MIN,Houston Astros,Minnesota Twins,9.0,9.5,10,2,2016
+2016-08-12,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.5,8.0,2,13,2016
+2016-08-12,ATL,WAS,Atlanta Braves,Washington Nationals,7.5,7.5,8,5,2016
+2016-08-12,COL,PHI,Colorado Rockies,Philadelphia Phillies,8.5,8.5,6,10,2016
+2016-08-12,SDG,NYM,San Diego Padres,New York Mets,8.5,9.0,8,6,2016
+2016-08-12,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.5,7,4,2016
+2016-08-12,PIT,LOS,Pittsburgh Pirates,LOS,8.0,8.0,5,1,2016
+2016-08-12,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.5,3,6,2016
+2016-08-12,HOU,TOR,Houston Astros,Toronto Blue Jays,9.0,9.0,5,3,2016
+2016-08-12,LAA,CLE,Los Angeles Angels,Cleveland Guardians,8.0,8.0,3,13,2016
+2016-08-12,DET,TEX,Detroit Tigers,Texas Rangers,9.5,9.0,5,8,2016
+2016-08-12,KAN,MIN,Kansas City Royals,Minnesota Twins,8.5,8.5,7,3,2016
+2016-08-12,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.0,3,6,2016
+2016-08-12,CWS,MIA,Chicago White Sox,Miami Marlins,8.5,7.5,4,2,2016
+2016-08-12,ARI,BOS,Arizona Diamondbacks,Boston Red Sox,9.5,9.5,4,9,2016
+2016-08-12,BAL,SFO,Baltimore Orioles,San Francisco Giants,8.0,7.5,5,2,2016
+2016-08-13,STL,CUB,St. Louis Cardinals,Chicago Cubs,8.5,9.0,8,4,2016
+2016-08-13,PIT,LOS,Pittsburgh Pirates,LOS,7.5,7.5,4,8,2016
+2016-08-13,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,9.0,6,7,2016
+2016-08-13,COL,PHI,Colorado Rockies,Philadelphia Phillies,8.0,8.0,3,6,2016
+2016-08-13,SDG,NYM,San Diego Padres,New York Mets,7.0,7.5,2,3,2016
+2016-08-13,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.5,11,5,2016
+2016-08-13,TAM,NYY,Tampa Bay Rays,New York Yankees,8.0,8.0,4,8,2016
+2016-08-13,HOU,TOR,Houston Astros,Toronto Blue Jays,8.5,8.0,2,4,2016
+2016-08-13,KAN,MIN,Kansas City Royals,Minnesota Twins,9.0,9.0,3,5,2016
+2016-08-13,LAA,CLE,Los Angeles Angels,Cleveland Guardians,9.0,9.0,1,5,2016
+2016-08-13,DET,TEX,Detroit Tigers,Texas Rangers,9.5,9.5,2,0,2016
+2016-08-13,SEA,OAK,Seattle Mariners,Oakland Athletics,7.5,8.0,4,3,2016
+2016-08-13,CWS,MIA,Chicago White Sox,Miami Marlins,9.0,8.5,8,7,2016
+2016-08-13,ARI,BOS,Arizona Diamondbacks,Boston Red Sox,10.0,10.5,3,6,2016
+2016-08-13,BAL,SFO,Baltimore Orioles,San Francisco Giants,7.0,6.5,2,6,2016
+2016-08-14,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.0,8.5,6,4,2016
+2016-08-14,SDG,NYM,San Diego Padres,New York Mets,8.5,8.5,1,5,2016
+2016-08-14,COL,PHI,Colorado Rockies,Philadelphia Phillies,9.0,9.0,6,7,2016
+2016-08-14,ATL,WAS,Atlanta Braves,Washington Nationals,8.5,9.0,1,9,2016
+2016-08-14,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.5,9.5,3,7,2016
+2016-08-14,PIT,LOS,Pittsburgh Pirates,LOS,8.5,8.5,11,3,2016
+2016-08-14,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.5,12,3,2016
+2016-08-14,HOU,TOR,Houston Astros,Toronto Blue Jays,9.0,8.5,2,9,2016
+2016-08-14,LAA,CLE,Los Angeles Angels,Cleveland Guardians,9.5,9.5,4,5,2016
+2016-08-14,KAN,MIN,Kansas City Royals,Minnesota Twins,9.0,9.0,11,4,2016
+2016-08-14,DET,TEX,Detroit Tigers,Texas Rangers,9.5,9.5,7,0,2016
+2016-08-14,SEA,OAK,Seattle Mariners,Oakland Athletics,9.0,9.0,8,4,2016
+2016-08-14,CWS,MIA,Chicago White Sox,Miami Marlins,7.0,7.0,4,5,2016
+2016-08-14,ARI,BOS,Arizona Diamondbacks,Boston Red Sox,9.0,9.5,2,16,2016
+2016-08-14,BAL,SFO,Baltimore Orioles,San Francisco Giants,7.5,7.5,8,7,2016
+2016-08-15,MIA,CIN,Miami Marlins,Cincinnati Reds,8.5,8.5,6,3,2016
+2016-08-15,WAS,COL,Washington Nationals,Colorado Rockies,9.5,11.0,5,4,2016
+2016-08-15,NYM,ARI,New York Mets,Arizona Diamondbacks,9.0,9.0,6,10,2016
+2016-08-15,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,7.5,8.0,8,5,2016
+2016-08-15,BOS,CLE,Boston Red Sox,Cleveland Guardians,9.0,9.0,3,2,2016
+2016-08-15,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,9.5,0,1,2016
+2016-08-15,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,8.5,3,1,2016
+2016-08-15,OAK,TEX,Oakland Athletics,Texas Rangers,10.0,10.5,2,5,2016
+2016-08-15,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.0,9.0,3,2,2016
+2016-08-15,SDG,TAM,San Diego Padres,Tampa Bay Rays,8.0,8.0,2,8,2016
+2016-08-16,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,9.0,0,4,2016
+2016-08-16,LOS,PHI,LOS,Philadelphia Phillies,8.0,8.5,15,5,2016
+2016-08-16,MIA,CIN,Miami Marlins,Cincinnati Reds,8.5,8.5,3,6,2016
+2016-08-16,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,8.5,1,4,2016
+2016-08-16,WAS,COL,Washington Nationals,Colorado Rockies,11.5,12.0,2,6,2016
+2016-08-16,NYM,ARI,New York Mets,Arizona Diamondbacks,8.5,8.5,7,5,2016
+2016-08-16,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,7.5,7.0,4,3,2016
+2016-08-16,TOR,NYY,Toronto Blue Jays,New York Yankees,8.5,8.0,12,6,2016
+2016-08-16,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.0,9.5,5,3,2016
+2016-08-16,KAN,DET,Kansas City Royals,Detroit Tigers,7.5,7.0,6,1,2016
+2016-08-16,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.5,7.0,1,3,2016
+2016-08-16,OAK,TEX,Oakland Athletics,Texas Rangers,10.5,10.5,4,5,2016
+2016-08-16,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.0,9.5,6,7,2016
+2016-08-16,MIN,ATL,Minnesota Twins,Atlanta Braves,8.0,8.5,4,2,2016
+2016-08-16,SDG,TAM,San Diego Padres,Tampa Bay Rays,8.0,8.0,1,15,2016
+2016-08-16,STL,HOU,St. Louis Cardinals,Houston Astros,8.5,7.5,8,5,2016
+2016-08-17,WAS,COL,Washington Nationals,Colorado Rockies,10.5,10.5,10,12,2016
+2016-08-17,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.0,8.5,6,5,2016
+2016-08-17,LOS,PHI,LOS,Philadelphia Phillies,9.0,9.0,7,2,2016
+2016-08-17,MIA,CIN,Miami Marlins,Cincinnati Reds,9.0,8.5,2,3,2016
+2016-08-17,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,9.0,1,6,2016
+2016-08-17,NYM,ARI,New York Mets,Arizona Diamondbacks,9.5,10.0,5,13,2016
+2016-08-17,TOR,NYY,Toronto Blue Jays,New York Yankees,9.0,9.0,7,4,2016
+2016-08-17,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,8.5,8,1,2016
+2016-08-17,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.0,9.0,10,7,2016
+2016-08-17,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,8.0,4,1,2016
+2016-08-17,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,8.5,2,6,2016
+2016-08-17,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,4,3,2016
+2016-08-17,SDG,TAM,San Diego Padres,Tampa Bay Rays,8.0,7.5,0,2,2016
+2016-08-17,STL,HOU,St. Louis Cardinals,Houston Astros,8.0,8.0,8,2,2016
+2016-08-17,MIN,ATL,Minnesota Twins,Atlanta Braves,8.5,8.5,10,3,2016
+2016-08-18,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,8.0,6,9,2016
+2016-08-18,LOS,PHI,LOS,Philadelphia Phillies,8.5,9.0,4,5,2016
+2016-08-18,MIA,CIN,Miami Marlins,Cincinnati Reds,7.5,7.0,4,5,2016
+2016-08-18,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,9.0,8,2,2016
+2016-08-18,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,9.0,8,9,2016
+2016-08-18,NYM,SFO,New York Mets,San Francisco Giants,6.5,6.0,7,10,2016
+2016-08-18,BOS,DET,Boston Red Sox,Detroit Tigers,9.0,10.0,3,4,2016
+2016-08-18,HOU,BAL,Houston Astros,Baltimore Orioles,8.5,8.5,5,13,2016
+2016-08-18,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.5,4,5,2016
+2016-08-18,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,9.5,1,8,2016
+2016-08-18,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.0,8.0,4,6,2016
+2016-08-19,MIA,PIT,Miami Marlins,Pittsburgh Pirates,7.5,7.5,6,5,2016
+2016-08-19,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,9.0,9.0,4,3,2016
+2016-08-19,LOS,CIN,LOS,Cincinnati Reds,9.5,9.5,2,9,2016
+2016-08-19,WAS,ATL,Washington Nationals,Atlanta Braves,7.5,7.5,7,6,2016
+2016-08-19,CUB,COL,Chicago Cubs,Colorado Rockies,11.0,10.0,6,7,2016
+2016-08-19,NYM,SFO,New York Mets,San Francisco Giants,7.0,7.5,1,8,2016
+2016-08-19,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,8.0,4,7,2016
+2016-08-19,HOU,BAL,Houston Astros,Baltimore Orioles,9.0,10.0,15,8,2016
+2016-08-19,TEX,TAM,Texas Rangers,Tampa Bay Rays,7.5,7.5,6,2,2016
+2016-08-19,BOS,DET,Boston Red Sox,Detroit Tigers,8.5,9.0,10,2,2016
+2016-08-19,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,9.5,8.5,2,3,2016
+2016-08-19,OAK,CWS,Oakland Athletics,Chicago White Sox,9.5,9.5,9,0,2016
+2016-08-19,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,9.0,4,5,2016
+2016-08-19,NYY,LAA,New York Yankees,Los Angeles Angels,8.0,8.5,7,0,2016
+2016-08-19,MIL,SEA,Milwaukee Brewers,Seattle Mariners,9.0,9.0,6,7,2016
+2016-08-20,NYM,SFO,New York Mets,San Francisco Giants,8.0,8.5,9,5,2016
+2016-08-20,MIA,PIT,Miami Marlins,Pittsburgh Pirates,8.0,8.5,3,1,2016
+2016-08-20,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,8.5,8.5,2,4,2016
+2016-08-20,WAS,ATL,Washington Nationals,Atlanta Braves,7.5,8.5,11,9,2016
+2016-08-20,LOS,CIN,LOS,Cincinnati Reds,9.5,9.0,1,11,2016
+2016-08-20,CUB,COL,Chicago Cubs,Colorado Rockies,12.0,12.0,9,2,2016
+2016-08-20,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,2,1,2016
+2016-08-20,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.0,8.0,2,8,2016
+2016-08-20,HOU,BAL,Houston Astros,Baltimore Orioles,9.5,9.0,12,2,2016
+2016-08-20,BOS,DET,Boston Red Sox,Detroit Tigers,9.0,9.5,3,2,2016
+2016-08-20,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,8.5,8.5,6,5,2016
+2016-08-20,OAK,CWS,Oakland Athletics,Chicago White Sox,8.5,9.0,2,6,2016
+2016-08-20,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,8.5,0,10,2016
+2016-08-20,NYY,LAA,New York Yankees,Los Angeles Angels,9.0,9.0,5,1,2016
+2016-08-20,MIL,SEA,Milwaukee Brewers,Seattle Mariners,8.0,8.5,2,8,2016
+2016-08-21,LOS,CIN,LOS,Cincinnati Reds,9.0,8.5,4,0,2016
+2016-08-21,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,8.5,8.5,9,0,2016
+2016-08-21,WAS,ATL,Washington Nationals,Atlanta Braves,8.5,8.5,6,7,2016
+2016-08-21,MIA,PIT,Miami Marlins,Pittsburgh Pirates,9.0,9.5,3,2,2016
+2016-08-21,NYM,SFO,New York Mets,San Francisco Giants,7.5,7.5,2,0,2016
+2016-08-21,CUB,COL,Chicago Cubs,Colorado Rockies,11.0,13.0,4,11,2016
+2016-08-21,ARI,SDG,Arizona Diamondbacks,San Diego Padres,9.0,8.5,1,9,2016
+2016-08-21,BOS,DET,Boston Red Sox,Detroit Tigers,9.0,9.5,5,10,2016
+2016-08-21,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,7.5,7.5,2,3,2016
+2016-08-21,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.5,8.5,4,8,2016
+2016-08-21,HOU,BAL,Houston Astros,Baltimore Orioles,9.5,9.5,5,3,2016
+2016-08-21,OAK,CWS,Oakland Athletics,Chicago White Sox,8.5,8.5,2,4,2016
+2016-08-21,MIN,KAN,Minnesota Twins,Kansas City Royals,7.5,7.5,1,2,2016
+2016-08-21,NYY,LAA,New York Yankees,Los Angeles Angels,9.0,9.0,0,2,2016
+2016-08-21,MIL,SEA,Milwaukee Brewers,Seattle Mariners,9.0,9.0,7,6,2016
+2016-08-22,LOS,CIN,LOS,Cincinnati Reds,9.0,8.5,18,9,2016
+2016-08-22,COL,MIL,Colorado Rockies,Milwaukee Brewers,9.0,9.0,2,4,2016
+2016-08-22,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.5,10.0,8,9,2016
+2016-08-22,CUB,SDG,Chicago Cubs,San Diego Padres,8.0,8.0,5,1,2016
+2016-08-22,BOS,TAM,Boston Red Sox,Tampa Bay Rays,7.5,7.5,6,2,2016
+2016-08-22,CLE,OAK,Cleveland Guardians,Oakland Athletics,8.0,7.0,1,0,2016
+2016-08-22,NYY,SEA,New York Yankees,Seattle Mariners,8.5,8.0,5,7,2016
+2016-08-22,HOU,PIT,Houston Astros,Pittsburgh Pirates,8.0,7.5,3,1,2016
+2016-08-22,WAS,BAL,Washington Nationals,Baltimore Orioles,9.0,9.5,3,4,2016
+2016-08-23,COL,MIL,Colorado Rockies,Milwaukee Brewers,9.0,9.0,4,6,2016
+2016-08-23,NYM,STL,New York Mets,St. Louis Cardinals,8.5,8.5,7,4,2016
+2016-08-23,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.5,9.5,7,4,2016
+2016-08-23,CUB,SDG,Chicago Cubs,San Diego Padres,7.5,8.0,5,3,2016
+2016-08-23,SFO,LOS,San Francisco Giants,LOS,7.0,6.5,5,9,2016
+2016-08-23,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,9.5,9.0,2,7,2016
+2016-08-23,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,8.0,2,1,2016
+2016-08-23,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.5,8,3,2016
+2016-08-23,CLE,OAK,Cleveland Guardians,Oakland Athletics,7.5,8.0,1,9,2016
+2016-08-23,NYY,SEA,New York Yankees,Seattle Mariners,8.0,8.0,5,1,2016
+2016-08-23,HOU,PIT,Houston Astros,Pittsburgh Pirates,8.5,8.5,1,7,2016
+2016-08-23,WAS,BAL,Washington Nationals,Baltimore Orioles,9.5,9.5,1,8,2016
+2016-08-23,TEX,CIN,Texas Rangers,Cincinnati Reds,9.0,9.0,0,3,2016
+2016-08-23,KAN,MIA,Kansas City Royals,Miami Marlins,8.0,7.5,1,0,2016
+2016-08-23,PHI,CWS,Philadelphia Phillies,Chicago White Sox,9.5,9.0,1,9,2016
+2016-08-24,COL,MIL,Colorado Rockies,Milwaukee Brewers,8.5,8.0,1,7,2016
+2016-08-24,CUB,SDG,Chicago Cubs,San Diego Padres,8.0,8.5,6,3,2016
+2016-08-24,NYM,STL,New York Mets,St. Louis Cardinals,7.5,7.5,1,8,2016
+2016-08-24,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,8.5,8.0,9,10,2016
+2016-08-24,SFO,LOS,San Francisco Giants,LOS,7.0,7.0,0,1,2016
+2016-08-24,CLE,OAK,Cleveland Guardians,Oakland Athletics,8.0,7.5,1,5,2016
+2016-08-24,NYY,SEA,New York Yankees,Seattle Mariners,7.0,7.0,5,0,2016
+2016-08-24,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,8.5,8.5,8,2,2016
+2016-08-24,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,8.0,3,4,2016
+2016-08-24,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.5,9,4,2016
+2016-08-24,HOU,PIT,Houston Astros,Pittsburgh Pirates,7.5,7.5,5,4,2016
+2016-08-24,BAL,WAS,Baltimore Orioles,Washington Nationals,8.5,8.5,10,8,2016
+2016-08-24,KAN,MIA,Kansas City Royals,Miami Marlins,7.0,7.0,0,3,2016
+2016-08-24,TEX,CIN,Texas Rangers,Cincinnati Reds,8.5,8.5,6,5,2016
+2016-08-24,PHI,CWS,Philadelphia Phillies,Chicago White Sox,9.5,9.5,5,3,2016
+2016-08-25,NYM,STL,New York Mets,St. Louis Cardinals,8.5,8.5,10,6,2016
+2016-08-25,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.5,3,2,2016
+2016-08-25,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.5,9.0,3,1,2016
+2016-08-25,SFO,LOS,San Francisco Giants,LOS,8.5,8.0,4,0,2016
+2016-08-25,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,10.0,8,5,2016
+2016-08-25,BOS,TAM,Boston Red Sox,Tampa Bay Rays,7.5,7.0,1,2,2016
+2016-08-25,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,9.5,10.0,6,3,2016
+2016-08-25,CLE,TEX,Cleveland Guardians,Texas Rangers,9.0,9.0,0,9,2016
+2016-08-25,SEA,CWS,Seattle Mariners,Chicago White Sox,9.5,9.5,6,7,2016
+2016-08-25,BAL,WAS,Baltimore Orioles,Washington Nationals,8.5,8.5,0,4,2016
+2016-08-25,KAN,MIA,Kansas City Royals,Miami Marlins,8.0,7.5,5,2,2016
+2016-08-26,COL,WAS,Colorado Rockies,Washington Nationals,9.0,9.0,5,8,2016
+2016-08-26,SDG,MIA,San Diego Padres,Miami Marlins,7.5,7.5,6,7,2016
+2016-08-26,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,8.0,4,9,2016
+2016-08-26,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.5,9.0,5,3,2016
+2016-08-26,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,10.0,10.5,3,4,2016
+2016-08-26,CUB,LOS,Chicago Cubs,LOS,8.5,8.0,6,4,2016
+2016-08-26,ATL,SFO,Atlanta Braves,San Francisco Giants,8.0,8.5,0,7,2016
+2016-08-26,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,10.0,4,14,2016
+2016-08-26,MIN,TOR,Minnesota Twins,Toronto Blue Jays,10.0,10.0,8,15,2016
+2016-08-26,KAN,BOS,Kansas City Royals,Boston Red Sox,9.0,9.0,6,3,2016
+2016-08-26,LAA,DET,Los Angeles Angels,Detroit Tigers,8.5,9.0,2,4,2016
+2016-08-26,CLE,TEX,Cleveland Guardians,Texas Rangers,9.0,8.5,12,1,2016
+2016-08-26,TAM,HOU,Tampa Bay Rays,Houston Astros,8.5,8.0,4,5,2016
+2016-08-26,SEA,CWS,Seattle Mariners,Chicago White Sox,8.0,7.5,3,1,2016
+2016-08-26,OAK,STL,Oakland Athletics,St. Louis Cardinals,9.0,9.0,1,3,2016
+2016-08-27,COL,WAS,Colorado Rockies,Washington Nationals,9.0,10.0,9,4,2016
+2016-08-27,CUB,LOS,Chicago Cubs,LOS,7.5,8.5,2,3,2016
+2016-08-27,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,8.5,9,6,2016
+2016-08-27,PHI,NYM,Philadelphia Phillies,New York Mets,7.0,7.0,1,12,2016
+2016-08-27,SDG,MIA,San Diego Padres,Miami Marlins,8.5,8.5,1,0,2016
+2016-08-27,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,9.5,9.0,13,0,2016
+2016-08-27,ATL,SFO,Atlanta Braves,San Francisco Giants,8.0,8.5,3,1,2016
+2016-08-27,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,9.0,5,13,2016
+2016-08-27,MIN,TOR,Minnesota Twins,Toronto Blue Jays,9.0,8.5,7,8,2016
+2016-08-27,KAN,BOS,Kansas City Royals,Boston Red Sox,8.5,8.0,3,8,2016
+2016-08-27,LAA,DET,Los Angeles Angels,Detroit Tigers,9.0,9.0,3,2,2016
+2016-08-27,TAM,HOU,Tampa Bay Rays,Houston Astros,8.0,7.5,2,6,2016
+2016-08-27,SEA,CWS,Seattle Mariners,Chicago White Sox,8.5,8.5,3,9,2016
+2016-08-27,CLE,TEX,Cleveland Guardians,Texas Rangers,9.5,9.0,0,7,2016
+2016-08-27,OAK,STL,Oakland Athletics,St. Louis Cardinals,8.5,8.5,3,2,2016
+2016-08-28,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,8.5,5,1,2016
+2016-08-28,SDG,MIA,San Diego Padres,Miami Marlins,8.5,8.5,3,1,2016
+2016-08-28,COL,WAS,Colorado Rockies,Washington Nationals,9.0,9.5,5,3,2016
+2016-08-28,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.0,3,1,2016
+2016-08-28,ATL,SFO,Atlanta Braves,San Francisco Giants,7.5,8.0,4,13,2016
+2016-08-28,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,9.5,9.5,2,11,2016
+2016-08-28,CUB,LOS,Chicago Cubs,LOS,8.5,8.0,0,1,2016
+2016-08-28,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,9.0,5,0,2016
+2016-08-28,MIN,TOR,Minnesota Twins,Toronto Blue Jays,9.5,10.5,6,9,2016
+2016-08-28,LAA,DET,Los Angeles Angels,Detroit Tigers,9.5,9.5,5,0,2016
+2016-08-28,KAN,BOS,Kansas City Royals,Boston Red Sox,9.0,9.0,10,4,2016
+2016-08-28,TAM,HOU,Tampa Bay Rays,Houston Astros,8.0,7.5,10,4,2016
+2016-08-28,SEA,CWS,Seattle Mariners,Chicago White Sox,9.5,9.0,1,4,2016
+2016-08-28,CLE,TEX,Cleveland Guardians,Texas Rangers,9.5,10.0,1,2,2016
+2016-08-28,OAK,STL,Oakland Athletics,St. Louis Cardinals,8.0,8.5,7,4,2016
+2016-08-29,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.0,9.0,4,0,2016
+2016-08-29,MIA,NYM,Miami Marlins,New York Mets,7.0,7.5,1,2,2016
+2016-08-29,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,8.0,6,5,2016
+2016-08-29,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.5,8.5,7,8,2016
+2016-08-29,LOS,COL,LOS,Colorado Rockies,11.0,10.5,1,8,2016
+2016-08-29,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,11.0,5,1,2016
+2016-08-29,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.5,4,9,2016
+2016-08-29,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,0,1,2016
+2016-08-29,CWS,DET,Chicago White Sox,Detroit Tigers,10.0,10.0,3,4,2016
+2016-08-29,SEA,TEX,Seattle Mariners,Texas Rangers,8.5,8.5,3,6,2016
+2016-08-29,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,0,6,2016
+2016-08-29,NYY,KAN,New York Yankees,Kansas City Royals,8.5,8.0,5,8,2016
+2016-08-29,CIN,LAA,Cincinnati Reds,Los Angeles Angels,8.0,8.0,2,9,2016
+2016-08-30,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.0,7.5,3,2,2016
+2016-08-30,MIA,NYM,Miami Marlins,New York Mets,8.0,7.5,4,7,2016
+2016-08-30,SDG,ATL,San Diego Padres,Atlanta Braves,8.0,8.5,3,7,2016
+2016-08-30,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.5,8.0,0,3,2016
+2016-08-30,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.5,2,1,2016
+2016-08-30,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,6.5,7.0,4,3,2016
+2016-08-30,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,10.0,3,5,2016
+2016-08-30,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.5,4,3,2016
+2016-08-30,CWS,DET,Chicago White Sox,Detroit Tigers,10.0,10.0,4,8,2016
+2016-08-30,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.5,10.0,4,5,2016
+2016-08-30,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,8.5,7,8,2016
+2016-08-30,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.0,1,3,2016
+2016-08-30,NYY,KAN,New York Yankees,Kansas City Royals,7.5,7.5,5,4,2016
+2016-08-30,CIN,LAA,Cincinnati Reds,Los Angeles Angels,9.0,9.5,2,4,2016
+2016-08-31,LOS,COL,LOS,Colorado Rockies,12.0,11.0,0,7,2016
+2016-08-31,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,8.5,2,4,2016
+2016-08-31,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.0,9.5,2,1,2016
+2016-08-31,MIA,NYM,Miami Marlins,New York Mets,7.5,8.5,2,5,2016
+2016-08-31,SDG,ATL,San Diego Padres,Atlanta Braves,8.5,9.0,1,8,2016
+2016-08-31,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.5,8.5,5,6,2016
+2016-08-31,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.0,1,3,2016
+2016-08-31,CWS,DET,Chicago White Sox,Detroit Tigers,7.5,7.5,2,3,2016
+2016-08-31,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,10.0,6,8,2016
+2016-08-31,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,9.5,1,14,2016
+2016-08-31,OAK,HOU,Oakland Athletics,Houston Astros,8.5,9.0,3,4,2016
+2016-08-31,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,9.5,5,3,2016
+2016-08-31,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.0,9.0,4,8,2016
+2016-08-31,NYY,KAN,New York Yankees,Kansas City Royals,8.5,8.0,5,4,2016
+2016-08-31,CIN,LAA,Cincinnati Reds,Los Angeles Angels,9.0,8.5,0,3,2016
+2016-08-31,LOS,COL,LOS,Colorado Rockies,11.5,12.0,10,8,2016
+2016-09-01,SDG,ATL,San Diego Padres,Atlanta Braves,8.5,9.0,6,9,2016
+2016-09-01,MIA,NYM,Miami Marlins,New York Mets,7.5,7.5,6,4,2016
+2016-09-01,SFO,CUB,San Francisco Giants,Chicago Cubs,7.5,8.0,4,5,2016
+2016-09-01,CWS,MIN,Chicago White Sox,Minnesota Twins,8.0,8.0,5,8,2016
+2016-09-02,SFO,CUB,San Francisco Giants,Chicago Cubs,8.0,8.0,1,2,2016
+2016-09-02,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,7.0,1,0,2016
+2016-09-02,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,8.5,4,4,2016
+2016-09-02,WAS,NYM,Washington Nationals,New York Mets,7.5,7.5,2,1,2016
+2016-09-02,STL,CIN,St. Louis Cardinals,Cincinnati Reds,8.5,8.0,2,3,2016
+2016-09-02,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,11.5,7,14,2016
+2016-09-02,SDG,LOS,San Diego Padres,LOS,7.5,7.5,4,2,2016
+2016-09-02,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,0,8,2016
+2016-09-02,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.0,3,8,2016
+2016-09-02,HOU,TEX,Houston Astros,Texas Rangers,9.5,9.5,8,10,2016
+2016-09-02,CWS,MIN,Chicago White Sox,Minnesota Twins,9.0,8.5,11,4,2016
+2016-09-02,DET,KAN,Detroit Tigers,Kansas City Royals,8.0,7.5,7,6,2016
+2016-09-02,BOS,OAK,Boston Red Sox,Oakland Athletics,7.5,7.5,16,2,2016
+2016-09-02,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,9.0,8,11,2016
+2016-09-02,MIA,CLE,Miami Marlins,Cleveland Guardians,8.5,7.5,2,6,2016
+2016-09-03,SFO,CUB,San Francisco Giants,Chicago Cubs,7.0,7.0,3,2,2016
+2016-09-03,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.0,1,9,2016
+2016-09-03,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,8.0,6,4,2016
+2016-09-03,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,8.0,7,4,2016
+2016-09-03,WAS,NYM,Washington Nationals,New York Mets,8.0,8.0,1,3,2016
+2016-09-03,ARI,COL,Arizona Diamondbacks,Colorado Rockies,12.0,13.0,9,4,2016
+2016-09-03,SDG,LOS,San Diego Padres,LOS,7.5,7.5,1,5,2016
+2016-09-03,HOU,TEX,Houston Astros,Texas Rangers,9.0,10.0,4,12,2016
+2016-09-03,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,8.5,5,7,2016
+2016-09-03,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,8.5,0,2,2016
+2016-09-03,CWS,MIN,Chicago White Sox,Minnesota Twins,10.0,10.0,3,11,2016
+2016-09-03,DET,KAN,Detroit Tigers,Kansas City Royals,8.0,8.0,2,5,2016
+2016-09-03,BOS,OAK,Boston Red Sox,Oakland Athletics,8.5,8.0,11,2,2016
+2016-09-03,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,8.5,10,3,2016
+2016-09-03,MIA,CLE,Miami Marlins,Cleveland Guardians,7.5,7.0,3,8,2016
+2016-09-04,STL,CIN,St. Louis Cardinals,Cincinnati Reds,8.5,8.5,5,2,2016
+2016-09-04,WAS,NYM,Washington Nationals,New York Mets,7.0,8.0,1,5,2016
+2016-09-04,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,8.0,2,0,2016
+2016-09-04,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,9.0,10,0,2016
+2016-09-04,SFO,CUB,San Francisco Giants,Chicago Cubs,8.0,8.0,2,3,2016
+2016-09-04,SDG,LOS,San Diego Padres,LOS,8.0,8.0,4,7,2016
+2016-09-04,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,12.5,8,5,2016
+2016-09-04,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.5,7.0,5,3,2016
+2016-09-04,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,4,2,2016
+2016-09-04,CWS,MIN,Chicago White Sox,Minnesota Twins,10.0,10.5,13,11,2016
+2016-09-04,DET,KAN,Detroit Tigers,Kansas City Royals,8.5,9.0,6,5,2016
+2016-09-04,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,7,6,2016
+2016-09-04,BOS,OAK,Boston Red Sox,Oakland Athletics,8.5,8.5,0,1,2016
+2016-09-04,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.0,8.0,4,2,2016
+2016-09-04,MIA,CLE,Miami Marlins,Cleveland Guardians,8.5,8.5,5,6,2016
+2016-09-05,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.5,8.0,6,2,2016
+2016-09-05,NYM,CIN,New York Mets,Cincinnati Reds,9.0,9.0,5,0,2016
+2016-09-05,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.0,8.0,7,2,2016
+2016-09-05,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,8.5,12,6,2016
+2016-09-05,ATL,WAS,Atlanta Braves,Washington Nationals,7.5,7.5,4,6,2016
+2016-09-05,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,13.0,0,6,2016
+2016-09-05,ARI,LOS,Arizona Diamondbacks,LOS,7.0,7.5,2,10,2016
+2016-09-05,TOR,NYY,Toronto Blue Jays,New York Yankees,8.5,8.5,3,5,2016
+2016-09-05,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,9.0,8.5,7,3,2016
+2016-09-05,KAN,MIN,Kansas City Royals,Minnesota Twins,9.0,9.0,11,5,2016
+2016-09-05,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.0,10,7,2016
+2016-09-05,DET,CWS,Detroit Tigers,Chicago White Sox,7.5,8.0,5,3,2016
+2016-09-05,TEX,SEA,Texas Rangers,Seattle Mariners,7.5,7.5,6,14,2016
+2016-09-05,HOU,CLE,Houston Astros,Cleveland Guardians,8.5,9.0,6,2,2016
+2016-09-05,BOS,SDG,Boston Red Sox,San Diego Padres,8.0,8.0,1,2,2016
+2016-09-06,ATL,WAS,Atlanta Braves,Washington Nationals,8.5,9.0,7,9,2016
+2016-09-06,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,8.5,9,7,2016
+2016-09-06,NYM,CIN,New York Mets,Cincinnati Reds,9.0,9.0,5,3,2016
+2016-09-06,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.5,8.0,4,3,2016
+2016-09-06,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.0,5,12,2016
+2016-09-06,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,11.0,3,2,2016
+2016-09-06,ARI,LOS,Arizona Diamondbacks,LOS,8.5,8.0,2,5,2016
+2016-09-06,TOR,NYY,Toronto Blue Jays,New York Yankees,8.5,9.0,6,7,2016
+2016-09-06,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.0,11,2,2016
+2016-09-06,HOU,CLE,Houston Astros,Cleveland Guardians,7.5,8.5,4,3,2016
+2016-09-06,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.5,0,2,2016
+2016-09-06,KAN,MIN,Kansas City Royals,Minnesota Twins,8.5,9.0,10,3,2016
+2016-09-06,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.5,9.0,2,3,2016
+2016-09-06,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.5,10,7,2016
+2016-09-06,BOS,SDG,Boston Red Sox,San Diego Padres,8.5,8.5,5,1,2016
+2016-09-07,NYM,CIN,New York Mets,Cincinnati Reds,8.0,7.5,6,3,2016
+2016-09-07,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.0,8.5,3,4,2016
+2016-09-07,ATL,WAS,Atlanta Braves,Washington Nationals,8.0,8.5,4,5,2016
+2016-09-07,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,8.0,0,6,2016
+2016-09-07,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.5,1,2,2016
+2016-09-07,SFO,COL,San Francisco Giants,Colorado Rockies,12.0,11.5,5,6,2016
+2016-09-07,ARI,LOS,Arizona Diamondbacks,LOS,8.0,7.5,1,3,2016
+2016-09-07,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.0,7.5,6,7,2016
+2016-09-07,DET,CWS,Detroit Tigers,Chicago White Sox,9.0,9.0,4,7,2016
+2016-09-07,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,8.5,1,4,2016
+2016-09-07,TOR,NYY,Toronto Blue Jays,New York Yankees,9.0,9.0,0,2,2016
+2016-09-07,HOU,CLE,Houston Astros,Cleveland Guardians,8.5,8.5,5,6,2016
+2016-09-07,KAN,MIN,Kansas City Royals,Minnesota Twins,9.0,8.5,5,6,2016
+2016-09-07,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,9.0,3,8,2016
+2016-09-07,BOS,SDG,Boston Red Sox,San Diego Padres,7.5,7.5,7,2,2016
+2016-09-08,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.5,9.5,4,1,2016
+2016-09-08,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.0,8.5,1,4,2016
+2016-09-08,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,8.0,12,5,2016
+2016-09-08,COL,SDG,Colorado Rockies,San Diego Padres,8.0,8.0,1,14,2016
+2016-09-08,HOU,CLE,Houston Astros,Cleveland Guardians,8.5,9.0,7,10,2016
+2016-09-08,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.5,4,5,2016
+2016-09-08,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.5,3,6,2016
+2016-09-09,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,9.0,4,5,2016
+2016-09-09,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.0,9.0,4,3,2016
+2016-09-09,LOS,MIA,LOS,Miami Marlins,6.5,6.0,1,4,2016
+2016-09-09,NYM,ATL,New York Mets,Atlanta Braves,8.0,8.5,6,4,2016
+2016-09-09,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,8.0,3,4,2016
+2016-09-09,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,9.5,6,6,2016
+2016-09-09,COL,SDG,Colorado Rockies,San Diego Padres,8.5,8.0,4,1,2016
+2016-09-09,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.5,5,7,2016
+2016-09-09,BOS,TOR,Boston Red Sox,Toronto Blue Jays,8.5,9.0,13,3,2016
+2016-09-09,BAL,DET,Baltimore Orioles,Detroit Tigers,8.5,8.5,3,4,2016
+2016-09-09,KAN,CWS,Kansas City Royals,Chicago White Sox,8.5,7.5,2,7,2016
+2016-09-09,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,8.5,5,4,2016
+2016-09-09,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,7.5,2,1,2016
+2016-09-09,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.5,3,2,2016
+2016-09-09,CUB,HOU,Chicago Cubs,Houston Astros,8.0,8.0,2,0,2016
+2016-09-10,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.0,9.0,8,7,2016
+2016-09-10,PHI,WAS,Philadelphia Phillies,Washington Nationals,7.5,7.0,0,3,2016
+2016-09-10,NYM,ATL,New York Mets,Atlanta Braves,8.5,9.0,3,4,2016
+2016-09-10,LOS,MIA,LOS,Miami Marlins,8.0,7.5,5,0,2016
+2016-09-10,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,8.5,1,5,2016
+2016-09-10,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,9.0,11,3,2016
+2016-09-10,COL,SDG,Colorado Rockies,San Diego Padres,8.0,8.0,3,6,2016
+2016-09-10,TAM,NYY,Tampa Bay Rays,New York Yankees,7.5,8.0,1,5,2016
+2016-09-10,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,9.5,2,3,2016
+2016-09-10,SEA,OAK,Seattle Mariners,Oakland Athletics,8.0,8.0,14,3,2016
+2016-09-10,BAL,DET,Baltimore Orioles,Detroit Tigers,9.5,10.0,11,3,2016
+2016-09-10,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,9.5,1,2,2016
+2016-09-10,KAN,CWS,Kansas City Royals,Chicago White Sox,9.5,9.5,6,5,2016
+2016-09-10,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,9.0,8,5,2016
+2016-09-10,CUB,HOU,Chicago Cubs,Houston Astros,8.5,7.5,1,2,2016
+2016-09-11,LOS,MIA,LOS,Miami Marlins,8.0,7.5,0,3,2016
+2016-09-11,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.0,8.5,8,0,2016
+2016-09-11,NYM,ATL,New York Mets,Atlanta Braves,9.0,9.0,10,3,2016
+2016-09-11,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,8.5,2,3,2016
+2016-09-11,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,8.5,2,1,2016
+2016-09-11,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.5,5,3,2016
+2016-09-11,COL,SDG,Colorado Rockies,San Diego Padres,8.0,9.0,3,2,2016
+2016-09-11,TAM,NYY,Tampa Bay Rays,New York Yankees,9.0,10.0,4,2,2016
+2016-09-11,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.5,9.0,11,8,2016
+2016-09-11,BAL,DET,Baltimore Orioles,Detroit Tigers,8.5,8.0,3,1,2016
+2016-09-11,KAN,CWS,Kansas City Royals,Chicago White Sox,8.0,7.5,2,0,2016
+2016-09-11,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,8.5,7,1,2016
+2016-09-11,TEX,LAA,Texas Rangers,Los Angeles Angels,9.5,9.5,2,3,2016
+2016-09-11,SEA,OAK,Seattle Mariners,Oakland Athletics,9.0,9.0,3,2,2016
+2016-09-11,CUB,HOU,Chicago Cubs,Houston Astros,7.5,7.5,9,5,2016
+2016-09-12,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,8.0,7.5,2,6,2016
+2016-09-12,NYM,WAS,New York Mets,Washington Nationals,9.0,9.5,1,8,2016
+2016-09-12,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,8.5,7,12,2016
+2016-09-12,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,9.0,0,3,2016
+2016-09-12,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.0,7.5,4,1,2016
+2016-09-12,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,10.0,9,12,2016
+2016-09-12,SDG,SFO,San Diego Padres,San Francisco Giants,8.0,8.5,4,0,2016
+2016-09-12,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,2,3,2016
+2016-09-12,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,9.5,2,12,2016
+2016-09-12,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.0,2,4,2016
+2016-09-12,OAK,KAN,Oakland Athletics,Kansas City Royals,8.5,9.0,16,3,2016
+2016-09-12,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.0,4,11,2016
+2016-09-12,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.5,4,3,2016
+2016-09-12,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,8,1,2016
+2016-09-12,LOS,NYY,LOS,New York Yankees,9.0,8.5,8,2,2016
+2016-09-13,NYM,WAS,New York Mets,Washington Nationals,7.5,8.0,4,3,2016
+2016-09-13,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,8.5,9.0,5,3,2016
+2016-09-13,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,9.0,4,6,2016
+2016-09-13,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,9.0,7,5,2016
+2016-09-13,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,8.5,2,4,2016
+2016-09-13,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,10.0,4,11,2016
+2016-09-13,SDG,SFO,San Diego Padres,San Francisco Giants,8.0,8.0,6,4,2016
+2016-09-13,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,6,2,2016
+2016-09-13,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,10.0,6,3,2016
+2016-09-13,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.0,8,1,2016
+2016-09-13,OAK,KAN,Oakland Athletics,Kansas City Royals,8.0,8.0,5,4,2016
+2016-09-13,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.0,1,8,2016
+2016-09-13,TEX,HOU,Texas Rangers,Houston Astros,9.5,9.0,3,2,2016
+2016-09-13,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,8,0,2016
+2016-09-13,LOS,NYY,LOS,New York Yankees,8.5,8.0,0,3,2016
+2016-09-14,CUB,STL,Chicago Cubs,St. Louis Cardinals,7.5,7.0,7,0,2016
+2016-09-14,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,7.5,3,1,2016
+2016-09-14,NYM,WAS,New York Mets,Washington Nationals,9.0,9.0,0,1,2016
+2016-09-14,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,8.5,9.0,2,6,2016
+2016-09-14,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.0,9.0,7,0,2016
+2016-09-14,MIA,ATL,Miami Marlins,Atlanta Braves,7.0,7.0,7,5,2016
+2016-09-14,COL,ARI,Colorado Rockies,Arizona Diamondbacks,10.0,10.5,6,11,2016
+2016-09-14,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,8.5,8,1,2016
+2016-09-14,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.0,9.5,1,0,2016
+2016-09-14,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,9.0,6,9,2016
+2016-09-14,OAK,KAN,Oakland Athletics,Kansas City Royals,8.0,7.5,8,0,2016
+2016-09-14,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.5,6,1,2016
+2016-09-14,TEX,HOU,Texas Rangers,Houston Astros,8.0,8.5,4,8,2016
+2016-09-14,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,8.5,2,1,2016
+2016-09-14,LOS,NYY,LOS,New York Yankees,7.5,7.0,2,0,2016
+2016-09-15,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,8.5,8.0,15,2,2016
+2016-09-15,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,9.0,5,4,2016
+2016-09-15,LOS,ARI,LOS,Arizona Diamondbacks,9.0,10.0,3,7,2016
+2016-09-15,STL,SFO,St. Louis Cardinals,San Francisco Giants,7.5,7.0,2,6,2016
+2016-09-15,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,9.5,5,1,2016
+2016-09-15,CLE,CWS,Cleveland Guardians,Chicago White Sox,10.0,9.5,1,2,2016
+2016-09-15,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,7,6,2016
+2016-09-15,NYY,BOS,New York Yankees,Boston Red Sox,9.0,8.0,5,7,2016
+2016-09-15,OAK,KAN,Oakland Athletics,Kansas City Royals,9.0,9.0,14,5,2016
+2016-09-15,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,9.0,9.0,7,2,2016
+2016-09-16,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.5,9.0,4,5,2016
+2016-09-16,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.5,8.5,3,4,2016
+2016-09-16,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.5,10.0,9,7,2016
+2016-09-16,WAS,ATL,Washington Nationals,Atlanta Braves,7.5,7.5,7,2,2016
+2016-09-16,SDG,COL,San Diego Padres,Colorado Rockies,12.0,12.5,7,8,2016
+2016-09-16,LOS,ARI,LOS,Arizona Diamondbacks,9.0,9.0,3,2,2016
+2016-09-16,STL,SFO,St. Louis Cardinals,San Francisco Giants,7.5,7.5,2,8,2016
+2016-09-16,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,4,5,2016
+2016-09-16,NYY,BOS,New York Yankees,Boston Red Sox,10.0,10.0,4,7,2016
+2016-09-16,DET,CLE,Detroit Tigers,Cleveland Guardians,7.5,8.0,4,11,2016
+2016-09-16,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,9.0,6,7,2016
+2016-09-16,CWS,KAN,Chicago White Sox,Kansas City Royals,7.0,7.0,7,4,2016
+2016-09-16,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,9.0,9.0,5,0,2016
+2016-09-16,HOU,SEA,Houston Astros,Seattle Mariners,8.0,8.0,6,0,2016
+2016-09-16,MIN,NYM,Minnesota Twins,New York Mets,8.5,8.5,0,3,2016
+2016-09-17,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,9.0,3,7,2016
+2016-09-17,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,8.5,11,3,2016
+2016-09-17,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,8.5,10,4,2016
+2016-09-17,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.0,0,8,2016
+2016-09-17,LOS,ARI,LOS,Arizona Diamondbacks,10.5,11.0,6,2,2016
+2016-09-17,SDG,COL,San Diego Padres,Colorado Rockies,12.0,12.5,0,8,2016
+2016-09-17,STL,SFO,St. Louis Cardinals,San Francisco Giants,7.5,7.5,3,2,2016
+2016-09-17,NYY,BOS,New York Yankees,Boston Red Sox,9.0,9.5,5,6,2016
+2016-09-17,DET,CLE,Detroit Tigers,Cleveland Guardians,8.0,8.0,0,1,2016
+2016-09-17,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,5,2,2016
+2016-09-17,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,9.0,2,3,2016
+2016-09-17,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,9.5,11,2,2016
+2016-09-17,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,9.0,9.0,1,6,2016
+2016-09-17,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.0,2,1,2016
+2016-09-17,MIN,NYM,Minnesota Twins,New York Mets,8.0,8.0,2,3,2016
+2016-09-17,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.0,7,3,2016
+2016-09-18,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,8.5,4,7,2016
+2016-09-18,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.5,9.0,5,4,2016
+2016-09-18,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,9.0,2,6,2016
+2016-09-18,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,8.5,3,1,2016
+2016-09-18,STL,SFO,St. Louis Cardinals,San Francisco Giants,8.0,8.5,3,0,2016
+2016-09-18,SDG,COL,San Diego Padres,Colorado Rockies,12.5,12.5,3,6,2016
+2016-09-18,LOS,ARI,LOS,Arizona Diamondbacks,10.0,9.0,9,10,2016
+2016-09-18,NYY,BOS,New York Yankees,Boston Red Sox,9.5,9.0,4,5,2016
+2016-09-18,DET,CLE,Detroit Tigers,Cleveland Guardians,9.0,9.0,9,5,2016
+2016-09-18,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,1,2,2016
+2016-09-18,CWS,KAN,Chicago White Sox,Kansas City Royals,8.0,7.5,3,10,2016
+2016-09-18,OAK,TEX,Oakland Athletics,Texas Rangers,10.5,11.0,5,2,2016
+2016-09-18,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,9.0,9.5,0,4,2016
+2016-09-18,HOU,SEA,Houston Astros,Seattle Mariners,8.5,9.0,3,7,2016
+2016-09-18,MIN,NYM,Minnesota Twins,New York Mets,8.0,8.5,2,3,2016
+2016-09-19,WAS,MIA,Washington Nationals,Miami Marlins,8.5,8.5,3,4,2016
+2016-09-19,ATL,NYM,Atlanta Braves,New York Mets,7.0,7.0,7,3,2016
+2016-09-19,CIN,CUB,Cincinnati Reds,Chicago Cubs,10.0,9.5,2,5,2016
+2016-09-19,STL,COL,St. Louis Cardinals,Colorado Rockies,11.5,11.0,5,3,2016
+2016-09-19,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,2,3,2016
+2016-09-19,SFO,LOS,San Francisco Giants,LOS,6.0,5.5,1,2,2016
+2016-09-19,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,8.5,3,8,2016
+2016-09-19,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,9.0,5,2,2016
+2016-09-19,LAA,TEX,Los Angeles Angels,Texas Rangers,10.0,10.5,2,3,2016
+2016-09-19,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.0,4,2,2016
+2016-09-19,TOR,SEA,Toronto Blue Jays,Seattle Mariners,8.5,8.5,3,2,2016
+2016-09-20,ATL,NYM,Atlanta Braves,New York Mets,8.0,8.0,5,4,2016
+2016-09-20,WAS,MIA,Washington Nationals,Miami Marlins,7.0,7.0,0,1,2016
+2016-09-20,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.5,8.0,1,6,2016
+2016-09-20,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.0,6,3,2016
+2016-09-20,STL,COL,St. Louis Cardinals,Colorado Rockies,12.0,12.0,10,5,2016
+2016-09-20,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,2,5,2016
+2016-09-20,SFO,LOS,San Francisco Giants,LOS,7.0,7.0,2,0,2016
+2016-09-20,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,8.5,5,2,2016
+2016-09-20,NYY,TAM,New York Yankees,Tampa Bay Rays,7.5,7.0,5,3,2016
+2016-09-20,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,8.5,1,2,2016
+2016-09-20,LAA,TEX,Los Angeles Angels,Texas Rangers,10.5,10.5,4,5,2016
+2016-09-20,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.5,8,1,2016
+2016-09-20,HOU,OAK,Houston Astros,Oakland Athletics,8.0,7.5,2,1,2016
+2016-09-20,TOR,SEA,Toronto Blue Jays,Seattle Mariners,8.0,7.5,10,2,2016
+2016-09-20,CWS,PHI,Chicago White Sox,Philadelphia Phillies,9.5,9.0,6,7,2016
+2016-09-21,STL,COL,St. Louis Cardinals,Colorado Rockies,12.5,12.5,1,11,2016
+2016-09-21,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.5,4,3,2016
+2016-09-21,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.5,8,3,2016
+2016-09-21,CIN,CUB,Cincinnati Reds,Chicago Cubs,9.0,9.0,2,9,2016
+2016-09-21,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.0,4,1,2016
+2016-09-21,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,7.5,3,2,2016
+2016-09-21,SFO,LOS,San Francisco Giants,LOS,7.5,7.5,3,9,2016
+2016-09-21,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.0,6,5,2016
+2016-09-21,TOR,SEA,Toronto Blue Jays,Seattle Mariners,8.0,8.0,1,2,2016
+2016-09-21,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.0,10.0,5,1,2016
+2016-09-21,NYY,TAM,New York Yankees,Tampa Bay Rays,7.0,7.0,11,5,2016
+2016-09-21,KAN,CLE,Kansas City Royals,Cleveland Guardians,7.5,7.5,3,4,2016
+2016-09-21,LAA,TEX,Los Angeles Angels,Texas Rangers,10.0,11.0,5,4,2016
+2016-09-21,CWS,PHI,Chicago White Sox,Philadelphia Phillies,7.5,7.0,3,8,2016
+2016-09-22,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,9.0,6,3,2016
+2016-09-22,PHI,NYM,Philadelphia Phillies,New York Mets,8.0,8.0,8,9,2016
+2016-09-22,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.5,9.0,1,3,2016
+2016-09-22,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,7.5,2,1,2016
+2016-09-22,COL,LOS,Colorado Rockies,LOS,8.0,8.0,4,7,2016
+2016-09-22,BOS,BAL,Boston Red Sox,Baltimore Orioles,8.5,8.5,5,3,2016
+2016-09-22,NYY,TAM,New York Yankees,Tampa Bay Rays,8.0,8.0,0,2,2016
+2016-09-22,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,8.5,2,5,2016
+2016-09-22,DET,MIN,Detroit Tigers,Minnesota Twins,8.5,7.5,4,2,2016
+2016-09-22,LAA,HOU,Los Angeles Angels,Houston Astros,8.5,8.5,2,0,2016
+2016-09-22,DET,MIN,Detroit Tigers,Minnesota Twins,10.0,10.0,9,2,2016
+2016-09-23,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.0,7.5,0,5,2016
+2016-09-23,WAS,PIT,Washington Nationals,Pittsburgh Pirates,8.5,8.0,5,6,2016
+2016-09-23,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,8.5,3,2,2016
+2016-09-23,PHI,NYM,Philadelphia Phillies,New York Mets,7.5,8.0,5,10,2016
+2016-09-23,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.0,4,5,2016
+2016-09-23,COL,LOS,Colorado Rockies,LOS,7.5,7.5,2,5,2016
+2016-09-23,SFO,SDG,San Francisco Giants,San Diego Padres,8.5,8.0,2,7,2016
+2016-09-23,NYY,TOR,New York Yankees,Toronto Blue Jays,9.5,9.5,0,9,2016
+2016-09-23,BOS,TAM,Boston Red Sox,Tampa Bay Rays,7.5,7.5,2,1,2016
+2016-09-23,KAN,DET,Kansas City Royals,Detroit Tigers,8.0,8.0,3,8,2016
+2016-09-23,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,9.0,4,10,2016
+2016-09-23,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,9.0,10,6,2016
+2016-09-23,SEA,MIN,Seattle Mariners,Minnesota Twins,9.0,9.0,10,1,2016
+2016-09-23,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,8.0,3,0,2016
+2016-09-23,ARI,BAL,Arizona Diamondbacks,Baltimore Orioles,10.0,10.5,2,3,2016
+2016-09-24,STL,CUB,St. Louis Cardinals,Chicago Cubs,8.0,8.0,10,4,2016
+2016-09-24,WAS,PIT,Washington Nationals,Pittsburgh Pirates,8.5,8.0,6,1,2016
+2016-09-24,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,8.5,4,6,2016
+2016-09-24,PHI,NYM,Philadelphia Phillies,New York Mets,7.0,8.5,10,8,2016
+2016-09-24,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.0,6,1,2016
+2016-09-24,SFO,SDG,San Francisco Giants,San Diego Padres,7.0,7.0,9,6,2016
+2016-09-24,COL,LOS,Colorado Rockies,LOS,6.0,6.5,1,14,2016
+2016-09-24,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,8.5,0,3,2016
+2016-09-24,TEX,OAK,Texas Rangers,Oakland Athletics,9.0,8.0,5,0,2016
+2016-09-24,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,8.0,6,4,2016
+2016-09-24,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,8.5,10,4,2016
+2016-09-24,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.5,8,1,2016
+2016-09-24,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,8.0,7,4,2016
+2016-09-24,SEA,MIN,Seattle Mariners,Minnesota Twins,9.5,9.5,2,3,2016
+2016-09-24,ARI,BAL,Arizona Diamondbacks,Baltimore Orioles,9.5,9.0,1,6,2016
+2016-09-25,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,8.5,0,17,2016
+2016-09-25,WAS,PIT,Washington Nationals,Pittsburgh Pirates,8.0,8.0,10,7,2016
+2016-09-25,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,8.5,4,2,2016
+2016-09-25,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.5,8.5,1,3,2016
+2016-09-25,COL,LOS,Colorado Rockies,LOS,8.0,8.0,3,4,2016
+2016-09-25,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,8.5,3,4,2016
+2016-09-25,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,8.5,3,4,2016
+2016-09-25,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,8.0,3,2,2016
+2016-09-25,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,12,9,2016
+2016-09-25,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.5,3,0,2016
+2016-09-25,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,9.0,1,4,2016
+2016-09-25,SEA,MIN,Seattle Mariners,Minnesota Twins,9.0,9.0,4,3,2016
+2016-09-25,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.5,1,7,2016
+2016-09-25,ARI,BAL,Arizona Diamondbacks,Baltimore Orioles,9.5,9.5,1,2,2016
+2016-09-26,ARI,WAS,Arizona Diamondbacks,Washington Nationals,8.5,8.0,14,4,2016
+2016-09-26,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,7.5,7.5,12,2,2016
+2016-09-26,NYM,MIA,New York Mets,Miami Marlins,8.5,8.0,3,7,2016
+2016-09-26,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.5,15,2,2016
+2016-09-26,NYY,TOR,New York Yankees,Toronto Blue Jays,8.5,8.5,7,5,2016
+2016-09-26,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.5,7,4,2016
+2016-09-26,TAM,CWS,Tampa Bay Rays,Chicago White Sox,9.0,9.0,1,7,2016
+2016-09-26,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.0,4,3,2016
+2016-09-26,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,9.0,1,2,2016
+2016-09-26,MIL,TEX,Milwaukee Brewers,Texas Rangers,10.0,9.5,8,3,2016
+2016-09-27,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.0,8.5,6,4,2016
+2016-09-27,ARI,WAS,Arizona Diamondbacks,Washington Nationals,7.5,7.5,2,4,2016
+2016-09-27,NYM,MIA,New York Mets,Miami Marlins,7.5,7.5,12,1,2016
+2016-09-27,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,7.5,6,7,2016
+2016-09-27,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.5,5,12,2016
+2016-09-27,LOS,SDG,LOS,San Diego Padres,8.0,8.0,1,7,2016
+2016-09-27,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,8.0,3,12,2016
+2016-09-27,BOS,NYY,Boston Red Sox,New York Yankees,8.5,8.5,4,6,2016
+2016-09-27,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,8.5,8.5,1,5,2016
+2016-09-27,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.5,0,12,2016
+2016-09-27,MIN,KAN,Minnesota Twins,Kansas City Royals,8.5,8.5,3,4,2016
+2016-09-27,SEA,HOU,Seattle Mariners,Houston Astros,8.0,8.0,4,8,2016
+2016-09-27,TAM,CWS,Tampa Bay Rays,Chicago White Sox,8.0,7.5,6,13,2016
+2016-09-27,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,1,8,2016
+2016-09-27,MIL,TEX,Milwaukee Brewers,Texas Rangers,10.0,9.5,4,6,2016
+2016-09-28,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,7.0,7.5,4,8,2016
+2016-09-28,ARI,WAS,Arizona Diamondbacks,Washington Nationals,8.5,8.5,3,0,2016
+2016-09-28,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.0,8.5,2,12,2016
+2016-09-28,NYM,MIA,New York Mets,Miami Marlins,8.5,8.5,5,2,2016
+2016-09-28,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.0,2,1,2016
+2016-09-28,LOS,SDG,LOS,San Diego Padres,8.0,8.0,5,6,2016
+2016-09-28,COL,SFO,Colorado Rockies,San Francisco Giants,7.5,7.5,2,0,2016
+2016-09-28,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.5,12,4,2016
+2016-09-28,BOS,NYY,Boston Red Sox,New York Yankees,9.0,9.0,3,5,2016
+2016-09-28,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.0,9.0,3,2,2016
+2016-09-28,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,8.5,3,6,2016
+2016-09-28,MIN,KAN,Minnesota Twins,Kansas City Royals,8.5,8.0,2,5,2016
+2016-09-28,TAM,CWS,Tampa Bay Rays,Chicago White Sox,8.5,8.5,0,1,2016
+2016-09-28,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,6,8,2016
+2016-09-28,MIL,TEX,Milwaukee Brewers,Texas Rangers,9.0,9.0,5,8,2016
+2016-09-29,ARI,WAS,Arizona Diamondbacks,Washington Nationals,8.5,7.5,3,5,2016
+2016-09-29,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,7.5,1,1,2016
+2016-09-29,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.5,8.5,2,5,2016
+2016-09-29,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,7.0,3,4,2016
+2016-09-29,LOS,SDG,LOS,San Diego Padres,8.0,7.5,9,4,2016
+2016-09-29,COL,SFO,Colorado Rockies,San Francisco Giants,7.0,7.0,2,7,2016
+2016-09-29,BOS,NYY,Boston Red Sox,New York Yankees,9.0,9.0,1,5,2016
+2016-09-29,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.0,8.5,4,0,2016
+2016-09-29,MIN,KAN,Minnesota Twins,Kansas City Royals,8.0,7.5,7,6,2016
+2016-09-29,TAM,CWS,Tampa Bay Rays,Chicago White Sox,7.5,7.5,5,3,2016
+2016-09-29,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,8.0,2,3,2016
+2016-09-30,MIA,WAS,Miami Marlins,Washington Nationals,8.5,8.5,7,4,2016
+2016-09-30,NYM,PHI,New York Mets,Philadelphia Phillies,8.5,8.5,5,1,2016
+2016-09-30,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,7,3,2016
+2016-09-30,MIL,COL,Milwaukee Brewers,Colorado Rockies,12.0,11.5,1,4,2016
+2016-09-30,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.0,7.5,0,7,2016
+2016-09-30,SDG,ARI,San Diego Padres,Arizona Diamondbacks,10.5,10.5,3,5,2016
+2016-09-30,LOS,SFO,LOS,San Francisco Giants,6.0,6.5,3,9,2016
+2016-09-30,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,8.0,8,1,2016
+2016-09-30,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,8.5,3,5,2016
+2016-09-30,TAM,TEX,Tampa Bay Rays,Texas Rangers,9.0,8.5,1,3,2016
+2016-09-30,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,8.5,3,7,2016
+2016-09-30,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,8.5,7,2,2016
+2016-09-30,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,8.5,1,7,2016
+2016-09-30,OAK,SEA,Oakland Athletics,Seattle Mariners,8.5,8.5,1,5,2016
+2016-09-30,DET,ATL,Detroit Tigers,Atlanta Braves,8.5,8.5,6,2,2016
+2016-10-01,MIA,WAS,Miami Marlins,Washington Nationals,8.0,8.0,1,2,2016
+2016-10-01,LOS,SFO,LOS,San Francisco Giants,7.0,7.0,0,3,2016
+2016-10-01,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.5,8.0,4,7,2016
+2016-10-01,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.5,3,4,2016
+2016-10-01,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,8.5,5,3,2016
+2016-10-01,MIL,COL,Milwaukee Brewers,Colorado Rockies,12.0,12.5,4,3,2016
+2016-10-01,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,9.5,5,9,2016
+2016-10-01,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,9.0,4,3,2016
+2016-10-01,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,8.5,3,7,2016
+2016-10-01,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,6,3,2016
+2016-10-01,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,9.0,6,0,2016
+2016-10-01,TAM,TEX,Tampa Bay Rays,Texas Rangers,9.0,9.0,4,1,2016
+2016-10-01,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,8.0,3,0,2016
+2016-10-01,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,7.5,9,8,2016
+2016-10-01,DET,ATL,Detroit Tigers,Atlanta Braves,9.0,9.0,3,5,2016
+2016-10-02,NYM,PHI,New York Mets,Philadelphia Phillies,8.5,8.5,2,5,2016
+2016-10-02,MIA,WAS,Miami Marlins,Washington Nationals,7.0,7.0,7,10,2016
+2016-10-02,LOS,SFO,LOS,San Francisco Giants,7.5,7.5,1,7,2016
+2016-10-02,SDG,ARI,San Diego Padres,Arizona Diamondbacks,10.0,10.0,2,3,2016
+2016-10-02,MIL,COL,Milwaukee Brewers,Colorado Rockies,10.5,11.0,6,4,2016
+2016-10-02,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.5,8.5,7,4,2016
+2016-10-02,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.5,4,10,2016
+2016-10-02,BAL,NYY,Baltimore Orioles,New York Yankees,8.5,8.5,5,2,2016
+2016-10-02,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,7.5,3,2,2016
+2016-10-02,TOR,BOS,Toronto Blue Jays,Boston Red Sox,8.5,8.5,2,1,2016
+2016-10-02,TAM,TEX,Tampa Bay Rays,Texas Rangers,9.5,9.5,6,4,2016
+2016-10-02,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,8.5,1,8,2016
+2016-10-02,MIN,CWS,Minnesota Twins,Chicago White Sox,8.0,7.5,6,3,2016
+2016-10-02,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,8.0,3,2,2016
+2016-10-02,DET,ATL,Detroit Tigers,Atlanta Braves,8.0,7.5,0,1,2016
+2016-10-04,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,8.5,8.5,2,5,2016
+2016-10-05,SFO,NYM,San Francisco Giants,New York Mets,6.0,6.0,3,0,2016
+2016-10-06,BOS,CLE,Boston Red Sox,Cleveland Guardians,8.5,8.5,4,5,2016
+2016-10-06,TOR,TEX,Toronto Blue Jays,Texas Rangers,9.0,9.5,10,1,2016
+2016-10-07,LOS,WAS,LOS,Washington Nationals,6.0,5.5,4,3,2016
+2016-10-07,SFO,CUB,San Francisco Giants,Chicago Cubs,7.0,6.5,0,1,2016
+2016-10-07,BOS,CLE,Boston Red Sox,Cleveland Guardians,7.0,7.5,0,6,2016
+2016-10-07,TOR,TEX,Toronto Blue Jays,Texas Rangers,9.0,8.0,5,3,2016
+2016-10-08,SFO,CUB,San Francisco Giants,Chicago Cubs,7.0,7.5,2,5,2016
+2016-10-09,TEX,TOR,Texas Rangers,Toronto Blue Jays,9.5,9.0,6,7,2016
+2016-10-09,LOS,WAS,LOS,Washington Nationals,7.5,7.5,2,5,2016
+2016-10-10,WAS,LOS,Washington Nationals,LOS,7.5,7.5,8,3,2016
+2016-10-10,CUB,SFO,Chicago Cubs,San Francisco Giants,6.0,6.5,5,6,2016
+2016-10-10,CLE,BOS,Cleveland Guardians,Boston Red Sox,9.5,9.0,4,3,2016
+2016-10-11,WAS,LOS,Washington Nationals,LOS,6.5,7.0,5,6,2016
+2016-10-11,CUB,SFO,Chicago Cubs,San Francisco Giants,7.5,7.5,6,5,2016
+2016-10-13,LOS,WAS,LOS,Washington Nationals,7.0,7.0,4,3,2016
+2016-10-14,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,7.5,7.5,0,2,2016
+2016-10-15,LOS,CUB,LOS,Chicago Cubs,7.0,7.5,4,8,2016
+2016-10-15,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,8.5,8.5,1,2,2016
+2016-10-16,LOS,CUB,LOS,Chicago Cubs,6.5,6.5,1,0,2016
+2016-10-17,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,9.0,8.5,4,2,2016
+2016-10-18,CUB,LOS,Chicago Cubs,LOS,6.5,6.5,0,6,2016
+2016-10-18,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,7.5,7.5,1,5,2016
+2016-10-19,CUB,LOS,Chicago Cubs,LOS,7.5,7.5,10,2,2016
+2016-10-19,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,8.0,8.5,3,0,2016
+2016-10-20,CUB,LOS,Chicago Cubs,LOS,7.0,7.0,8,4,2016
+2016-10-22,LOS,CUB,LOS,Chicago Cubs,6.5,6.0,0,5,2016
+2016-10-25,CUB,CLE,Chicago Cubs,Cleveland Guardians,6.5,6.5,0,6,2016
+2016-10-26,CUB,CLE,Chicago Cubs,Cleveland Guardians,7.0,8.0,5,1,2016
+2016-10-28,CLE,CUB,Cleveland Guardians,Chicago Cubs,7.5,8.5,1,0,2016
+2016-10-29,CLE,CUB,Cleveland Guardians,Chicago Cubs,6.5,6.5,7,2,2016
+2016-10-30,CLE,CUB,Cleveland Guardians,Chicago Cubs,6.5,6.5,2,3,2016
+2016-11-01,CUB,CLE,Chicago Cubs,Cleveland Guardians,7.0,7.5,9,3,2016
+2016-11-02,CUB,CLE,Chicago Cubs,Cleveland Guardians,7.0,6.5,8,7,2016

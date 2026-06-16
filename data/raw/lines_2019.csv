@@ -1,0 +1,2463 @@
+date,away_team_abbr,home_team_abbr,away_team,home_team,open_total,close_total,away_final,home_final,season
+2019-03-28,NYM,WAS,New York Mets,Washington Nationals,6.5,6.5,2,0,2019
+2019-03-28,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,8.5,4,5,2019
+2019-03-28,ATL,PHI,Atlanta Braves,Philadelphia Phillies,7.5,8.0,4,10,2019
+2019-03-28,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.0,8.5,3,5,2019
+2019-03-28,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.5,7.0,5,12,2019
+2019-03-28,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,7.5,0,2,2019
+2019-03-28,COL,MIA,Colorado Rockies,Miami Marlins,7.5,7.5,6,3,2019
+2019-03-28,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,9.0,2,7,2019
+2019-03-28,DET,TOR,Detroit Tigers,Toronto Blue Jays,9.0,8.5,2,0,2019
+2019-03-28,HOU,TAM,Houston Astros,Tampa Bay Rays,6.5,7.0,5,1,2019
+2019-03-28,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,8.5,0,4,2019
+2019-03-28,CLE,MIN,Cleveland Guardians,Minnesota Twins,7.5,7.5,0,2,2019
+2019-03-28,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,8.5,3,5,2019
+2019-03-28,BOS,SEA,Boston Red Sox,Seattle Mariners,7.0,7.0,4,12,2019
+2019-03-28,CUB,TEX,Chicago Cubs,Texas Rangers,9.5,9.5,12,4,2019
+2019-03-29,COL,MIA,Colorado Rockies,Miami Marlins,7.5,7.0,6,1,2019
+2019-03-29,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,8.5,9,5,2019
+2019-03-29,SFO,SDG,San Francisco Giants,San Diego Padres,7.5,7.5,1,4,2019
+2019-03-29,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.5,7.0,5,4,2019
+2019-03-29,DET,TOR,Detroit Tigers,Toronto Blue Jays,9.0,9.0,0,6,2019
+2019-03-29,HOU,TAM,Houston Astros,Tampa Bay Rays,7.0,7.0,2,4,2019
+2019-03-29,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.0,8.5,6,2,2019
+2019-03-29,BOS,SEA,Boston Red Sox,Seattle Mariners,8.0,8.0,7,6,2019
+2019-03-30,NYM,WAS,New York Mets,Washington Nationals,7.0,7.5,11,8,2019
+2019-03-30,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,9.0,6,8,2019
+2019-03-30,COL,MIA,Colorado Rockies,Miami Marlins,8.0,7.5,3,7,2019
+2019-03-30,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,9.0,2,4,2019
+2019-03-30,SFO,SDG,San Francisco Giants,San Diego Padres,7.5,7.5,3,2,2019
+2019-03-30,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.5,7.5,5,18,2019
+2019-03-30,BAL,NYY,Baltimore Orioles,New York Yankees,8.5,8.5,5,3,2019
+2019-03-30,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.0,7.0,2,1,2019
+2019-03-30,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,7.5,6,8,2019
+2019-03-30,DET,TOR,Detroit Tigers,Toronto Blue Jays,9.0,8.5,0,3,2019
+2019-03-30,HOU,TAM,Houston Astros,Tampa Bay Rays,7.5,8.0,1,3,2019
+2019-03-30,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.5,8.5,2,4,2019
+2019-03-30,BOS,SEA,Boston Red Sox,Seattle Mariners,8.5,8.5,5,6,2019
+2019-03-30,CUB,TEX,Chicago Cubs,Texas Rangers,9.5,9.5,6,8,2019
+2019-03-31,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,8.0,5,0,2019
+2019-03-31,COL,MIA,Colorado Rockies,Miami Marlins,7.5,7.5,0,3,2019
+2019-03-31,NYM,WAS,New York Mets,Washington Nationals,7.5,7.0,5,6,2019
+2019-03-31,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.0,9.0,4,5,2019
+2019-03-31,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.5,7.5,7,8,2019
+2019-03-31,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,7.5,1,3,2019
+2019-03-31,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,8.0,1,5,2019
+2019-03-31,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,8.5,7,5,2019
+2019-03-31,DET,TOR,Detroit Tigers,Toronto Blue Jays,9.0,9.0,4,3,2019
+2019-03-31,HOU,TAM,Houston Astros,Tampa Bay Rays,8.0,8.5,1,3,2019
+2019-03-31,CLE,MIN,Cleveland Guardians,Minnesota Twins,7.0,7.0,3,9,2019
+2019-03-31,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,8.0,6,3,2019
+2019-03-31,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,8.5,1,2,2019
+2019-03-31,BOS,SEA,Boston Red Sox,Seattle Mariners,9.0,8.0,8,10,2019
+2019-03-31,CUB,TEX,Chicago Cubs,Texas Rangers,9.5,8.5,10,11,2019
+2019-04-01,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.0,7.5,6,5,2019
+2019-04-01,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.5,4,3,2019
+2019-04-01,CUB,ATL,Chicago Cubs,Atlanta Braves,8.5,8.0,0,8,2019
+2019-04-01,NYM,MIA,New York Mets,Miami Marlins,8.0,7.5,7,3,2019
+2019-04-01,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.0,7.5,4,2,2019
+2019-04-01,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,7.5,10,3,2019
+2019-04-01,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.5,7.5,3,5,2019
+2019-04-01,DET,NYY,Detroit Tigers,New York Yankees,9.0,8.5,1,3,2019
+2019-04-01,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.0,9.0,6,5,2019
+2019-04-01,HOU,TEX,Houston Astros,Texas Rangers,9.5,9.5,2,1,2019
+2019-04-01,BOS,OAK,Boston Red Sox,Oakland Athletics,8.0,9.0,0,7,2019
+2019-04-01,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,9.0,3,6,2019
+2019-04-01,COL,TAM,Colorado Rockies,Tampa Bay Rays,9.0,8.5,1,7,2019
+2019-04-02,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,9.0,4,3,2019
+2019-04-02,PHI,WAS,Philadelphia Phillies,Washington Nationals,7.0,7.0,8,2,2019
+2019-04-02,NYM,MIA,New York Mets,Miami Marlins,8.0,8.0,6,5,2019
+2019-04-02,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.0,7.5,8,5,2019
+2019-04-02,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.0,7.0,5,6,2019
+2019-04-02,DET,NYY,Detroit Tigers,New York Yankees,8.0,7.5,3,1,2019
+2019-04-02,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,8.5,8.5,2,1,2019
+2019-04-02,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,4,6,2019
+2019-04-02,MIN,KAN,Minnesota Twins,Kansas City Royals,7.5,7.0,5,4,2019
+2019-04-02,BOS,OAK,Boston Red Sox,Oakland Athletics,7.0,8.0,0,1,2019
+2019-04-02,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,8.5,1,2,2019
+2019-04-02,COL,TAM,Colorado Rockies,Tampa Bay Rays,7.0,7.0,0,4,2019
+2019-04-03,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.5,1,0,2019
+2019-04-03,PHI,WAS,Philadelphia Phillies,Washington Nationals,7.5,8.0,8,9,2019
+2019-04-03,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,7.0,1,4,2019
+2019-04-03,NYM,MIA,New York Mets,Miami Marlins,7.0,6.5,6,4,2019
+2019-04-03,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,7.5,7.5,5,4,2019
+2019-04-03,CUB,ATL,Chicago Cubs,Atlanta Braves,8.5,9.0,4,6,2019
+2019-04-03,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,7.0,3,5,2019
+2019-04-03,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.0,6.5,8,3,2019
+2019-04-03,MIN,KAN,Minnesota Twins,Kansas City Royals,8.5,8.5,7,6,2019
+2019-04-03,DET,NYY,Detroit Tigers,New York Yankees,8.5,9.5,2,1,2019
+2019-04-03,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.0,8.5,3,5,2019
+2019-04-03,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,0,4,2019
+2019-04-03,BOS,OAK,Boston Red Sox,Oakland Athletics,8.5,8.5,6,3,2019
+2019-04-03,COL,TAM,Colorado Rockies,Tampa Bay Rays,7.0,6.5,1,0,2019
+2019-04-04,WAS,NYM,Washington Nationals,New York Mets,6.5,6.5,4,0,2019
+2019-04-04,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,7.5,8.0,0,2,2019
+2019-04-04,CUB,ATL,Chicago Cubs,Atlanta Braves,9.0,9.0,4,9,2019
+2019-04-04,KAN,DET,Kansas City Royals,Detroit Tigers,7.5,7.5,4,5,2019
+2019-04-04,NYY,BAL,New York Yankees,Baltimore Orioles,8.0,7.5,8,4,2019
+2019-04-04,BOS,OAK,Boston Red Sox,Oakland Athletics,8.5,8.0,3,7,2019
+2019-04-04,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,7.0,6.5,1,4,2019
+2019-04-04,TEX,LAA,Texas Rangers,Los Angeles Angels,8.0,9.0,11,4,2019
+2019-04-05,LAD,COL,Los Angeles Dodgers,Colorado Rockies,10.5,11.0,10,6,2019
+2019-04-05,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.0,8.0,0,2,2019
+2019-04-05,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,8.0,0,4,2019
+2019-04-05,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.5,10,13,2019
+2019-04-05,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,7.0,7.5,2,3,2019
+2019-04-05,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,2,3,2019
+2019-04-05,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.5,1,3,2019
+2019-04-05,TAM,SFO,Tampa Bay Rays,San Francisco Giants,7.0,7.0,5,2,2019
+2019-04-05,MIN,PHI,Minnesota Twins,Philadelphia Phillies,8.0,8.0,4,10,2019
+2019-04-05,BOS,ARI,Boston Red Sox,Arizona Diamondbacks,9.0,9.0,8,15,2019
+2019-04-05,SEA,CWS,Seattle Mariners,Chicago White Sox,7.5,8.5,8,10,2019
+2019-04-05,SDG,STL,San Diego Padres,St. Louis Cardinals,7.5,8.0,5,3,2019
+2019-04-06,WAS,NYM,Washington Nationals,New York Mets,7.0,7.0,5,6,2019
+2019-04-06,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,7.0,8.0,5,6,2019
+2019-04-06,SDG,STL,San Diego Padres,St. Louis Cardinals,7.5,7.5,6,4,2019
+2019-04-06,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.5,14,8,2019
+2019-04-06,MIA,ATL,Miami Marlins,Atlanta Braves,8.0,8.5,4,2,2019
+2019-04-06,LAD,COL,Los Angeles Dodgers,Colorado Rockies,10.0,10.0,7,2,2019
+2019-04-06,KAN,DET,Kansas City Royals,Detroit Tigers,8.5,9.0,4,7,2019
+2019-04-06,SEA,CWS,Seattle Mariners,Chicago White Sox,8.5,9.0,9,2,2019
+2019-04-06,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.5,1,5,2019
+2019-04-06,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,7.0,8.0,2,7,2019
+2019-04-06,NYY,BAL,New York Yankees,Baltimore Orioles,8.5,8.5,6,4,2019
+2019-04-06,OAK,HOU,Oakland Athletics,Houston Astros,8.5,9.5,0,6,2019
+2019-04-06,MIN,PHI,Minnesota Twins,Philadelphia Phillies,8.0,8.5,6,2,2019
+2019-04-06,TAM,SFO,Tampa Bay Rays,San Francisco Giants,7.0,7.5,4,6,2019
+2019-04-06,BOS,ARI,Boston Red Sox,Arizona Diamondbacks,9.0,9.0,4,5,2019
+2019-04-07,WAS,NYM,Washington Nationals,New York Mets,6.5,6.5,12,9,2019
+2019-04-07,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,8.5,3,4,2019
+2019-04-07,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,7.5,7.5,5,7,2019
+2019-04-07,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.0,2,4,2019
+2019-04-07,SDG,STL,San Diego Padres,St. Louis Cardinals,8.5,9.0,1,4,2019
+2019-04-07,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.0,11.5,12,6,2019
+2019-04-07,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,15,3,2019
+2019-04-07,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,7.0,7.5,1,3,2019
+2019-04-07,KAN,DET,Kansas City Royals,Detroit Tigers,8.5,9.0,1,3,2019
+2019-04-07,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.0,8,9,2019
+2019-04-07,SEA,CWS,Seattle Mariners,Chicago White Sox,9.0,9.0,12,5,2019
+2019-04-07,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,9.5,2,7,2019
+2019-04-07,MIN,PHI,Minnesota Twins,Philadelphia Phillies,8.5,8.5,1,2,2019
+2019-04-07,TAM,SFO,Tampa Bay Rays,San Francisco Giants,7.5,7.0,3,0,2019
+2019-04-07,BOS,ARI,Boston Red Sox,Arizona Diamondbacks,9.5,9.5,1,0,2019
+2019-04-08,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.0,8.5,0,10,2019
+2019-04-08,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.0,9.5,3,4,2019
+2019-04-08,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,8.5,8.0,3,4,2019
+2019-04-08,ATL,COL,Atlanta Braves,Colorado Rockies,10.0,10.5,8,6,2019
+2019-04-08,SDG,SFO,San Diego Padres,San Francisco Giants,7.0,7.0,6,5,2019
+2019-04-08,TAM,CWS,Tampa Bay Rays,Chicago White Sox,7.5,7.5,5,1,2019
+2019-04-08,OAK,BAL,Oakland Athletics,Baltimore Orioles,9.0,10.0,4,12,2019
+2019-04-08,NYY,HOU,New York Yankees,Houston Astros,7.5,7.5,3,4,2019
+2019-04-08,SEA,KAN,Seattle Mariners,Kansas City Royals,9.0,10.0,13,5,2019
+2019-04-08,MIL,LAA,Milwaukee Brewers,Los Angeles Angels,8.5,9.0,2,5,2019
+2019-04-09,MIA,CIN,Miami Marlins,Cincinnati Reds,8.0,8.5,0,14,2019
+2019-04-09,WAS,PHI,Washington Nationals,Philadelphia Phillies,7.0,8.0,10,6,2019
+2019-04-09,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,8.5,8.5,0,4,2019
+2019-04-09,ATL,COL,Atlanta Braves,Colorado Rockies,10.5,10.5,7,1,2019
+2019-04-09,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,7.5,2,7,2019
+2019-04-09,CLE,DET,Cleveland Guardians,Detroit Tigers,7.0,8.0,8,2,2019
+2019-04-09,TOR,BOS,Toronto Blue Jays,Boston Red Sox,7.5,8.0,7,5,2019
+2019-04-09,TAM,CWS,Tampa Bay Rays,Chicago White Sox,8.0,8.5,10,5,2019
+2019-04-09,OAK,BAL,Oakland Athletics,Baltimore Orioles,9.0,9.5,13,2,2019
+2019-04-09,NYY,HOU,New York Yankees,Houston Astros,8.5,8.0,3,6,2019
+2019-04-09,SEA,KAN,Seattle Mariners,Kansas City Royals,9.0,9.0,6,3,2019
+2019-04-09,MIN,NYM,Minnesota Twins,New York Mets,6.5,6.5,14,8,2019
+2019-04-09,TEX,ARI,Texas Rangers,Arizona Diamondbacks,8.5,8.5,4,5,2019
+2019-04-09,MIL,LAA,Milwaukee Brewers,Los Angeles Angels,8.5,8.5,8,11,2019
+2019-04-10,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,8.0,3,1,2019
+2019-04-10,MIA,CIN,Miami Marlins,Cincinnati Reds,8.5,9.0,1,2,2019
+2019-04-10,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.0,9.0,15,1,2019
+2019-04-10,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,8.5,8.0,2,7,2019
+2019-04-10,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.0,7.5,5,2,2019
+2019-04-10,CLE,DET,Cleveland Guardians,Detroit Tigers,7.5,7.0,1,4,2019
+2019-04-10,TAM,CWS,Tampa Bay Rays,Chicago White Sox,8.5,8.5,9,1,2019
+2019-04-10,OAK,BAL,Oakland Athletics,Baltimore Orioles,9.5,9.5,10,3,2019
+2019-04-10,NYY,HOU,New York Yankees,Houston Astros,8.0,8.0,6,8,2019
+2019-04-10,SEA,KAN,Seattle Mariners,Kansas City Royals,9.0,9.5,6,5,2019
+2019-04-10,MIN,NYM,Minnesota Twins,New York Mets,7.0,7.0,6,9,2019
+2019-04-10,TEX,ARI,Texas Rangers,Arizona Diamondbacks,8.5,8.0,5,2,2019
+2019-04-10,MIL,LAA,Milwaukee Brewers,Los Angeles Angels,8.5,8.0,2,4,2019
+2019-04-11,MIA,CIN,Miami Marlins,Cincinnati Reds,8.5,8.5,0,5,2019
+2019-04-11,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,8.0,8.5,7,11,2019
+2019-04-11,NYM,ATL,New York Mets,Atlanta Braves,8.5,9.0,6,3,2019
+2019-04-11,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,10.5,9.0,0,2,2019
+2019-04-11,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,7,6,2019
+2019-04-11,COL,SFO,Colorado Rockies,San Francisco Giants,7.5,7.5,0,1,2019
+2019-04-11,OAK,BAL,Oakland Athletics,Baltimore Orioles,9.5,8.5,8,5,2019
+2019-04-11,CLE,DET,Cleveland Guardians,Detroit Tigers,8.0,7.5,4,0,2019
+2019-04-11,SEA,KAN,Seattle Mariners,Kansas City Royals,9.5,10.0,7,6,2019
+2019-04-11,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.0,9.0,6,7,2019
+2019-04-12,PIT,WAS,Pittsburgh Pirates,Washington Nationals,8.0,8.0,6,3,2019
+2019-04-12,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.5,8.5,9,1,2019
+2019-04-12,NYM,ATL,New York Mets,Atlanta Braves,9.0,9.5,6,2,2019
+2019-04-12,SDG,ARI,San Diego Padres,Arizona Diamondbacks,8.5,8.0,2,1,2019
+2019-04-12,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,8.0,8.5,8,5,2019
+2019-04-12,COL,SFO,Colorado Rockies,San Francisco Giants,7.5,7.5,2,3,2019
+2019-04-12,CWS,NYY,Chicago White Sox,New York Yankees,9.0,9.5,7,6,2019
+2019-04-12,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,8.5,8.5,11,7,2019
+2019-04-12,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,10.0,4,6,2019
+2019-04-12,OAK,TEX,Oakland Athletics,Texas Rangers,10.0,11.0,8,6,2019
+2019-04-12,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.0,7.5,1,8,2019
+2019-04-12,HOU,SEA,Houston Astros,Seattle Mariners,9.0,9.0,10,6,2019
+2019-04-12,LAA,CUB,Los Angeles Angels,Chicago Cubs,10.5,10.5,1,5,2019
+2019-04-13,PIT,WAS,Pittsburgh Pirates,Washington Nationals,8.5,9.0,2,3,2019
+2019-04-13,COL,SFO,Colorado Rockies,San Francisco Giants,7.0,7.0,2,5,2019
+2019-04-13,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,7.5,3,10,2019
+2019-04-13,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,11.0,2,5,2019
+2019-04-13,NYM,ATL,New York Mets,Atlanta Braves,9.0,10.0,7,11,2019
+2019-04-13,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,5,4,2019
+2019-04-13,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,8.5,9.0,4,1,2019
+2019-04-13,CWS,NYY,Chicago White Sox,New York Yankees,9.0,10.0,0,4,2019
+2019-04-13,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,11.0,9,5,2019
+2019-04-13,DET,MIN,Detroit Tigers,Minnesota Twins,7.5,8.0,3,4,2019
+2019-04-13,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,7.5,8.0,1,3,2019
+2019-04-13,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,0,3,2019
+2019-04-13,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.5,3,1,2019
+2019-04-13,LAA,CUB,Los Angeles Angels,Chicago Cubs,9.0,9.0,6,5,2019
+2019-04-14,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.5,8.5,3,1,2019
+2019-04-14,PIT,WAS,Pittsburgh Pirates,Washington Nationals,7.0,8.0,4,3,2019
+2019-04-14,STL,CIN,St. Louis Cardinals,Cincinnati Reds,10.5,10.0,9,5,2019
+2019-04-14,COL,SFO,Colorado Rockies,San Francisco Giants,7.0,7.0,4,0,2019
+2019-04-14,SDG,ARI,San Diego Padres,Arizona Diamondbacks,8.5,8.0,4,8,2019
+2019-04-14,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,8.5,9.0,1,7,2019
+2019-04-14,NYM,ATL,New York Mets,Atlanta Braves,8.0,8.5,3,7,2019
+2019-04-14,CWS,NYY,Chicago White Sox,New York Yankees,8.5,9.0,5,2,2019
+2019-04-14,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,9.5,0,4,2019
+2019-04-14,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,8.0,8.0,8,4,2019
+2019-04-14,DET,MIN,Detroit Tigers,Minnesota Twins,8.0,8.0,4,6,2019
+2019-04-14,CLE,KAN,Cleveland Guardians,Kansas City Royals,7.5,7.5,8,9,2019
+2019-04-14,OAK,TEX,Oakland Athletics,Texas Rangers,11.0,10.0,7,8,2019
+2019-04-14,HOU,SEA,Houston Astros,Seattle Mariners,8.5,7.5,3,2,2019
+2019-04-15,NYM,PHI,New York Mets,Philadelphia Phillies,7.5,7.5,7,6,2019
+2019-04-15,CUB,MIA,Chicago Cubs,Miami Marlins,8.5,8.0,7,2,2019
+2019-04-15,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.5,7,10,2019
+2019-04-15,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,7.0,7.5,3,4,2019
+2019-04-15,COL,SDG,Colorado Rockies,San Diego Padres,7.0,7.5,5,2,2019
+2019-04-15,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,11.0,8,1,2019
+2019-04-15,TOR,MIN,Toronto Blue Jays,Minnesota Twins,8.5,8.5,5,3,2019
+2019-04-15,LAA,TEX,Los Angeles Angels,Texas Rangers,10.5,10.5,7,12,2019
+2019-04-15,KAN,CWS,Kansas City Royals,Chicago White Sox,9.0,9.5,4,5,2019
+2019-04-15,CLE,SEA,Cleveland Guardians,Seattle Mariners,7.5,7.0,6,4,2019
+2019-04-16,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,9.0,3,14,2019
+2019-04-16,SFO,WAS,San Francisco Giants,Washington Nationals,7.5,8.0,7,3,2019
+2019-04-16,CUB,MIA,Chicago Cubs,Miami Marlins,8.0,8.0,4,0,2019
+2019-04-16,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,8.0,8.5,9,6,2019
+2019-04-16,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.0,4,8,2019
+2019-04-16,COL,SDG,Colorado Rockies,San Diego Padres,7.0,7.5,8,2,2019
+2019-04-16,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,8.5,8.5,1,6,2019
+2019-04-16,BOS,NYY,Boston Red Sox,New York Yankees,8.5,8.5,0,8,2019
+2019-04-16,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.0,8.0,2,4,2019
+2019-04-16,TOR,MIN,Toronto Blue Jays,Minnesota Twins,8.0,9.0,6,5,2019
+2019-04-16,LAA,TEX,Los Angeles Angels,Texas Rangers,10.5,10.0,0,5,2019
+2019-04-16,KAN,CWS,Kansas City Royals,Chicago White Sox,9.0,9.0,1,5,2019
+2019-04-16,HOU,OAK,Houston Astros,Oakland Athletics,8.5,9.0,9,1,2019
+2019-04-16,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.0,8.0,4,2,2019
+2019-04-16,PIT,DET,Pittsburgh Pirates,Detroit Tigers,8.0,7.5,5,3,2019
+2019-04-17,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,8.5,2,3,2019
+2019-04-17,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,10.0,6,3,2019
+2019-04-17,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,8.0,8.0,2,3,2019
+2019-04-17,SFO,WAS,San Francisco Giants,Washington Nationals,9.0,8.5,6,9,2019
+2019-04-17,CUB,MIA,Chicago Cubs,Miami Marlins,8.0,8.0,6,0,2019
+2019-04-17,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,9.0,9.0,3,2,2019
+2019-04-17,KAN,CWS,Kansas City Royals,Chicago White Sox,9.5,8.5,4,3,2019
+2019-04-17,BOS,NYY,Boston Red Sox,New York Yankees,9.5,9.0,3,5,2019
+2019-04-17,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.5,7.5,1,0,2019
+2019-04-17,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.0,1,8,2019
+2019-04-17,TOR,MIN,Toronto Blue Jays,Minnesota Twins,9.0,8.5,1,4,2019
+2019-04-17,LAA,TEX,Los Angeles Angels,Texas Rangers,11.0,10.5,4,5,2019
+2019-04-17,HOU,OAK,Houston Astros,Oakland Athletics,9.0,8.5,1,2,2019
+2019-04-17,PIT,DET,Pittsburgh Pirates,Detroit Tigers,8.0,8.5,3,2,2019
+2019-04-18,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,9.0,8.5,4,1,2019
+2019-04-18,SFO,WAS,San Francisco Giants,Washington Nationals,8.0,7.5,2,4,2019
+2019-04-18,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,9.5,9.5,3,1,2019
+2019-04-18,PHI,COL,Philadelphia Phillies,Colorado Rockies,10.5,10.5,2,6,2019
+2019-04-18,CIN,SDG,Cincinnati Reds,San Diego Padres,7.5,7.5,4,1,2019
+2019-04-18,CWS,DET,Chicago White Sox,Detroit Tigers,8.5,8.5,7,9,2019
+2019-04-18,TOR,MIN,Toronto Blue Jays,Minnesota Twins,8.0,8.0,7,4,2019
+2019-04-18,KAN,NYY,Kansas City Royals,New York Yankees,9.0,9.0,6,1,2019
+2019-04-18,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.5,6,5,2019
+2019-04-18,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,10.0,11,10,2019
+2019-04-19,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,7.0,7.0,1,5,2019
+2019-04-19,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,7.0,7.0,1,4,2019
+2019-04-19,WAS,MIA,Washington Nationals,Miami Marlins,8.5,7.5,2,3,2019
+2019-04-19,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,9.5,9.5,5,3,2019
+2019-04-19,NYM,STL,New York Mets,St. Louis Cardinals,9.5,9.0,5,4,2019
+2019-04-19,PHI,COL,Philadelphia Phillies,Colorado Rockies,10.0,10.5,3,4,2019
+2019-04-19,CIN,SDG,Cincinnati Reds,San Diego Padres,7.5,8.0,3,2,2019
+2019-04-19,KAN,NYY,Kansas City Royals,New York Yankees,9.0,8.5,2,6,2019
+2019-04-19,CWS,DET,Chicago White Sox,Detroit Tigers,7.5,8.5,7,3,2019
+2019-04-19,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,6,4,2019
+2019-04-19,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.5,7,2,2019
+2019-04-19,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,5,3,2019
+2019-04-19,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.0,8.0,5,1,2019
+2019-04-20,NYM,STL,New York Mets,St. Louis Cardinals,8.0,9.0,2,10,2019
+2019-04-20,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,7.0,7.0,6,0,2019
+2019-04-20,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,7.5,7.0,1,3,2019
+2019-04-20,WAS,MIA,Washington Nationals,Miami Marlins,7.0,7.0,3,9,2019
+2019-04-20,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,9.5,9.0,0,5,2019
+2019-04-20,PHI,COL,Philadelphia Phillies,Colorado Rockies,8.5,9.0,8,5,2019
+2019-04-20,CIN,SDG,Cincinnati Reds,San Diego Padres,7.5,7.0,4,2,2019
+2019-04-20,KAN,NYY,Kansas City Royals,New York Yankees,8.5,8.5,2,9,2019
+2019-04-20,TOR,OAK,Toronto Blue Jays,Oakland Athletics,9.0,8.0,10,1,2019
+2019-04-20,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,6,5,2019
+2019-04-20,MIN,BAL,Minnesota Twins,Baltimore Orioles,9.5,10.0,16,7,2019
+2019-04-20,HOU,TEX,Houston Astros,Texas Rangers,9.5,10.0,4,9,2019
+2019-04-20,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,8.5,6,5,2019
+2019-04-20,ATL,CLE,Atlanta Braves,Cleveland Guardians,7.5,8.5,4,8,2019
+2019-04-20,ATL,CLE,Atlanta Braves,Cleveland Guardians,7.5,8.0,8,7,2019
+2019-04-20,MIN,BAL,Minnesota Twins,Baltimore Orioles,9.5,9.0,6,5,2019
+2019-04-21,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.0,5,0,2019
+2019-04-21,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,7.0,7.0,3,2,2019
+2019-04-21,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,9.0,8.5,6,5,2019
+2019-04-21,NYM,STL,New York Mets,St. Louis Cardinals,8.5,9.0,4,6,2019
+2019-04-21,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,9.0,9.5,1,2,2019
+2019-04-21,PHI,COL,Philadelphia Phillies,Colorado Rockies,10.5,10.5,1,4,2019
+2019-04-21,CIN,SDG,Cincinnati Reds,San Diego Padres,7.5,7.5,3,4,2019
+2019-04-21,MIN,BAL,Minnesota Twins,Baltimore Orioles,10.0,9.0,4,3,2019
+2019-04-21,KAN,NYY,Kansas City Royals,New York Yankees,8.5,7.5,6,7,2019
+2019-04-21,CWS,DET,Chicago White Sox,Detroit Tigers,9.5,9.0,3,4,2019
+2019-04-21,BOS,TAM,Boston Red Sox,Tampa Bay Rays,7.5,8.0,4,3,2019
+2019-04-21,HOU,TEX,Houston Astros,Texas Rangers,10.0,10.5,10,11,2019
+2019-04-21,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.5,8.0,5,4,2019
+2019-04-21,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.5,9.5,6,8,2019
+2019-04-21,ATL,CLE,Atlanta Braves,Cleveland Guardians,8.0,8.0,11,5,2019
+2019-04-22,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,7.5,7.5,12,4,2019
+2019-04-22,PHI,NYM,Philadelphia Phillies,New York Mets,8.0,9.0,1,5,2019
+2019-04-22,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,9.0,8.5,5,13,2019
+2019-04-22,WAS,COL,Washington Nationals,Colorado Rockies,11.0,11.0,5,7,2019
+2019-04-22,CWS,BAL,Chicago White Sox,Baltimore Orioles,10.0,9.5,12,2,2019
+2019-04-22,KAN,TAM,Kansas City Royals,Tampa Bay Rays,8.0,7.5,3,6,2019
+2019-04-22,MIN,HOU,Minnesota Twins,Houston Astros,9.0,9.5,9,5,2019
+2019-04-22,NYY,LAA,New York Yankees,Los Angeles Angels,8.5,8.5,4,3,2019
+2019-04-22,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.5,1,6,2019
+2019-04-23,ATL,CIN,Atlanta Braves,Cincinnati Reds,8.5,9.5,6,7,2019
+2019-04-23,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,7.5,8.0,2,1,2019
+2019-04-23,PHI,NYM,Philadelphia Phillies,New York Mets,8.0,8.5,0,9,2019
+2019-04-23,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,9.0,3,4,2019
+2019-04-23,LAD,CUB,Los Angeles Dodgers,Chicago Cubs,8.0,8.0,2,7,2019
+2019-04-23,WAS,COL,Washington Nationals,Colorado Rockies,10.0,11.0,6,3,2019
+2019-04-23,CWS,BAL,Chicago White Sox,Baltimore Orioles,10.0,9.5,1,9,2019
+2019-04-23,KAN,TAM,Kansas City Royals,Tampa Bay Rays,8.0,8.0,2,5,2019
+2019-04-23,DET,BOS,Detroit Tigers,Boston Red Sox,9.5,9.0,4,2,2019
+2019-04-23,MIN,HOU,Minnesota Twins,Houston Astros,9.5,9.5,4,10,2019
+2019-04-23,NYY,LAA,New York Yankees,Los Angeles Angels,8.5,8.5,7,5,2019
+2019-04-23,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.0,5,11,2019
+2019-04-23,SFO,TOR,San Francisco Giants,Toronto Blue Jays,8.5,8.5,7,6,2019
+2019-04-23,MIA,CLE,Miami Marlins,Cleveland Guardians,8.0,7.5,3,1,2019
+2019-04-23,SEA,SDG,Seattle Mariners,San Diego Padres,8.0,8.0,3,6,2019
+2019-04-23,DET,BOS,Detroit Tigers,Boston Red Sox,8.0,8.0,7,4,2019
+2019-04-24,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,9.0,8.5,2,5,2019
+2019-04-24,WAS,COL,Washington Nationals,Colorado Rockies,11.0,10.5,5,9,2019
+2019-04-24,ATL,CIN,Atlanta Braves,Cincinnati Reds,9.0,9.5,3,1,2019
+2019-04-24,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,8.0,8.0,11,2,2019
+2019-04-24,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,9.0,6,0,2019
+2019-04-24,LAD,CUB,Los Angeles Dodgers,Chicago Cubs,7.5,8.0,6,7,2019
+2019-04-24,KAN,TAM,Kansas City Royals,Tampa Bay Rays,7.0,7.0,10,2,2019
+2019-04-24,TEX,OAK,Texas Rangers,Oakland Athletics,9.0,9.5,5,6,2019
+2019-04-24,CWS,BAL,Chicago White Sox,Baltimore Orioles,10.5,9.5,3,4,2019
+2019-04-24,DET,BOS,Detroit Tigers,Boston Red Sox,9.0,9.5,4,11,2019
+2019-04-24,MIN,HOU,Minnesota Twins,Houston Astros,8.5,9.0,1,7,2019
+2019-04-24,NYY,LAA,New York Yankees,Los Angeles Angels,8.5,8.5,6,5,2019
+2019-04-24,MIA,CLE,Miami Marlins,Cleveland Guardians,9.0,9.0,2,6,2019
+2019-04-24,SEA,SDG,Seattle Mariners,San Diego Padres,8.5,8.5,0,1,2019
+2019-04-24,SFO,TOR,San Francisco Giants,Toronto Blue Jays,9.0,8.5,4,0,2019
+2019-04-25,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,7.0,7.0,5,0,2019
+2019-04-25,LAD,CUB,Los Angeles Dodgers,Chicago Cubs,8.0,8.5,2,1,2019
+2019-04-25,ATL,CIN,Atlanta Braves,Cincinnati Reds,8.5,9.0,2,4,2019
+2019-04-25,MIA,PHI,Miami Marlins,Philadelphia Phillies,7.5,7.5,3,1,2019
+2019-04-25,DET,BOS,Detroit Tigers,Boston Red Sox,9.5,9.5,3,7,2019
+2019-04-25,CLE,HOU,Cleveland Guardians,Houston Astros,7.5,7.5,2,1,2019
+2019-04-25,NYY,LAA,New York Yankees,Los Angeles Angels,8.5,8.0,5,11,2019
+2019-04-25,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,8.5,2,14,2019
+2019-04-26,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.5,0,4,2019
+2019-04-26,SDG,WAS,San Diego Padres,Washington Nationals,7.5,7.0,4,3,2019
+2019-04-26,MIL,NYM,Milwaukee Brewers,New York Mets,7.0,7.0,10,2,2019
+2019-04-26,COL,ATL,Colorado Rockies,Atlanta Braves,8.5,8.5,8,4,2019
+2019-04-26,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,8.0,12,1,2019
+2019-04-26,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,8.5,9.0,3,8,2019
+2019-04-26,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,7.5,7.5,2,6,2019
+2019-04-26,OAK,TOR,Oakland Athletics,Toronto Blue Jays,8.5,9.0,2,4,2019
+2019-04-26,BAL,MIN,Baltimore Orioles,Minnesota Twins,9.5,9.5,1,6,2019
+2019-04-26,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,8.5,11,12,2019
+2019-04-26,CLE,HOU,Cleveland Guardians,Houston Astros,8.5,8.5,6,3,2019
+2019-04-26,LAA,KAN,Los Angeles Angels,Kansas City Royals,9.0,9.0,5,1,2019
+2019-04-26,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,9.5,4,5,2019
+2019-04-26,NYY,SFO,New York Yankees,San Francisco Giants,7.0,6.0,7,3,2019
+2019-04-27,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,9.0,3,6,2019
+2019-04-27,SDG,WAS,San Diego Padres,Washington Nationals,8.0,8.5,8,3,2019
+2019-04-27,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.0,9,12,2019
+2019-04-27,MIL,NYM,Milwaukee Brewers,New York Mets,7.5,7.0,8,6,2019
+2019-04-27,COL,ATL,Colorado Rockies,Atlanta Braves,8.0,8.5,9,5,2019
+2019-04-27,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,9.0,10.5,9,1,2019
+2019-04-27,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,7.0,7.5,1,3,2019
+2019-04-27,BAL,MIN,Baltimore Orioles,Minnesota Twins,9.0,9.0,2,9,2019
+2019-04-27,OAK,TOR,Oakland Athletics,Toronto Blue Jays,9.0,9.0,1,7,2019
+2019-04-27,CLE,HOU,Cleveland Guardians,Houston Astros,8.5,9.0,3,4,2019
+2019-04-27,TAM,BOS,Tampa Bay Rays,Boston Red Sox,8.5,9.0,2,1,2019
+2019-04-27,LAA,KAN,Los Angeles Angels,Kansas City Royals,9.0,9.0,4,9,2019
+2019-04-27,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.5,15,1,2019
+2019-04-27,NYY,SFO,New York Yankees,San Francisco Giants,8.0,7.5,6,4,2019
+2019-04-28,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,7.5,1,5,2019
+2019-04-28,MIL,NYM,Milwaukee Brewers,New York Mets,8.0,8.0,2,5,2019
+2019-04-28,COL,ATL,Colorado Rockies,Atlanta Braves,9.0,9.0,7,8,2019
+2019-04-28,SDG,WAS,San Diego Padres,Washington Nationals,8.5,8.5,6,7,2019
+2019-04-28,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.0,7.5,2,5,2019
+2019-04-28,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,9.0,8.5,6,5,2019
+2019-04-28,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,8.0,8.0,6,7,2019
+2019-04-28,TAM,BOS,Tampa Bay Rays,Boston Red Sox,8.5,8.0,5,2,2019
+2019-04-28,OAK,TOR,Oakland Athletics,Toronto Blue Jays,9.0,9.5,4,5,2019
+2019-04-28,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,8.0,1,4,2019
+2019-04-28,BAL,MIN,Baltimore Orioles,Minnesota Twins,9.0,9.0,1,4,2019
+2019-04-28,LAA,KAN,Los Angeles Angels,Kansas City Royals,9.0,9.5,7,3,2019
+2019-04-28,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,8.5,14,1,2019
+2019-04-28,CLE,HOU,Cleveland Guardians,Houston Astros,8.5,8.5,1,4,2019
+2019-04-28,NYY,SFO,New York Yankees,San Francisco Giants,7.5,7.5,11,5,2019
+2019-04-29,STL,WAS,St. Louis Cardinals,Washington Nationals,8.0,8.5,6,3,2019
+2019-04-29,CIN,NYM,Cincinnati Reds,New York Mets,8.0,7.5,5,4,2019
+2019-04-29,SDG,ATL,San Diego Padres,Atlanta Braves,8.5,9.0,1,3,2019
+2019-04-29,COL,MIL,Colorado Rockies,Milwaukee Brewers,8.5,8.5,1,5,2019
+2019-04-29,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,8.0,2,3,2019
+2019-04-29,OAK,BOS,Oakland Athletics,Boston Red Sox,9.0,9.0,4,9,2019
+2019-04-29,HOU,MIN,Houston Astros,Minnesota Twins,8.0,8.0,0,1,2019
+2019-04-29,BAL,CWS,Baltimore Orioles,Chicago White Sox,8.5,8.5,3,5,2019
+2019-04-29,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.5,8.5,8,5,2019
+2019-04-30,STL,WAS,St. Louis Cardinals,Washington Nationals,9.0,9.5,3,2,2019
+2019-04-30,CIN,NYM,Cincinnati Reds,New York Mets,8.0,7.5,3,4,2019
+2019-04-30,SDG,ATL,San Diego Padres,Atlanta Braves,8.5,8.5,4,3,2019
+2019-04-30,COL,MIL,Colorado Rockies,Milwaukee Brewers,8.5,8.0,3,4,2019
+2019-04-30,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,7.0,10,3,2019
+2019-04-30,OAK,BOS,Oakland Athletics,Boston Red Sox,9.5,9.5,1,5,2019
+2019-04-30,HOU,MIN,Houston Astros,Minnesota Twins,8.5,7.5,11,0,2019
+2019-04-30,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,8.5,9.0,3,4,2019
+2019-04-30,DET,PHI,Detroit Tigers,Philadelphia Phillies,8.5,8.5,3,1,2019
+2019-04-30,CLE,MIA,Cleveland Guardians,Miami Marlins,7.0,7.0,7,4,2019
+2019-04-30,PIT,TEX,Pittsburgh Pirates,Texas Rangers,10.0,11.0,6,4,2019
+2019-04-30,NYY,ARI,New York Yankees,Arizona Diamondbacks,8.5,8.5,1,3,2019
+2019-04-30,CUB,SEA,Chicago Cubs,Seattle Mariners,8.5,9.0,6,5,2019
+2019-05-01,STL,WAS,St. Louis Cardinals,Washington Nationals,7.5,7.5,5,1,2019
+2019-05-01,CIN,NYM,Cincinnati Reds,New York Mets,7.0,7.0,1,0,2019
+2019-05-01,SDG,ATL,San Diego Padres,Atlanta Braves,9.0,9.0,1,5,2019
+2019-05-01,COL,MIL,Colorado Rockies,Milwaukee Brewers,9.0,8.5,11,4,2019
+2019-05-01,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.0,7.0,1,2,2019
+2019-05-01,OAK,BOS,Oakland Athletics,Boston Red Sox,9.5,9.5,3,7,2019
+2019-05-01,HOU,MIN,Houston Astros,Minnesota Twins,8.5,9.0,2,6,2019
+2019-05-01,BAL,CWS,Baltimore Orioles,Chicago White Sox,8.5,9.0,5,4,2019
+2019-05-01,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.5,8.0,2,8,2019
+2019-05-01,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,8.5,8.5,3,6,2019
+2019-05-01,PIT,TEX,Pittsburgh Pirates,Texas Rangers,10.5,10.5,7,5,2019
+2019-05-01,NYY,ARI,New York Yankees,Arizona Diamondbacks,8.5,7.5,2,3,2019
+2019-05-01,CUB,SEA,Chicago Cubs,Seattle Mariners,8.5,9.0,11,0,2019
+2019-05-01,DET,PHI,Detroit Tigers,Philadelphia Phillies,8.5,8.0,3,7,2019
+2019-05-01,CLE,MIA,Cleveland Guardians,Miami Marlins,7.0,6.5,2,4,2019
+2019-05-01,BAL,CWS,Baltimore Orioles,Chicago White Sox,8.5,9.0,6,7,2019
+2019-05-01,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.5,8.5,2,3,2019
+2019-05-02,CIN,NYM,Cincinnati Reds,New York Mets,7.5,7.5,0,1,2019
+2019-05-02,SDG,ATL,San Diego Padres,Atlanta Braves,8.5,8.5,11,2,2019
+2019-05-02,COL,MIL,Colorado Rockies,Milwaukee Brewers,9.0,8.0,11,6,2019
+2019-05-02,STL,WAS,St. Louis Cardinals,Washington Nationals,8.5,8.5,1,2,2019
+2019-05-02,HOU,MIN,Houston Astros,Minnesota Twins,8.5,8.0,2,8,2019
+2019-05-02,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.5,8.0,3,1,2019
+2019-05-02,BOS,CWS,Boston Red Sox,Chicago White Sox,8.5,9.0,4,6,2019
+2019-05-02,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,8.5,8.5,2,6,2019
+2019-05-03,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.5,7.5,0,4,2019
+2019-05-03,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.0,9.0,2,4,2019
+2019-05-03,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,8.0,7,2,2019
+2019-05-03,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.5,8.0,12,11,2019
+2019-05-03,NYM,MIL,New York Mets,Milwaukee Brewers,8.5,8.5,1,3,2019
+2019-05-03,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,11.0,10,9,2019
+2019-05-03,LAD,SDG,Los Angeles Dodgers,San Diego Padres,7.0,7.5,4,3,2019
+2019-05-03,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.5,7,0,2019
+2019-05-03,MIN,NYY,Minnesota Twins,New York Yankees,8.0,7.5,3,6,2019
+2019-05-03,KAN,DET,Kansas City Royals,Detroit Tigers,8.0,8.0,3,4,2019
+2019-05-03,SEA,CLE,Seattle Mariners,Cleveland Guardians,8.5,8.5,1,2,2019
+2019-05-03,TOR,TEX,Toronto Blue Jays,Texas Rangers,9.5,9.0,1,0,2019
+2019-05-03,BOS,CWS,Boston Red Sox,Chicago White Sox,8.5,8.0,6,1,2019
+2019-05-03,OAK,PIT,Oakland Athletics,Pittsburgh Pirates,8.0,7.5,14,1,2019
+2019-05-04,STL,CUB,St. Louis Cardinals,Chicago Cubs,8.0,8.5,5,6,2019
+2019-05-04,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,7.5,9,2,2019
+2019-05-04,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.0,8.0,10,8,2019
+2019-05-04,NYM,MIL,New York Mets,Milwaukee Brewers,9.0,9.0,3,4,2019
+2019-05-04,SFO,CIN,San Francisco Giants,Cincinnati Reds,9.0,8.5,2,9,2019
+2019-05-04,ARI,COL,Arizona Diamondbacks,Colorado Rockies,10.5,10.5,9,2,2019
+2019-05-04,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.0,7.5,7,6,2019
+2019-05-04,MIN,NYY,Minnesota Twins,New York Yankees,8.5,9.0,7,3,2019
+2019-05-04,SEA,CLE,Seattle Mariners,Cleveland Guardians,8.0,8.5,4,5,2019
+2019-05-04,KAN,DET,Kansas City Royals,Detroit Tigers,8.5,9.0,15,3,2019
+2019-05-04,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.5,9.0,0,3,2019
+2019-05-04,HOU,LAA,Houston Astros,Los Angeles Angels,9.5,10.5,14,2,2019
+2019-05-04,BOS,CWS,Boston Red Sox,Chicago White Sox,9.0,9.0,15,2,2019
+2019-05-04,TOR,TEX,Toronto Blue Jays,Texas Rangers,10.5,10.0,5,8,2019
+2019-05-04,OAK,PIT,Oakland Athletics,Pittsburgh Pirates,7.5,7.5,4,6,2019
+2019-05-05,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,7.5,3,1,2019
+2019-05-05,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.5,8.5,1,7,2019
+2019-05-05,NYM,MIL,New York Mets,Milwaukee Brewers,9.0,9.0,2,3,2019
+2019-05-05,ARI,COL,Arizona Diamondbacks,Colorado Rockies,9.5,9.5,7,8,2019
+2019-05-05,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.0,8.0,5,8,2019
+2019-05-05,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.0,8.0,6,5,2019
+2019-05-05,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.5,10.0,5,13,2019
+2019-05-05,MIN,NYY,Minnesota Twins,New York Yankees,8.5,8.5,1,4,2019
+2019-05-05,SEA,CLE,Seattle Mariners,Cleveland Guardians,9.0,9.0,10,0,2019
+2019-05-05,KAN,DET,Kansas City Royals,Detroit Tigers,8.0,8.5,2,5,2019
+2019-05-05,BOS,CWS,Boston Red Sox,Chicago White Sox,9.5,9.5,9,2,2019
+2019-05-05,TOR,TEX,Toronto Blue Jays,Texas Rangers,11.0,10.5,2,10,2019
+2019-05-05,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,10.0,10,4,2019
+2019-05-05,OAK,PIT,Oakland Athletics,Pittsburgh Pirates,8.5,8.0,3,5,2019
+2019-05-06,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.5,8.0,4,12,2019
+2019-05-06,WAS,MIL,Washington Nationals,Milwaukee Brewers,8.0,7.5,3,5,2019
+2019-05-06,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,8.5,9.0,0,6,2019
+2019-05-06,MIA,CUB,Miami Marlins,Chicago Cubs,7.0,7.0,6,5,2019
+2019-05-06,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,7.5,8.0,3,5,2019
+2019-05-06,NYM,SDG,New York Mets,San Diego Padres,7.0,6.5,0,4,2019
+2019-05-06,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,9.0,9,1,2019
+2019-05-06,SEA,NYY,Seattle Mariners,New York Yankees,9.0,9.0,3,7,2019
+2019-05-06,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.5,1,4,2019
+2019-05-06,MIN,TOR,Minnesota Twins,Toronto Blue Jays,8.5,8.5,8,0,2019
+2019-05-06,KAN,HOU,Kansas City Royals,Houston Astros,8.0,8.0,4,6,2019
+2019-05-06,ARI,TAM,Arizona Diamondbacks,Tampa Bay Rays,7.5,7.5,1,12,2019
+2019-05-07,WAS,MIL,Washington Nationals,Milwaukee Brewers,8.5,8.0,0,6,2019
+2019-05-07,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,8.5,9.0,11,1,2019
+2019-05-07,MIA,CUB,Miami Marlins,Chicago Cubs,6.5,6.5,2,5,2019
+2019-05-07,SFO,COL,San Francisco Giants,Colorado Rockies,10.0,10.0,14,4,2019
+2019-05-07,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,7.5,7.5,0,9,2019
+2019-05-07,NYM,SDG,New York Mets,San Diego Padres,7.0,7.5,7,6,2019
+2019-05-07,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.0,8.5,2,0,2019
+2019-05-07,SEA,NYY,Seattle Mariners,New York Yankees,8.5,9.5,4,5,2019
+2019-05-07,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,10.0,8,5,2019
+2019-05-07,MIN,TOR,Minnesota Twins,Toronto Blue Jays,8.5,9.0,3,0,2019
+2019-05-07,LAA,DET,Los Angeles Angels,Detroit Tigers,8.5,9.0,5,2,2019
+2019-05-07,KAN,HOU,Kansas City Royals,Houston Astros,8.5,9.0,12,2,2019
+2019-05-07,TEX,PIT,Texas Rangers,Pittsburgh Pirates,8.5,8.5,4,5,2019
+2019-05-07,ARI,TAM,Arizona Diamondbacks,Tampa Bay Rays,8.0,8.5,3,6,2019
+2019-05-07,CIN,OAK,Cincinnati Reds,Oakland Athletics,8.5,9.0,0,2,2019
+2019-05-08,WAS,MIL,Washington Nationals,Milwaukee Brewers,9.0,8.5,3,7,2019
+2019-05-08,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,8.5,9.0,5,0,2019
+2019-05-08,NYM,SDG,New York Mets,San Diego Padres,8.5,8.0,2,3,2019
+2019-05-08,MIA,CUB,Miami Marlins,Chicago Cubs,7.5,8.0,2,3,2019
+2019-05-08,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,7.5,8.0,4,9,2019
+2019-05-08,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.5,3,5,2019
+2019-05-08,SEA,NYY,Seattle Mariners,New York Yankees,9.5,9.0,10,1,2019
+2019-05-08,BOS,BAL,Boston Red Sox,Baltimore Orioles,8.5,8.5,2,1,2019
+2019-05-08,MIN,TOR,Minnesota Twins,Toronto Blue Jays,8.5,9.0,9,1,2019
+2019-05-08,LAA,DET,Los Angeles Angels,Detroit Tigers,8.5,8.0,3,10,2019
+2019-05-08,KAN,HOU,Kansas City Royals,Houston Astros,9.0,9.0,0,9,2019
+2019-05-08,TEX,PIT,Texas Rangers,Pittsburgh Pirates,9.0,9.0,9,6,2019
+2019-05-08,ARI,TAM,Arizona Diamondbacks,Tampa Bay Rays,7.5,7.5,3,2,2019
+2019-05-08,CIN,OAK,Cincinnati Reds,Oakland Athletics,8.5,8.5,4,5,2019
+2019-05-09,MIA,CUB,Miami Marlins,Chicago Cubs,9.5,10.0,1,4,2019
+2019-05-09,SFO,COL,San Francisco Giants,Colorado Rockies,10.5,9.5,11,12,2019
+2019-05-09,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.0,8.5,4,17,2019
+2019-05-09,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,8.5,8.5,2,3,2019
+2019-05-09,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.5,7.0,6,0,2019
+2019-05-09,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,9.0,0,5,2019
+2019-05-09,LAA,DET,Los Angeles Angels,Detroit Tigers,9.0,9.5,13,0,2019
+2019-05-09,SEA,NYY,Seattle Mariners,New York Yankees,9.5,9.0,1,3,2019
+2019-05-09,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.0,2,4,2019
+2019-05-09,CIN,OAK,Cincinnati Reds,Oakland Athletics,8.0,8.5,3,0,2019
+2019-05-10,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,7.5,7,0,2019
+2019-05-10,MIA,NYM,Miami Marlins,New York Mets,7.0,7.5,2,11,2019
+2019-05-10,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.5,2,1,2019
+2019-05-10,SDG,COL,San Diego Padres,Colorado Rockies,10.0,10.0,2,12,2019
+2019-05-10,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,8.0,8.5,2,1,2019
+2019-05-10,WAS,LAD,Washington Nationals,Los Angeles Dodgers,8.0,8.5,0,5,2019
+2019-05-10,CIN,SFO,Cincinnati Reds,San Francisco Giants,7.0,7.5,7,0,2019
+2019-05-10,LAA,BAL,Los Angeles Angels,Baltimore Orioles,10.0,11.0,8,3,2019
+2019-05-10,CWS,TOR,Chicago White Sox,Toronto Blue Jays,9.0,9.0,3,4,2019
+2019-05-10,SEA,BOS,Seattle Mariners,Boston Red Sox,9.5,10.5,1,14,2019
+2019-05-10,NYY,TAM,New York Yankees,Tampa Bay Rays,7.5,7.0,4,3,2019
+2019-05-10,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,9.0,0,6,2019
+2019-05-10,TEX,HOU,Texas Rangers,Houston Astros,8.0,8.5,0,3,2019
+2019-05-10,CLE,OAK,Cleveland Guardians,Oakland Athletics,8.5,8.5,3,4,2019
+2019-05-10,PHI,KAN,Philadelphia Phillies,Kansas City Royals,9.0,9.0,1,5,2019
+2019-05-11,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,7.5,2,1,2019
+2019-05-11,MIL,CUB,Milwaukee Brewers,Chicago Cubs,7.0,7.5,1,2,2019
+2019-05-11,MIA,NYM,Miami Marlins,New York Mets,6.5,7.0,1,4,2019
+2019-05-11,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.5,9.0,6,4,2019
+2019-05-11,SDG,COL,San Diego Padres,Colorado Rockies,10.5,10.0,4,3,2019
+2019-05-11,CIN,SFO,Cincinnati Reds,San Francisco Giants,7.5,7.5,5,4,2019
+2019-05-11,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.0,7.0,5,2,2019
+2019-05-11,SEA,BOS,Seattle Mariners,Boston Red Sox,9.0,11.5,5,9,2019
+2019-05-11,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,8.5,5,3,2019
+2019-05-11,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.5,8.5,7,2,2019
+2019-05-11,LAA,BAL,Los Angeles Angels,Baltimore Orioles,9.5,9.5,7,2,2019
+2019-05-11,CLE,OAK,Cleveland Guardians,Oakland Athletics,8.5,8.0,2,3,2019
+2019-05-11,NYY,TAM,New York Yankees,Tampa Bay Rays,8.0,8.5,2,7,2019
+2019-05-11,TEX,HOU,Texas Rangers,Houston Astros,8.5,9.0,4,11,2019
+2019-05-11,PHI,KAN,Philadelphia Phillies,Kansas City Royals,9.0,9.0,7,0,2019
+2019-05-11,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.5,3,8,2019
+2019-05-12,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,9.0,10,6,2019
+2019-05-12,SDG,COL,San Diego Padres,Colorado Rockies,10.5,12.0,7,10,2019
+2019-05-12,CIN,SFO,Cincinnati Reds,San Francisco Giants,7.5,7.0,5,6,2019
+2019-05-12,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.0,7.5,0,6,2019
+2019-05-12,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.0,9.0,5,3,2019
+2019-05-12,MIL,CUB,Milwaukee Brewers,Chicago Cubs,7.5,7.0,1,4,2019
+2019-05-12,LAA,BAL,Los Angeles Angels,Baltimore Orioles,9.5,8.5,1,5,2019
+2019-05-12,SEA,BOS,Seattle Mariners,Boston Red Sox,10.5,10.0,2,11,2019
+2019-05-12,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.5,8.5,5,1,2019
+2019-05-12,NYY,TAM,New York Yankees,Tampa Bay Rays,7.0,7.0,7,1,2019
+2019-05-12,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,8.5,5,3,2019
+2019-05-12,TEX,HOU,Texas Rangers,Houston Astros,10.0,10.0,5,15,2019
+2019-05-12,CLE,OAK,Cleveland Guardians,Oakland Athletics,8.5,8.5,5,3,2019
+2019-05-12,PHI,KAN,Philadelphia Phillies,Kansas City Royals,9.5,9.0,6,1,2019
+2019-05-13,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.0,8.5,4,7,2019
+2019-05-13,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,8.5,9.0,3,9,2019
+2019-05-13,HOU,DET,Houston Astros,Detroit Tigers,8.5,9.0,8,1,2019
+2019-05-13,LAA,MIN,Los Angeles Angels,Minnesota Twins,8.5,9.0,5,4,2019
+2019-05-13,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.5,2,5,2019
+2019-05-13,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,9.0,5,6,2019
+2019-05-14,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.5,9.5,3,1,2019
+2019-05-14,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.5,8.0,6,1,2019
+2019-05-14,NYM,WAS,New York Mets,Washington Nationals,8.5,8.0,6,2,2019
+2019-05-14,STL,ATL,St. Louis Cardinals,Atlanta Braves,9.0,9.0,14,3,2019
+2019-05-14,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,9.0,9.0,6,2,2019
+2019-05-14,SDG,LAD,San Diego Padres,Los Angeles Dodgers,6.5,7.0,3,6,2019
+2019-05-14,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,8.0,9,0,2019
+2019-05-14,HOU,DET,Houston Astros,Detroit Tigers,9.5,10.5,11,4,2019
+2019-05-14,LAA,MIN,Los Angeles Angels,Minnesota Twins,8.5,9.5,3,4,2019
+2019-05-14,TEX,KAN,Texas Rangers,Kansas City Royals,9.5,10.0,5,11,2019
+2019-05-14,OAK,SEA,Oakland Athletics,Seattle Mariners,8.5,9.0,3,4,2019
+2019-05-14,TAM,MIA,Tampa Bay Rays,Miami Marlins,7.0,6.5,4,0,2019
+2019-05-14,COL,BOS,Colorado Rockies,Boston Red Sox,8.5,8.5,5,4,2019
+2019-05-14,TOR,SFO,Toronto Blue Jays,San Francisco Giants,8.0,7.5,7,3,2019
+2019-05-15,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,8.0,7.0,1,11,2019
+2019-05-15,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.0,5,6,2019
+2019-05-15,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.5,9.0,5,2,2019
+2019-05-15,NYM,WAS,New York Mets,Washington Nationals,8.0,8.5,1,5,2019
+2019-05-15,STL,ATL,St. Louis Cardinals,Atlanta Braves,9.0,9.5,0,4,2019
+2019-05-15,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,7.5,0,2,2019
+2019-05-15,LAA,MIN,Los Angeles Angels,Minnesota Twins,9.0,9.5,7,8,2019
+2019-05-15,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,9.0,1,3,2019
+2019-05-15,HOU,DET,Houston Astros,Detroit Tigers,9.5,9.5,5,1,2019
+2019-05-15,TEX,KAN,Texas Rangers,Kansas City Royals,9.5,9.5,6,1,2019
+2019-05-15,TOR,SFO,Toronto Blue Jays,San Francisco Giants,8.5,7.5,3,4,2019
+2019-05-15,TAM,MIA,Tampa Bay Rays,Miami Marlins,7.5,7.5,1,0,2019
+2019-05-15,COL,BOS,Colorado Rockies,Boston Red Sox,8.5,9.0,5,6,2019
+2019-05-15,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,9.5,3,5,2019
+2019-05-16,NYM,WAS,New York Mets,Washington Nationals,9.0,9.0,6,7,2019
+2019-05-16,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.0,9.0,11,3,2019
+2019-05-16,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.0,8.0,2,4,2019
+2019-05-16,STL,ATL,St. Louis Cardinals,Atlanta Braves,9.0,10.0,2,10,2019
+2019-05-16,PIT,SDG,Pittsburgh Pirates,San Diego Padres,8.0,7.5,3,4,2019
+2019-05-16,OAK,DET,Oakland Athletics,Detroit Tigers,8.5,8.5,17,3,2019
+2019-05-16,TEX,KAN,Texas Rangers,Kansas City Royals,10.0,10.5,16,1,2019
+2019-05-16,BAL,CLE,Baltimore Orioles,Cleveland Guardians,8.5,9.0,7,14,2019
+2019-05-16,TOR,CWS,Toronto Blue Jays,Chicago White Sox,9.0,10.0,2,4,2019
+2019-05-16,MIN,SEA,Minnesota Twins,Seattle Mariners,9.0,10.0,11,6,2019
+2019-05-17,CUB,WAS,Chicago Cubs,Washington Nationals,7.0,8.0,14,6,2019
+2019-05-17,COL,PHI,Colorado Rockies,Philadelphia Phillies,8.5,9.5,4,5,2019
+2019-05-17,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,9.0,10.0,6,0,2019
+2019-05-17,NYM,MIA,New York Mets,Miami Marlins,6.5,6.5,6,8,2019
+2019-05-17,MIL,ATL,Milwaukee Brewers,Atlanta Braves,9.5,9.0,8,12,2019
+2019-05-17,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,0,7,2019
+2019-05-17,PIT,SDG,Pittsburgh Pirates,San Diego Padres,7.0,7.0,5,3,2019
+2019-05-17,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,9.5,3,4,2019
+2019-05-17,BAL,CLE,Baltimore Orioles,Cleveland Guardians,8.5,9.0,5,1,2019
+2019-05-17,OAK,DET,Oakland Athletics,Detroit Tigers,8.5,9.0,7,2,2019
+2019-05-17,HOU,BOS,Houston Astros,Boston Red Sox,9.5,9.5,3,1,2019
+2019-05-17,TOR,CWS,Toronto Blue Jays,Chicago White Sox,9.5,9.0,10,2,2019
+2019-05-17,KAN,LAA,Kansas City Royals,Los Angeles Angels,9.0,10.0,2,5,2019
+2019-05-17,MIN,SEA,Minnesota Twins,Seattle Mariners,9.0,8.5,7,1,2019
+2019-05-17,STL,TEX,St. Louis Cardinals,Texas Rangers,11.0,11.5,3,7,2019
+2019-05-18,COL,PHI,Colorado Rockies,Philadelphia Phillies,8.5,9.5,1,2,2019
+2019-05-18,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,9.0,10.0,0,4,2019
+2019-05-18,NYM,MIA,New York Mets,Miami Marlins,7.5,7.5,0,2,2019
+2019-05-18,CUB,WAS,Chicago Cubs,Washington Nationals,7.5,8.5,2,5,2019
+2019-05-18,MIL,ATL,Milwaukee Brewers,Atlanta Braves,9.5,9.5,3,4,2019
+2019-05-18,PIT,SDG,Pittsburgh Pirates,San Diego Padres,8.0,8.0,7,2,2019
+2019-05-18,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,8.5,8,5,2019
+2019-05-18,TAM,NYY,Tampa Bay Rays,New York Yankees,8.0,8.5,2,1,2019
+2019-05-18,TOR,CWS,Toronto Blue Jays,Chicago White Sox,9.5,9.5,1,4,2019
+2019-05-18,OAK,DET,Oakland Athletics,Detroit Tigers,8.5,9.0,4,1,2019
+2019-05-18,BAL,CLE,Baltimore Orioles,Cleveland Guardians,9.0,9.0,1,4,2019
+2019-05-18,HOU,BOS,Houston Astros,Boston Red Sox,10.5,10.5,7,3,2019
+2019-05-18,KAN,LAA,Kansas City Royals,Los Angeles Angels,9.0,9.0,3,6,2019
+2019-05-18,MIN,SEA,Minnesota Twins,Seattle Mariners,9.0,9.0,18,4,2019
+2019-05-18,STL,TEX,St. Louis Cardinals,Texas Rangers,11.5,12.0,8,2,2019
+2019-05-19,COL,PHI,Colorado Rockies,Philadelphia Phillies,9.0,10.0,5,7,2019
+2019-05-19,NYM,MIA,New York Mets,Miami Marlins,7.0,7.0,0,3,2019
+2019-05-19,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,9.5,9.0,8,3,2019
+2019-05-19,MIL,ATL,Milwaukee Brewers,Atlanta Braves,9.5,9.0,3,2,2019
+2019-05-19,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,8.0,3,2,2019
+2019-05-19,PIT,SDG,Pittsburgh Pirates,San Diego Padres,8.0,8.0,6,4,2019
+2019-05-19,CUB,WAS,Chicago Cubs,Washington Nationals,9.5,10.0,6,5,2019
+2019-05-19,HOU,BOS,Houston Astros,Boston Red Sox,9.0,9.5,3,4,2019
+2019-05-19,TAM,NYY,Tampa Bay Rays,New York Yankees,9.0,9.0,5,13,2019
+2019-05-19,BAL,CLE,Baltimore Orioles,Cleveland Guardians,9.0,10.0,0,10,2019
+2019-05-19,OAK,DET,Oakland Athletics,Detroit Tigers,9.5,10.5,7,3,2019
+2019-05-19,TOR,CWS,Toronto Blue Jays,Chicago White Sox,9.0,9.5,5,2,2019
+2019-05-19,KAN,LAA,Kansas City Royals,Los Angeles Angels,9.5,8.5,5,1,2019
+2019-05-19,MIN,SEA,Minnesota Twins,Seattle Mariners,8.5,8.5,4,7,2019
+2019-05-19,STL,TEX,St. Louis Cardinals,Texas Rangers,11.0,11.0,4,5,2019
+2019-05-20,WAS,NYM,Washington Nationals,New York Mets,8.0,8.5,3,5,2019
+2019-05-20,PHI,CUB,Philadelphia Phillies,Chicago Cubs,8.0,8.5,5,4,2019
+2019-05-20,ATL,SFO,Atlanta Braves,San Francisco Giants,7.5,7.5,4,1,2019
+2019-05-20,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.0,6.5,1,2,2019
+2019-05-20,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,9.0,12,2,2019
+2019-05-20,OAK,CLE,Oakland Athletics,Cleveland Guardians,8.0,8.0,6,4,2019
+2019-05-20,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,10,7,2019
+2019-05-20,SEA,TEX,Seattle Mariners,Texas Rangers,10.5,11.0,9,10,2019
+2019-05-20,CWS,HOU,Chicago White Sox,Houston Astros,10.0,9.0,0,3,2019
+2019-05-20,MIN,LAA,Minnesota Twins,Los Angeles Angels,9.5,8.5,3,1,2019
+2019-05-21,PHI,CUB,Philadelphia Phillies,Chicago Cubs,8.0,7.5,2,3,2019
+2019-05-21,COL,PIT,Colorado Rockies,Pittsburgh Pirates,7.5,7.5,5,0,2019
+2019-05-21,WAS,NYM,Washington Nationals,New York Mets,8.0,7.5,5,6,2019
+2019-05-21,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.5,3,0,2019
+2019-05-21,ATL,SFO,Atlanta Braves,San Francisco Giants,7.5,8.0,3,4,2019
+2019-05-21,ARI,SDG,Arizona Diamondbacks,San Diego Padres,6.5,7.0,2,3,2019
+2019-05-21,OAK,CLE,Oakland Athletics,Cleveland Guardians,8.0,8.5,5,3,2019
+2019-05-21,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.5,11,4,2019
+2019-05-21,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,8.5,3,10,2019
+2019-05-21,SEA,TEX,Seattle Mariners,Texas Rangers,11.5,11.5,3,5,2019
+2019-05-21,CWS,HOU,Chicago White Sox,Houston Astros,8.0,8.5,1,5,2019
+2019-05-21,MIN,LAA,Minnesota Twins,Los Angeles Angels,9.5,9.0,8,3,2019
+2019-05-21,MIA,DET,Miami Marlins,Detroit Tigers,7.5,7.5,5,4,2019
+2019-05-21,LAD,TAM,Los Angeles Dodgers,Tampa Bay Rays,7.5,8.0,7,3,2019
+2019-05-22,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.0,7.5,9,11,2019
+2019-05-22,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,2,5,2019
+2019-05-22,COL,PIT,Colorado Rockies,Pittsburgh Pirates,8.5,8.5,9,3,2019
+2019-05-22,WAS,NYM,Washington Nationals,New York Mets,6.5,6.5,1,6,2019
+2019-05-22,PHI,CUB,Philadelphia Phillies,Chicago Cubs,10.0,10.5,4,8,2019
+2019-05-22,ATL,SFO,Atlanta Braves,San Francisco Giants,7.5,7.5,9,2,2019
+2019-05-22,OAK,CLE,Oakland Athletics,Cleveland Guardians,9.0,9.5,7,2,2019
+2019-05-22,SEA,TEX,Seattle Mariners,Texas Rangers,12.0,12.0,1,2,2019
+2019-05-22,NYY,BAL,New York Yankees,Baltimore Orioles,10.0,10.5,7,5,2019
+2019-05-22,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.5,9.0,6,5,2019
+2019-05-22,CWS,HOU,Chicago White Sox,Houston Astros,8.5,8.5,9,4,2019
+2019-05-22,KAN,STL,Kansas City Royals,St. Louis Cardinals,9.0,9.5,8,2,2019
+2019-05-22,MIA,DET,Miami Marlins,Detroit Tigers,8.5,9.0,6,3,2019
+2019-05-22,LAD,TAM,Los Angeles Dodgers,Tampa Bay Rays,8.5,8.0,1,8,2019
+2019-05-22,KAN,STL,Kansas City Royals,St. Louis Cardinals,9.5,9.5,3,10,2019
+2019-05-23,WAS,NYM,Washington Nationals,New York Mets,7.5,7.5,4,6,2019
+2019-05-23,COL,PIT,Colorado Rockies,Pittsburgh Pirates,8.5,9.0,6,14,2019
+2019-05-23,PHI,CUB,Philadelphia Phillies,Chicago Cubs,9.0,9.5,9,7,2019
+2019-05-23,ATL,SFO,Atlanta Braves,San Francisco Giants,7.5,7.5,5,4,2019
+2019-05-23,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,6,5,2019
+2019-05-23,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.0,10.0,8,2,2019
+2019-05-23,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,8.0,9.5,7,2,2019
+2019-05-23,CWS,HOU,Chicago White Sox,Houston Astros,9.0,9.0,4,0,2019
+2019-05-23,MIA,DET,Miami Marlins,Detroit Tigers,8.5,9.0,5,2,2019
+2019-05-23,MIN,LAA,Minnesota Twins,Los Angeles Angels,9.5,9.0,16,7,2019
+2019-05-24,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.5,8.0,6,5,2019
+2019-05-24,MIA,WAS,Miami Marlins,Washington Nationals,8.5,9.0,10,12,2019
+2019-05-24,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,8.5,9.0,10,2,2019
+2019-05-24,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,9.0,9.5,6,4,2019
+2019-05-24,ATL,STL,Atlanta Braves,St. Louis Cardinals,9.0,10.0,5,2,2019
+2019-05-24,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,6.5,18,2,2019
+2019-05-24,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,8.0,7.5,1,3,2019
+2019-05-24,CWS,MIN,Chicago White Sox,Minnesota Twins,9.0,9.0,4,11,2019
+2019-05-24,BOS,HOU,Boston Red Sox,Houston Astros,8.5,8.5,3,4,2019
+2019-05-24,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,9.5,2,6,2019
+2019-05-24,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,9.5,4,3,2019
+2019-05-24,SDG,TOR,San Diego Padres,Toronto Blue Jays,8.5,8.5,6,3,2019
+2019-05-24,DET,NYM,Detroit Tigers,New York Mets,7.5,8.0,9,8,2019
+2019-05-24,BAL,COL,Baltimore Orioles,Colorado Rockies,11.5,12.0,6,8,2019
+2019-05-25,CIN,CUB,Cincinnati Reds,Chicago Cubs,10.0,11.0,6,8,2019
+2019-05-25,MIA,WAS,Miami Marlins,Washington Nationals,8.0,9.0,0,5,2019
+2019-05-25,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,8.0,10,4,2019
+2019-05-25,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,9.0,10.0,7,2,2019
+2019-05-25,ATL,STL,Atlanta Braves,St. Louis Cardinals,8.5,9.5,3,6,2019
+2019-05-25,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,8.0,8.0,7,2,2019
+2019-05-25,CWS,MIN,Chicago White Sox,Minnesota Twins,10.0,10.5,1,8,2019
+2019-05-25,NYY,KAN,New York Yankees,Kansas City Royals,9.0,9.5,7,3,2019
+2019-05-25,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,9.5,5,6,2019
+2019-05-25,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,8.0,8.5,6,2,2019
+2019-05-25,BOS,HOU,Boston Red Sox,Houston Astros,8.5,8.5,3,4,2019
+2019-05-25,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.5,2,3,2019
+2019-05-25,SDG,TOR,San Diego Padres,Toronto Blue Jays,9.5,10.0,19,4,2019
+2019-05-25,DET,NYM,Detroit Tigers,New York Mets,9.0,9.0,4,5,2019
+2019-05-25,BAL,COL,Baltimore Orioles,Colorado Rockies,11.0,12.0,9,6,2019
+2019-05-25,NYY,KAN,New York Yankees,Kansas City Royals,10.0,9.5,6,5,2019
+2019-05-26,MIA,WAS,Miami Marlins,Washington Nationals,9.0,8.5,6,9,2019
+2019-05-26,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,8.5,9.0,11,7,2019
+2019-05-26,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,9.0,9.0,1,9,2019
+2019-05-26,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.0,7.5,10,2,2019
+2019-05-26,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,7.0,6,2,2019
+2019-05-26,ATL,STL,Atlanta Braves,St. Louis Cardinals,8.5,9.0,4,3,2019
+2019-05-26,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,8.5,8.5,6,3,2019
+2019-05-26,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,10.0,0,7,2019
+2019-05-26,BOS,HOU,Boston Red Sox,Houston Astros,8.5,8.0,4,1,2019
+2019-05-26,NYY,KAN,New York Yankees,Kansas City Royals,9.0,9.5,7,8,2019
+2019-05-26,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,9.0,6,7,2019
+2019-05-26,SEA,OAK,Seattle Mariners,Oakland Athletics,9.0,9.5,1,7,2019
+2019-05-26,SDG,TOR,San Diego Padres,Toronto Blue Jays,8.0,8.5,1,10,2019
+2019-05-26,DET,NYM,Detroit Tigers,New York Mets,8.0,7.5,3,4,2019
+2019-05-26,BAL,COL,Baltimore Orioles,Colorado Rockies,11.5,12.0,7,8,2019
+2019-05-27,MIA,WAS,Miami Marlins,Washington Nationals,7.5,8.0,3,2,2019
+2019-05-27,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.5,8,5,2019
+2019-05-27,ARI,COL,Arizona Diamondbacks,Colorado Rockies,10.0,10.0,3,4,2019
+2019-05-27,NYM,LAD,New York Mets,Los Angeles Dodgers,7.0,6.5,5,9,2019
+2019-05-27,DET,BAL,Detroit Tigers,Baltimore Orioles,9.5,9.5,3,5,2019
+2019-05-27,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.0,3,8,2019
+2019-05-27,KAN,CWS,Kansas City Royals,Chicago White Sox,9.5,9.5,1,2,2019
+2019-05-27,CLE,BOS,Cleveland Guardians,Boston Red Sox,9.5,10.5,5,12,2019
+2019-05-27,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.5,9.0,5,8,2019
+2019-05-27,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,9.5,2,6,2019
+2019-05-27,SDG,NYY,San Diego Padres,New York Yankees,10.0,10.0,2,5,2019
+2019-05-27,CUB,HOU,Chicago Cubs,Houston Astros,8.5,8.0,5,6,2019
+2019-05-27,MIL,MIN,Milwaukee Brewers,Minnesota Twins,10.0,9.5,5,4,2019
+2019-05-27,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.0,1,8,2019
+2019-05-28,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.5,10.0,6,11,2019
+2019-05-28,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,9.5,10.5,3,4,2019
+2019-05-28,SFO,MIA,San Francisco Giants,Miami Marlins,8.0,7.5,3,11,2019
+2019-05-28,WAS,ATL,Washington Nationals,Atlanta Braves,8.5,9.0,5,4,2019
+2019-05-28,ARI,COL,Arizona Diamondbacks,Colorado Rockies,12.5,11.5,2,6,2019
+2019-05-28,NYM,LAD,New York Mets,Los Angeles Dodgers,8.0,8.0,7,3,2019
+2019-05-28,DET,BAL,Detroit Tigers,Baltimore Orioles,9.0,9.0,3,0,2019
+2019-05-28,CLE,BOS,Cleveland Guardians,Boston Red Sox,9.5,9.0,7,5,2019
+2019-05-28,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,1,3,2019
+2019-05-28,KAN,CWS,Kansas City Royals,Chicago White Sox,8.5,8.5,3,4,2019
+2019-05-28,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.5,9.0,6,4,2019
+2019-05-28,TEX,SEA,Texas Rangers,Seattle Mariners,9.5,9.5,11,4,2019
+2019-05-28,SDG,NYY,San Diego Padres,New York Yankees,9.0,9.5,5,4,2019
+2019-05-28,CUB,HOU,Chicago Cubs,Houston Astros,9.5,9.0,6,9,2019
+2019-05-28,MIL,MIN,Milwaukee Brewers,Minnesota Twins,9.5,10.0,3,5,2019
+2019-05-29,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,10.0,10.0,7,2,2019
+2019-05-29,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,9.5,10.0,4,11,2019
+2019-05-29,SFO,MIA,San Francisco Giants,Miami Marlins,7.0,7.0,2,4,2019
+2019-05-29,WAS,ATL,Washington Nationals,Atlanta Braves,10.0,10.5,14,4,2019
+2019-05-29,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,11.0,4,5,2019
+2019-05-29,NYM,LAD,New York Mets,Los Angeles Dodgers,7.5,7.5,8,9,2019
+2019-05-29,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.5,9.0,12,7,2019
+2019-05-29,TEX,SEA,Texas Rangers,Seattle Mariners,10.0,9.5,8,7,2019
+2019-05-29,DET,BAL,Detroit Tigers,Baltimore Orioles,9.5,9.5,4,2,2019
+2019-05-29,CLE,BOS,Cleveland Guardians,Boston Red Sox,9.5,9.0,14,9,2019
+2019-05-29,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.5,7.0,3,4,2019
+2019-05-29,KAN,CWS,Kansas City Royals,Chicago White Sox,9.5,9.0,7,8,2019
+2019-05-29,SDG,NYY,San Diego Padres,New York Yankees,8.5,7.5,0,7,2019
+2019-05-29,CUB,HOU,Chicago Cubs,Houston Astros,9.0,9.0,2,1,2019
+2019-05-30,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,9.5,10.5,5,3,2019
+2019-05-30,SFO,MIA,San Francisco Giants,Miami Marlins,7.5,7.5,3,1,2019
+2019-05-30,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,12.0,10,11,2019
+2019-05-30,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,9.0,11,5,2019
+2019-05-30,NYM,LAD,New York Mets,Los Angeles Dodgers,7.5,8.5,0,2,2019
+2019-05-30,MIN,TAM,Minnesota Twins,Tampa Bay Rays,8.0,8.0,3,14,2019
+2019-05-30,KAN,TEX,Kansas City Royals,Texas Rangers,10.5,10.0,4,2,2019
+2019-05-30,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,8.5,4,10,2019
+2019-05-30,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,9.0,9,3,2019
+2019-05-31,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,9.5,4,9,2019
+2019-05-31,WAS,CIN,Washington Nationals,Cincinnati Reds,9.0,9.0,3,9,2019
+2019-05-31,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,9.0,1,2,2019
+2019-05-31,NYM,ARI,New York Mets,Arizona Diamondbacks,9.5,9.0,5,4,2019
+2019-05-31,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,8.5,9.0,3,6,2019
+2019-05-31,MIA,SDG,Miami Marlins,San Diego Padres,7.0,7.0,2,5,2019
+2019-05-31,BOS,NYY,Boston Red Sox,New York Yankees,9.5,9.0,1,4,2019
+2019-05-31,MIN,TAM,Minnesota Twins,Tampa Bay Rays,8.0,8.0,5,3,2019
+2019-05-31,KAN,TEX,Kansas City Royals,Texas Rangers,10.5,10.5,2,6,2019
+2019-05-31,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,10.0,1,6,2019
+2019-05-31,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.5,3,2,2019
+2019-05-31,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.0,9.5,3,4,2019
+2019-05-31,SFO,BAL,San Francisco Giants,Baltimore Orioles,9.0,9.0,6,9,2019
+2019-05-31,DET,ATL,Detroit Tigers,Atlanta Braves,9.0,9.5,8,2,2019
+2019-05-31,TOR,COL,Toronto Blue Jays,Colorado Rockies,11.5,12.0,6,13,2019
+2019-06-01,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,9.5,12,10,2019
+2019-06-01,WAS,CIN,Washington Nationals,Cincinnati Reds,9.5,10.5,5,2,2019
+2019-06-01,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,9.0,4,7,2019
+2019-06-01,MIA,SDG,Miami Marlins,San Diego Padres,7.5,8.0,9,3,2019
+2019-06-01,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,7.5,8.5,3,4,2019
+2019-06-01,NYM,ARI,New York Mets,Arizona Diamondbacks,7.5,7.5,5,6,2019
+2019-06-01,MIN,TAM,Minnesota Twins,Tampa Bay Rays,8.5,8.0,6,2,2019
+2019-06-01,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.5,10.5,5,2,2019
+2019-06-01,KAN,TEX,Kansas City Royals,Texas Rangers,10.5,10.5,2,6,2019
+2019-06-01,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.5,9.0,6,3,2019
+2019-06-01,BOS,NYY,Boston Red Sox,New York Yankees,9.5,9.5,3,5,2019
+2019-06-01,HOU,OAK,Houston Astros,Oakland Athletics,7.5,7.5,5,1,2019
+2019-06-01,SFO,BAL,San Francisco Giants,Baltimore Orioles,9.5,10.5,8,2,2019
+2019-06-01,DET,ATL,Detroit Tigers,Atlanta Braves,9.0,9.5,5,10,2019
+2019-06-01,TOR,COL,Toronto Blue Jays,Colorado Rockies,11.0,10.5,2,4,2019
+2019-06-02,WAS,CIN,Washington Nationals,Cincinnati Reds,8.5,8.5,4,1,2019
+2019-06-02,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.5,9.0,4,2,2019
+2019-06-02,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,9.5,1,2,2019
+2019-06-02,NYM,ARI,New York Mets,Arizona Diamondbacks,9.0,9.5,1,7,2019
+2019-06-02,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,8.5,9.0,0,8,2019
+2019-06-02,MIA,SDG,Miami Marlins,San Diego Padres,8.0,8.0,9,3,2019
+2019-06-02,MIN,TAM,Minnesota Twins,Tampa Bay Rays,8.5,8.5,9,7,2019
+2019-06-02,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.0,0,2,2019
+2019-06-02,KAN,TEX,Kansas City Royals,Texas Rangers,11.0,11.0,1,5,2019
+2019-06-02,HOU,OAK,Houston Astros,Oakland Athletics,8.0,7.5,6,4,2019
+2019-06-02,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.5,10.0,13,3,2019
+2019-06-02,BOS,NYY,Boston Red Sox,New York Yankees,9.5,10.0,8,5,2019
+2019-06-02,SFO,BAL,San Francisco Giants,Baltimore Orioles,9.5,10.0,8,1,2019
+2019-06-02,DET,ATL,Detroit Tigers,Atlanta Braves,8.5,9.0,4,7,2019
+2019-06-02,TOR,COL,Toronto Blue Jays,Colorado Rockies,11.5,12.5,1,5,2019
+2019-06-03,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,8.5,8.5,3,1,2019
+2019-06-03,PHI,SDG,Philadelphia Phillies,San Diego Padres,7.5,7.5,2,8,2019
+2019-06-03,HOU,SEA,Houston Astros,Seattle Mariners,9.5,9.5,4,2,2019
+2019-06-03,LAA,CUB,Los Angeles Angels,Chicago Cubs,9.0,9.0,1,8,2019
+2019-06-04,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,9.0,9.0,12,5,2019
+2019-06-04,SFO,NYM,San Francisco Giants,New York Mets,7.5,7.0,9,3,2019
+2019-06-04,MIA,MIL,Miami Marlins,Milwaukee Brewers,9.0,9.0,16,0,2019
+2019-06-04,COL,CUB,Colorado Rockies,Chicago Cubs,10.0,10.5,3,6,2019
+2019-06-04,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,8.5,4,1,2019
+2019-06-04,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,10.0,9,0,2019
+2019-06-04,PHI,SDG,Philadelphia Phillies,San Diego Padres,7.5,7.5,9,3,2019
+2019-06-04,NYY,TOR,New York Yankees,Toronto Blue Jays,9.5,9.0,3,4,2019
+2019-06-04,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,9.0,2,5,2019
+2019-06-04,TAM,DET,Tampa Bay Rays,Detroit Tigers,8.5,8.5,6,9,2019
+2019-06-04,BAL,TEX,Baltimore Orioles,Texas Rangers,10.5,10.5,12,11,2019
+2019-06-04,BOS,KAN,Boston Red Sox,Kansas City Royals,10.0,10.0,8,3,2019
+2019-06-04,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,4,2,2019
+2019-06-04,HOU,SEA,Houston Astros,Seattle Mariners,10.0,9.5,7,5,2019
+2019-06-04,CWS,WAS,Chicago White Sox,Washington Nationals,8.5,8.5,5,9,2019
+2019-06-05,PHI,SDG,Philadelphia Phillies,San Diego Padres,8.0,8.5,7,5,2019
+2019-06-05,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,9.5,2,3,2019
+2019-06-05,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,9.5,9.5,4,7,2019
+2019-06-05,SFO,NYM,San Francisco Giants,New York Mets,8.5,8.5,0,7,2019
+2019-06-05,MIA,MIL,Miami Marlins,Milwaukee Brewers,9.0,9.0,8,3,2019
+2019-06-05,COL,CUB,Colorado Rockies,Chicago Cubs,8.0,7.0,8,9,2019
+2019-06-05,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,8.5,7,11,2019
+2019-06-05,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.5,7,9,2019
+2019-06-05,TAM,DET,Tampa Bay Rays,Detroit Tigers,8.5,8.5,4,0,2019
+2019-06-05,BAL,TEX,Baltimore Orioles,Texas Rangers,10.0,9.0,1,2,2019
+2019-06-05,BOS,KAN,Boston Red Sox,Kansas City Royals,8.5,8.5,8,0,2019
+2019-06-05,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,9,10,2019
+2019-06-05,HOU,SEA,Houston Astros,Seattle Mariners,9.0,8.5,1,14,2019
+2019-06-05,CWS,WAS,Chicago White Sox,Washington Nationals,10.0,10.5,4,6,2019
+2019-06-06,SFO,NYM,San Francisco Giants,New York Mets,7.5,7.5,3,7,2019
+2019-06-06,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,9.0,9.5,1,6,2019
+2019-06-06,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,9.0,1,3,2019
+2019-06-06,MIA,MIL,Miami Marlins,Milwaukee Brewers,8.5,8.5,1,5,2019
+2019-06-06,COL,CUB,Colorado Rockies,Chicago Cubs,8.0,8.5,3,1,2019
+2019-06-06,WAS,SDG,Washington Nationals,San Diego Padres,7.5,7.5,4,5,2019
+2019-06-06,TAM,DET,Tampa Bay Rays,Detroit Tigers,9.0,9.0,6,1,2019
+2019-06-06,BOS,KAN,Boston Red Sox,Kansas City Royals,10.0,10.0,7,5,2019
+2019-06-06,HOU,SEA,Houston Astros,Seattle Mariners,8.0,8.0,8,7,2019
+2019-06-06,NYY,TOR,New York Yankees,Toronto Blue Jays,10.0,10.5,6,2,2019
+2019-06-06,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,8.5,5,4,2019
+2019-06-06,BAL,TEX,Baltimore Orioles,Texas Rangers,10.5,11.0,3,4,2019
+2019-06-06,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.5,7,4,2019
+2019-06-07,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.0,7.5,1,3,2019
+2019-06-07,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,9.5,9.0,2,4,2019
+2019-06-07,ATL,MIA,Atlanta Braves,Miami Marlins,7.5,7.5,7,1,2019
+2019-06-07,COL,NYM,Colorado Rockies,New York Mets,7.5,7.5,5,1,2019
+2019-06-07,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.5,4,10,2019
+2019-06-07,WAS,SDG,Washington Nationals,San Diego Padres,8.5,9.0,4,5,2019
+2019-06-07,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,7.5,1,2,2019
+2019-06-07,TAM,BOS,Tampa Bay Rays,Boston Red Sox,10.0,10.0,5,1,2019
+2019-06-07,MIN,DET,Minnesota Twins,Detroit Tigers,8.5,9.0,6,3,2019
+2019-06-07,NYY,CLE,New York Yankees,Cleveland Guardians,9.0,9.0,2,5,2019
+2019-06-07,OAK,TEX,Oakland Athletics,Texas Rangers,10.5,10.0,5,3,2019
+2019-06-07,BAL,HOU,Baltimore Orioles,Houston Astros,8.5,8.0,3,4,2019
+2019-06-07,CWS,KAN,Chicago White Sox,Kansas City Royals,10.5,10.0,4,6,2019
+2019-06-07,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.5,9.0,6,2,2019
+2019-06-07,ARI,TOR,Arizona Diamondbacks,Toronto Blue Jays,9.0,8.5,8,2,2019
+2019-06-08,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,9.0,9.5,1,4,2019
+2019-06-08,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.5,3,5,2019
+2019-06-08,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,8.0,1,0,2019
+2019-06-08,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.0,7.5,4,9,2019
+2019-06-08,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.0,8.5,7,2,2019
+2019-06-08,COL,NYM,Colorado Rockies,New York Mets,8.0,8.0,3,5,2019
+2019-06-08,WAS,SDG,Washington Nationals,San Diego Padres,7.0,7.5,4,1,2019
+2019-06-08,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,10.5,9,2,2019
+2019-06-08,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,8.5,2,0,2019
+2019-06-08,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,10.0,3,9,2019
+2019-06-08,BAL,HOU,Baltimore Orioles,Houston Astros,9.0,8.5,4,1,2019
+2019-06-08,NYY,CLE,New York Yankees,Cleveland Guardians,10.0,10.0,4,8,2019
+2019-06-08,OAK,TEX,Oakland Athletics,Texas Rangers,11.0,10.5,1,3,2019
+2019-06-08,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.5,9.5,3,12,2019
+2019-06-08,ARI,TOR,Arizona Diamondbacks,Toronto Blue Jays,8.5,8.5,6,0,2019
+2019-06-08,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.0,1,5,2019
+2019-06-08,OAK,TEX,Oakland Athletics,Texas Rangers,11.0,11.5,5,10,2019
+2019-06-09,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,8.5,8.5,4,3,2019
+2019-06-09,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,7.5,7,6,2019
+2019-06-09,COL,NYM,Colorado Rockies,New York Mets,8.0,8.0,1,6,2019
+2019-06-09,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,10.0,9.5,2,5,2019
+2019-06-09,STL,CUB,St. Louis Cardinals,Chicago Cubs,8.5,8.0,1,5,2019
+2019-06-09,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.0,7.5,1,0,2019
+2019-06-09,WAS,SDG,Washington Nationals,San Diego Padres,8.0,8.0,5,2,2019
+2019-06-09,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,8.5,6,1,2019
+2019-06-09,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.5,12,2,2019
+2019-06-09,NYY,CLE,New York Yankees,Cleveland Guardians,10.0,9.5,7,6,2019
+2019-06-09,BAL,HOU,Baltimore Orioles,Houston Astros,9.0,8.5,0,4,2019
+2019-06-09,CWS,KAN,Chicago White Sox,Kansas City Royals,10.0,9.5,5,2,2019
+2019-06-09,OAK,TEX,Oakland Athletics,Texas Rangers,11.0,11.5,9,8,2019
+2019-06-09,SEA,LAA,Seattle Mariners,Los Angeles Angels,10.0,10.5,9,3,2019
+2019-06-09,ARI,TOR,Arizona Diamondbacks,Toronto Blue Jays,9.0,9.0,8,2,2019
+2019-06-10,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,9.5,9.5,13,8,2019
+2019-06-10,STL,MIA,St. Louis Cardinals,Miami Marlins,8.0,8.5,4,1,2019
+2019-06-10,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,9.5,10.0,7,13,2019
+2019-06-10,CUB,COL,Chicago Cubs,Colorado Rockies,11.0,11.5,5,6,2019
+2019-06-10,TEX,BOS,Texas Rangers,Boston Red Sox,8.5,7.5,4,3,2019
+2019-06-10,OAK,TAM,Oakland Athletics,Tampa Bay Rays,8.5,8.5,2,6,2019
+2019-06-10,WAS,CWS,Washington Nationals,Chicago White Sox,10.5,10.5,12,1,2019
+2019-06-10,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,8.5,9.0,3,5,2019
+2019-06-11,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,9.0,9.0,4,7,2019
+2019-06-11,STL,MIA,St. Louis Cardinals,Miami Marlins,8.0,8.0,7,1,2019
+2019-06-11,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,9.5,10.0,5,7,2019
+2019-06-11,CUB,COL,Chicago Cubs,Colorado Rockies,11.5,12.0,3,10,2019
+2019-06-11,SDG,SFO,San Diego Padres,San Francisco Giants,8.0,7.5,5,6,2019
+2019-06-11,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.0,8.5,2,4,2019
+2019-06-11,OAK,TAM,Oakland Athletics,Tampa Bay Rays,8.5,9.0,4,3,2019
+2019-06-11,TEX,BOS,Texas Rangers,Boston Red Sox,10.0,10.5,9,5,2019
+2019-06-11,SEA,MIN,Seattle Mariners,Minnesota Twins,10.0,9.5,5,6,2019
+2019-06-11,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,8.5,2,3,2019
+2019-06-11,NYM,NYY,New York Mets,New York Yankees,9.0,9.0,10,4,2019
+2019-06-11,CIN,CLE,Cincinnati Reds,Cleveland Guardians,8.5,8.0,1,2,2019
+2019-06-11,MIL,HOU,Milwaukee Brewers,Houston Astros,9.0,8.5,8,10,2019
+2019-06-11,WAS,CWS,Washington Nationals,Chicago White Sox,9.5,9.5,5,7,2019
+2019-06-11,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,9.0,9.5,3,5,2019
+2019-06-11,NYM,NYY,New York Mets,New York Yankees,9.0,9.0,5,12,2019
+2019-06-12,CUB,COL,Chicago Cubs,Colorado Rockies,12.0,12.0,10,1,2019
+2019-06-12,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,9.5,9.5,2,0,2019
+2019-06-12,STL,MIA,St. Louis Cardinals,Miami Marlins,8.0,8.0,0,9,2019
+2019-06-12,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,9.5,9.0,7,8,2019
+2019-06-12,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,7.0,2,4,2019
+2019-06-12,OAK,TAM,Oakland Athletics,Tampa Bay Rays,9.0,8.5,6,2,2019
+2019-06-12,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.5,10.5,8,6,2019
+2019-06-12,TEX,BOS,Texas Rangers,Boston Red Sox,10.0,9.5,3,4,2019
+2019-06-12,SEA,MIN,Seattle Mariners,Minnesota Twins,9.5,9.0,9,6,2019
+2019-06-12,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,8.5,3,2,2019
+2019-06-12,CIN,CLE,Cincinnati Reds,Cleveland Guardians,9.0,9.5,7,2,2019
+2019-06-12,MIL,HOU,Milwaukee Brewers,Houston Astros,7.5,7.5,6,3,2019
+2019-06-13,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,9.0,9.5,5,6,2019
+2019-06-13,ARI,WAS,Arizona Diamondbacks,Washington Nationals,8.5,8.5,5,0,2019
+2019-06-13,STL,NYM,St. Louis Cardinals,New York Mets,7.5,7.0,2,4,2019
+2019-06-13,SDG,COL,San Diego Padres,Colorado Rockies,12.0,11.5,6,9,2019
+2019-06-13,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,8.0,8.0,3,7,2019
+2019-06-13,SEA,MIN,Seattle Mariners,Minnesota Twins,10.0,10.0,5,10,2019
+2019-06-13,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.0,9.0,12,3,2019
+2019-06-13,TEX,BOS,Texas Rangers,Boston Red Sox,9.0,9.0,6,7,2019
+2019-06-13,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.5,8.5,5,3,2019
+2019-06-13,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,8.5,3,7,2019
+2019-06-13,NYY,CWS,New York Yankees,Chicago White Sox,10.0,9.5,4,5,2019
+2019-06-14,ARI,WAS,Arizona Diamondbacks,Washington Nationals,7.5,7.0,3,7,2019
+2019-06-14,STL,NYM,St. Louis Cardinals,New York Mets,8.5,9.0,9,5,2019
+2019-06-14,PIT,MIA,Pittsburgh Pirates,Miami Marlins,8.0,8.5,11,0,2019
+2019-06-14,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.5,9.0,8,9,2019
+2019-06-14,SDG,COL,San Diego Padres,Colorado Rockies,12.5,12.5,16,12,2019
+2019-06-14,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,8.0,7.5,3,5,2019
+2019-06-14,MIL,SFO,Milwaukee Brewers,San Francisco Giants,8.0,8.0,3,5,2019
+2019-06-14,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,10.0,13,2,2019
+2019-06-14,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.0,7.5,4,9,2019
+2019-06-14,CLE,DET,Cleveland Guardians,Detroit Tigers,9.5,9.5,13,4,2019
+2019-06-14,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,10.0,0,2,2019
+2019-06-14,NYY,CWS,New York Yankees,Chicago White Sox,9.0,9.0,2,10,2019
+2019-06-14,TOR,HOU,Toronto Blue Jays,Houston Astros,8.5,8.0,2,15,2019
+2019-06-14,SEA,OAK,Seattle Mariners,Oakland Athletics,9.0,9.5,9,2,2019
+2019-06-14,TEX,CIN,Texas Rangers,Cincinnati Reds,10.0,9.0,7,1,2019
+2019-06-15,MIL,SFO,Milwaukee Brewers,San Francisco Giants,8.0,7.5,7,8,2019
+2019-06-15,ARI,WAS,Arizona Diamondbacks,Washington Nationals,9.0,9.0,10,3,2019
+2019-06-15,PIT,MIA,Pittsburgh Pirates,Miami Marlins,8.5,8.0,3,4,2019
+2019-06-15,STL,NYM,St. Louis Cardinals,New York Mets,8.0,9.0,7,8,2019
+2019-06-15,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.0,9.5,6,5,2019
+2019-06-15,SDG,COL,San Diego Padres,Colorado Rockies,11.5,11.5,8,14,2019
+2019-06-15,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,8.0,8.0,2,1,2019
+2019-06-15,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.5,8.0,5,3,2019
+2019-06-15,BOS,BAL,Boston Red Sox,Baltimore Orioles,8.5,9.0,7,2,2019
+2019-06-15,TOR,HOU,Toronto Blue Jays,Houston Astros,9.0,9.0,2,7,2019
+2019-06-15,CLE,DET,Cleveland Guardians,Detroit Tigers,9.5,9.0,4,2,2019
+2019-06-15,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,9.0,4,5,2019
+2019-06-15,NYY,CWS,New York Yankees,Chicago White Sox,10.5,9.5,8,4,2019
+2019-06-15,SEA,OAK,Seattle Mariners,Oakland Athletics,9.5,9.0,2,11,2019
+2019-06-15,TEX,CIN,Texas Rangers,Cincinnati Reds,9.0,8.5,4,3,2019
+2019-06-16,STL,NYM,St. Louis Cardinals,New York Mets,8.5,9.0,4,3,2019
+2019-06-16,PIT,MIA,Pittsburgh Pirates,Miami Marlins,8.0,8.0,5,4,2019
+2019-06-16,PHI,ATL,Philadelphia Phillies,Atlanta Braves,10.5,10.5,1,15,2019
+2019-06-16,ARI,WAS,Arizona Diamondbacks,Washington Nationals,10.0,9.5,5,15,2019
+2019-06-16,SDG,COL,San Diego Padres,Colorado Rockies,12.0,13.0,14,13,2019
+2019-06-16,MIL,SFO,Milwaukee Brewers,San Francisco Giants,8.5,8.0,5,3,2019
+2019-06-16,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,7.5,8.0,2,3,2019
+2019-06-16,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.0,10.5,8,6,2019
+2019-06-16,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.5,8.5,5,6,2019
+2019-06-16,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.0,8,0,2019
+2019-06-16,KAN,MIN,Kansas City Royals,Minnesota Twins,10.0,9.5,8,6,2019
+2019-06-16,NYY,CWS,New York Yankees,Chicago White Sox,9.5,9.0,10,3,2019
+2019-06-16,TOR,HOU,Toronto Blue Jays,Houston Astros,8.5,9.0,12,0,2019
+2019-06-16,SEA,OAK,Seattle Mariners,Oakland Athletics,9.5,9.5,6,3,2019
+2019-06-16,TEX,CIN,Texas Rangers,Cincinnati Reds,9.0,8.5,3,11,2019
+2019-06-17,NYM,ATL,New York Mets,Atlanta Braves,8.5,9.0,3,12,2019
+2019-06-17,MIA,STL,Miami Marlins,St. Louis Cardinals,8.5,8.0,0,5,2019
+2019-06-17,MIL,SDG,Milwaukee Brewers,San Diego Padres,8.5,8.0,0,2,2019
+2019-06-17,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,8.5,3,2,2019
+2019-06-17,TAM,NYY,Tampa Bay Rays,New York Yankees,9.5,9.5,0,3,2019
+2019-06-17,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,10.0,11.0,10,5,2019
+2019-06-17,CLE,TEX,Cleveland Guardians,Texas Rangers,10.0,9.5,2,7,2019
+2019-06-17,BOS,MIN,Boston Red Sox,Minnesota Twins,10.0,10.5,2,0,2019
+2019-06-17,BAL,OAK,Baltimore Orioles,Oakland Athletics,9.0,9.0,2,3,2019
+2019-06-17,KAN,SEA,Kansas City Royals,Seattle Mariners,9.0,8.5,6,4,2019
+2019-06-17,HOU,CIN,Houston Astros,Cincinnati Reds,8.5,8.5,2,3,2019
+2019-06-18,NYM,ATL,New York Mets,Atlanta Braves,8.5,9.0,10,2,2019
+2019-06-18,MIA,STL,Miami Marlins,St. Louis Cardinals,8.0,8.0,6,0,2019
+2019-06-18,COL,ARI,Colorado Rockies,Arizona Diamondbacks,10.0,10.0,8,1,2019
+2019-06-18,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,7.5,0,9,2019
+2019-06-18,MIL,SDG,Milwaukee Brewers,San Diego Padres,8.0,8.0,1,4,2019
+2019-06-18,TAM,NYY,Tampa Bay Rays,New York Yankees,9.5,9.5,3,6,2019
+2019-06-18,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,9.0,9.5,3,1,2019
+2019-06-18,CLE,TEX,Cleveland Guardians,Texas Rangers,10.5,10.5,10,3,2019
+2019-06-18,BOS,MIN,Boston Red Sox,Minnesota Twins,10.0,9.5,3,4,2019
+2019-06-18,BAL,OAK,Baltimore Orioles,Oakland Athletics,9.0,9.0,2,16,2019
+2019-06-18,KAN,SEA,Kansas City Royals,Seattle Mariners,9.5,9.0,9,0,2019
+2019-06-18,DET,PIT,Detroit Tigers,Pittsburgh Pirates,9.0,9.0,5,4,2019
+2019-06-18,HOU,CIN,Houston Astros,Cincinnati Reds,8.0,8.5,3,4,2019
+2019-06-18,CWS,CUB,Chicago White Sox,Chicago Cubs,9.0,8.5,3,1,2019
+2019-06-19,MIL,SDG,Milwaukee Brewers,San Diego Padres,8.5,8.5,7,8,2019
+2019-06-19,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.5,8.5,0,2,2019
+2019-06-19,NYM,ATL,New York Mets,Atlanta Braves,9.5,10.0,2,7,2019
+2019-06-19,MIA,STL,Miami Marlins,St. Louis Cardinals,8.5,8.5,1,2,2019
+2019-06-19,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,8.5,6,4,2019
+2019-06-19,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,7.5,2,9,2019
+2019-06-19,TAM,NYY,Tampa Bay Rays,New York Yankees,9.5,9.0,1,12,2019
+2019-06-19,BAL,OAK,Baltimore Orioles,Oakland Athletics,9.5,9.5,3,8,2019
+2019-06-19,KAN,SEA,Kansas City Royals,Seattle Mariners,9.0,8.5,2,8,2019
+2019-06-19,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,10.0,10.5,11,6,2019
+2019-06-19,CLE,TEX,Cleveland Guardians,Texas Rangers,11.0,11.0,10,4,2019
+2019-06-19,BOS,MIN,Boston Red Sox,Minnesota Twins,9.5,9.5,9,4,2019
+2019-06-19,HOU,CIN,Houston Astros,Cincinnati Reds,8.5,8.0,2,3,2019
+2019-06-19,DET,PIT,Detroit Tigers,Pittsburgh Pirates,8.5,9.0,7,8,2019
+2019-06-19,CWS,CUB,Chicago White Sox,Chicago Cubs,7.0,7.0,3,7,2019
+2019-06-19,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.5,9.5,2,6,2019
+2019-06-20,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,8.5,6,4,2019
+2019-06-20,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.5,10.5,4,7,2019
+2019-06-20,MIA,STL,Miami Marlins,St. Louis Cardinals,8.5,8.0,7,6,2019
+2019-06-20,NYM,CUB,New York Mets,Chicago Cubs,8.5,9.5,4,7,2019
+2019-06-20,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.5,7,1,2019
+2019-06-20,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.0,7.5,8,9,2019
+2019-06-20,CLE,TEX,Cleveland Guardians,Texas Rangers,9.5,9.0,2,4,2019
+2019-06-20,HOU,NYY,Houston Astros,New York Yankees,9.5,10.0,6,10,2019
+2019-06-20,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,10.0,10.5,5,7,2019
+2019-06-20,MIN,KAN,Minnesota Twins,Kansas City Royals,9.5,9.5,1,4,2019
+2019-06-20,TAM,OAK,Tampa Bay Rays,Oakland Athletics,8.5,7.5,4,5,2019
+2019-06-20,BAL,SEA,Baltimore Orioles,Seattle Mariners,9.0,9.0,2,5,2019
+2019-06-21,NYM,CUB,New York Mets,Chicago Cubs,8.5,9.0,5,4,2019
+2019-06-21,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.0,2,1,2019
+2019-06-21,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,9.5,3,4,2019
+2019-06-21,SDG,PIT,San Diego Padres,Pittsburgh Pirates,9.0,9.5,1,2,2019
+2019-06-21,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,8.5,11,7,2019
+2019-06-21,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.5,10.0,11,5,2019
+2019-06-21,COL,LAD,Colorado Rockies,Los Angeles Dodgers,7.5,7.5,2,4,2019
+2019-06-21,HOU,NYY,Houston Astros,New York Yankees,9.5,9.5,1,4,2019
+2019-06-21,TOR,BOS,Toronto Blue Jays,Boston Red Sox,8.5,8.5,5,7,2019
+2019-06-21,DET,CLE,Detroit Tigers,Cleveland Guardians,8.5,7.5,6,7,2019
+2019-06-21,CWS,TEX,Chicago White Sox,Texas Rangers,11.0,11.5,5,4,2019
+2019-06-21,MIN,KAN,Minnesota Twins,Kansas City Royals,10.0,10.5,8,7,2019
+2019-06-21,TAM,OAK,Tampa Bay Rays,Oakland Athletics,9.0,9.0,5,3,2019
+2019-06-21,BAL,SEA,Baltimore Orioles,Seattle Mariners,8.5,9.0,9,10,2019
+2019-06-21,LAA,STL,Los Angeles Angels,St. Louis Cardinals,9.5,9.5,1,5,2019
+2019-06-22,NYM,CUB,New York Mets,Chicago Cubs,8.5,8.5,10,2,2019
+2019-06-22,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.0,9.0,5,3,2019
+2019-06-22,SDG,PIT,San Diego Padres,Pittsburgh Pirates,9.0,9.0,3,6,2019
+2019-06-22,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,9.0,5,6,2019
+2019-06-22,ATL,WAS,Atlanta Braves,Washington Nationals,10.0,10.5,13,9,2019
+2019-06-22,COL,LAD,Colorado Rockies,Los Angeles Dodgers,7.5,8.5,4,5,2019
+2019-06-22,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,10.0,10.0,7,4,2019
+2019-06-22,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,10.0,5,3,2019
+2019-06-22,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.5,11.5,8,7,2019
+2019-06-22,TAM,OAK,Tampa Bay Rays,Oakland Athletics,9.0,9.0,2,4,2019
+2019-06-22,BAL,SEA,Baltimore Orioles,Seattle Mariners,9.0,9.0,8,4,2019
+2019-06-22,DET,CLE,Detroit Tigers,Cleveland Guardians,9.0,9.0,0,2,2019
+2019-06-22,HOU,NYY,Houston Astros,New York Yankees,9.5,10.5,5,7,2019
+2019-06-22,CWS,TEX,Chicago White Sox,Texas Rangers,11.0,10.5,5,6,2019
+2019-06-22,LAA,STL,Los Angeles Angels,St. Louis Cardinals,9.0,9.5,2,4,2019
+2019-06-23,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.0,9.0,6,4,2019
+2019-06-23,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,10.5,4,3,2019
+2019-06-23,SDG,PIT,San Diego Padres,Pittsburgh Pirates,9.0,9.5,10,11,2019
+2019-06-23,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.0,5,7,2019
+2019-06-23,NYM,CUB,New York Mets,Chicago Cubs,8.5,8.5,3,5,2019
+2019-06-23,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.0,3,6,2019
+2019-06-23,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,2,3,2019
+2019-06-23,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,10.0,6,1,2019
+2019-06-23,DET,CLE,Detroit Tigers,Cleveland Guardians,9.0,9.5,3,8,2019
+2019-06-23,HOU,NYY,Houston Astros,New York Yankees,9.0,10.0,9,4,2019
+2019-06-23,MIN,KAN,Minnesota Twins,Kansas City Royals,10.0,10.5,1,6,2019
+2019-06-23,CWS,TEX,Chicago White Sox,Texas Rangers,11.0,12.0,4,7,2019
+2019-06-23,TAM,OAK,Tampa Bay Rays,Oakland Athletics,9.0,9.0,8,2,2019
+2019-06-23,BAL,SEA,Baltimore Orioles,Seattle Mariners,9.5,10.0,3,13,2019
+2019-06-23,LAA,STL,Los Angeles Angels,St. Louis Cardinals,9.0,9.0,6,4,2019
+2019-06-24,NYM,PHI,New York Mets,Philadelphia Phillies,9.5,10.0,7,13,2019
+2019-06-24,ATL,CUB,Atlanta Braves,Chicago Cubs,10.5,12.0,3,8,2019
+2019-06-24,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,8.0,8.5,5,8,2019
+2019-06-24,COL,SFO,Colorado Rockies,San Francisco Giants,8.5,7.5,2,0,2019
+2019-06-24,TOR,NYY,Toronto Blue Jays,New York Yankees,10.5,11.0,8,10,2019
+2019-06-24,CWS,BOS,Chicago White Sox,Boston Red Sox,9.5,9.0,5,6,2019
+2019-06-24,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,10.0,2,3,2019
+2019-06-25,NYM,PHI,New York Mets,Philadelphia Phillies,10.0,11.0,5,7,2019
+2019-06-25,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.0,6,1,2019
+2019-06-25,ATL,CUB,Atlanta Braves,Chicago Cubs,11.5,12.5,3,2,2019
+2019-06-25,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.5,3,2,2019
+2019-06-25,COL,SFO,Colorado Rockies,San Francisco Giants,7.5,8.0,2,4,2019
+2019-06-25,TOR,NYY,Toronto Blue Jays,New York Yankees,11.5,12.5,3,4,2019
+2019-06-25,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.5,8,6,2019
+2019-06-25,CWS,BOS,Chicago White Sox,Boston Red Sox,9.5,10.5,3,6,2019
+2019-06-25,TEX,DET,Texas Rangers,Detroit Tigers,9.5,10.0,5,3,2019
+2019-06-25,TAM,MIN,Tampa Bay Rays,Minnesota Twins,9.0,9.5,4,9,2019
+2019-06-25,SDG,BAL,San Diego Padres,Baltimore Orioles,9.5,11.0,8,3,2019
+2019-06-25,SEA,MIL,Seattle Mariners,Milwaukee Brewers,9.5,10.5,8,3,2019
+2019-06-25,PIT,HOU,Pittsburgh Pirates,Houston Astros,8.5,9.0,1,5,2019
+2019-06-25,OAK,STL,Oakland Athletics,St. Louis Cardinals,9.0,9.0,7,3,2019
+2019-06-25,CIN,LAA,Cincinnati Reds,Los Angeles Angels,9.0,9.0,1,5,2019
+2019-06-26,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,10.0,10.0,2,8,2019
+2019-06-26,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,7.5,6,3,2019
+2019-06-26,NYM,PHI,New York Mets,Philadelphia Phillies,10.0,11.0,4,5,2019
+2019-06-26,WAS,MIA,Washington Nationals,Miami Marlins,8.0,7.5,7,5,2019
+2019-06-26,ATL,CUB,Atlanta Braves,Chicago Cubs,9.5,9.5,5,3,2019
+2019-06-26,CWS,BOS,Chicago White Sox,Boston Red Sox,9.0,9.0,8,7,2019
+2019-06-26,TOR,NYY,Toronto Blue Jays,New York Yankees,10.0,10.0,7,8,2019
+2019-06-26,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,8.5,3,5,2019
+2019-06-26,TEX,DET,Texas Rangers,Detroit Tigers,9.0,8.5,4,1,2019
+2019-06-26,TAM,MIN,Tampa Bay Rays,Minnesota Twins,9.0,9.0,4,6,2019
+2019-06-26,SDG,BAL,San Diego Padres,Baltimore Orioles,10.0,10.0,10,5,2019
+2019-06-26,OAK,STL,Oakland Athletics,St. Louis Cardinals,10.0,9.5,2,0,2019
+2019-06-26,CIN,LAA,Cincinnati Reds,Los Angeles Angels,9.0,9.5,1,5,2019
+2019-06-26,PIT,HOU,Pittsburgh Pirates,Houston Astros,9.5,9.5,14,2,2019
+2019-06-26,SEA,MIL,Seattle Mariners,Milwaukee Brewers,10.0,10.5,4,2,2019
+2019-06-27,NYM,PHI,New York Mets,Philadelphia Phillies,9.5,9.0,3,6,2019
+2019-06-27,ATL,CUB,Atlanta Braves,Chicago Cubs,10.0,11.0,7,9,2019
+2019-06-27,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.5,8,5,2019
+2019-06-27,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.0,12.5,12,8,2019
+2019-06-27,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.5,8.5,5,1,2019
+2019-06-27,TEX,DET,Texas Rangers,Detroit Tigers,9.5,9.5,3,1,2019
+2019-06-27,TAM,MIN,Tampa Bay Rays,Minnesota Twins,10.0,10.0,5,2,2019
+2019-06-27,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.5,9.5,3,8,2019
+2019-06-27,SEA,MIL,Seattle Mariners,Milwaukee Brewers,10.5,10.5,2,4,2019
+2019-06-27,PIT,HOU,Pittsburgh Pirates,Houston Astros,9.5,9.5,10,0,2019
+2019-06-28,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.0,3,6,2019
+2019-06-28,ATL,NYM,Atlanta Braves,New York Mets,7.5,8.0,6,2,2019
+2019-06-28,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.5,8.5,2,6,2019
+2019-06-28,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,10.0,10.5,3,2,2019
+2019-06-28,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.5,13.0,9,13,2019
+2019-06-28,STL,SDG,St. Louis Cardinals,San Diego Padres,8.5,9.0,1,3,2019
+2019-06-28,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,7.5,3,6,2019
+2019-06-28,CLE,BAL,Cleveland Guardians,Baltimore Orioles,9.0,9.0,0,13,2019
+2019-06-28,KAN,TOR,Kansas City Royals,Toronto Blue Jays,9.5,9.5,2,6,2019
+2019-06-28,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.5,8.0,5,0,2019
+2019-06-28,SEA,HOU,Seattle Mariners,Houston Astros,9.5,9.5,1,2,2019
+2019-06-28,MIN,CWS,Minnesota Twins,Chicago White Sox,10.5,10.0,4,6,2019
+2019-06-28,OAK,LAA,Oakland Athletics,Los Angeles Angels,10.0,10.0,7,2,2019
+2019-06-28,WAS,DET,Washington Nationals,Detroit Tigers,9.5,10.5,3,1,2019
+2019-06-29,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,8.5,6,9,2019
+2019-06-29,ATL,NYM,Atlanta Braves,New York Mets,9.0,10.5,5,4,2019
+2019-06-29,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,6,0,2019
+2019-06-29,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.5,9.0,1,3,2019
+2019-06-29,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.5,12.5,3,5,2019
+2019-06-29,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,7.0,4,3,2019
+2019-06-29,STL,SDG,St. Louis Cardinals,San Diego Padres,8.0,8.0,2,12,2019
+2019-06-29,NYY,BOS,New York Yankees,Boston Red Sox,11.0,11.5,17,13,2019
+2019-06-29,CLE,BAL,Cleveland Guardians,Baltimore Orioles,9.5,11.0,0,13,2019
+2019-06-29,KAN,TOR,Kansas City Royals,Toronto Blue Jays,9.0,9.0,5,7,2019
+2019-06-29,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.5,8.0,2,5,2019
+2019-06-29,MIN,CWS,Minnesota Twins,Chicago White Sox,10.0,10.5,10,3,2019
+2019-06-29,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.5,5,6,2019
+2019-06-29,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.5,9.5,4,0,2019
+2019-06-29,WAS,DET,Washington Nationals,Detroit Tigers,11.0,11.0,5,7,2019
+2019-06-30,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.5,8.5,13,6,2019
+2019-06-30,CUB,CIN,Chicago Cubs,Cincinnati Reds,10.0,10.5,6,8,2019
+2019-06-30,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,10.5,10.5,1,2,2019
+2019-06-30,LAD,COL,Los Angeles Dodgers,Colorado Rockies,13.0,14.0,10,5,2019
+2019-06-30,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,7.0,4,10,2019
+2019-06-30,STL,SDG,St. Louis Cardinals,San Diego Padres,8.0,8.0,5,3,2019
+2019-06-30,ATL,NYM,Atlanta Braves,New York Mets,9.0,8.5,5,8,2019
+2019-06-30,NYY,BOS,New York Yankees,Boston Red Sox,16.0,15.0,12,8,2019
+2019-06-30,CLE,BAL,Cleveland Guardians,Baltimore Orioles,10.0,10.5,2,0,2019
+2019-06-30,KAN,TOR,Kansas City Royals,Toronto Blue Jays,9.5,9.5,7,6,2019
+2019-06-30,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.5,7.5,2,6,2019
+2019-06-30,SEA,HOU,Seattle Mariners,Houston Astros,9.5,8.5,1,6,2019
+2019-06-30,MIN,CWS,Minnesota Twins,Chicago White Sox,10.0,9.0,3,4,2019
+2019-06-30,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.5,10.5,12,3,2019
+2019-06-30,WAS,DET,Washington Nationals,Detroit Tigers,8.5,9.0,2,1,2019
+2019-07-01,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,9.5,5,18,2019
+2019-07-01,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.5,10.5,8,6,2019
+2019-07-01,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,8.5,13,2,2019
+2019-07-01,KAN,TOR,Kansas City Royals,Toronto Blue Jays,10.0,10.5,4,11,2019
+2019-07-01,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,9.0,3,6,2019
+2019-07-02,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,9.5,1,5,2019
+2019-07-02,MIA,WAS,Miami Marlins,Washington Nationals,9.0,9.0,2,3,2019
+2019-07-02,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,10.0,10.5,4,5,2019
+2019-07-02,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.5,10.0,2,0,2019
+2019-07-02,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,9.0,9.0,4,5,2019
+2019-07-02,SFO,SDG,San Francisco Giants,San Diego Padres,8.5,8.5,10,4,2019
+2019-07-02,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,10.0,10,6,2019
+2019-07-02,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,9.0,3,6,2019
+2019-07-02,LAA,TEX,Los Angeles Angels,Texas Rangers,11.0,11.0,9,4,2019
+2019-07-02,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,9,5,2019
+2019-07-02,MIN,OAK,Minnesota Twins,Oakland Athletics,9.0,9.5,6,8,2019
+2019-07-02,NYY,NYM,New York Yankees,New York Mets,9.5,9.0,2,4,2019
+2019-07-02,HOU,COL,Houston Astros,Colorado Rockies,13.0,13.0,9,8,2019
+2019-07-02,STL,SEA,St. Louis Cardinals,Seattle Mariners,9.0,9.0,4,5,2019
+2019-07-03,MIA,WAS,Miami Marlins,Washington Nationals,8.5,9.5,1,3,2019
+2019-07-03,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,9.5,5,6,2019
+2019-07-03,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,10.0,9.5,0,3,2019
+2019-07-03,PHI,ATL,Philadelphia Phillies,Atlanta Braves,10.5,11.5,2,9,2019
+2019-07-03,SFO,SDG,San Francisco Giants,San Diego Padres,8.5,8.5,7,5,2019
+2019-07-03,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.0,7.5,4,5,2019
+2019-07-03,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,9.5,3,6,2019
+2019-07-03,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.5,9,6,2019
+2019-07-03,LAA,TEX,Los Angeles Angels,Texas Rangers,11.0,11.5,6,2,2019
+2019-07-03,DET,CWS,Detroit Tigers,Chicago White Sox,10.5,10.5,6,9,2019
+2019-07-03,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,4,0,2019
+2019-07-03,MIN,OAK,Minnesota Twins,Oakland Athletics,9.5,9.0,4,3,2019
+2019-07-03,NYY,NYM,New York Yankees,New York Mets,10.0,10.0,5,1,2019
+2019-07-03,HOU,COL,Houston Astros,Colorado Rockies,13.5,14.5,4,2,2019
+2019-07-03,STL,SEA,St. Louis Cardinals,Seattle Mariners,9.0,9.0,5,2,2019
+2019-07-03,DET,CWS,Detroit Tigers,Chicago White Sox,10.0,9.5,5,7,2019
+2019-07-04,MIA,WAS,Miami Marlins,Washington Nationals,10.0,10.5,2,5,2019
+2019-07-04,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.0,9.0,0,1,2019
+2019-07-04,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,10.0,11,3,2019
+2019-07-04,PHI,ATL,Philadelphia Phillies,Atlanta Braves,10.0,10.5,6,12,2019
+2019-07-04,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,8.5,1,5,2019
+2019-07-04,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.5,10.0,8,4,2019
+2019-07-04,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.5,11,5,2019
+2019-07-04,MIN,OAK,Minnesota Twins,Oakland Athletics,10.0,9.5,2,7,2019
+2019-07-04,NYY,TAM,New York Yankees,Tampa Bay Rays,9.0,9.0,8,4,2019
+2019-07-04,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.0,11.0,8,7,2019
+2019-07-04,LAA,TEX,Los Angeles Angels,Texas Rangers,11.0,11.0,3,9,2019
+2019-07-04,STL,SEA,St. Louis Cardinals,Seattle Mariners,9.5,9.5,5,4,2019
+2019-07-05,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,10.0,10.5,7,6,2019
+2019-07-05,PHI,NYM,Philadelphia Phillies,New York Mets,8.0,8.5,7,2,2019
+2019-07-05,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,10.0,0,1,2019
+2019-07-05,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,8.5,0,8,2019
+2019-07-05,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,8.5,3,2,2019
+2019-07-05,STL,SFO,St. Louis Cardinals,San Francisco Giants,8.0,8.5,9,4,2019
+2019-07-05,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.0,11.0,4,1,2019
+2019-07-05,BOS,DET,Boston Red Sox,Detroit Tigers,10.5,11.0,9,6,2019
+2019-07-05,NYY,TAM,New York Yankees,Tampa Bay Rays,9.0,8.5,8,4,2019
+2019-07-05,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,9.0,5,4,2019
+2019-07-05,TEX,MIN,Texas Rangers,Minnesota Twins,10.0,10.5,6,15,2019
+2019-07-05,OAK,SEA,Oakland Athletics,Seattle Mariners,9.5,10.0,5,2,2019
+2019-07-05,KAN,WAS,Kansas City Royals,Washington Nationals,10.0,10.5,7,4,2019
+2019-07-06,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,10.0,10.5,2,12,2019
+2019-07-06,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,9.5,5,4,2019
+2019-07-06,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,9.0,5,6,2019
+2019-07-06,STL,SFO,St. Louis Cardinals,San Francisco Giants,7.5,7.5,4,8,2019
+2019-07-06,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.5,8.5,3,1,2019
+2019-07-06,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,8.0,2,4,2019
+2019-07-06,TEX,MIN,Texas Rangers,Minnesota Twins,10.0,10.0,4,7,2019
+2019-07-06,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.0,11.0,8,1,2019
+2019-07-06,NYY,TAM,New York Yankees,Tampa Bay Rays,9.0,8.5,3,4,2019
+2019-07-06,BOS,DET,Boston Red Sox,Detroit Tigers,11.0,10.5,10,6,2019
+2019-07-06,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,9.0,0,4,2019
+2019-07-06,OAK,SEA,Oakland Athletics,Seattle Mariners,9.5,9.5,3,6,2019
+2019-07-06,KAN,WAS,Kansas City Royals,Washington Nationals,8.5,9.0,0,6,2019
+2019-07-06,CLE,CIN,Cleveland Guardians,Cincinnati Reds,9.5,9.0,7,2,2019
+2019-07-06,CUB,CWS,Chicago Cubs,Chicago White Sox,9.0,9.5,6,3,2019
+2019-07-07,PHI,NYM,Philadelphia Phillies,New York Mets,9.0,8.0,8,3,2019
+2019-07-07,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,9.5,3,4,2019
+2019-07-07,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,10.0,9.0,5,6,2019
+2019-07-07,STL,SFO,St. Louis Cardinals,San Francisco Giants,9.0,8.0,0,1,2019
+2019-07-07,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,8.5,3,5,2019
+2019-07-07,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.5,8.5,5,3,2019
+2019-07-07,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,11.0,11.0,1,6,2019
+2019-07-07,BOS,DET,Boston Red Sox,Detroit Tigers,10.0,10.5,6,3,2019
+2019-07-07,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,7.5,1,2,2019
+2019-07-07,LAA,HOU,Los Angeles Angels,Houston Astros,10.0,10.0,10,11,2019
+2019-07-07,TEX,MIN,Texas Rangers,Minnesota Twins,10.5,10.5,4,1,2019
+2019-07-07,OAK,SEA,Oakland Athletics,Seattle Mariners,9.5,10.0,7,4,2019
+2019-07-07,CLE,CIN,Cleveland Guardians,Cincinnati Reds,9.5,9.0,11,1,2019
+2019-07-07,KAN,WAS,Kansas City Royals,Washington Nationals,9.5,9.0,2,5,2019
+2019-07-07,CUB,CWS,Chicago Cubs,Chicago White Sox,10.0,10.5,1,3,2019
+2019-07-11,HOU,TEX,Houston Astros,Texas Rangers,11.0,10.5,0,5,2019
+2019-07-12,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,9.5,9.5,3,4,2019
+2019-07-12,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.0,9.5,4,0,2019
+2019-07-12,NYM,MIA,New York Mets,Miami Marlins,8.0,8.0,4,8,2019
+2019-07-12,SFO,MIL,San Francisco Giants,Milwaukee Brewers,10.0,9.5,10,7,2019
+2019-07-12,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,8.5,8.5,4,2,2019
+2019-07-12,CIN,COL,Cincinnati Reds,Colorado Rockies,12.5,12.0,2,3,2019
+2019-07-12,ATL,SDG,Atlanta Braves,San Diego Padres,8.5,9.0,5,3,2019
+2019-07-12,TOR,NYY,Toronto Blue Jays,New York Yankees,10.5,11.0,0,4,2019
+2019-07-12,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.5,9.5,16,4,2019
+2019-07-12,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,5,3,2019
+2019-07-12,HOU,TEX,Houston Astros,Texas Rangers,10.5,9.5,8,9,2019
+2019-07-12,DET,KAN,Detroit Tigers,Kansas City Royals,9.5,9.0,5,8,2019
+2019-07-12,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.5,10.0,0,13,2019
+2019-07-12,CWS,OAK,Chicago White Sox,Oakland Athletics,9.0,9.0,1,5,2019
+2019-07-12,LAD,BOS,Los Angeles Dodgers,Boston Red Sox,10.5,10.5,1,8,2019
+2019-07-13,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,9.0,10.5,4,10,2019
+2019-07-13,NYM,MIA,New York Mets,Miami Marlins,7.5,8.0,4,2,2019
+2019-07-13,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.0,8.5,4,3,2019
+2019-07-13,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,9.0,9.0,2,4,2019
+2019-07-13,SFO,MIL,San Francisco Giants,Milwaukee Brewers,9.0,9.0,4,5,2019
+2019-07-13,CIN,COL,Cincinnati Reds,Colorado Rockies,13.0,14.0,17,9,2019
+2019-07-13,ATL,SDG,Atlanta Braves,San Diego Padres,8.5,8.5,7,5,2019
+2019-07-13,TOR,NYY,Toronto Blue Jays,New York Yankees,11.5,12.0,2,1,2019
+2019-07-13,CWS,OAK,Chicago White Sox,Oakland Athletics,9.5,10.0,2,13,2019
+2019-07-13,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,12,4,2019
+2019-07-13,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,6,2,2019
+2019-07-13,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,8.5,1,4,2019
+2019-07-13,HOU,TEX,Houston Astros,Texas Rangers,10.0,10.0,7,6,2019
+2019-07-13,SEA,LAA,Seattle Mariners,Los Angeles Angels,10.5,10.5,2,9,2019
+2019-07-13,LAD,BOS,Los Angeles Dodgers,Boston Red Sox,9.5,9.0,11,2,2019
+2019-07-13,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.0,10.5,1,2,2019
+2019-07-14,WAS,PHI,Washington Nationals,Philadelphia Phillies,10.0,11.0,3,4,2019
+2019-07-14,NYM,MIA,New York Mets,Miami Marlins,7.0,7.0,6,2,2019
+2019-07-14,SFO,MIL,San Francisco Giants,Milwaukee Brewers,10.0,10.0,8,3,2019
+2019-07-14,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,8.5,7.5,2,5,2019
+2019-07-14,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,10.0,9.5,3,8,2019
+2019-07-14,CIN,COL,Cincinnati Reds,Colorado Rockies,14.0,13.5,9,10,2019
+2019-07-14,ATL,SDG,Atlanta Braves,San Diego Padres,9.0,9.0,4,1,2019
+2019-07-14,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.5,10.5,4,1,2019
+2019-07-14,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,10.0,2,4,2019
+2019-07-14,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,8.5,3,4,2019
+2019-07-14,DET,KAN,Detroit Tigers,Kansas City Royals,10.0,10.5,12,8,2019
+2019-07-14,HOU,TEX,Houston Astros,Texas Rangers,10.0,10.5,12,4,2019
+2019-07-14,SEA,LAA,Seattle Mariners,Los Angeles Angels,10.5,10.5,3,6,2019
+2019-07-14,CWS,OAK,Chicago White Sox,Oakland Athletics,10.0,9.5,2,3,2019
+2019-07-14,LAD,BOS,Los Angeles Dodgers,Boston Red Sox,9.0,9.5,7,4,2019
+2019-07-15,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,9.5,9.0,16,2,2019
+2019-07-15,CIN,CUB,Cincinnati Reds,Chicago Cubs,10.0,10.5,6,3,2019
+2019-07-15,ATL,MIL,Atlanta Braves,Milwaukee Brewers,10.5,10.0,4,2,2019
+2019-07-15,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.0,0,7,2019
+2019-07-15,SFO,COL,San Francisco Giants,Colorado Rockies,14.0,14.0,2,1,2019
+2019-07-15,TAM,NYY,Tampa Bay Rays,New York Yankees,9.0,9.0,5,4,2019
+2019-07-15,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.5,11.0,8,10,2019
+2019-07-15,DET,CLE,Detroit Tigers,Cleveland Guardians,9.5,10.5,6,8,2019
+2019-07-15,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,9.0,2,5,2019
+2019-07-15,HOU,LAA,Houston Astros,Los Angeles Angels,10.0,9.5,6,9,2019
+2019-07-15,SFO,COL,San Francisco Giants,Colorado Rockies,12.0,13.0,19,2,2019
+2019-07-16,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,9.5,10.0,8,9,2019
+2019-07-16,SDG,MIA,San Diego Padres,Miami Marlins,8.5,8.0,7,12,2019
+2019-07-16,CIN,CUB,Cincinnati Reds,Chicago Cubs,10.5,10.5,3,4,2019
+2019-07-16,ATL,MIL,Atlanta Braves,Milwaukee Brewers,9.5,9.5,1,13,2019
+2019-07-16,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,9.0,3,1,2019
+2019-07-16,SFO,COL,San Francisco Giants,Colorado Rockies,14.0,14.0,8,4,2019
+2019-07-16,TAM,NYY,Tampa Bay Rays,New York Yankees,10.0,10.5,3,8,2019
+2019-07-16,TOR,BOS,Toronto Blue Jays,Boston Red Sox,11.0,11.5,10,4,2019
+2019-07-16,DET,CLE,Detroit Tigers,Cleveland Guardians,10.0,10.5,0,8,2019
+2019-07-16,CWS,KAN,Chicago White Sox,Kansas City Royals,10.0,10.5,0,11,2019
+2019-07-16,SEA,OAK,Seattle Mariners,Oakland Athletics,9.5,9.5,2,9,2019
+2019-07-16,HOU,LAA,Houston Astros,Los Angeles Angels,10.5,9.5,2,7,2019
+2019-07-16,WAS,BAL,Washington Nationals,Baltimore Orioles,11.0,11.5,8,1,2019
+2019-07-16,ARI,TEX,Arizona Diamondbacks,Texas Rangers,10.5,10.0,9,2,2019
+2019-07-16,NYM,MIN,New York Mets,Minnesota Twins,10.0,11.0,3,2,2019
+2019-07-17,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,8.5,5,6,2019
+2019-07-17,ATL,MIL,Atlanta Braves,Milwaukee Brewers,10.0,10.0,4,5,2019
+2019-07-17,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.5,8.5,2,5,2019
+2019-07-17,SFO,COL,San Francisco Giants,Colorado Rockies,13.5,13.5,11,8,2019
+2019-07-17,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,10.5,11.0,7,2,2019
+2019-07-17,SDG,MIA,San Diego Padres,Miami Marlins,8.0,7.5,3,2,2019
+2019-07-17,SEA,OAK,Seattle Mariners,Oakland Athletics,10.0,10.0,2,10,2019
+2019-07-17,TOR,BOS,Toronto Blue Jays,Boston Red Sox,11.0,11.0,4,5,2019
+2019-07-17,DET,CLE,Detroit Tigers,Cleveland Guardians,9.5,9.0,2,7,2019
+2019-07-17,CWS,KAN,Chicago White Sox,Kansas City Royals,10.0,10.5,5,7,2019
+2019-07-17,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,9.0,11,2,2019
+2019-07-17,NYM,MIN,New York Mets,Minnesota Twins,10.5,11.0,14,4,2019
+2019-07-17,WAS,BAL,Washington Nationals,Baltimore Orioles,11.0,11.5,2,9,2019
+2019-07-17,ARI,TEX,Arizona Diamondbacks,Texas Rangers,10.5,10.5,19,4,2019
+2019-07-18,SDG,MIA,San Diego Padres,Miami Marlins,8.0,7.5,3,4,2019
+2019-07-18,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,9.5,9.0,6,7,2019
+2019-07-18,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,10.0,7,4,2019
+2019-07-18,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,10.0,13,4,2019
+2019-07-18,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.5,9.5,5,1,2019
+2019-07-18,NYM,SFO,New York Mets,San Francisco Giants,7.0,7.5,2,3,2019
+2019-07-18,CWS,KAN,Chicago White Sox,Kansas City Royals,11.0,11.0,5,6,2019
+2019-07-18,TAM,NYY,Tampa Bay Rays,New York Yankees,9.5,9.5,1,5,2019
+2019-07-18,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.0,10.0,0,5,2019
+2019-07-18,DET,CLE,Detroit Tigers,Cleveland Guardians,8.5,8.5,3,6,2019
+2019-07-18,OAK,MIN,Oakland Athletics,Minnesota Twins,10.0,10.5,3,6,2019
+2019-07-18,HOU,LAA,Houston Astros,Los Angeles Angels,10.5,10.5,6,2,2019
+2019-07-19,SDG,CUB,San Diego Padres,Chicago Cubs,12.0,12.5,5,6,2019
+2019-07-19,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,10.0,11.0,6,1,2019
+2019-07-19,STL,CIN,St. Louis Cardinals,Cincinnati Reds,10.5,10.0,12,11,2019
+2019-07-19,WAS,ATL,Washington Nationals,Atlanta Braves,10.5,10.0,3,4,2019
+2019-07-19,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.5,10.5,7,10,2019
+2019-07-19,MIA,LAD,Miami Marlins,Los Angeles Dodgers,8.0,7.5,1,2,2019
+2019-07-19,NYM,SFO,New York Mets,San Francisco Giants,7.5,7.5,0,1,2019
+2019-07-19,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.0,9.5,2,11,2019
+2019-07-19,TOR,DET,Toronto Blue Jays,Detroit Tigers,10.0,10.0,12,1,2019
+2019-07-19,CWS,TAM,Chicago White Sox,Tampa Bay Rays,9.0,8.5,9,2,2019
+2019-07-19,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.5,10.0,5,10,2019
+2019-07-19,OAK,MIN,Oakland Athletics,Minnesota Twins,10.5,11.0,5,3,2019
+2019-07-19,TEX,HOU,Texas Rangers,Houston Astros,8.5,8.0,3,4,2019
+2019-07-19,LAA,SEA,Los Angeles Angels,Seattle Mariners,10.0,10.0,0,10,2019
+2019-07-19,COL,NYY,Colorado Rockies,New York Yankees,11.0,11.5,2,8,2019
+2019-07-20,SDG,CUB,San Diego Padres,Chicago Cubs,11.0,12.5,5,6,2019
+2019-07-20,NYM,SFO,New York Mets,San Francisco Giants,8.5,9.0,11,4,2019
+2019-07-20,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,11.0,10.0,1,5,2019
+2019-07-20,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.5,2,3,2019
+2019-07-20,WAS,ATL,Washington Nationals,Atlanta Braves,10.5,10.0,5,3,2019
+2019-07-20,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.0,9.0,8,3,2019
+2019-07-20,MIA,LAD,Miami Marlins,Los Angeles Dodgers,8.0,8.0,6,10,2019
+2019-07-20,CWS,TAM,Chicago White Sox,Tampa Bay Rays,8.0,8.5,2,1,2019
+2019-07-20,TOR,DET,Toronto Blue Jays,Detroit Tigers,10.5,10.5,7,5,2019
+2019-07-20,BOS,BAL,Boston Red Sox,Baltimore Orioles,11.5,12.5,17,6,2019
+2019-07-20,OAK,MIN,Oakland Athletics,Minnesota Twins,10.5,10.0,5,4,2019
+2019-07-20,KAN,CLE,Kansas City Royals,Cleveland Guardians,10.5,10.5,1,0,2019
+2019-07-20,TEX,HOU,Texas Rangers,Houston Astros,10.5,10.0,1,6,2019
+2019-07-20,LAA,SEA,Los Angeles Angels,Seattle Mariners,10.0,10.5,6,2,2019
+2019-07-20,COL,NYY,Colorado Rockies,New York Yankees,11.0,11.5,5,11,2019
+2019-07-21,STL,CIN,St. Louis Cardinals,Cincinnati Reds,10.0,9.5,3,1,2019
+2019-07-21,WAS,ATL,Washington Nationals,Atlanta Braves,11.0,11.0,1,7,2019
+2019-07-21,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,11.0,11.0,2,1,2019
+2019-07-21,SDG,CUB,San Diego Padres,Chicago Cubs,8.5,8.0,5,1,2019
+2019-07-21,NYM,SFO,New York Mets,San Francisco Giants,9.0,8.5,2,3,2019
+2019-07-21,MIA,LAD,Miami Marlins,Los Angeles Dodgers,8.0,8.5,0,9,2019
+2019-07-21,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.0,8.5,7,4,2019
+2019-07-21,BOS,BAL,Boston Red Sox,Baltimore Orioles,12.5,12.5,0,5,2019
+2019-07-21,TOR,DET,Toronto Blue Jays,Detroit Tigers,11.0,10.5,3,4,2019
+2019-07-21,CWS,TAM,Chicago White Sox,Tampa Bay Rays,8.5,8.0,2,4,2019
+2019-07-21,KAN,CLE,Kansas City Royals,Cleveland Guardians,11.0,10.5,4,5,2019
+2019-07-21,OAK,MIN,Oakland Athletics,Minnesota Twins,10.5,10.5,6,7,2019
+2019-07-21,TEX,HOU,Texas Rangers,Houston Astros,9.5,9.0,3,5,2019
+2019-07-21,LAA,SEA,Los Angeles Angels,Seattle Mariners,10.0,11.0,9,3,2019
+2019-07-21,COL,NYY,Colorado Rockies,New York Yankees,10.5,10.5,8,4,2019
+2019-07-22,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,10.0,9.5,6,5,2019
+2019-07-22,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.0,6,5,2019
+2019-07-22,CUB,SFO,Chicago Cubs,San Francisco Giants,8.5,8.5,4,5,2019
+2019-07-22,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,9.0,9.0,7,3,2019
+2019-07-22,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,9,4,2019
+2019-07-22,NYY,MIN,New York Yankees,Minnesota Twins,11.0,11.0,6,8,2019
+2019-07-22,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.0,1,11,2019
+2019-07-22,TEX,SEA,Texas Rangers,Seattle Mariners,10.0,10.0,3,7,2019
+2019-07-22,MIA,CWS,Miami Marlins,Chicago White Sox,10.0,10.0,1,9,2019
+2019-07-22,BAL,ARI,Baltimore Orioles,Arizona Diamondbacks,9.0,9.0,3,6,2019
+2019-07-23,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.5,9.0,4,3,2019
+2019-07-23,COL,WAS,Colorado Rockies,Washington Nationals,9.0,9.0,1,11,2019
+2019-07-23,SDG,NYM,San Diego Padres,New York Mets,8.5,8.5,2,5,2019
+2019-07-23,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.5,9.5,14,6,2019
+2019-07-23,CUB,SFO,Chicago Cubs,San Francisco Giants,8.0,7.0,4,5,2019
+2019-07-23,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,9.0,9.5,1,2,2019
+2019-07-23,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,7.5,5,4,2019
+2019-07-23,NYY,MIN,New York Yankees,Minnesota Twins,10.0,10.0,14,12,2019
+2019-07-23,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.5,4,3,2019
+2019-07-23,TEX,SEA,Texas Rangers,Seattle Mariners,10.0,10.0,7,2,2019
+2019-07-23,PHI,DET,Philadelphia Phillies,Detroit Tigers,8.5,8.0,3,2,2019
+2019-07-23,KAN,ATL,Kansas City Royals,Atlanta Braves,9.5,9.5,5,4,2019
+2019-07-23,MIA,CWS,Miami Marlins,Chicago White Sox,9.0,9.0,5,1,2019
+2019-07-23,BAL,ARI,Baltimore Orioles,Arizona Diamondbacks,9.5,9.0,7,2,2019
+2019-07-23,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,8.0,10.0,5,4,2019
+2019-07-24,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,10.0,10.0,4,5,2019
+2019-07-24,CUB,SFO,Chicago Cubs,San Francisco Giants,9.0,8.5,4,1,2019
+2019-07-24,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.5,9.5,14,8,2019
+2019-07-24,COL,WAS,Colorado Rockies,Washington Nationals,9.5,9.5,0,2,2019
+2019-07-24,SDG,NYM,San Diego Padres,New York Mets,8.0,8.5,7,2,2019
+2019-07-24,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,7.5,2,3,2019
+2019-07-24,OAK,HOU,Oakland Athletics,Houston Astros,8.5,9.0,2,4,2019
+2019-07-24,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,8.5,3,5,2019
+2019-07-24,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,8.5,8.5,4,0,2019
+2019-07-24,NYY,MIN,New York Yankees,Minnesota Twins,11.0,10.5,10,7,2019
+2019-07-24,PHI,DET,Philadelphia Phillies,Detroit Tigers,10.5,10.0,4,0,2019
+2019-07-24,BAL,ARI,Baltimore Orioles,Arizona Diamondbacks,9.5,9.5,2,5,2019
+2019-07-24,KAN,ATL,Kansas City Royals,Atlanta Braves,10.0,9.5,2,0,2019
+2019-07-24,MIA,CWS,Miami Marlins,Chicago White Sox,9.5,9.0,2,0,2019
+2019-07-24,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,9.0,10.0,3,2,2019
+2019-07-24,COL,WAS,Colorado Rockies,Washington Nationals,9.5,10.0,2,3,2019
+2019-07-25,SDG,NYM,San Diego Padres,New York Mets,7.5,7.5,0,4,2019
+2019-07-25,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.0,9.0,6,3,2019
+2019-07-25,COL,WAS,Colorado Rockies,Washington Nationals,9.0,8.5,8,7,2019
+2019-07-25,NYY,BOS,New York Yankees,Boston Red Sox,11.0,11.0,3,19,2019
+2019-07-25,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,8.5,10,3,2019
+2019-07-25,CLE,KAN,Cleveland Guardians,Kansas City Royals,10.5,10.0,5,4,2019
+2019-07-25,BAL,LAA,Baltimore Orioles,Los Angeles Angels,10.0,10.5,10,8,2019
+2019-07-25,TEX,OAK,Texas Rangers,Oakland Athletics,9.5,9.0,11,3,2019
+2019-07-25,DET,SEA,Detroit Tigers,Seattle Mariners,10.0,9.5,2,10,2019
+2019-07-26,COL,CIN,Colorado Rockies,Cincinnati Reds,9.0,8.5,12,2,2019
+2019-07-26,LAD,WAS,Los Angeles Dodgers,Washington Nationals,9.0,9.5,4,2,2019
+2019-07-26,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.5,10.0,9,2,2019
+2019-07-26,PIT,NYM,Pittsburgh Pirates,New York Mets,8.5,9.0,3,6,2019
+2019-07-26,ARI,MIA,Arizona Diamondbacks,Miami Marlins,7.5,7.5,2,3,2019
+2019-07-26,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.5,9.5,2,3,2019
+2019-07-26,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,8.0,2,1,2019
+2019-07-26,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,9.5,3,1,2019
+2019-07-26,NYY,BOS,New York Yankees,Boston Red Sox,11.5,11.0,5,10,2019
+2019-07-26,MIN,CWS,Minnesota Twins,Chicago White Sox,10.0,10.0,6,2,2019
+2019-07-26,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.5,9.5,8,3,2019
+2019-07-26,TEX,OAK,Texas Rangers,Oakland Athletics,9.0,9.0,5,2,2019
+2019-07-26,BAL,LAA,Baltimore Orioles,Los Angeles Angels,9.5,10.0,9,3,2019
+2019-07-26,DET,SEA,Detroit Tigers,Seattle Mariners,9.5,9.5,2,3,2019
+2019-07-26,HOU,STL,Houston Astros,St. Louis Cardinals,9.0,8.5,3,5,2019
+2019-07-27,LAD,WAS,Los Angeles Dodgers,Washington Nationals,10.0,10.0,9,3,2019
+2019-07-27,ARI,MIA,Arizona Diamondbacks,Miami Marlins,8.0,8.0,9,2,2019
+2019-07-27,ATL,PHI,Atlanta Braves,Philadelphia Phillies,10.0,9.5,15,7,2019
+2019-07-27,PIT,NYM,Pittsburgh Pirates,New York Mets,9.0,9.0,0,3,2019
+2019-07-27,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.5,9.5,3,5,2019
+2019-07-27,COL,CIN,Colorado Rockies,Cincinnati Reds,10.5,10.5,1,3,2019
+2019-07-27,SFO,SDG,San Francisco Giants,San Diego Padres,9.0,8.5,1,5,2019
+2019-07-27,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,10.0,9,10,2019
+2019-07-27,NYY,BOS,New York Yankees,Boston Red Sox,11.5,12.0,5,9,2019
+2019-07-27,DET,SEA,Detroit Tigers,Seattle Mariners,9.0,9.0,1,8,2019
+2019-07-27,MIN,CWS,Minnesota Twins,Chicago White Sox,10.5,11.0,1,5,2019
+2019-07-27,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,9,1,2019
+2019-07-27,TEX,OAK,Texas Rangers,Oakland Athletics,9.5,9.5,4,5,2019
+2019-07-27,BAL,LAA,Baltimore Orioles,Los Angeles Angels,10.0,10.0,8,7,2019
+2019-07-27,HOU,STL,Houston Astros,St. Louis Cardinals,8.5,8.5,8,2,2019
+2019-07-28,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,9.5,4,9,2019
+2019-07-28,ARI,MIA,Arizona Diamondbacks,Miami Marlins,8.0,8.0,1,5,2019
+2019-07-28,PIT,NYM,Pittsburgh Pirates,New York Mets,9.0,9.0,7,8,2019
+2019-07-28,COL,CIN,Colorado Rockies,Cincinnati Reds,10.5,10.0,2,3,2019
+2019-07-28,LAD,WAS,Los Angeles Dodgers,Washington Nationals,9.0,8.5,4,11,2019
+2019-07-28,CUB,MIL,Chicago Cubs,Milwaukee Brewers,10.0,10.0,11,4,2019
+2019-07-28,SFO,SDG,San Francisco Giants,San Diego Padres,8.5,8.0,7,6,2019
+2019-07-28,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,10.0,10.0,10,9,2019
+2019-07-28,MIN,CWS,Minnesota Twins,Chicago White Sox,10.0,10.5,11,1,2019
+2019-07-28,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.5,9.0,6,9,2019
+2019-07-28,TEX,OAK,Texas Rangers,Oakland Athletics,9.5,9.5,5,6,2019
+2019-07-28,BAL,LAA,Baltimore Orioles,Los Angeles Angels,10.5,10.5,4,5,2019
+2019-07-28,DET,SEA,Detroit Tigers,Seattle Mariners,8.5,8.0,2,3,2019
+2019-07-28,NYY,BOS,New York Yankees,Boston Red Sox,10.5,10.0,9,6,2019
+2019-07-28,HOU,STL,Houston Astros,St. Louis Cardinals,9.0,9.5,6,2,2019
+2019-07-29,ATL,WAS,Atlanta Braves,Washington Nationals,9.5,9.5,3,6,2019
+2019-07-29,ARI,MIA,Arizona Diamondbacks,Miami Marlins,8.0,7.5,6,11,2019
+2019-07-29,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.5,9.5,6,11,2019
+2019-07-29,LAD,COL,Los Angeles Dodgers,Colorado Rockies,12.5,13.0,1,9,2019
+2019-07-29,TOR,KAN,Toronto Blue Jays,Kansas City Royals,10.0,9.5,7,3,2019
+2019-07-29,DET,LAA,Detroit Tigers,Los Angeles Angels,10.0,10.5,7,2,2019
+2019-07-29,BAL,SDG,Baltimore Orioles,San Diego Padres,8.5,8.5,1,8,2019
+2019-07-30,SFO,PHI,San Francisco Giants,Philadelphia Phillies,10.0,10.5,2,4,2019
+2019-07-30,ATL,WAS,Atlanta Braves,Washington Nationals,10.0,10.5,11,8,2019
+2019-07-30,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.5,9.5,11,4,2019
+2019-07-30,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,8.5,1,2,2019
+2019-07-30,LAD,COL,Los Angeles Dodgers,Colorado Rockies,14.0,13.5,9,4,2019
+2019-07-30,HOU,CLE,Houston Astros,Cleveland Guardians,8.5,9.0,2,0,2019
+2019-07-30,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,9.5,6,5,2019
+2019-07-30,SEA,TEX,Seattle Mariners,Texas Rangers,11.0,11.5,8,5,2019
+2019-07-30,TOR,KAN,Toronto Blue Jays,Kansas City Royals,10.5,10.0,9,2,2019
+2019-07-30,DET,LAA,Detroit Tigers,Los Angeles Angels,10.0,9.5,1,6,2019
+2019-07-30,BAL,SDG,Baltimore Orioles,San Diego Padres,9.5,9.0,8,5,2019
+2019-07-30,ARI,NYY,Arizona Diamondbacks,New York Yankees,11.0,11.5,4,2,2019
+2019-07-30,MIN,MIA,Minnesota Twins,Miami Marlins,8.5,8.0,2,1,2019
+2019-07-30,NYM,CWS,New York Mets,Chicago White Sox,9.0,9.0,5,2,2019
+2019-07-30,MIL,OAK,Milwaukee Brewers,Oakland Athletics,9.5,9.0,2,3,2019
+2019-07-31,ATL,WAS,Atlanta Braves,Washington Nationals,10.5,9.5,5,4,2019
+2019-07-31,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.5,9.5,1,4,2019
+2019-07-31,LAD,COL,Los Angeles Dodgers,Colorado Rockies,12.5,12.0,5,1,2019
+2019-07-31,SFO,PHI,San Francisco Giants,Philadelphia Phillies,10.0,9.5,5,1,2019
+2019-07-31,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,8.5,2,0,2019
+2019-07-31,TOR,KAN,Toronto Blue Jays,Kansas City Royals,10.0,9.5,4,1,2019
+2019-07-31,DET,LAA,Detroit Tigers,Los Angeles Angels,10.0,9.5,9,1,2019
+2019-07-31,TAM,BOS,Tampa Bay Rays,Boston Red Sox,11.0,11.0,8,5,2019
+2019-07-31,HOU,CLE,Houston Astros,Cleveland Guardians,10.0,10.0,4,10,2019
+2019-07-31,SEA,TEX,Seattle Mariners,Texas Rangers,10.0,10.5,7,9,2019
+2019-07-31,ARI,NYY,Arizona Diamondbacks,New York Yankees,10.0,9.0,5,7,2019
+2019-07-31,MIN,MIA,Minnesota Twins,Miami Marlins,8.0,8.0,7,4,2019
+2019-07-31,NYM,CWS,New York Mets,Chicago White Sox,8.0,8.0,4,2,2019
+2019-07-31,MIL,OAK,Milwaukee Brewers,Oakland Athletics,9.5,9.5,4,2,2019
+2019-08-01,SFO,PHI,San Francisco Giants,Philadelphia Phillies,10.0,10.5,2,10,2019
+2019-08-01,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,8.5,0,8,2019
+2019-08-01,CIN,ATL,Cincinnati Reds,Atlanta Braves,10.0,9.0,1,4,2019
+2019-08-01,SDG,LAD,San Diego Padres,Los Angeles Dodgers,7.5,8.0,2,8,2019
+2019-08-01,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.5,10.5,11,2,2019
+2019-08-01,TAM,BOS,Tampa Bay Rays,Boston Red Sox,10.5,11.0,9,4,2019
+2019-08-01,HOU,CLE,Houston Astros,Cleveland Guardians,9.0,8.5,7,1,2019
+2019-08-01,MIN,MIA,Minnesota Twins,Miami Marlins,8.0,7.5,4,5,2019
+2019-08-01,NYM,CWS,New York Mets,Chicago White Sox,9.5,10.0,4,0,2019
+2019-08-01,MIL,OAK,Milwaukee Brewers,Oakland Athletics,9.5,9.5,3,5,2019
+2019-08-02,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,9.0,2,6,2019
+2019-08-02,NYM,PIT,New York Mets,Pittsburgh Pirates,9.5,9.5,4,8,2019
+2019-08-02,CIN,ATL,Cincinnati Reds,Atlanta Braves,9.5,9.5,5,2,2019
+2019-08-02,SFO,COL,San Francisco Giants,Colorado Rockies,13.0,13.5,4,5,2019
+2019-08-02,WAS,ARI,Washington Nationals,Arizona Diamondbacks,9.5,10.0,3,0,2019
+2019-08-02,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.5,9.0,5,2,2019
+2019-08-02,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,11.0,10.5,5,2,2019
+2019-08-02,BOS,NYY,Boston Red Sox,New York Yankees,11.0,10.0,2,4,2019
+2019-08-02,LAA,CLE,Los Angeles Angels,Cleveland Guardians,9.5,9.5,3,7,2019
+2019-08-02,DET,TEX,Detroit Tigers,Texas Rangers,10.0,9.5,4,5,2019
+2019-08-02,SEA,HOU,Seattle Mariners,Houston Astros,10.0,10.0,2,10,2019
+2019-08-02,KAN,MIN,Kansas City Royals,Minnesota Twins,11.0,11.0,9,11,2019
+2019-08-02,CWS,PHI,Chicago White Sox,Philadelphia Phillies,9.5,10.0,4,3,2019
+2019-08-03,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,9.5,1,4,2019
+2019-08-03,NYM,PIT,New York Mets,Pittsburgh Pirates,9.0,9.0,7,5,2019
+2019-08-03,CIN,ATL,Cincinnati Reds,Atlanta Braves,9.0,8.5,4,5,2019
+2019-08-03,WAS,ARI,Washington Nationals,Arizona Diamondbacks,8.5,8.0,7,18,2019
+2019-08-03,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,11.0,6,5,2019
+2019-08-03,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,8.5,1,4,2019
+2019-08-03,BOS,NYY,Boston Red Sox,New York Yankees,10.0,9.0,2,9,2019
+2019-08-03,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.5,10.5,4,6,2019
+2019-08-03,BOS,NYY,Boston Red Sox,New York Yankees,11.5,11.0,4,6,2019
+2019-08-03,LAA,CLE,Los Angeles Angels,Cleveland Guardians,10.0,11.0,2,7,2019
+2019-08-03,SEA,HOU,Seattle Mariners,Houston Astros,10.0,10.5,0,9,2019
+2019-08-03,KAN,MIN,Kansas City Royals,Minnesota Twins,10.0,10.5,3,11,2019
+2019-08-03,DET,TEX,Detroit Tigers,Texas Rangers,10.0,9.5,4,5,2019
+2019-08-03,MIA,TAM,Miami Marlins,Tampa Bay Rays,8.5,8.5,6,8,2019
+2019-08-03,CWS,PHI,Chicago White Sox,Philadelphia Phillies,9.0,9.0,2,3,2019
+2019-08-03,STL,OAK,St. Louis Cardinals,Oakland Athletics,9.0,9.5,3,8,2019
+2019-08-04,CIN,ATL,Cincinnati Reds,Atlanta Braves,9.0,9.0,6,4,2019
+2019-08-04,NYM,PIT,New York Mets,Pittsburgh Pirates,8.5,8.5,13,2,2019
+2019-08-04,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,8.5,2,7,2019
+2019-08-04,SFO,COL,San Francisco Giants,Colorado Rockies,14.0,13.0,2,6,2019
+2019-08-04,WAS,ARI,Washington Nationals,Arizona Diamondbacks,9.0,9.5,5,7,2019
+2019-08-04,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,8.5,10,11,2019
+2019-08-04,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,11.0,11.0,5,6,2019
+2019-08-04,LAA,CLE,Los Angeles Angels,Cleveland Guardians,9.0,9.5,2,6,2019
+2019-08-04,KAN,MIN,Kansas City Royals,Minnesota Twins,10.5,10.5,0,3,2019
+2019-08-04,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.0,1,3,2019
+2019-08-04,DET,TEX,Detroit Tigers,Texas Rangers,11.5,11.0,4,9,2019
+2019-08-04,BOS,NYY,Boston Red Sox,New York Yankees,10.5,10.0,4,7,2019
+2019-08-04,CWS,PHI,Chicago White Sox,Philadelphia Phillies,9.5,9.0,10,5,2019
+2019-08-04,MIA,TAM,Miami Marlins,Tampa Bay Rays,8.5,8.0,2,7,2019
+2019-08-04,STL,OAK,St. Louis Cardinals,Oakland Athletics,9.5,9.5,2,4,2019
+2019-08-05,MIA,NYM,Miami Marlins,New York Mets,7.0,8.0,2,6,2019
+2019-08-05,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.5,10.0,9,7,2019
+2019-08-05,MIA,NYM,Miami Marlins,New York Mets,9.0,9.0,4,5,2019
+2019-08-05,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,9.5,9.5,7,3,2019
+2019-08-05,WAS,SFO,Washington Nationals,San Francisco Giants,8.5,8.5,4,0,2019
+2019-08-05,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,9.0,9.5,0,8,2019
+2019-08-05,NYY,BAL,New York Yankees,Baltimore Orioles,10.5,10.5,9,6,2019
+2019-08-05,CWS,DET,Chicago White Sox,Detroit Tigers,8.5,8.5,7,4,2019
+2019-08-05,KAN,BOS,Kansas City Royals,Boston Red Sox,11.5,11.0,5,7,2019
+2019-08-05,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,8.0,2,0,2019
+2019-08-05,TEX,CLE,Texas Rangers,Cleveland Guardians,10.5,9.5,1,0,2019
+2019-08-05,LAA,CIN,Los Angeles Angels,Cincinnati Reds,9.5,9.5,4,7,2019
+2019-08-05,OAK,CUB,Oakland Athletics,Chicago Cubs,9.5,10.5,5,6,2019
+2019-08-05,ATL,MIN,Atlanta Braves,Minnesota Twins,10.0,10.0,3,5,2019
+2019-08-06,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.5,9.5,4,3,2019
+2019-08-06,MIA,NYM,Miami Marlins,New York Mets,8.0,8.0,0,5,2019
+2019-08-06,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,9.5,9.5,4,8,2019
+2019-08-06,WAS,SFO,Washington Nationals,San Francisco Giants,8.5,8.5,5,3,2019
+2019-08-06,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,8.0,8.0,1,3,2019
+2019-08-06,CWS,DET,Chicago White Sox,Detroit Tigers,9.5,9.0,5,3,2019
+2019-08-06,NYY,BAL,New York Yankees,Baltimore Orioles,11.5,11.0,9,4,2019
+2019-08-06,CWS,DET,Chicago White Sox,Detroit Tigers,10.5,10.0,6,10,2019
+2019-08-06,KAN,BOS,Kansas City Royals,Boston Red Sox,10.5,11.0,6,2,2019
+2019-08-06,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,6,7,2019
+2019-08-06,LAA,CIN,Los Angeles Angels,Cincinnati Reds,10.0,9.5,4,8,2019
+2019-08-06,OAK,CUB,Oakland Athletics,Chicago Cubs,9.5,9.5,11,4,2019
+2019-08-06,ATL,MIN,Atlanta Braves,Minnesota Twins,10.0,10.5,12,7,2019
+2019-08-06,COL,HOU,Colorado Rockies,Houston Astros,8.5,8.5,6,11,2019
+2019-08-06,SDG,SEA,San Diego Padres,Seattle Mariners,9.0,9.5,9,4,2019
+2019-08-07,MIA,NYM,Miami Marlins,New York Mets,8.5,9.0,2,7,2019
+2019-08-07,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,8.5,8.5,1,2,2019
+2019-08-07,WAS,SFO,Washington Nationals,San Francisco Giants,9.0,9.0,4,1,2019
+2019-08-07,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.5,9.5,8,3,2019
+2019-08-07,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,9.0,9.0,1,6,2019
+2019-08-07,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,9.0,4,3,2019
+2019-08-07,TEX,CLE,Texas Rangers,Cleveland Guardians,10.5,10.0,0,2,2019
+2019-08-07,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.0,8,1,2019
+2019-08-07,NYY,BAL,New York Yankees,Baltimore Orioles,10.0,9.5,14,2,2019
+2019-08-07,ATL,MIN,Atlanta Braves,Minnesota Twins,10.5,11.0,11,7,2019
+2019-08-07,COL,HOU,Colorado Rockies,Houston Astros,8.5,9.0,3,14,2019
+2019-08-07,OAK,CUB,Oakland Athletics,Chicago Cubs,10.5,10.5,1,10,2019
+2019-08-07,SDG,SEA,San Diego Padres,Seattle Mariners,9.0,9.5,2,3,2019
+2019-08-07,TEX,CLE,Texas Rangers,Cleveland Guardians,10.0,10.0,1,5,2019
+2019-08-08,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,8.5,2,9,2019
+2019-08-08,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,12,5,2019
+2019-08-08,PHI,SFO,Philadelphia Phillies,San Francisco Giants,7.5,7.0,0,5,2019
+2019-08-08,COL,SDG,Colorado Rockies,San Diego Padres,8.5,8.0,3,9,2019
+2019-08-08,NYY,TOR,New York Yankees,Toronto Blue Jays,11.0,10.5,12,6,2019
+2019-08-08,LAA,BOS,Los Angeles Angels,Boston Red Sox,10.5,11.0,0,3,2019
+2019-08-08,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,8,10,2019
+2019-08-08,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,9.0,7,5,2019
+2019-08-09,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,7.5,8,4,2019
+2019-08-09,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.0,2,5,2019
+2019-08-09,WAS,NYM,Washington Nationals,New York Mets,8.0,8.0,6,7,2019
+2019-08-09,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,9.0,2,6,2019
+2019-08-09,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.0,7.5,3,2,2019
+2019-08-09,COL,SDG,Colorado Rockies,San Diego Padres,8.5,9.0,1,7,2019
+2019-08-09,PHI,SFO,Philadelphia Phillies,San Francisco Giants,9.0,8.5,9,6,2019
+2019-08-09,OAK,CWS,Oakland Athletics,Chicago White Sox,10.5,11.0,7,0,2019
+2019-08-09,HOU,BAL,Houston Astros,Baltimore Orioles,10.5,10.5,3,2,2019
+2019-08-09,NYY,TOR,New York Yankees,Toronto Blue Jays,11.0,10.5,2,8,2019
+2019-08-09,LAA,BOS,Los Angeles Angels,Boston Red Sox,11.5,12.0,4,16,2019
+2019-08-09,KAN,DET,Kansas City Royals,Detroit Tigers,10.5,10.0,2,5,2019
+2019-08-09,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,9.0,6,2,2019
+2019-08-09,TAM,SEA,Tampa Bay Rays,Seattle Mariners,9.5,9.0,5,3,2019
+2019-08-09,TEX,MIL,Texas Rangers,Milwaukee Brewers,10.0,9.5,5,6,2019
+2019-08-10,PHI,SFO,Philadelphia Phillies,San Francisco Giants,8.5,8.5,1,3,2019
+2019-08-10,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,8.5,6,7,2019
+2019-08-10,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,8.5,1,10,2019
+2019-08-10,WAS,NYM,Washington Nationals,New York Mets,8.0,8.0,3,4,2019
+2019-08-10,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,9.0,1,3,2019
+2019-08-10,COL,SDG,Colorado Rockies,San Diego Padres,8.5,8.5,5,8,2019
+2019-08-10,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,8.5,0,4,2019
+2019-08-10,NYY,TOR,New York Yankees,Toronto Blue Jays,11.0,11.0,4,5,2019
+2019-08-10,LAA,BOS,Los Angeles Angels,Boston Red Sox,11.5,11.5,12,4,2019
+2019-08-10,KAN,DET,Kansas City Royals,Detroit Tigers,9.5,9.5,7,0,2019
+2019-08-10,HOU,BAL,Houston Astros,Baltimore Orioles,11.0,11.5,23,2,2019
+2019-08-10,CLE,MIN,Cleveland Guardians,Minnesota Twins,10.0,10.5,1,4,2019
+2019-08-10,OAK,CWS,Oakland Athletics,Chicago White Sox,10.0,9.5,2,3,2019
+2019-08-10,TAM,SEA,Tampa Bay Rays,Seattle Mariners,8.5,8.5,5,4,2019
+2019-08-10,TEX,MIL,Texas Rangers,Milwaukee Brewers,10.0,10.0,2,3,2019
+2019-08-11,ATL,MIA,Atlanta Braves,Miami Marlins,9.0,9.0,5,4,2019
+2019-08-11,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.0,6,3,2019
+2019-08-11,WAS,NYM,Washington Nationals,New York Mets,7.5,8.0,7,4,2019
+2019-08-11,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,9.0,9,11,2019
+2019-08-11,COL,SDG,Colorado Rockies,San Diego Padres,8.5,8.0,8,3,2019
+2019-08-11,PHI,SFO,Philadelphia Phillies,San Francisco Giants,9.0,9.0,6,9,2019
+2019-08-11,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,8.5,3,9,2019
+2019-08-11,LAA,BOS,Los Angeles Angels,Boston Red Sox,12.0,11.5,5,4,2019
+2019-08-11,HOU,BAL,Houston Astros,Baltimore Orioles,10.0,10.0,7,8,2019
+2019-08-11,NYY,TOR,New York Yankees,Toronto Blue Jays,10.5,11.0,1,0,2019
+2019-08-11,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,10,2,2019
+2019-08-11,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.5,10.0,7,3,2019
+2019-08-11,OAK,CWS,Oakland Athletics,Chicago White Sox,9.5,9.0,2,0,2019
+2019-08-11,TAM,SEA,Tampa Bay Rays,Seattle Mariners,9.0,8.5,1,0,2019
+2019-08-11,TEX,MIL,Texas Rangers,Milwaukee Brewers,9.5,9.0,1,0,2019
+2019-08-12,CIN,WAS,Cincinnati Reds,Washington Nationals,10.0,10.5,6,7,2019
+2019-08-12,ARI,COL,Arizona Diamondbacks,Colorado Rockies,13.5,14.0,8,6,2019
+2019-08-12,BAL,NYY,Baltimore Orioles,New York Yankees,10.5,10.5,5,8,2019
+2019-08-12,BAL,NYY,Baltimore Orioles,New York Yankees,11.5,11.5,8,11,2019
+2019-08-12,TEX,TOR,Texas Rangers,Toronto Blue Jays,11.0,10.5,4,19,2019
+2019-08-12,BOS,CLE,Boston Red Sox,Cleveland Guardians,9.5,10.5,5,6,2019
+2019-08-12,PIT,LAA,Pittsburgh Pirates,Los Angeles Angels,10.0,10.0,10,2,2019
+2019-08-12,TAM,SDG,Tampa Bay Rays,San Diego Padres,8.5,8.0,10,4,2019
+2019-08-13,CIN,WAS,Cincinnati Reds,Washington Nationals,10.5,10.5,1,3,2019
+2019-08-13,CUB,PHI,Chicago Cubs,Philadelphia Phillies,9.5,10.5,2,4,2019
+2019-08-13,LAD,MIA,Los Angeles Dodgers,Miami Marlins,8.0,8.5,15,1,2019
+2019-08-13,NYM,ATL,New York Mets,Atlanta Braves,9.5,9.5,3,5,2019
+2019-08-13,ARI,COL,Arizona Diamondbacks,Colorado Rockies,13.0,13.0,9,3,2019
+2019-08-13,BAL,NYY,Baltimore Orioles,New York Yankees,10.0,10.5,3,8,2019
+2019-08-13,TEX,TOR,Texas Rangers,Toronto Blue Jays,9.5,9.0,0,3,2019
+2019-08-13,BOS,CLE,Boston Red Sox,Cleveland Guardians,9.0,7.5,7,6,2019
+2019-08-13,SEA,DET,Seattle Mariners,Detroit Tigers,9.0,9.0,11,6,2019
+2019-08-13,HOU,CWS,Houston Astros,Chicago White Sox,9.0,9.0,1,4,2019
+2019-08-13,MIN,MIL,Minnesota Twins,Milwaukee Brewers,10.0,10.0,7,5,2019
+2019-08-13,STL,KAN,St. Louis Cardinals,Kansas City Royals,9.0,9.5,2,0,2019
+2019-08-13,OAK,SFO,Oakland Athletics,San Francisco Giants,7.5,8.0,2,3,2019
+2019-08-13,PIT,LAA,Pittsburgh Pirates,Los Angeles Angels,9.5,9.5,10,7,2019
+2019-08-13,TAM,SDG,Tampa Bay Rays,San Diego Padres,8.5,8.0,7,5,2019
+2019-08-13,HOU,CWS,Houston Astros,Chicago White Sox,9.0,10.0,6,2,2019
+2019-08-14,ARI,COL,Arizona Diamondbacks,Colorado Rockies,12.5,13.0,6,7,2019
+2019-08-14,CIN,WAS,Cincinnati Reds,Washington Nationals,8.5,9.0,7,17,2019
+2019-08-14,CUB,PHI,Chicago Cubs,Philadelphia Phillies,9.0,8.5,1,11,2019
+2019-08-14,LAD,MIA,Los Angeles Dodgers,Miami Marlins,8.0,8.0,9,1,2019
+2019-08-14,NYM,ATL,New York Mets,Atlanta Braves,10.0,10.0,4,6,2019
+2019-08-14,TEX,TOR,Texas Rangers,Toronto Blue Jays,10.5,10.0,7,3,2019
+2019-08-14,BAL,NYY,Baltimore Orioles,New York Yankees,11.0,10.5,5,6,2019
+2019-08-14,BOS,CLE,Boston Red Sox,Cleveland Guardians,9.5,9.5,5,1,2019
+2019-08-14,HOU,CWS,Houston Astros,Chicago White Sox,10.0,11.0,9,13,2019
+2019-08-14,SEA,DET,Seattle Mariners,Detroit Tigers,10.0,10.0,2,3,2019
+2019-08-14,MIN,MIL,Minnesota Twins,Milwaukee Brewers,10.0,9.5,5,6,2019
+2019-08-14,TAM,SDG,Tampa Bay Rays,San Diego Padres,9.0,8.5,2,7,2019
+2019-08-14,OAK,SFO,Oakland Athletics,San Francisco Giants,9.0,9.0,9,5,2019
+2019-08-14,PIT,LAA,Pittsburgh Pirates,Los Angeles Angels,10.0,10.0,4,7,2019
+2019-08-14,STL,KAN,St. Louis Cardinals,Kansas City Royals,10.0,9.5,6,0,2019
+2019-08-15,LAD,MIA,Los Angeles Dodgers,Miami Marlins,7.5,7.5,7,13,2019
+2019-08-15,CUB,PHI,Chicago Cubs,Philadelphia Phillies,9.5,9.5,5,7,2019
+2019-08-15,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,9.5,1,2,2019
+2019-08-15,NYM,ATL,New York Mets,Atlanta Braves,9.5,10.0,10,8,2019
+2019-08-15,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.5,7,0,2019
+2019-08-15,SEA,DET,Seattle Mariners,Detroit Tigers,9.5,9.5,7,2,2019
+2019-08-15,CLE,NYY,Cleveland Guardians,New York Yankees,11.0,11.0,19,5,2019
+2019-08-15,MIN,TEX,Minnesota Twins,Texas Rangers,11.5,12.0,13,6,2019
+2019-08-15,CWS,LAA,Chicago White Sox,Los Angeles Angels,9.0,9.0,7,8,2019
+2019-08-15,HOU,OAK,Houston Astros,Oakland Athletics,9.5,10.0,6,7,2019
+2019-08-16,MIL,WAS,Milwaukee Brewers,Washington Nationals,9.5,9.0,1,2,2019
+2019-08-16,SDG,PHI,San Diego Padres,Philadelphia Phillies,9.0,9.0,4,8,2019
+2019-08-16,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,9.0,2,3,2019
+2019-08-16,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,8.5,13,4,2019
+2019-08-16,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,10.0,10.0,8,3,2019
+2019-08-16,MIA,COL,Miami Marlins,Colorado Rockies,12.0,12.5,0,3,2019
+2019-08-16,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.5,10,9,2019
+2019-08-16,CLE,NYY,Cleveland Guardians,New York Yankees,10.5,10.5,2,3,2019
+2019-08-16,SEA,TOR,Seattle Mariners,Toronto Blue Jays,10.0,10.0,3,7,2019
+2019-08-16,BAL,BOS,Baltimore Orioles,Boston Red Sox,12.0,12.5,1,9,2019
+2019-08-16,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,7.5,2,0,2019
+2019-08-16,MIN,TEX,Minnesota Twins,Texas Rangers,10.0,10.0,4,3,2019
+2019-08-16,HOU,OAK,Houston Astros,Oakland Athletics,9.0,9.0,2,3,2019
+2019-08-16,CWS,LAA,Chicago White Sox,Los Angeles Angels,9.0,8.5,7,2,2019
+2019-08-16,NYM,KAN,New York Mets,Kansas City Royals,9.0,9.0,1,4,2019
+2019-08-17,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,10.5,2,0,2019
+2019-08-17,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,9.0,1,6,2019
+2019-08-17,SDG,PHI,San Diego Padres,Philadelphia Phillies,10.0,9.5,5,3,2019
+2019-08-17,MIL,WAS,Milwaukee Brewers,Washington Nationals,10.0,10.5,15,14,2019
+2019-08-17,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,9.5,10.0,3,4,2019
+2019-08-17,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,10.0,10.0,11,6,2019
+2019-08-17,MIA,COL,Miami Marlins,Colorado Rockies,13.0,12.5,4,11,2019
+2019-08-17,CLE,NYY,Cleveland Guardians,New York Yankees,11.0,10.0,5,6,2019
+2019-08-17,SEA,TOR,Seattle Mariners,Toronto Blue Jays,10.0,10.5,4,3,2019
+2019-08-17,HOU,OAK,Houston Astros,Oakland Athletics,10.5,10.0,4,8,2019
+2019-08-17,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,8.5,0,1,2019
+2019-08-17,BAL,BOS,Baltimore Orioles,Boston Red Sox,11.0,10.5,0,4,2019
+2019-08-17,MIN,TEX,Minnesota Twins,Texas Rangers,11.0,11.5,12,7,2019
+2019-08-17,CWS,LAA,Chicago White Sox,Los Angeles Angels,10.5,10.0,5,6,2019
+2019-08-17,NYM,KAN,New York Mets,Kansas City Royals,8.0,8.5,4,1,2019
+2019-08-18,SDG,PHI,San Diego Padres,Philadelphia Phillies,9.5,10.5,3,2,2019
+2019-08-18,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,9.0,5,4,2019
+2019-08-18,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,10.5,10.0,3,5,2019
+2019-08-18,MIL,WAS,Milwaukee Brewers,Washington Nationals,10.5,11.0,8,16,2019
+2019-08-18,MIA,COL,Miami Marlins,Colorado Rockies,13.0,13.5,6,7,2019
+2019-08-18,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,1,6,2019
+2019-08-18,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,9.5,7,1,2019
+2019-08-18,BAL,BOS,Baltimore Orioles,Boston Red Sox,12.0,12.0,7,13,2019
+2019-08-18,CLE,NYY,Cleveland Guardians,New York Yankees,10.5,10.0,8,4,2019
+2019-08-18,SEA,TOR,Seattle Mariners,Toronto Blue Jays,10.5,10.0,7,0,2019
+2019-08-18,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,7.5,4,5,2019
+2019-08-18,MIN,TEX,Minnesota Twins,Texas Rangers,11.0,10.5,6,3,2019
+2019-08-18,CWS,LAA,Chicago White Sox,Los Angeles Angels,10.0,9.0,2,9,2019
+2019-08-18,HOU,OAK,Houston Astros,Oakland Athletics,9.0,9.5,4,1,2019
+2019-08-18,NYM,KAN,New York Mets,Kansas City Royals,10.0,9.5,11,5,2019
+2019-08-19,WAS,PIT,Washington Nationals,Pittsburgh Pirates,10.0,10.5,13,0,2019
+2019-08-19,SDG,CIN,San Diego Padres,Cincinnati Reds,9.5,9.0,3,2,2019
+2019-08-19,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,9.5,9.5,0,3,2019
+2019-08-19,COL,ARI,Colorado Rockies,Arizona Diamondbacks,10.0,9.5,3,5,2019
+2019-08-19,KAN,BAL,Kansas City Royals,Baltimore Orioles,10.0,10.5,5,4,2019
+2019-08-19,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.5,8.0,9,3,2019
+2019-08-19,LAA,TEX,Los Angeles Angels,Texas Rangers,11.0,11.5,7,8,2019
+2019-08-19,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,10.0,6,4,2019
+2019-08-19,DET,HOU,Detroit Tigers,Houston Astros,9.5,10.0,4,5,2019
+2019-08-20,WAS,PIT,Washington Nationals,Pittsburgh Pirates,9.0,9.0,1,4,2019
+2019-08-20,SDG,CIN,San Diego Padres,Cincinnati Reds,8.0,8.5,2,3,2019
+2019-08-20,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,9.5,1,5,2019
+2019-08-20,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,9.5,9.5,4,9,2019
+2019-08-20,SFO,CUB,San Francisco Giants,Chicago Cubs,9.5,10.5,3,5,2019
+2019-08-20,COL,ARI,Colorado Rockies,Arizona Diamondbacks,10.0,10.0,7,8,2019
+2019-08-20,KAN,BAL,Kansas City Royals,Baltimore Orioles,9.5,9.5,1,4,2019
+2019-08-20,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.5,8.5,7,4,2019
+2019-08-20,LAA,TEX,Los Angeles Angels,Texas Rangers,12.0,12.0,2,3,2019
+2019-08-20,CWS,MIN,Chicago White Sox,Minnesota Twins,10.0,10.0,4,14,2019
+2019-08-20,DET,HOU,Detroit Tigers,Houston Astros,9.5,9.0,3,6,2019
+2019-08-20,NYY,OAK,New York Yankees,Oakland Athletics,10.0,9.5,2,6,2019
+2019-08-20,PHI,BOS,Philadelphia Phillies,Boston Red Sox,10.5,11.0,3,2,2019
+2019-08-20,CLE,NYM,Cleveland Guardians,New York Mets,8.5,8.0,2,9,2019
+2019-08-20,TOR,LAD,Toronto Blue Jays,Los Angeles Dodgers,8.5,9.0,3,16,2019
+2019-08-20,LAA,TEX,Los Angeles Angels,Texas Rangers,11.5,11.5,5,1,2019
+2019-08-21,SDG,CIN,San Diego Padres,Cincinnati Reds,8.5,8.5,2,4,2019
+2019-08-21,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,10.0,7,2,2019
+2019-08-21,WAS,PIT,Washington Nationals,Pittsburgh Pirates,9.0,9.0,11,1,2019
+2019-08-21,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,9.5,0,5,2019
+2019-08-21,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,9.0,8.5,5,3,2019
+2019-08-21,SFO,CUB,San Francisco Giants,Chicago Cubs,9.0,9.0,11,12,2019
+2019-08-21,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,8.5,4,0,2019
+2019-08-21,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.5,8.0,6,7,2019
+2019-08-21,LAA,TEX,Los Angeles Angels,Texas Rangers,11.5,10.5,7,8,2019
+2019-08-21,KAN,BAL,Kansas City Royals,Baltimore Orioles,10.5,10.5,1,8,2019
+2019-08-21,DET,HOU,Detroit Tigers,Houston Astros,8.5,8.5,2,1,2019
+2019-08-21,NYY,OAK,New York Yankees,Oakland Athletics,10.0,10.0,4,6,2019
+2019-08-21,PHI,BOS,Philadelphia Phillies,Boston Red Sox,11.5,12.5,5,2,2019
+2019-08-21,CLE,NYM,Cleveland Guardians,New York Mets,9.0,9.0,3,4,2019
+2019-08-21,TOR,LAD,Toronto Blue Jays,Los Angeles Dodgers,8.5,8.5,1,2,2019
+2019-08-22,SFO,CUB,San Francisco Giants,Chicago Cubs,7.0,7.5,0,1,2019
+2019-08-22,WAS,PIT,Washington Nationals,Pittsburgh Pirates,8.5,9.0,7,1,2019
+2019-08-22,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,9.0,2,3,2019
+2019-08-22,COL,STL,Colorado Rockies,St. Louis Cardinals,8.5,8.0,5,6,2019
+2019-08-22,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.0,10.0,5,2,2019
+2019-08-22,DET,HOU,Detroit Tigers,Houston Astros,9.0,8.0,3,6,2019
+2019-08-22,TEX,CWS,Texas Rangers,Chicago White Sox,10.5,10.5,1,6,2019
+2019-08-22,NYY,OAK,New York Yankees,Oakland Athletics,9.5,9.5,3,5,2019
+2019-08-22,CLE,NYM,Cleveland Guardians,New York Mets,8.5,8.5,0,2,2019
+2019-08-22,TOR,LAD,Toronto Blue Jays,Los Angeles Dodgers,9.0,9.5,2,3,2019
+2019-08-23,WAS,CUB,Washington Nationals,Chicago Cubs,8.0,8.5,9,3,2019
+2019-08-23,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.5,9.0,2,3,2019
+2019-08-23,PHI,MIA,Philadelphia Phillies,Miami Marlins,9.0,9.0,11,19,2019
+2019-08-23,ATL,NYM,Atlanta Braves,New York Mets,8.0,7.5,2,1,2019
+2019-08-23,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,10.0,10.0,1,6,2019
+2019-08-23,COL,STL,Colorado Rockies,St. Louis Cardinals,8.5,8.0,3,8,2019
+2019-08-23,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,11.0,10.5,7,1,2019
+2019-08-23,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.0,1,4,2019
+2019-08-23,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,9.5,9,6,2019
+2019-08-23,TEX,CWS,Texas Rangers,Chicago White Sox,9.0,8.5,3,8,2019
+2019-08-23,LAA,HOU,Los Angeles Angels,Houston Astros,9.5,9.5,4,5,2019
+2019-08-23,TOR,SEA,Toronto Blue Jays,Seattle Mariners,9.5,9.5,4,7,2019
+2019-08-23,NYY,LAD,New York Yankees,Los Angeles Dodgers,9.0,8.5,10,2,2019
+2019-08-23,BOS,SDG,Boston Red Sox,San Diego Padres,8.5,8.0,11,0,2019
+2019-08-24,WAS,CUB,Washington Nationals,Chicago Cubs,9.0,9.0,7,2,2019
+2019-08-24,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.5,9.0,9,3,2019
+2019-08-24,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.0,8.5,0,14,2019
+2019-08-24,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,9.0,8.5,0,4,2019
+2019-08-24,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.0,9,5,2019
+2019-08-24,COL,STL,Colorado Rockies,St. Louis Cardinals,9.0,9.0,0,6,2019
+2019-08-24,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.0,9.5,1,7,2019
+2019-08-24,LAA,HOU,Los Angeles Angels,Houston Astros,9.5,10.5,2,5,2019
+2019-08-24,DET,MIN,Detroit Tigers,Minnesota Twins,10.5,10.0,5,8,2019
+2019-08-24,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.0,2,4,2019
+2019-08-24,TEX,CWS,Texas Rangers,Chicago White Sox,9.5,9.5,4,0,2019
+2019-08-24,TOR,SEA,Toronto Blue Jays,Seattle Mariners,10.0,9.5,7,5,2019
+2019-08-24,NYY,LAD,New York Yankees,Los Angeles Dodgers,9.5,9.5,1,2,2019
+2019-08-24,BOS,SDG,Boston Red Sox,San Diego Padres,9.0,9.0,5,4,2019
+2019-08-24,SFO,OAK,San Francisco Giants,Oakland Athletics,8.5,8.5,10,5,2019
+2019-08-25,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,8.0,2,3,2019
+2019-08-25,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.5,2,1,2019
+2019-08-25,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.0,8.5,8,9,2019
+2019-08-25,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,9.5,9.0,5,2,2019
+2019-08-25,COL,STL,Colorado Rockies,St. Louis Cardinals,9.5,9.0,4,11,2019
+2019-08-25,WAS,CUB,Washington Nationals,Chicago Cubs,8.0,8.5,7,5,2019
+2019-08-25,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.0,9.5,3,8,2019
+2019-08-25,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.0,9,8,2019
+2019-08-25,TEX,CWS,Texas Rangers,Chicago White Sox,9.5,9.0,0,2,2019
+2019-08-25,LAA,HOU,Los Angeles Angels,Houston Astros,10.5,10.0,2,11,2019
+2019-08-25,DET,MIN,Detroit Tigers,Minnesota Twins,10.0,9.0,4,7,2019
+2019-08-25,TOR,SEA,Toronto Blue Jays,Seattle Mariners,9.5,9.5,1,3,2019
+2019-08-25,SFO,OAK,San Francisco Giants,Oakland Athletics,9.5,9.5,5,4,2019
+2019-08-25,BOS,SDG,Boston Red Sox,San Diego Padres,9.0,9.5,1,3,2019
+2019-08-25,NYY,LAD,New York Yankees,Los Angeles Dodgers,9.0,8.5,5,1,2019
+2019-08-26,ATL,COL,Atlanta Braves,Colorado Rockies,13.5,13.5,1,3,2019
+2019-08-26,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,9.5,9.0,5,6,2019
+2019-08-26,CIN,MIA,Cincinnati Reds,Miami Marlins,8.0,7.5,6,3,2019
+2019-08-26,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.5,10.0,12,2,2019
+2019-08-26,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,9.0,8.5,6,4,2019
+2019-08-26,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.5,3,4,2019
+2019-08-26,OAK,KAN,Oakland Athletics,Kansas City Royals,9.5,9.0,19,4,2019
+2019-08-26,NYY,SEA,New York Yankees,Seattle Mariners,9.5,9.5,5,4,2019
+2019-08-27,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,9.5,10.0,5,4,2019
+2019-08-27,CIN,MIA,Cincinnati Reds,Miami Marlins,7.5,7.0,8,5,2019
+2019-08-27,CUB,NYM,Chicago Cubs,New York Mets,8.5,8.5,5,2,2019
+2019-08-27,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.5,6,3,2019
+2019-08-27,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,8.5,3,2,2019
+2019-08-27,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.0,9,0,2019
+2019-08-27,CLE,DET,Cleveland Guardians,Detroit Tigers,9.5,9.5,10,1,2019
+2019-08-27,MIN,CWS,Minnesota Twins,Chicago White Sox,8.5,9.0,3,1,2019
+2019-08-27,TAM,HOU,Tampa Bay Rays,Houston Astros,8.0,7.5,1,15,2019
+2019-08-27,OAK,KAN,Oakland Athletics,Kansas City Royals,9.5,10.0,2,1,2019
+2019-08-27,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.0,2,5,2019
+2019-08-27,NYY,SEA,New York Yankees,Seattle Mariners,9.5,9.5,7,0,2019
+2019-08-27,BAL,WAS,Baltimore Orioles,Washington Nationals,9.5,9.5,2,0,2019
+2019-08-27,ATL,TOR,Atlanta Braves,Toronto Blue Jays,9.5,9.5,1,3,2019
+2019-08-27,BOS,COL,Boston Red Sox,Colorado Rockies,13.5,13.5,10,6,2019
+2019-08-28,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.0,1,4,2019
+2019-08-28,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,10.0,9.5,3,12,2019
+2019-08-28,CIN,MIA,Cincinnati Reds,Miami Marlins,8.0,8.0,5,0,2019
+2019-08-28,CUB,NYM,Chicago Cubs,New York Mets,8.0,7.5,10,7,2019
+2019-08-28,LAD,SDG,Los Angeles Dodgers,San Diego Padres,9.0,9.0,6,4,2019
+2019-08-28,NYY,SEA,New York Yankees,Seattle Mariners,10.0,9.5,7,3,2019
+2019-08-28,CLE,DET,Cleveland Guardians,Detroit Tigers,9.5,9.5,4,2,2019
+2019-08-28,MIN,CWS,Minnesota Twins,Chicago White Sox,10.5,10.5,8,2,2019
+2019-08-28,TAM,HOU,Tampa Bay Rays,Houston Astros,8.0,8.0,6,8,2019
+2019-08-28,OAK,KAN,Oakland Athletics,Kansas City Royals,9.5,9.0,4,6,2019
+2019-08-28,TEX,LAA,Texas Rangers,Los Angeles Angels,10.0,9.5,3,0,2019
+2019-08-28,BAL,WAS,Baltimore Orioles,Washington Nationals,8.5,9.0,4,8,2019
+2019-08-28,ATL,TOR,Atlanta Braves,Toronto Blue Jays,9.5,10.0,9,4,2019
+2019-08-28,BOS,COL,Boston Red Sox,Colorado Rockies,13.5,13.5,7,4,2019
+2019-08-29,CIN,MIA,Cincinnati Reds,Miami Marlins,8.5,9.0,3,4,2019
+2019-08-29,CUB,NYM,Chicago Cubs,New York Mets,7.5,7.5,4,1,2019
+2019-08-29,PIT,COL,Pittsburgh Pirates,Colorado Rockies,14.0,14.5,11,8,2019
+2019-08-29,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.5,5,11,2019
+2019-08-29,SDG,SFO,San Diego Padres,San Francisco Giants,8.0,8.0,5,3,2019
+2019-08-29,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,8.5,2,0,2019
+2019-08-29,OAK,KAN,Oakland Athletics,Kansas City Royals,9.5,10.5,9,8,2019
+2019-08-29,TAM,HOU,Tampa Bay Rays,Houston Astros,8.5,9.0,9,8,2019
+2019-08-29,MIN,CWS,Minnesota Twins,Chicago White Sox,9.5,10.5,10,5,2019
+2019-08-29,SEA,TEX,Seattle Mariners,Texas Rangers,10.0,10.5,5,3,2019
+2019-08-30,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,8.0,1,7,2019
+2019-08-30,NYM,PHI,New York Mets,Philadelphia Phillies,8.5,9.0,11,5,2019
+2019-08-30,MIA,WAS,Miami Marlins,Washington Nationals,9.5,10.0,6,7,2019
+2019-08-30,PIT,COL,Pittsburgh Pirates,Colorado Rockies,14.0,14.5,9,4,2019
+2019-08-30,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.0,4,5,2019
+2019-08-30,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,7.5,3,8,2019
+2019-08-30,OAK,NYY,Oakland Athletics,New York Yankees,11.0,11.0,8,2,2019
+2019-08-30,HOU,TOR,Houston Astros,Toronto Blue Jays,10.5,10.5,7,4,2019
+2019-08-30,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,8.5,8.0,0,4,2019
+2019-08-30,MIN,DET,Minnesota Twins,Detroit Tigers,10.0,10.0,13,5,2019
+2019-08-30,SEA,TEX,Seattle Mariners,Texas Rangers,11.0,10.5,3,6,2019
+2019-08-30,BAL,KAN,Baltimore Orioles,Kansas City Royals,10.0,10.0,14,2,2019
+2019-08-30,BOS,LAA,Boston Red Sox,Los Angeles Angels,10.0,10.5,7,6,2019
+2019-08-30,CWS,ATL,Chicago White Sox,Atlanta Braves,9.5,9.5,7,10,2019
+2019-08-31,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.5,6,10,2019
+2019-08-31,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,8.5,2,0,2019
+2019-08-31,NYM,PHI,New York Mets,Philadelphia Phillies,9.5,9.5,6,3,2019
+2019-08-31,MIA,WAS,Miami Marlins,Washington Nationals,9.0,8.5,0,7,2019
+2019-08-31,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.0,2,3,2019
+2019-08-31,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,8.0,8.5,5,6,2019
+2019-08-31,PIT,COL,Pittsburgh Pirates,Colorado Rockies,13.0,13.5,11,4,2019
+2019-08-31,SDG,SFO,San Diego Padres,San Francisco Giants,8.0,8.5,4,1,2019
+2019-08-31,OAK,NYY,Oakland Athletics,New York Yankees,11.0,11.0,3,4,2019
+2019-08-31,HOU,TOR,Houston Astros,Toronto Blue Jays,10.5,10.5,4,6,2019
+2019-08-31,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,9.5,7,10,2019
+2019-08-31,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,8.5,8.5,6,9,2019
+2019-08-31,BAL,KAN,Baltimore Orioles,Kansas City Royals,9.5,9.5,5,7,2019
+2019-08-31,SEA,TEX,Seattle Mariners,Texas Rangers,10.5,10.0,2,3,2019
+2019-08-31,BOS,LAA,Boston Red Sox,Los Angeles Angels,10.5,10.5,4,10,2019
+2019-08-31,CWS,ATL,Chicago White Sox,Atlanta Braves,9.5,9.0,5,11,2019
+2019-09-01,MIA,WAS,Miami Marlins,Washington Nationals,8.5,9.0,3,9,2019
+2019-09-01,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,8.5,3,4,2019
+2019-09-01,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,9.5,4,0,2019
+2019-09-01,PIT,COL,Pittsburgh Pirates,Colorado Rockies,13.5,13.5,6,2,2019
+2019-09-01,SDG,SFO,San Diego Padres,San Francisco Giants,9.0,8.0,8,4,2019
+2019-09-01,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,10.0,9.5,4,3,2019
+2019-09-01,NYM,PHI,New York Mets,Philadelphia Phillies,9.5,9.5,2,5,2019
+2019-09-01,OAK,NYY,Oakland Athletics,New York Yankees,11.0,11.0,4,5,2019
+2019-09-01,HOU,TOR,Houston Astros,Toronto Blue Jays,9.0,9.0,2,0,2019
+2019-09-01,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,9.5,8,3,2019
+2019-09-01,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,8.0,8.0,2,8,2019
+2019-09-01,BAL,KAN,Baltimore Orioles,Kansas City Royals,10.0,9.5,4,6,2019
+2019-09-01,SEA,TEX,Seattle Mariners,Texas Rangers,10.0,10.0,11,3,2019
+2019-09-01,BOS,LAA,Boston Red Sox,Los Angeles Angels,9.5,9.5,4,3,2019
+2019-09-01,CWS,ATL,Chicago White Sox,Atlanta Braves,8.5,8.5,3,5,2019
+2019-09-01,CIN,STL,Cincinnati Reds,St. Louis Cardinals,,7.5,5,3,2019
+2019-09-02,NYM,WAS,New York Mets,Washington Nationals,9.5,10.0,7,3,2019
+2019-09-02,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,10.0,10.0,7,1,2019
+2019-09-02,SFO,STL,San Francisco Giants,St. Louis Cardinals,9.0,9.0,1,3,2019
+2019-09-02,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,9.0,7,14,2019
+2019-09-02,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.0,9,16,2019
+2019-09-02,TEX,NYY,Texas Rangers,New York Yankees,9.5,9.5,7,0,2019
+2019-09-02,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,10.0,4,3,2019
+2019-09-02,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.5,4,5,2019
+2019-09-02,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.5,10.0,3,11,2019
+2019-09-02,TOR,ATL,Toronto Blue Jays,Atlanta Braves,9.5,9.5,3,6,2019
+2019-09-02,SEA,CUB,Seattle Mariners,Chicago Cubs,9.5,9.0,1,5,2019
+2019-09-02,HOU,MIL,Houston Astros,Milwaukee Brewers,8.5,8.5,3,2,2019
+2019-09-03,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,10.0,10.5,6,2,2019
+2019-09-03,MIA,PIT,Miami Marlins,Pittsburgh Pirates,9.0,9.0,5,4,2019
+2019-09-03,NYM,WAS,New York Mets,Washington Nationals,7.5,7.5,10,11,2019
+2019-09-03,SFO,STL,San Francisco Giants,St. Louis Cardinals,8.5,8.5,0,1,2019
+2019-09-03,SDG,ARI,San Diego Padres,Arizona Diamondbacks,10.0,9.5,1,2,2019
+2019-09-03,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.5,10.5,3,5,2019
+2019-09-03,TEX,NYY,Texas Rangers,New York Yankees,10.5,10.0,1,10,2019
+2019-09-03,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.0,9.0,6,5,2019
+2019-09-03,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,9.0,9.5,4,2,2019
+2019-09-03,MIN,BOS,Minnesota Twins,Boston Red Sox,12.0,11.5,6,5,2019
+2019-09-03,DET,KAN,Detroit Tigers,Kansas City Royals,9.5,9.5,5,6,2019
+2019-09-03,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.5,5,7,2019
+2019-09-03,TOR,ATL,Toronto Blue Jays,Atlanta Braves,10.5,10.5,2,7,2019
+2019-09-03,HOU,MIL,Houston Astros,Milwaukee Brewers,8.5,9.5,2,4,2019
+2019-09-03,SEA,CUB,Seattle Mariners,Chicago Cubs,10.0,10.5,1,6,2019
+2019-09-03,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,10.0,9.5,0,2,2019
+2019-09-04,NYM,WAS,New York Mets,Washington Nationals,10.0,10.0,8,4,2019
+2019-09-04,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,8.5,9.0,5,8,2019
+2019-09-04,MIA,PIT,Miami Marlins,Pittsburgh Pirates,9.0,9.0,5,6,2019
+2019-09-04,SFO,STL,San Francisco Giants,St. Louis Cardinals,8.5,8.5,9,8,2019
+2019-09-04,SDG,ARI,San Diego Padres,Arizona Diamondbacks,8.5,8.0,1,4,2019
+2019-09-04,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.5,3,7,2019
+2019-09-04,TEX,NYY,Texas Rangers,New York Yankees,10.5,9.0,1,4,2019
+2019-09-04,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.0,8.5,6,8,2019
+2019-09-04,MIN,BOS,Minnesota Twins,Boston Red Sox,11.0,11.0,2,6,2019
+2019-09-04,DET,KAN,Detroit Tigers,Kansas City Royals,9.5,9.5,4,5,2019
+2019-09-04,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.5,9.5,0,4,2019
+2019-09-05,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,8.5,9.0,3,4,2019
+2019-09-05,SFO,STL,San Francisco Giants,St. Louis Cardinals,8.5,8.5,0,10,2019
+2019-09-05,MIA,PIT,Miami Marlins,Pittsburgh Pirates,9.5,9.0,10,7,2019
+2019-09-05,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.5,9.5,10,5,2019
+2019-09-05,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,9.0,2,4,2019
+2019-09-05,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.5,9.5,7,1,2019
+2019-09-05,DET,KAN,Detroit Tigers,Kansas City Royals,10.0,9.5,6,4,2019
+2019-09-05,LAA,OAK,Los Angeles Angels,Oakland Athletics,10.0,10.5,6,10,2019
+2019-09-05,TEX,BAL,Texas Rangers,Baltimore Orioles,9.5,9.5,3,1,2019
+2019-09-05,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,9.0,9.0,4,6,2019
+2019-09-05,MIN,BOS,Minnesota Twins,Boston Red Sox,12.5,11.5,2,1,2019
+2019-09-05,SEA,HOU,Seattle Mariners,Houston Astros,9.5,9.0,9,11,2019
+2019-09-06,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.0,9.5,4,9,2019
+2019-09-06,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,9.5,9.5,7,5,2019
+2019-09-06,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,8.5,4,5,2019
+2019-09-06,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,9.0,3,4,2019
+2019-09-06,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.5,9.5,1,7,2019
+2019-09-06,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.0,8.5,5,4,2019
+2019-09-06,COL,SDG,Colorado Rockies,San Diego Padres,9.0,9.0,3,2,2019
+2019-09-06,TEX,BAL,Texas Rangers,Baltimore Orioles,9.5,9.0,7,6,2019
+2019-09-06,NYY,BOS,New York Yankees,Boston Red Sox,11.0,11.0,1,6,2019
+2019-09-06,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,9.0,8.5,0,5,2019
+2019-09-06,LAA,CWS,Los Angeles Angels,Chicago White Sox,9.0,9.0,5,4,2019
+2019-09-06,CLE,MIN,Cleveland Guardians,Minnesota Twins,10.5,10.5,6,2,2019
+2019-09-06,SEA,HOU,Seattle Mariners,Houston Astros,10.5,10.0,4,7,2019
+2019-09-06,DET,OAK,Detroit Tigers,Oakland Athletics,9.0,9.0,5,4,2019
+2019-09-06,KAN,MIA,Kansas City Royals,Miami Marlins,8.5,8.5,3,0,2019
+2019-09-07,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,9.0,8.5,2,0,2019
+2019-09-07,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.0,9.5,10,1,2019
+2019-09-07,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.0,2,3,2019
+2019-09-07,PHI,NYM,Philadelphia Phillies,New York Mets,9.0,8.5,5,0,2019
+2019-09-07,WAS,ATL,Washington Nationals,Atlanta Braves,10.0,10.0,4,5,2019
+2019-09-07,COL,SDG,Colorado Rockies,San Diego Padres,9.0,8.5,0,3,2019
+2019-09-07,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,9.0,9.5,1,0,2019
+2019-09-07,NYY,BOS,New York Yankees,Boston Red Sox,11.5,11.5,5,1,2019
+2019-09-07,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.0,3,5,2019
+2019-09-07,TEX,BAL,Texas Rangers,Baltimore Orioles,9.5,9.5,9,4,2019
+2019-09-07,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.5,9.5,3,5,2019
+2019-09-07,LAA,CWS,Los Angeles Angels,Chicago White Sox,9.5,9.5,8,7,2019
+2019-09-07,SEA,HOU,Seattle Mariners,Houston Astros,8.5,9.0,1,2,2019
+2019-09-07,DET,OAK,Detroit Tigers,Oakland Athletics,9.0,9.0,2,10,2019
+2019-09-07,KAN,MIA,Kansas City Royals,Miami Marlins,8.5,8.5,7,2,2019
+2019-09-08,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,9.5,9.0,3,4,2019
+2019-09-08,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,8.5,10,7,2019
+2019-09-08,WAS,ATL,Washington Nationals,Atlanta Braves,8.5,8.5,9,4,2019
+2019-09-08,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,8.5,2,0,2019
+2019-09-08,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.0,5,8,2019
+2019-09-08,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,8.5,0,5,2019
+2019-09-08,COL,SDG,Colorado Rockies,San Diego Padres,9.0,9.0,1,2,2019
+2019-09-08,TEX,BAL,Texas Rangers,Baltimore Orioles,9.0,9.0,10,4,2019
+2019-09-08,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,3,8,2019
+2019-09-08,LAA,CWS,Los Angeles Angels,Chicago White Sox,10.0,9.5,1,5,2019
+2019-09-08,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.5,8.5,5,2,2019
+2019-09-08,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.0,1,21,2019
+2019-09-08,DET,OAK,Detroit Tigers,Oakland Athletics,9.0,9.0,1,3,2019
+2019-09-08,NYY,BOS,New York Yankees,Boston Red Sox,11.0,11.0,10,5,2019
+2019-09-08,KAN,MIA,Kansas City Royals,Miami Marlins,8.5,8.5,0,9,2019
+2019-09-09,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,9.0,7,2,2019
+2019-09-09,MIL,MIA,Milwaukee Brewers,Miami Marlins,8.5,9.0,8,3,2019
+2019-09-09,ARI,NYM,Arizona Diamondbacks,New York Mets,7.5,7.5,1,3,2019
+2019-09-09,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.0,7.5,6,4,2019
+2019-09-09,CUB,SDG,Chicago Cubs,San Diego Padres,8.0,8.0,10,2,2019
+2019-09-09,NYY,BOS,New York Yankees,Boston Red Sox,10.0,9.5,5,0,2019
+2019-09-09,OAK,HOU,Oakland Athletics,Houston Astros,9.5,9.5,0,15,2019
+2019-09-09,CLE,LAA,Cleveland Guardians,Los Angeles Angels,9.0,8.5,6,2,2019
+2019-09-10,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,10.5,5,6,2019
+2019-09-10,MIL,MIA,Milwaukee Brewers,Miami Marlins,9.0,8.5,4,3,2019
+2019-09-10,ARI,NYM,Arizona Diamondbacks,New York Mets,8.5,7.5,2,3,2019
+2019-09-10,STL,COL,St. Louis Cardinals,Colorado Rockies,12.5,13.5,1,2,2019
+2019-09-10,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.5,8.5,4,5,2019
+2019-09-10,CUB,SDG,Chicago Cubs,San Diego Padres,8.5,9.0,8,9,2019
+2019-09-10,NYY,DET,New York Yankees,Detroit Tigers,11.0,10.5,11,12,2019
+2019-09-10,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.5,10.0,3,4,2019
+2019-09-10,TAM,TEX,Tampa Bay Rays,Texas Rangers,10.0,9.0,5,3,2019
+2019-09-10,KAN,CWS,Kansas City Royals,Chicago White Sox,9.5,9.5,3,7,2019
+2019-09-10,OAK,HOU,Oakland Athletics,Houston Astros,9.5,10.0,21,7,2019
+2019-09-10,CLE,LAA,Cleveland Guardians,Los Angeles Angels,9.5,10.0,8,0,2019
+2019-09-10,LAD,BAL,Los Angeles Dodgers,Baltimore Orioles,10.0,10.0,7,3,2019
+2019-09-10,WAS,MIN,Washington Nationals,Minnesota Twins,10.5,10.5,0,5,2019
+2019-09-10,CIN,SEA,Cincinnati Reds,Seattle Mariners,9.0,9.0,3,4,2019
+2019-09-11,ATL,PHI,Atlanta Braves,Philadelphia Phillies,10.0,9.5,3,1,2019
+2019-09-11,MIL,MIA,Milwaukee Brewers,Miami Marlins,8.5,8.0,7,5,2019
+2019-09-11,ARI,NYM,Arizona Diamondbacks,New York Mets,8.0,9.0,0,9,2019
+2019-09-11,STL,COL,St. Louis Cardinals,Colorado Rockies,13.5,13.5,1,2,2019
+2019-09-11,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.5,9.0,6,3,2019
+2019-09-11,CUB,SDG,Chicago Cubs,San Diego Padres,8.0,8.0,0,4,2019
+2019-09-11,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.5,11.0,0,8,2019
+2019-09-11,TAM,TEX,Tampa Bay Rays,Texas Rangers,10.5,11.0,9,10,2019
+2019-09-11,CLE,LAA,Cleveland Guardians,Los Angeles Angels,9.0,10.0,4,3,2019
+2019-09-11,KAN,CWS,Kansas City Royals,Chicago White Sox,10.5,10.0,8,6,2019
+2019-09-11,OAK,HOU,Oakland Athletics,Houston Astros,11.0,11.0,5,3,2019
+2019-09-11,LAD,BAL,Los Angeles Dodgers,Baltimore Orioles,10.0,9.5,3,7,2019
+2019-09-11,WAS,MIN,Washington Nationals,Minnesota Twins,10.0,9.5,6,2,2019
+2019-09-11,CIN,SEA,Cincinnati Reds,Seattle Mariners,8.0,8.0,3,5,2019
+2019-09-12,MIL,MIA,Milwaukee Brewers,Miami Marlins,8.0,8.0,3,2,2019
+2019-09-12,ARI,NYM,Arizona Diamondbacks,New York Mets,8.5,8.0,1,11,2019
+2019-09-12,STL,COL,St. Louis Cardinals,Colorado Rockies,13.0,12.0,10,3,2019
+2019-09-12,CUB,SDG,Chicago Cubs,San Diego Padres,8.5,8.0,4,1,2019
+2019-09-12,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.5,8.5,4,2,2019
+2019-09-12,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.5,9.5,5,9,2019
+2019-09-12,NYY,DET,New York Yankees,Detroit Tigers,10.5,9.5,10,4,2019
+2019-09-12,KAN,CWS,Kansas City Royals,Chicago White Sox,9.0,8.5,6,3,2019
+2019-09-12,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.0,10.5,7,4,2019
+2019-09-12,TAM,TEX,Tampa Bay Rays,Texas Rangers,10.5,10.5,4,6,2019
+2019-09-12,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.0,3,2,2019
+2019-09-12,LAD,BAL,Los Angeles Dodgers,Baltimore Orioles,10.5,10.0,4,2,2019
+2019-09-12,WAS,MIN,Washington Nationals,Minnesota Twins,10.0,9.5,12,6,2019
+2019-09-12,CIN,SEA,Cincinnati Reds,Seattle Mariners,9.0,9.0,11,5,2019
+2019-09-12,NYY,DET,New York Yankees,Detroit Tigers,10.5,10.5,6,4,2019
+2019-09-13,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,10.5,11.0,8,17,2019
+2019-09-13,ATL,WAS,Atlanta Braves,Washington Nationals,8.5,8.5,5,0,2019
+2019-09-13,LAD,NYM,Los Angeles Dodgers,New York Mets,8.0,7.5,9,2,2019
+2019-09-13,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,8.0,0,10,2019
+2019-09-13,SDG,COL,San Diego Padres,Colorado Rockies,13.0,12.5,8,10,2019
+2019-09-13,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,8.5,8.5,4,3,2019
+2019-09-13,MIA,SFO,Miami Marlins,San Francisco Giants,8.5,8.0,0,1,2019
+2019-09-13,NYY,TOR,New York Yankees,Toronto Blue Jays,10.0,10.0,5,6,2019
+2019-09-13,BAL,DET,Baltimore Orioles,Detroit Tigers,9.5,9.5,6,2,2019
+2019-09-13,OAK,TEX,Oakland Athletics,Texas Rangers,11.0,11.0,14,9,2019
+2019-09-13,HOU,KAN,Houston Astros,Kansas City Royals,8.5,8.5,4,1,2019
+2019-09-13,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.5,8.0,11,4,2019
+2019-09-13,CWS,SEA,Chicago White Sox,Seattle Mariners,9.5,9.5,9,7,2019
+2019-09-14,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,10.0,10.5,1,14,2019
+2019-09-14,ATL,WAS,Atlanta Braves,Washington Nationals,10.0,10.5,10,1,2019
+2019-09-14,LAD,NYM,Los Angeles Dodgers,New York Mets,7.5,7.5,0,3,2019
+2019-09-14,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,7.5,7.5,5,2,2019
+2019-09-14,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,9.0,8.5,0,1,2019
+2019-09-14,SDG,COL,San Diego Padres,Colorado Rockies,12.5,13.5,10,11,2019
+2019-09-14,MIA,SFO,Miami Marlins,San Francisco Giants,7.5,8.0,4,2,2019
+2019-09-14,NYY,TOR,New York Yankees,Toronto Blue Jays,9.5,9.5,13,3,2019
+2019-09-14,BAL,DET,Baltimore Orioles,Detroit Tigers,9.5,9.5,4,8,2019
+2019-09-14,MIN,CLE,Minnesota Twins,Cleveland Guardians,10.0,9.5,9,5,2019
+2019-09-14,HOU,KAN,Houston Astros,Kansas City Royals,9.0,10.0,6,1,2019
+2019-09-14,OAK,TEX,Oakland Athletics,Texas Rangers,10.0,11.0,8,6,2019
+2019-09-14,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.5,9.0,3,1,2019
+2019-09-14,CWS,SEA,Chicago White Sox,Seattle Mariners,9.5,9.5,1,2,2019
+2019-09-14,BOS,PHI,Boston Red Sox,Philadelphia Phillies,9.0,8.5,2,1,2019
+2019-09-14,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,2,0,2019
+2019-09-15,LAD,NYM,Los Angeles Dodgers,New York Mets,8.0,8.0,3,2,2019
+2019-09-15,ATL,WAS,Atlanta Braves,Washington Nationals,10.0,10.0,0,7,2019
+2019-09-15,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,9.0,9.0,7,6,2019
+2019-09-15,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,11.5,11.5,6,16,2019
+2019-09-15,SDG,COL,San Diego Padres,Colorado Rockies,13.0,13.5,5,10,2019
+2019-09-15,MIA,SFO,Miami Marlins,San Francisco Giants,8.0,8.0,1,2,2019
+2019-09-15,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,8.5,8.0,3,1,2019
+2019-09-15,NYY,TOR,New York Yankees,Toronto Blue Jays,10.5,10.0,4,6,2019
+2019-09-15,BAL,DET,Baltimore Orioles,Detroit Tigers,10.5,10.0,8,2,2019
+2019-09-15,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,5,7,2019
+2019-09-15,HOU,KAN,Houston Astros,Kansas City Royals,10.0,10.5,12,3,2019
+2019-09-15,OAK,TEX,Oakland Athletics,Texas Rangers,11.0,11.5,6,1,2019
+2019-09-15,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,9.0,9.0,4,6,2019
+2019-09-15,CWS,SEA,Chicago White Sox,Seattle Mariners,9.5,9.0,10,11,2019
+2019-09-15,BOS,PHI,Boston Red Sox,Philadelphia Phillies,10.5,10.5,6,3,2019
+2019-09-16,SDG,MIL,San Diego Padres,Milwaukee Brewers,9.0,9.0,1,5,2019
+2019-09-16,WAS,STL,Washington Nationals,St. Louis Cardinals,8.0,8.0,2,4,2019
+2019-09-16,CIN,CUB,Cincinnati Reds,Chicago Cubs,9.0,8.5,2,8,2019
+2019-09-16,NYM,COL,New York Mets,Colorado Rockies,13.5,14.0,4,9,2019
+2019-09-16,MIA,ARI,Miami Marlins,Arizona Diamondbacks,8.5,9.0,5,7,2019
+2019-09-16,BAL,DET,Baltimore Orioles,Detroit Tigers,9.0,9.0,2,5,2019
+2019-09-16,CWS,MIN,Chicago White Sox,Minnesota Twins,10.0,9.5,3,5,2019
+2019-09-16,KAN,OAK,Kansas City Royals,Oakland Athletics,10.0,10.0,6,5,2019
+2019-09-17,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.5,10.0,5,4,2019
+2019-09-17,SDG,MIL,San Diego Padres,Milwaukee Brewers,9.0,8.5,1,3,2019
+2019-09-17,WAS,STL,Washington Nationals,St. Louis Cardinals,8.5,8.0,6,2,2019
+2019-09-17,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.0,7.5,4,2,2019
+2019-09-17,NYM,COL,New York Mets,Colorado Rockies,13.5,14.0,6,1,2019
+2019-09-17,MIA,ARI,Miami Marlins,Arizona Diamondbacks,8.5,9.5,12,6,2019
+2019-09-17,LAA,NYY,Los Angeles Angels,New York Yankees,10.0,9.0,0,8,2019
+2019-09-17,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.5,10.0,8,5,2019
+2019-09-17,DET,CLE,Detroit Tigers,Cleveland Guardians,10.5,10.0,2,7,2019
+2019-09-17,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,11.0,8,9,2019
+2019-09-17,TEX,HOU,Texas Rangers,Houston Astros,8.5,8.0,1,4,2019
+2019-09-17,KAN,OAK,Kansas City Royals,Oakland Athletics,9.5,9.5,1,2,2019
+2019-09-17,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,9.0,8.5,6,0,2019
+2019-09-17,SFO,BOS,San Francisco Giants,Boston Red Sox,10.5,10.0,7,6,2019
+2019-09-17,TAM,LAD,Tampa Bay Rays,Los Angeles Dodgers,8.5,8.0,5,7,2019
+2019-09-18,WAS,STL,Washington Nationals,St. Louis Cardinals,7.5,7.5,1,5,2019
+2019-09-18,NYM,COL,New York Mets,Colorado Rockies,13.0,13.0,7,4,2019
+2019-09-18,MIA,ARI,Miami Marlins,Arizona Diamondbacks,9.0,9.0,4,5,2019
+2019-09-18,PHI,ATL,Philadelphia Phillies,Atlanta Braves,10.0,10.5,4,1,2019
+2019-09-18,SDG,MIL,San Diego Padres,Milwaukee Brewers,9.0,8.5,2,1,2019
+2019-09-18,CIN,CUB,Cincinnati Reds,Chicago Cubs,10.0,9.5,3,2,2019
+2019-09-18,KAN,OAK,Kansas City Royals,Oakland Athletics,9.5,9.5,0,1,2019
+2019-09-18,LAA,NYY,Los Angeles Angels,New York Yankees,10.5,10.0,3,2,2019
+2019-09-18,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.0,9.5,11,10,2019
+2019-09-18,DET,CLE,Detroit Tigers,Cleveland Guardians,9.5,9.0,1,2,2019
+2019-09-18,CWS,MIN,Chicago White Sox,Minnesota Twins,10.0,10.5,3,1,2019
+2019-09-18,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.0,2,3,2019
+2019-09-18,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,9.5,9.0,4,1,2019
+2019-09-18,SFO,BOS,San Francisco Giants,Boston Red Sox,10.0,9.5,11,3,2019
+2019-09-18,TAM,LAD,Tampa Bay Rays,Los Angeles Dodgers,9.0,9.0,8,7,2019
+2019-09-19,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.0,8.0,4,5,2019
+2019-09-19,SDG,MIL,San Diego Padres,Milwaukee Brewers,8.5,8.5,1,5,2019
+2019-09-19,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.0,7.5,5,4,2019
+2019-09-19,LAA,NYY,Los Angeles Angels,New York Yankees,9.0,9.0,1,9,2019
+2019-09-19,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.0,10.5,8,4,2019
+2019-09-19,DET,CLE,Detroit Tigers,Cleveland Guardians,8.5,8.5,0,7,2019
+2019-09-19,KAN,MIN,Kansas City Royals,Minnesota Twins,10.5,10.5,5,8,2019
+2019-09-19,SEA,PIT,Seattle Mariners,Pittsburgh Pirates,9.0,8.5,6,5,2019
+2019-09-19,SFO,BOS,San Francisco Giants,Boston Red Sox,9.0,8.5,4,5,2019
+2019-09-20,STL,CUB,St. Louis Cardinals,Chicago Cubs,10.0,10.0,2,1,2019
+2019-09-20,NYM,CIN,New York Mets,Cincinnati Reds,7.5,7.5,8,1,2019
+2019-09-20,WAS,MIA,Washington Nationals,Miami Marlins,8.5,9.0,6,4,2019
+2019-09-20,SFO,ATL,San Francisco Giants,Atlanta Braves,9.0,9.5,0,6,2019
+2019-09-20,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.5,9.0,1,10,2019
+2019-09-20,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,9,0,2019
+2019-09-20,COL,LAD,Colorado Rockies,Los Angeles Dodgers,8.5,8.5,5,12,2019
+2019-09-20,TOR,NYY,Toronto Blue Jays,New York Yankees,10.0,9.5,4,3,2019
+2019-09-20,SEA,BAL,Seattle Mariners,Baltimore Orioles,10.5,10.5,3,5,2019
+2019-09-20,CWS,DET,Chicago White Sox,Detroit Tigers,9.5,9.0,10,1,2019
+2019-09-20,BOS,TAM,Boston Red Sox,Tampa Bay Rays,9.0,8.5,4,5,2019
+2019-09-20,KAN,MIN,Kansas City Royals,Minnesota Twins,10.5,10.5,3,4,2019
+2019-09-20,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,9.0,4,6,2019
+2019-09-20,TEX,OAK,Texas Rangers,Oakland Athletics,9.0,8.5,0,8,2019
+2019-09-20,PHI,CLE,Philadelphia Phillies,Cleveland Guardians,9.0,9.0,2,5,2019
+2019-09-21,STL,CUB,St. Louis Cardinals,Chicago Cubs,11.5,12.0,9,8,2019
+2019-09-21,NYM,CIN,New York Mets,Cincinnati Reds,9.5,9.5,2,3,2019
+2019-09-21,WAS,MIA,Washington Nationals,Miami Marlins,8.0,8.0,10,4,2019
+2019-09-21,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.5,1,10,2019
+2019-09-21,SFO,ATL,San Francisco Giants,Atlanta Braves,8.5,8.0,1,8,2019
+2019-09-21,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,4,2,2019
+2019-09-21,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,8.5,4,2,2019
+2019-09-21,TOR,NYY,Toronto Blue Jays,New York Yankees,10.0,9.0,2,7,2019
+2019-09-21,CWS,DET,Chicago White Sox,Detroit Tigers,9.5,9.5,5,3,2019
+2019-09-21,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,4,5,2019
+2019-09-21,SEA,BAL,Seattle Mariners,Baltimore Orioles,10.5,10.5,7,6,2019
+2019-09-21,KAN,MIN,Kansas City Royals,Minnesota Twins,10.0,10.5,12,5,2019
+2019-09-21,LAA,HOU,Los Angeles Angels,Houston Astros,10.0,9.5,8,4,2019
+2019-09-21,TEX,OAK,Texas Rangers,Oakland Athletics,9.0,8.5,3,12,2019
+2019-09-21,PHI,CLE,Philadelphia Phillies,Cleveland Guardians,10.0,11.0,9,4,2019
+2019-09-22,NYM,CIN,New York Mets,Cincinnati Reds,9.0,9.0,6,3,2019
+2019-09-22,WAS,MIA,Washington Nationals,Miami Marlins,9.0,8.5,3,5,2019
+2019-09-22,SFO,ATL,San Francisco Giants,Atlanta Braves,9.0,9.0,4,1,2019
+2019-09-22,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,8.5,3,4,2019
+2019-09-22,STL,CUB,St. Louis Cardinals,Chicago Cubs,12.5,12.5,3,2,2019
+2019-09-22,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.0,4,7,2019
+2019-09-22,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,4,6,2019
+2019-09-22,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,9.5,3,8,2019
+2019-09-22,SEA,BAL,Seattle Mariners,Baltimore Orioles,9.5,9.5,1,2,2019
+2019-09-22,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.0,3,6,2019
+2019-09-22,BOS,TAM,Boston Red Sox,Tampa Bay Rays,9.0,8.5,7,4,2019
+2019-09-22,KAN,MIN,Kansas City Royals,Minnesota Twins,10.5,10.5,8,12,2019
+2019-09-22,LAA,HOU,Los Angeles Angels,Houston Astros,8.5,9.0,5,13,2019
+2019-09-22,TEX,OAK,Texas Rangers,Oakland Athletics,9.0,8.5,8,3,2019
+2019-09-22,PHI,CLE,Philadelphia Phillies,Cleveland Guardians,9.5,10.5,1,10,2019
+2019-09-23,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,9.0,2,7,2019
+2019-09-23,MIA,NYM,Miami Marlins,New York Mets,8.0,8.5,8,4,2019
+2019-09-23,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,9.0,8.5,9,7,2019
+2019-09-23,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,10.0,10,11,2019
+2019-09-23,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,4,7,2019
+2019-09-24,PHI,WAS,Philadelphia Phillies,Washington Nationals,10.0,10.5,1,4,2019
+2019-09-24,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.5,4,2,2019
+2019-09-24,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,8.5,2,9,2019
+2019-09-24,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.0,7.5,5,6,2019
+2019-09-24,MIA,NYM,Miami Marlins,New York Mets,8.0,8.0,4,5,2019
+2019-09-24,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,8.5,8.5,2,3,2019
+2019-09-24,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,8.5,8,5,2019
+2019-09-24,LAD,SDG,Los Angeles Dodgers,San Diego Padres,9.0,9.0,6,3,2019
+2019-09-24,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,9.0,4,2,2019
+2019-09-24,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,10.0,11,4,2019
+2019-09-24,NYY,TAM,New York Yankees,Tampa Bay Rays,9.5,9.0,1,2,2019
+2019-09-24,BOS,TEX,Boston Red Sox,Texas Rangers,11.0,10.5,12,10,2019
+2019-09-24,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,9.0,11,0,2019
+2019-09-24,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.5,2,3,2019
+2019-09-24,HOU,SEA,Houston Astros,Seattle Mariners,9.0,8.5,3,0,2019
+2019-09-24,ATL,KAN,Atlanta Braves,Kansas City Royals,9.0,9.5,6,9,2019
+2019-09-25,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,9.0,8.5,7,9,2019
+2019-09-25,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.0,9.0,9,2,2019
+2019-09-25,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,9.5,2,4,2019
+2019-09-25,PHI,WAS,Philadelphia Phillies,Washington Nationals,10.0,10.0,2,5,2019
+2019-09-25,MIA,NYM,Miami Marlins,New York Mets,7.5,7.5,3,10,2019
+2019-09-25,COL,SFO,Colorado Rockies,San Francisco Giants,9.0,8.5,1,2,2019
+2019-09-25,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.5,6,4,2019
+2019-09-25,MIN,DET,Minnesota Twins,Detroit Tigers,9.5,9.5,5,1,2019
+2019-09-25,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.5,11.0,2,3,2019
+2019-09-25,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,8.0,0,4,2019
+2019-09-25,BOS,TEX,Boston Red Sox,Texas Rangers,11.5,11.5,10,3,2019
+2019-09-25,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.5,9.5,3,8,2019
+2019-09-25,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,8.5,3,2,2019
+2019-09-25,HOU,SEA,Houston Astros,Seattle Mariners,9.5,9.0,3,0,2019
+2019-09-25,ATL,KAN,Atlanta Braves,Kansas City Royals,9.0,9.5,10,2,2019
+2019-09-26,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.0,8.0,5,3,2019
+2019-09-26,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.0,1,0,2019
+2019-09-26,COL,SFO,Colorado Rockies,San Francisco Giants,8.5,8.5,3,8,2019
+2019-09-26,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.5,9.0,3,6,2019
+2019-09-26,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,8.0,5,9,2019
+2019-09-26,MIA,NYM,Miami Marlins,New York Mets,8.5,8.0,4,2,2019
+2019-09-26,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.0,10,4,2019
+2019-09-26,BOS,TEX,Boston Red Sox,Texas Rangers,11.0,10.0,5,7,2019
+2019-09-26,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.5,9.0,0,8,2019
+2019-09-26,HOU,LAA,Houston Astros,Los Angeles Angels,9.5,9.0,3,4,2019
+2019-09-26,OAK,SEA,Oakland Athletics,Seattle Mariners,9.0,9.0,3,1,2019
+2019-09-27,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.0,9.0,4,5,2019
+2019-09-27,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.5,8.5,5,6,2019
+2019-09-27,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.0,2,4,2019
+2019-09-27,MIL,COL,Milwaukee Brewers,Colorado Rockies,13.5,12.5,7,11,2019
+2019-09-27,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,8.5,8,2,2019
+2019-09-27,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,3,6,2019
+2019-09-27,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,7.5,9,2,2019
+2019-09-27,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,9.5,6,2,2019
+2019-09-27,BAL,BOS,Baltimore Orioles,Boston Red Sox,11.0,10.5,4,1,2019
+2019-09-27,NYY,TEX,New York Yankees,Texas Rangers,11.0,10.5,14,7,2019
+2019-09-27,MIN,KAN,Minnesota Twins,Kansas City Royals,10.0,10.0,6,2,2019
+2019-09-27,HOU,LAA,Houston Astros,Los Angeles Angels,10.0,9.5,4,0,2019
+2019-09-27,OAK,SEA,Oakland Athletics,Seattle Mariners,9.5,9.0,3,4,2019
+2019-09-27,CLE,WAS,Cleveland Guardians,Washington Nationals,10.0,9.5,2,8,2019
+2019-09-28,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.5,8.5,2,0,2019
+2019-09-28,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.0,9.0,3,9,2019
+2019-09-28,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.0,9.0,4,2,2019
+2019-09-28,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.5,0,3,2019
+2019-09-28,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,8.5,8,6,2019
+2019-09-28,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,5,6,2019
+2019-09-28,MIL,COL,Milwaukee Brewers,Colorado Rockies,12.0,13.0,2,3,2019
+2019-09-28,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,10.0,9,4,2019
+2019-09-28,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,9.0,1,4,2019
+2019-09-28,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.5,4,3,2019
+2019-09-28,MIN,KAN,Minnesota Twins,Kansas City Royals,10.5,10.5,4,3,2019
+2019-09-28,NYY,TEX,New York Yankees,Texas Rangers,11.0,11.0,4,9,2019
+2019-09-28,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,9.0,6,3,2019
+2019-09-28,OAK,SEA,Oakland Athletics,Seattle Mariners,9.0,9.0,1,0,2019
+2019-09-28,CLE,WAS,Cleveland Guardians,Washington Nationals,9.0,9.0,7,10,2019
+2019-09-28,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.0,1,7,2019
+2019-09-29,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.5,8.5,9,0,2019
+2019-09-29,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.5,9.0,4,3,2019
+2019-09-29,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.5,8.5,3,1,2019
+2019-09-29,MIL,COL,Milwaukee Brewers,Colorado Rockies,13.5,13.0,3,4,2019
+2019-09-29,ATL,NYM,Atlanta Braves,New York Mets,8.0,8.0,6,7,2019
+2019-09-29,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,9.5,0,1,2019
+2019-09-29,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,8.5,0,9,2019
+2019-09-29,NYY,TEX,New York Yankees,Texas Rangers,11.0,10.5,1,6,2019
+2019-09-29,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,10.0,4,5,2019
+2019-09-29,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,3,8,2019
+2019-09-29,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,8.5,8,5,2019
+2019-09-29,OAK,SEA,Oakland Athletics,Seattle Mariners,9.0,9.0,1,3,2019
+2019-09-29,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.5,3,5,2019
+2019-09-29,MIN,KAN,Minnesota Twins,Kansas City Royals,11.0,10.5,4,5,2019
+2019-09-29,CLE,WAS,Cleveland Guardians,Washington Nationals,9.0,8.5,2,8,2019
+2019-10-01,MIL,WAS,Milwaukee Brewers,Washington Nationals,7.5,7.5,3,4,2019
+2019-10-02,TAM,OAK,Tampa Bay Rays,Oakland Athletics,7.5,7.0,5,1,2019
+2019-10-03,STL,ATL,St. Louis Cardinals,Atlanta Braves,8.0,9.0,7,6,2019
+2019-10-03,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.0,7.5,0,6,2019
+2019-10-04,STL,ATL,St. Louis Cardinals,Atlanta Braves,8.0,8.5,0,3,2019
+2019-10-04,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.5,7.5,4,2,2019
+2019-10-04,MIN,NYY,Minnesota Twins,New York Yankees,9.0,8.5,4,10,2019
+2019-10-04,TAM,HOU,Tampa Bay Rays,Houston Astros,7.5,7.5,2,6,2019
+2019-10-05,MIN,NYY,Minnesota Twins,New York Yankees,9.5,9.0,2,8,2019
+2019-10-05,TAM,HOU,Tampa Bay Rays,Houston Astros,7.5,7.5,1,3,2019
+2019-10-06,LAD,WAS,Los Angeles Dodgers,Washington Nationals,8.5,9.0,10,4,2019
+2019-10-06,ATL,STL,Atlanta Braves,St. Louis Cardinals,8.5,8.5,3,1,2019
+2019-10-07,ATL,STL,Atlanta Braves,St. Louis Cardinals,8.5,8.0,4,5,2019
+2019-10-07,LAD,WAS,Los Angeles Dodgers,Washington Nationals,8.5,8.5,1,6,2019
+2019-10-07,HOU,TAM,Houston Astros,Tampa Bay Rays,7.5,8.0,3,10,2019
+2019-10-07,NYY,MIN,New York Yankees,Minnesota Twins,9.0,9.0,5,1,2019
+2019-10-08,HOU,TAM,Houston Astros,Tampa Bay Rays,7.5,7.5,1,4,2019
+2019-10-09,STL,ATL,St. Louis Cardinals,Atlanta Braves,8.0,7.5,13,1,2019
+2019-10-09,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.0,7.0,7,3,2019
+2019-10-10,TAM,HOU,Tampa Bay Rays,Houston Astros,7.0,7.0,1,6,2019
+2019-10-11,WAS,STL,Washington Nationals,St. Louis Cardinals,8.5,7.5,2,0,2019
+2019-10-12,NYY,HOU,New York Yankees,Houston Astros,8.5,9.0,7,0,2019
+2019-10-12,WAS,STL,Washington Nationals,St. Louis Cardinals,7.0,7.0,3,1,2019
+2019-10-13,NYY,HOU,New York Yankees,Houston Astros,7.5,7.5,2,3,2019
+2019-10-14,STL,WAS,St. Louis Cardinals,Washington Nationals,7.0,6.5,1,8,2019
+2019-10-15,HOU,NYY,Houston Astros,New York Yankees,7.5,7.5,4,1,2019
+2019-10-15,STL,WAS,St. Louis Cardinals,Washington Nationals,7.5,7.5,4,7,2019
+2019-10-17,HOU,NYY,Houston Astros,New York Yankees,8.0,8.5,8,3,2019
+2019-10-18,HOU,NYY,Houston Astros,New York Yankees,8.0,7.5,1,4,2019
+2019-10-19,NYY,HOU,New York Yankees,Houston Astros,9.0,9.0,4,6,2019
+2019-10-22,WAS,HOU,Washington Nationals,Houston Astros,7.0,6.5,5,4,2019
+2019-10-23,WAS,HOU,Washington Nationals,Houston Astros,7.5,7.0,12,3,2019
+2019-10-25,HOU,WAS,Houston Astros,Washington Nationals,8.0,8.5,4,1,2019
+2019-10-26,HOU,WAS,Houston Astros,Washington Nationals,8.5,8.5,8,1,2019
+2019-10-27,HOU,WAS,Houston Astros,Washington Nationals,7.0,8.0,7,1,2019
+2019-10-29,WAS,HOU,Washington Nationals,Houston Astros,7.0,7.5,7,2,2019
+2019-10-30,WAS,HOU,Washington Nationals,Houston Astros,7.5,7.5,6,2,2019

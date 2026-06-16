@@ -1,0 +1,4 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,temp_f,wind_mph,wind_out,date
+Miami Marlins,Philadelphia Phillies,Ryan Gusto,Zack Wheeler,6.49,7.5,-1.01,UNDER,70.6,6.9,False,2026-06-15
+Detroit Tigers,Houston Astros,Troy Melton,Kai-Wei Teng,9.8,8.5,1.3,OVER,,0.0,False,2026-06-15
+Pittsburgh Pirates,Athletics,Jared Jones,J.T. Ginn,9.18,10.5,-1.32,UNDER,85.5,11.3,False,2026-06-15

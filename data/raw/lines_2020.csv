@@ -1,0 +1,898 @@
+date,away_team_abbr,home_team_abbr,away_team,home_team,open_total,close_total,away_final,home_final,season
+2020-07-23,NYY,WAS,New York Yankees,Washington Nationals,7.0,7.5,4,1,2020
+2020-07-23,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.0,9.0,1,8,2020
+2020-07-24,ATL,NYM,Atlanta Braves,New York Mets,8.0,7.5,0,1,2020
+2020-07-24,DET,CIN,Detroit Tigers,Cincinnati Reds,8.0,9.0,1,7,2020
+2020-07-24,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,7.5,6,4,2020
+2020-07-24,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,9.0,5,2,2020
+2020-07-24,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,9.0,0,2,2020
+2020-07-24,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.0,8.5,0,3,2020
+2020-07-24,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,10.0,2,13,2020
+2020-07-24,COL,TEX,Colorado Rockies,Texas Rangers,8.0,9.0,0,1,2020
+2020-07-24,MIN,CWS,Minnesota Twins,Chicago White Sox,8.5,9.0,10,5,2020
+2020-07-24,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.0,4,5,2020
+2020-07-24,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.5,2,8,2020
+2020-07-24,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,2,7,2020
+2020-07-24,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,9.0,1,9,2020
+2020-07-24,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.5,8.5,3,7,2020
+2020-07-25,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.5,9.5,8,3,2020
+2020-07-25,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,10.5,7,2,2020
+2020-07-25,MIN,CWS,Minnesota Twins,Chicago White Sox,9.5,10.0,3,10,2020
+2020-07-25,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,9.0,1,9,2020
+2020-07-25,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,1,4,2020
+2020-07-25,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.0,9.0,1,7,2020
+2020-07-25,COL,TEX,Colorado Rockies,Texas Rangers,9.0,8.5,3,2,2020
+2020-07-25,SEA,HOU,Seattle Mariners,Houston Astros,9.5,9.5,2,7,2020
+2020-07-25,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,8.5,4,1,2020
+2020-07-25,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,5.5,9.5,5,4,2020
+2020-07-25,ATL,NYM,Atlanta Braves,New York Mets,9.0,9.0,5,3,2020
+2020-07-25,DET,CIN,Detroit Tigers,Cincinnati Reds,9.0,9.0,6,4,2020
+2020-07-25,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.0,3,2,2020
+2020-07-25,NYY,WAS,New York Yankees,Washington Nationals,8.5,10.0,2,9,2020
+2020-07-25,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,1,5,2020
+2020-07-26,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.0,9.5,11,6,2020
+2020-07-26,NYY,WAS,New York Yankees,Washington Nationals,10.0,10.0,3,2,2020
+2020-07-26,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,8.0,5,6,2020
+2020-07-26,DET,CIN,Detroit Tigers,Cincinnati Reds,9.0,9.5,3,2,2020
+2020-07-26,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.0,2,9,2020
+2020-07-26,BAL,BOS,Baltimore Orioles,Boston Red Sox,11.0,11.0,7,4,2020
+2020-07-26,MIN,CWS,Minnesota Twins,Chicago White Sox,10.5,10.0,14,2,2020
+2020-07-26,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.0,7,6,2020
+2020-07-26,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,9.0,5,1,2020
+2020-07-26,MIL,CUB,Milwaukee Brewers,Chicago Cubs,11.0,11.5,1,9,2020
+2020-07-26,COL,TEX,Colorado Rockies,Texas Rangers,9.0,8.5,5,2,2020
+2020-07-26,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.0,4,6,2020
+2020-07-26,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,4,3,2020
+2020-07-26,ATL,NYM,Atlanta Braves,New York Mets,9.0,9.5,14,1,2020
+2020-07-26,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,9.0,9.0,3,1,2020
+2020-07-27,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.0,0,3,2020
+2020-07-27,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,8.5,2,6,2020
+2020-07-27,TOR,WAS,Toronto Blue Jays,Washington Nationals,10.0,10.5,4,1,2020
+2020-07-27,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,10.0,8,7,2020
+2020-07-27,ATL,TAM,Atlanta Braves,Tampa Bay Rays,8.5,8.0,5,14,2020
+2020-07-27,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,9.5,6,5,2020
+2020-07-27,SEA,HOU,Seattle Mariners,Houston Astros,9.5,9.0,5,8,2020
+2020-07-27,KAN,DET,Kansas City Royals,Detroit Tigers,9.5,9.5,14,6,2020
+2020-07-27,NYM,BOS,New York Mets,Boston Red Sox,10.5,11.5,7,4,2020
+2020-07-28,TOR,WAS,Toronto Blue Jays,Washington Nationals,10.5,10.0,5,1,2020
+2020-07-28,ATL,TAM,Atlanta Braves,Tampa Bay Rays,9.0,8.5,2,5,2020
+2020-07-28,CUB,CIN,Chicago Cubs,Cincinnati Reds,10.0,10.5,8,5,2020
+2020-07-28,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.5,10.0,6,8,2020
+2020-07-28,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.5,10.5,3,5,2020
+2020-07-28,KAN,DET,Kansas City Royals,Detroit Tigers,10.5,10.5,3,4,2020
+2020-07-28,NYM,BOS,New York Mets,Boston Red Sox,11.5,11.5,8,3,2020
+2020-07-28,STL,MIN,St. Louis Cardinals,Minnesota Twins,10.0,10.5,3,6,2020
+2020-07-28,ARI,TEX,Arizona Diamondbacks,Texas Rangers,9.5,9.0,4,1,2020
+2020-07-28,LAD,HOU,Los Angeles Dodgers,Houston Astros,9.0,10.0,5,2,2020
+2020-07-28,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,2,10,2020
+2020-07-28,COL,OAK,Colorado Rockies,Oakland Athletics,10.0,9.5,8,3,2020
+2020-07-28,SDG,SFO,San Diego Padres,San Francisco Giants,8.0,9.0,5,3,2020
+2020-07-28,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.5,9.0,3,4,2020
+2020-07-29,COL,OAK,Colorado Rockies,Oakland Athletics,9.0,8.0,5,1,2020
+2020-07-29,ARI,TEX,Arizona Diamondbacks,Texas Rangers,8.5,8.0,4,7,2020
+2020-07-29,CWS,CLE,Chicago White Sox,Cleveland Guardians,9.0,9.5,4,0,2020
+2020-07-29,WAS,TOR,Washington Nationals,Toronto Blue Jays,9.0,8.5,4,0,2020
+2020-07-29,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.0,7,12,2020
+2020-07-29,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,8.5,3,0,2020
+2020-07-29,LAD,HOU,Los Angeles Dodgers,Houston Astros,10.0,10.0,4,2,2020
+2020-07-29,BOS,NYM,Boston Red Sox,New York Mets,8.0,7.5,6,5,2020
+2020-07-29,TAM,ATL,Tampa Bay Rays,Atlanta Braves,8.5,8.5,4,7,2020
+2020-07-29,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.5,4,5,2020
+2020-07-29,STL,MIN,St. Louis Cardinals,Minnesota Twins,10.0,10.0,0,3,2020
+2020-07-29,SDG,SFG,San Diego Padres,SFG,7.5,7.5,6,7,2020
+2020-07-29,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,10,7,2020
+2020-07-29,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,9,3,2020
+2020-07-30,WAS,TOR,Washington Nationals,Toronto Blue Jays,9.0,9.5,6,4,2020
+2020-07-30,KAN,DET,Kansas City Royals,Detroit Tigers,10.0,9.5,5,3,2020
+2020-07-30,TAM,ATL,Tampa Bay Rays,Atlanta Braves,8.5,9.0,1,2,2020
+2020-07-30,BOS,NYM,Boston Red Sox,New York Mets,9.0,9.5,4,2,2020
+2020-07-30,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,8.5,2,0,2020
+2020-07-30,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.5,6,3,2020
+2020-07-30,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,8,5,2020
+2020-07-30,SDG,SFO,San Diego Padres,San Francisco Giants,8.5,8.0,12,7,2020
+2020-07-30,NYY,BAL,New York Yankees,Baltimore Orioles,10.0,11.0,8,6,2020
+2020-07-31,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.5,8.5,3,6,2020
+2020-07-31,BOS,NYY,Boston Red Sox,New York Yankees,10.5,10.5,1,5,2020
+2020-07-31,CIN,DET,Cincinnati Reds,Detroit Tigers,9.0,8.5,2,7,2020
+2020-07-31,NYM,ATL,New York Mets,Atlanta Braves,10.0,10.5,10,11,2020
+2020-07-31,CWS,KAN,Chicago White Sox,Kansas City Royals,10.0,9.5,3,2,2020
+2020-07-31,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.5,9.0,1,4,2020
+2020-07-31,SDG,COL,San Diego Padres,Colorado Rockies,11.5,11.5,8,7,2020
+2020-07-31,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.5,8.5,3,6,2020
+2020-07-31,HOU,LAA,Houston Astros,Los Angeles Angels,9.5,9.5,9,6,2020
+2020-07-31,TEX,SFO,Texas Rangers,San Francisco Giants,8.0,8.0,2,9,2020
+2020-07-31,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,9.5,3,5,2020
+2020-07-31,OAK,SEA,Oakland Athletics,Seattle Mariners,9.0,9.5,3,5,2020
+2020-08-01,CWS,KAN,Chicago White Sox,Kansas City Royals,10.0,10.5,11,5,2020
+2020-08-01,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,4,5,2020
+2020-08-01,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,8.5,0,3,2020
+2020-08-01,NYM,ATL,New York Mets,Atlanta Braves,10.0,10.5,1,7,2020
+2020-08-01,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,9.0,4,5,2020
+2020-08-01,BOS,NYY,Boston Red Sox,New York Yankees,10.0,10.0,2,5,2020
+2020-08-01,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,9.5,11,2,2020
+2020-08-01,SDG,COL,San Diego Padres,Colorado Rockies,12.0,12.5,1,6,2020
+2020-08-01,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,9.0,9.0,3,4,2020
+2020-08-01,OAK,SEA,Oakland Athletics,Seattle Mariners,9.5,9.5,3,2,2020
+2020-08-01,TEX,SFO,Texas Rangers,San Francisco Giants,8.5,8.5,3,7,2020
+2020-08-02,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.0,9.5,1,5,2020
+2020-08-02,CIN,DET,Cincinnati Reds,Detroit Tigers,9.5,7.5,4,3,2020
+2020-08-02,NYM,ATL,New York Mets,Atlanta Braves,11.0,11.0,0,4,2020
+2020-08-02,CWS,KAN,Chicago White Sox,Kansas City Royals,10.5,9.5,9,2,2020
+2020-08-02,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.5,9.0,1,3,2020
+2020-08-02,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,9.0,9.0,1,2,2020
+2020-08-02,SDG,COL,San Diego Padres,Colorado Rockies,13.0,13.0,6,9,2020
+2020-08-02,TEX,SFO,Texas Rangers,San Francisco Giants,9.0,9.0,9,5,2020
+2020-08-02,HOU,LAA,Houston Astros,Los Angeles Angels,10.0,10.0,6,5,2020
+2020-08-02,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.0,3,0,2020
+2020-08-02,OAK,SEA,Oakland Athletics,Seattle Mariners,9.5,9.0,3,2,2020
+2020-08-02,BOS,NYY,Boston Red Sox,New York Yankees,9.5,10.5,7,9,2020
+2020-08-02,CIN,DET,Cincinnati Reds,Detroit Tigers,7.0,7.0,4,0,2020
+2020-08-03,CLE,CIN,Cleveland Guardians,Cincinnati Reds,8.5,8.0,2,3,2020
+2020-08-03,NYM,ATL,New York Mets,Atlanta Braves,7.5,8.0,7,2,2020
+2020-08-03,PIT,MIN,Pittsburgh Pirates,Minnesota Twins,9.5,9.5,4,5,2020
+2020-08-03,CWS,MIL,Chicago White Sox,Milwaukee Brewers,9.5,9.5,6,4,2020
+2020-08-03,KAN,CUB,Kansas City Royals,Chicago Cubs,8.5,8.0,0,2,2020
+2020-08-03,SFO,COL,San Francisco Giants,Colorado Rockies,12.5,13.5,6,7,2020
+2020-08-03,OAK,SEA,Oakland Athletics,Seattle Mariners,9.0,9.0,11,1,2020
+2020-08-03,LAD,SDG,Los Angeles Dodgers,San Diego Padres,7.5,8.0,4,5,2020
+2020-08-03,PHI,NYY,Philadelphia Phillies,New York Yankees,9.0,9.0,3,6,2020
+2020-08-04,PIT,MIN,Pittsburgh Pirates,Minnesota Twins,9.0,8.5,3,7,2020
+2020-08-04,CLE,CIN,Cleveland Guardians,Cincinnati Reds,8.0,8.0,4,2,2020
+2020-08-04,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.0,1,5,2020
+2020-08-04,NYM,WAS,New York Mets,Washington Nationals,9.5,8.5,3,5,2020
+2020-08-04,TOR,ATL,Toronto Blue Jays,Atlanta Braves,9.0,8.5,1,10,2020
+2020-08-04,CWS,MIL,Chicago White Sox,Milwaukee Brewers,8.5,8.0,3,2,2020
+2020-08-04,KAN,CUB,Kansas City Royals,Chicago Cubs,8.0,8.0,4,5,2020
+2020-08-04,SFO,COL,San Francisco Giants,Colorado Rockies,13.0,11.0,2,5,2020
+2020-08-04,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,7.5,1,5,2020
+2020-08-04,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.0,5,2,2020
+2020-08-04,HOU,ARI,Houston Astros,Arizona Diamondbacks,9.0,9.5,8,2,2020
+2020-08-04,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.0,9.0,5,3,2020
+2020-08-04,MIA,BAL,Miami Marlins,Baltimore Orioles,9.5,9.0,4,0,2020
+2020-08-05,NYM,WAS,New York Mets,Washington Nationals,8.5,8.5,3,1,2020
+2020-08-05,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,5,0,2020
+2020-08-05,MIN,PIT,Minnesota Twins,Pittsburgh Pirates,8.5,9.5,5,2,2020
+2020-08-05,CIN,CLE,Cincinnati Reds,Cleveland Guardians,8.0,8.5,0,2,2020
+2020-08-05,TOR,ATL,Toronto Blue Jays,Atlanta Braves,9.0,9.0,2,1,2020
+2020-08-05,CUB,KAN,Chicago Cubs,Kansas City Royals,9.0,9.0,6,1,2020
+2020-08-05,MIL,CWS,Milwaukee Brewers,Chicago White Sox,9.5,8.5,1,0,2020
+2020-08-05,SFO,COL,San Francisco Giants,Colorado Rockies,12.5,11.5,4,3,2020
+2020-08-05,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.0,4,6,2020
+2020-08-05,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.0,7,6,2020
+2020-08-05,HOU,ARI,Houston Astros,Arizona Diamondbacks,9.5,9.5,7,14,2020
+2020-08-05,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.0,9.0,6,7,2020
+2020-08-05,PHI,NYY,Philadelphia Phillies,New York Yankees,8.0,7.5,11,7,2020
+2020-08-05,NYY,PHI,New York Yankees,Philadelphia Phillies,7.0,7.5,3,1,2020
+2020-08-05,MIA,BAL,Miami Marlins,Baltimore Orioles,7.0,7.0,1,0,2020
+2020-08-05,BAL,MIA,Baltimore Orioles,Miami Marlins,7.5,7.5,1,2,2020
+2020-08-06,MIN,PIT,Minnesota Twins,Pittsburgh Pirates,9.0,8.5,5,6,2020
+2020-08-06,SFO,COL,San Francisco Giants,Colorado Rockies,12.5,11.5,4,6,2020
+2020-08-06,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,9.0,4,6,2020
+2020-08-06,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.0,8.5,6,1,2020
+2020-08-06,CIN,CLE,Cincinnati Reds,Cleveland Guardians,8.0,7.0,0,13,2020
+2020-08-06,TOR,ATL,Toronto Blue Jays,Atlanta Braves,9.0,9.0,3,4,2020
+2020-08-06,CUB,KAN,Chicago Cubs,Kansas City Royals,9.0,9.5,2,13,2020
+2020-08-06,HOU,ARI,Houston Astros,Arizona Diamondbacks,9.0,9.0,4,5,2020
+2020-08-06,MIL,CWS,Milwaukee Brewers,Chicago White Sox,9.0,9.0,8,3,2020
+2020-08-06,NYY,PHI,New York Yankees,Philadelphia Phillies,9.5,9.5,4,5,2020
+2020-08-06,BAL,MIA,Baltimore Orioles,Miami Marlins,8.5,8.5,7,8,2020
+2020-08-07,BAL,WAS,Baltimore Orioles,Washington Nationals,9.0,9.0,11,0,2020
+2020-08-07,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,8.0,0,1,2020
+2020-08-07,DET,PIT,Detroit Tigers,Pittsburgh Pirates,8.5,8.5,17,13,2020
+2020-08-07,MIA,NYM,Miami Marlins,New York Mets,8.5,9.0,4,3,2020
+2020-08-07,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.5,10.5,3,5,2020
+2020-08-07,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,9.5,2,3,2020
+2020-08-07,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,8.5,0,2,2020
+2020-08-07,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.0,8,3,2020
+2020-08-07,LAA,TEX,Los Angeles Angels,Texas Rangers,9.5,9.0,3,4,2020
+2020-08-07,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,0,3,2020
+2020-08-07,HOU,OAK,Houston Astros,Oakland Athletics,9.0,8.5,2,3,2020
+2020-08-07,COL,SEA,Colorado Rockies,Seattle Mariners,9.0,8.5,8,4,2020
+2020-08-07,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,9.0,9.0,2,7,2020
+2020-08-08,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.5,7,1,2020
+2020-08-08,DET,PIT,Detroit Tigers,Pittsburgh Pirates,9.0,9.5,11,5,2020
+2020-08-08,HOU,OAK,Houston Astros,Oakland Athletics,9.0,8.5,1,3,2020
+2020-08-08,ATL,PHI,Atlanta Braves,Philadelphia Phillies,10.0,10.0,0,5,2020
+2020-08-08,BAL,WAS,Baltimore Orioles,Washington Nationals,9.0,9.5,5,3,2020
+2020-08-08,NYY,TAM,New York Yankees,Tampa Bay Rays,7.0,7.0,3,5,2020
+2020-08-08,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,9.5,6,9,2020
+2020-08-08,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,9.0,0,2,2020
+2020-08-08,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,9.0,4,1,2020
+2020-08-08,MIA,NYM,Miami Marlins,New York Mets,9.0,9.0,4,8,2020
+2020-08-08,TOR,BOS,Toronto Blue Jays,Boston Red Sox,11.0,10.5,2,1,2020
+2020-08-08,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,7.5,3,2,2020
+2020-08-08,COL,SEA,Colorado Rockies,Seattle Mariners,9.5,9.5,5,0,2020
+2020-08-08,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,8.0,5,4,2020
+2020-08-08,NYY,TAM,New York Yankees,Tampa Bay Rays,6.0,5.5,8,4,2020
+2020-08-09,BAL,WAS,Baltimore Orioles,Washington Nationals,8.5,8.5,5,2,2020
+2020-08-09,ATL,PHI,Atlanta Braves,Philadelphia Phillies,7.5,7.5,5,2,2020
+2020-08-09,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,8.5,3,4,2020
+2020-08-09,MIA,NYM,Miami Marlins,New York Mets,7.0,7.5,2,4,2020
+2020-08-09,DET,PIT,Detroit Tigers,Pittsburgh Pirates,8.5,9.0,2,1,2020
+2020-08-09,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,10.0,3,5,2020
+2020-08-09,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,9.5,2,4,2020
+2020-08-09,CLE,CWS,Cleveland Guardians,Chicago White Sox,7.5,7.5,5,4,2020
+2020-08-09,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.0,7.0,3,9,2020
+2020-08-09,LAA,TEX,Los Angeles Angels,Texas Rangers,8.5,7.5,3,7,2020
+2020-08-09,COL,SEA,Colorado Rockies,Seattle Mariners,9.0,8.0,3,5,2020
+2020-08-09,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,8.5,2,6,2020
+2020-08-09,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,5,9,2020
+2020-08-09,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.0,2,7,2020
+2020-08-09,ATL,PHI,Atlanta Braves,Philadelphia Phillies,7.0,6.5,8,0,2020
+2020-08-10,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,9.0,8,13,2020
+2020-08-10,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.0,1,5,2020
+2020-08-10,WAS,NYM,Washington Nationals,New York Mets,8.5,8.5,16,4,2020
+2020-08-10,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.5,8,7,2020
+2020-08-10,MIN,MIL,Minnesota Twins,Milwaukee Brewers,8.0,8.5,4,2,2020
+2020-08-10,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,11.5,12,8,2020
+2020-08-10,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,9.0,10,2,2020
+2020-08-10,SFO,HOU,San Francisco Giants,Houston Astros,9.5,9.0,4,6,2020
+2020-08-10,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.5,9,10,2020
+2020-08-10,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.5,8.5,2,1,2020
+2020-08-11,MIA,TOR,Miami Marlins,Toronto Blue Jays,8.5,8.0,4,5,2020
+2020-08-11,KAN,CIN,Kansas City Royals,Cincinnati Reds,9.0,8.5,5,6,2020
+2020-08-11,ATL,NYY,Atlanta Braves,New York Yankees,10.0,9.5,6,9,2020
+2020-08-11,BAL,PHI,Baltimore Orioles,Philadelphia Phillies,9.0,8.5,10,9,2020
+2020-08-11,CUB,CLE,Chicago Cubs,Cleveland Guardians,8.0,9.0,7,1,2020
+2020-08-11,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.0,8,4,2020
+2020-08-11,WAS,NYM,Washington Nationals,New York Mets,8.0,8.5,2,1,2020
+2020-08-11,TAM,BRS,Tampa Bay Rays,Boston Red Sox,10.0,10.0,8,2,2020
+2020-08-11,MIN,MIL,Minnesota Twins,Milwaukee Brewers,9.0,9.0,4,6,2020
+2020-08-11,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,11.0,7,8,2020
+2020-08-11,SEA,TEX,Seattle Mariners,Texas Rangers,8.5,8.5,2,4,2020
+2020-08-11,SFO,HOU,San Francisco Giants,Houston Astros,9.5,9.0,7,6,2020
+2020-08-11,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,0,6,2020
+2020-08-11,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.5,8.5,6,2,2020
+2020-08-12,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.0,7,5,2020
+2020-08-12,ARI,COL,Arizona Diamondbacks,Colorado Rockies,12.5,12.5,13,7,2020
+2020-08-12,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.5,9.5,8,4,2020
+2020-08-12,CUB,CLE,Chicago Cubs,Cleveland Guardians,8.0,7.5,7,2,2020
+2020-08-12,MIA,TOR,Miami Marlins,Toronto Blue Jays,8.5,8.5,14,11,2020
+2020-08-12,KAN,CIN,Kansas City Royals,Cincinnati Reds,9.0,9.5,5,4,2020
+2020-08-12,ATL,NYY,Atlanta Braves,New York Yankees,9.5,9.0,3,6,2020
+2020-08-12,BAL,PHI,Baltimore Orioles,Philadelphia Phillies,9.5,10.0,5,4,2020
+2020-08-12,WAS,NYM,Washington Nationals,New York Mets,9.5,9.5,6,11,2020
+2020-08-12,MIN,MIL,Minnesota Twins,Milwaukee Brewers,9.0,9.0,12,2,2020
+2020-08-12,SFO,HOU,San Francisco Giants,Houston Astros,9.0,9.0,1,5,2020
+2020-08-12,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.0,9,5,2020
+2020-08-12,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,8.5,4,7,2020
+2020-08-12,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.5,9.5,0,6,2020
+2020-08-13,WAS,NYM,Washington Nationals,New York Mets,9.0,8.5,2,8,2020
+2020-08-13,MIL,CHC,Milwaukee Brewers,Chicago Cubs,8.0,8.5,2,4,2020
+2020-08-13,BAL,PHI,Baltimore Orioles,Philadelphia Phillies,9.5,9.5,11,4,2020
+2020-08-13,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.0,17,8,2020
+2020-08-13,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.0,9,6,2020
+2020-08-13,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,8.0,2,11,2020
+2020-08-14,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,10.0,10.5,4,12,2020
+2020-08-14,WAS,BAL,Washington Nationals,Baltimore Orioles,9.0,9.0,15,3,2020
+2020-08-14,BOS,NYY,Boston Red Sox,New York Yankees,9.0,9.0,3,10,2020
+2020-08-14,NYM,PHI,New York Mets,Philadelphia Phillies,8.5,10.0,5,6,2020
+2020-08-14,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,8.5,10,5,2020
+2020-08-14,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,8.0,1,8,2020
+2020-08-14,ATL,MIA,Atlanta Braves,Miami Marlins,9.0,8.5,2,8,2020
+2020-08-14,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,8.0,4,3,2020
+2020-08-14,TEX,COL,Texas Rangers,Colorado Rockies,12.0,12.5,3,2,2020
+2020-08-14,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.5,1,11,2020
+2020-08-14,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,8.5,9.0,7,4,2020
+2020-08-14,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,1,5,2020
+2020-08-14,OAK,SFO,Oakland Athletics,San Francisco Giants,8.0,8.5,8,7,2020
+2020-08-15,STL,CWS,St. Louis Cardinals,Chicago White Sox,8.0,7.5,6,3,2020
+2020-08-15,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,9.0,2,6,2020
+2020-08-15,CLE,DET,Cleveland Guardians,Detroit Tigers,8.0,7.5,3,1,2020
+2020-08-15,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,8.5,2,1,2020
+2020-08-15,WAS,BAL,Washington Nationals,Baltimore Orioles,9.0,9.0,3,7,2020
+2020-08-15,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,7.5,4,2,2020
+2020-08-15,SEA,HOU,Seattle Mariners,Houston Astros,9.0,10.0,1,2,2020
+2020-08-15,OAK,SFO,Oakland Athletics,San Francisco Giants,8.5,8.5,7,6,2020
+2020-08-15,BOS,NYY,Boston Red Sox,New York Yankees,9.5,9.0,5,11,2020
+2020-08-15,TEX,COL,Texas Rangers,Colorado Rockies,12.5,11.5,6,4,2020
+2020-08-15,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,10.0,6,7,2020
+2020-08-15,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,9.5,6,5,2020
+2020-08-15,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,9.0,9.5,6,5,2020
+2020-08-15,STL,CWS,St. Louis Cardinals,Chicago White Sox,7.0,7.0,5,1,2020
+2020-08-15,KAN,MIN,Kansas City Royals,Minnesota Twins,10.0,7.5,2,4,2020
+2020-08-16,WAS,BAL,Washington Nationals,Baltimore Orioles,9.0,8.0,6,5,2020
+2020-08-16,NYM,PHI,New York Mets,Philadelphia Phillies,9.5,9.0,2,6,2020
+2020-08-16,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,9.0,8,5,2020
+2020-08-16,ATL,MIA,Atlanta Braves,Miami Marlins,9.0,9.0,4,0,2020
+2020-08-16,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,9.5,2,4,2020
+2020-08-16,STL,CWS,St. Louis Cardinals,Chicago White Sox,9.0,9.5,2,7,2020
+2020-08-16,SEA,HOU,Seattle Mariners,Houston Astros,9.5,9.0,2,3,2020
+2020-08-16,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,9.0,6,5,2020
+2020-08-16,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,10.5,7.5,7,5,2020
+2020-08-16,TEX,COL,Texas Rangers,Colorado Rockies,12.5,12.5,6,10,2020
+2020-08-16,OAK,SFO,Oakland Athletics,San Francisco Giants,9.0,9.5,15,3,2020
+2020-08-16,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,9.5,10.0,8,3,2020
+2020-08-16,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.5,9.5,4,5,2020
+2020-08-16,BOS,NYY,Boston Red Sox,New York Yankees,10.0,10.5,2,4,2020
+2020-08-17,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.0,8.5,7,2,2020
+2020-08-17,BOS,NYY,Boston Red Sox,New York Yankees,10.0,10.0,3,6,2020
+2020-08-17,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,10.5,6,7,2020
+2020-08-17,NYM,MIA,New York Mets,Miami Marlins,9.0,9.0,11,4,2020
+2020-08-17,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.5,2,7,2020
+2020-08-17,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,9.5,1,4,2020
+2020-08-17,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.0,6.5,3,1,2020
+2020-08-17,SDG,TEX,San Diego Padres,Texas Rangers,8.5,9.0,14,4,2020
+2020-08-17,COL,HOU,Colorado Rockies,Houston Astros,9.0,9.5,1,2,2020
+2020-08-17,OAK,ARI,Oakland Athletics,Arizona Diamondbacks,9.0,9.0,3,4,2020
+2020-08-17,SFO,LAA,San Francisco Giants,Los Angeles Angels,9.5,10.0,6,7,2020
+2020-08-17,SEA,LAD,Seattle Mariners,Los Angeles Dodgers,9.0,10.0,9,11,2020
+2020-08-17,CUB,STL,Chicago Cubs,St. Louis Cardinals,,7.0,5,4,2020
+2020-08-18,COL,HOU,Colorado Rockies,Houston Astros,9.0,8.5,1,2,2020
+2020-08-18,SDG,TEX,San Diego Padres,Texas Rangers,8.5,9.0,6,4,2020
+2020-08-18,SFO,LAA,San Francisco Giants,Los Angeles Angels,9.5,9.5,8,2,2020
+2020-08-18,OAK,ARI,Oakland Athletics,Arizona Diamondbacks,9.0,9.0,1,10,2020
+2020-08-18,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,10.0,8,7,2020
+2020-08-18,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.5,6,3,2020
+2020-08-18,CLE,PIT,Cleveland Guardians,Pittsburgh Pirates,8.5,9.0,6,3,2020
+2020-08-18,NYM,MIA,New York Mets,Miami Marlins,9.5,10.0,8,3,2020
+2020-08-18,WAS,ATL,Washington Nationals,Atlanta Braves,10.0,9.5,8,5,2020
+2020-08-18,SEA,LAD,Seattle Mariners,Los Angeles Dodgers,9.0,9.5,1,2,2020
+2020-08-18,PHI,BOS,Philadelphia Phillies,Boston Red Sox,10.5,11.0,13,6,2020
+2020-08-18,MIL,MIN,Milwaukee Brewers,Minnesota Twins,9.0,9.0,3,4,2020
+2020-08-18,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.0,4,10,2020
+2020-08-18,STL,CHC,St. Louis Cardinals,Chicago Cubs,8.0,7.5,3,6,2020
+2020-08-19,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.0,4,2,2020
+2020-08-19,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.0,9.5,5,2,2020
+2020-08-19,CLE,PIT,Cleveland Guardians,Pittsburgh Pirates,9.0,9.0,6,1,2020
+2020-08-19,NYM,MIA,New York Mets,Miami Marlins,7.5,7.5,5,3,2020
+2020-08-19,PHI,BOS,Philadelphia Phillies,Boston Red Sox,11.0,10.5,3,6,2020
+2020-08-19,CIN,KAN,Cincinnati Reds,Kansas City Royals,,6.5,5,0,2020
+2020-08-19,MIL,MIN,Milwaukee Brewers,Minnesota Twins,9.5,9.5,9,3,2020
+2020-08-19,DET,CWS,Detroit Tigers,Chicago White Sox,9.0,9.0,3,5,2020
+2020-08-19,STL,CUB,St. Louis Cardinals,Chicago Cubs,6.5,6.0,9,3,2020
+2020-08-19,HOU,COL,Houston Astros,Colorado Rockies,12.5,12.5,13,6,2020
+2020-08-19,TEX,SDG,Texas Rangers,San Diego Padres,7.0,8.0,3,6,2020
+2020-08-19,ARI,OAK,Arizona Diamondbacks,Oakland Athletics,8.5,8.5,1,4,2020
+2020-08-19,LAD,SEA,Los Angeles Dodgers,Seattle Mariners,9.5,9.0,4,6,2020
+2020-08-19,LAA,SFO,Los Angeles Angels,San Francisco Giants,8.5,9.0,2,7,2020
+2020-08-19,CUB,STL,Chicago Cubs,St. Louis Cardinals,7.5,7.5,4,2,2020
+2020-08-19,CIN,KAN,Cincinnati Reds,Kansas City Royals,7.0,6.5,0,4,2020
+2020-08-20,TAM,NYY,Tampa Bay Rays,New York Yankees,9.5,9.0,10,5,2020
+2020-08-20,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,8.5,0,9,2020
+2020-08-20,HOU,COL,Houston Astros,Colorado Rockies,11.5,11.5,10,8,2020
+2020-08-20,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.0,9.5,7,1,2020
+2020-08-20,CLE,PIT,Cleveland Guardians,Pittsburgh Pirates,7.5,7.5,2,0,2020
+2020-08-20,LAD,SEA,Los Angeles Dodgers,Seattle Mariners,9.0,8.5,6,1,2020
+2020-08-20,MIL,MIN,Milwaukee Brewers,Minnesota Twins,8.5,8.5,1,7,2020
+2020-08-20,TEX,SDG,Texas Rangers,San Diego Padres,8.5,8.0,7,8,2020
+2020-08-20,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.0,8.0,4,5,2020
+2020-08-20,ARI,OAK,Arizona Diamondbacks,Oakland Athletics,9.0,9.0,1,5,2020
+2020-08-20,LAA,SFO,Los Angeles Angels,San Francisco Giants,9.0,9.0,5,10,2020
+2020-08-20,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,9.0,8.5,2,3,2020
+2020-08-20,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,9.0,8.5,8,9,2020
+2020-08-21,MIA,WAS,Miami Marlins,Washington Nationals,9.0,8.5,3,2,2020
+2020-08-21,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,6,5,2020
+2020-08-21,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.0,10.0,8,5,2020
+2020-08-21,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,8.5,2,7,2020
+2020-08-21,DET,CLE,Detroit Tigers,Cleveland Guardians,9.5,9.5,10,5,2020
+2020-08-21,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.5,8.0,2,11,2020
+2020-08-21,MIN,KAN,Minnesota Twins,Kansas City Royals,8.5,9.0,2,7,2020
+2020-08-21,CWS,CUB,Chicago White Sox,Chicago Cubs,8.5,9.5,10,1,2020
+2020-08-21,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,9.0,4,2,2020
+2020-08-21,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,8.5,4,7,2020
+2020-08-21,HOU,SDG,Houston Astros,San Diego Padres,8.5,9.0,3,4,2020
+2020-08-21,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.5,3,5,2020
+2020-08-21,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.5,1,5,2020
+2020-08-21,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,9.0,9.5,2,6,2020
+2020-08-22,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.5,9.5,5,12,2020
+2020-08-22,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.5,9.5,4,3,2020
+2020-08-22,MIA,WAS,Miami Marlins,Washington Nationals,6.5,6.5,4,5,2020
+2020-08-22,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,1,2,2020
+2020-08-22,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,10.0,4,5,2020
+2020-08-22,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,9.5,7,2,2020
+2020-08-22,DET,CLE,Detroit Tigers,Cleveland Guardians,10.0,9.5,1,6,2020
+2020-08-22,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.0,9.0,5,6,2020
+2020-08-22,CWS,CUB,Chicago White Sox,Chicago Cubs,9.5,10.5,7,4,2020
+2020-08-22,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.5,9.5,0,3,2020
+2020-08-22,HOU,SDG,Houston Astros,San Diego Padres,8.5,9.5,2,13,2020
+2020-08-22,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,8.5,1,10,2020
+2020-08-22,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.5,8.5,3,4,2020
+2020-08-22,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,9.0,8.5,1,5,2020
+2020-08-22,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.5,3,5,2020
+2020-08-23,MIA,WAS,Miami Marlins,Washington Nationals,10.0,10.5,3,9,2020
+2020-08-23,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.5,10.5,4,5,2020
+2020-08-23,DET,CLE,Detroit Tigers,Cleveland Guardians,9.0,8.5,7,4,2020
+2020-08-23,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,9.0,9.0,4,5,2020
+2020-08-23,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,9.0,4,5,2020
+2020-08-23,MIN,KAN,Minnesota Twins,Kansas City Royals,9.5,10.0,5,4,2020
+2020-08-23,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.5,9.0,2,6,2020
+2020-08-23,CWS,CUB,Chicago White Sox,Chicago Cubs,10.5,10.0,1,2,2020
+2020-08-23,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,8.5,4,5,2020
+2020-08-23,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,9.0,1,4,2020
+2020-08-23,HOU,SDG,Houston Astros,San Diego Padres,9.0,8.5,3,5,2020
+2020-08-23,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,9.5,9.0,1,6,2020
+2020-08-23,PHI,ATL,Philadelphia Phillies,Atlanta Braves,9.5,9.5,5,4,2020
+2020-08-23,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.5,9.0,3,11,2020
+2020-08-24,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,8.0,6,4,2020
+2020-08-24,MIA,WAS,Miami Marlins,Washington Nationals,9.5,9.0,11,8,2020
+2020-08-24,CHC,DET,Chicago Cubs,Detroit Tigers,9.5,9.5,9,3,2020
+2020-08-24,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,8.5,3,2,2020
+2020-08-24,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.5,2,4,2020
+2020-08-24,KAN,STL,Kansas City Royals,St. Louis Cardinals,8.0,8.0,3,9,2020
+2020-08-24,OAK,TEX,Oakland Athletics,Texas Rangers,8.0,7.5,2,3,2020
+2020-08-24,LAA,HOU,Los Angeles Angels,Houston Astros,9.5,9.5,4,11,2020
+2020-08-24,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,10.0,3,2,2020
+2020-08-25,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.5,11.0,8,3,2020
+2020-08-25,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.5,11.5,9,7,2020
+2020-08-25,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.0,2,4,2020
+2020-08-25,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.0,8.0,2,4,2020
+2020-08-25,CHC,DET,Chicago Cubs,Detroit Tigers,9.5,9.5,1,7,2020
+2020-08-25,MIA,NYM,Miami Marlins,New York Mets,7.5,7.5,4,0,2020
+2020-08-25,PIT,CWS,Pittsburgh Pirates,Chicago White Sox,9.0,8.5,0,4,2020
+2020-08-25,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.0,2,3,2020
+2020-08-25,KAN,STL,Kansas City Royals,St. Louis Cardinals,9.5,9.0,5,4,2020
+2020-08-25,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,8.5,10,3,2020
+2020-08-25,LAA,HOU,Los Angeles Angels,Houston Astros,10.0,7.5,3,6,2020
+2020-08-25,SEA,SDG,Seattle Mariners,San Diego Padres,8.0,8.0,8,3,2020
+2020-08-25,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,9.5,5,4,2020
+2020-08-25,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,9.0,9.0,8,10,2020
+2020-08-25,NYM,MIA,New York Mets,Miami Marlins,7.5,7.5,0,3,2020
+2020-08-25,LAA,HOU,Los Angeles Angels,Houston Astros,8.0,8.0,12,5,2020
+2020-08-26,PIT,CWS,Pittsburgh Pirates,Chicago White Sox,9.0,9.0,3,10,2020
+2020-08-26,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,8.5,3,2,2020
+2020-08-26,BOS,TOR,Boston Red Sox,Toronto Blue Jays,11.5,11.5,1,9,2020
+2020-08-26,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,9.0,8.5,3,4,2020
+2020-08-26,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,9.0,3,6,2020
+2020-08-26,CHC,DET,Chicago Cubs,Detroit Tigers,10.0,10.0,6,7,2020
+2020-08-26,NYY,ATL,New York Yankees,Atlanta Braves,9.0,6.5,1,2,2020
+2020-08-26,MIA,NYM,Miami Marlins,New York Mets,7.0,7.5,4,5,2020
+2020-08-26,KAN,STL,Kansas City Royals,St. Louis Cardinals,9.0,9.0,5,6,2020
+2020-08-26,OAK,TEX,Oakland Athletics,Texas Rangers,9.5,10.0,3,1,2020
+2020-08-26,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,10.5,8,7,2020
+2020-08-26,NYY,ATL,New York Yankees,Atlanta Braves,7.0,6.5,1,5,2020
+2020-08-27,SEA,SDG,Seattle Mariners,San Diego Padres,9.0,6.0,7,10,2020
+2020-08-27,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.5,6.5,6,1,2020
+2020-08-27,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,9.0,6.5,7,0,2020
+2020-08-27,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,7.0,6.5,4,3,2020
+2020-08-27,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,7.0,7.0,2,0,2020
+2020-08-27,SEA,SDG,Seattle Mariners,San Diego Padres,6.5,6.5,8,3,2020
+2020-08-27,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,6.5,6.5,2,0,2020
+2020-08-27,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,7.5,7.0,6,0,2020
+2020-08-28,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.5,4,5,2020
+2020-08-28,NYM,NYY,New York Mets,New York Yankees,7.5,8.0,6,4,2020
+2020-08-28,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,9.5,4,7,2020
+2020-08-28,TAM,MIA,Tampa Bay Rays,Miami Marlins,9.0,8.0,2,0,2020
+2020-08-28,CHC,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.0,5,6,2020
+2020-08-28,WAS,BOS,Washington Nationals,Boston Red Sox,9.5,9.0,10,2,2020
+2020-08-28,KAN,CWS,Kansas City Royals,Chicago White Sox,10.0,10.0,5,6,2020
+2020-08-28,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.5,9.0,1,9,2020
+2020-08-28,CLE,STL,Cleveland Guardians,St. Louis Cardinals,9.0,8.5,14,2,2020
+2020-08-28,SDG,COL,San Diego Padres,Colorado Rockies,12.5,11.5,10,4,2020
+2020-08-28,LAD,TEX,Los Angeles Dodgers,Texas Rangers,9.5,9.0,2,6,2020
+2020-08-28,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,2,3,2020
+2020-08-28,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,4,7,2020
+2020-08-28,NYY,NYM,New York Yankees,New York Mets,7.5,7.5,3,4,2020
+2020-08-29,NYM,NYY,New York Mets,New York Yankees,9.5,10.0,1,2,2020
+2020-08-29,CLE,STL,Cleveland Guardians,St. Louis Cardinals,8.0,7.5,2,1,2020
+2020-08-29,ATL,PHI,Atlanta Braves,Philadelphia Phillies,10.0,10.5,1,4,2020
+2020-08-29,KAN,CWS,Kansas City Royals,Chicago White Sox,10.0,10.0,9,6,2020
+2020-08-29,TAM,MIA,Tampa Bay Rays,Miami Marlins,8.5,8.0,4,0,2020
+2020-08-29,MIN,DET,Minnesota Twins,Detroit Tigers,7.0,7.0,2,8,2020
+2020-08-29,CHC,CIN,Chicago Cubs,Cincinnati Reds,6.0,6.0,3,0,2020
+2020-08-29,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.0,10.0,0,5,2020
+2020-08-29,LAD,TEX,Los Angeles Dodgers,Texas Rangers,8.0,8.5,7,4,2020
+2020-08-29,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.0,6,7,2020
+2020-08-29,OAK,HOU,Oakland Athletics,Houston Astros,9.0,6.5,3,6,2020
+2020-08-29,WAS,BOS,Washington Nationals,Boston Red Sox,11.5,11.5,3,5,2020
+2020-08-29,SDG,COL,San Diego Padres,Colorado Rockies,9.0,13.0,3,4,2020
+2020-08-29,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.5,9.5,5,2,2020
+2020-08-29,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,9.0,3,16,2020
+2020-08-29,CHC,CIN,Chicago Cubs,Cincinnati Reds,7.0,7.5,5,6,2020
+2020-08-29,MIN,DET,Minnesota Twins,Detroit Tigers,7.5,7.0,2,4,2020
+2020-08-29,OAK,HOU,Oakland Athletics,Houston Astros,7.0,7.0,2,4,2020
+2020-08-30,NYM,NYY,New York Mets,New York Yankees,7.5,8.0,7,8,2020
+2020-08-30,TAM,MIA,Tampa Bay Rays,Miami Marlins,7.5,7.0,12,7,2020
+2020-08-30,CHC,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.0,10,1,2020
+2020-08-30,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,8.5,2,3,2020
+2020-08-30,WAS,BOS,Washington Nationals,Boston Red Sox,11.5,11.0,5,9,2020
+2020-08-30,KAN,CWS,Kansas City Royals,Chicago White Sox,10.0,9.5,2,5,2020
+2020-08-30,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,8.0,5,1,2020
+2020-08-30,CLE,STL,Cleveland Guardians,St. Louis Cardinals,8.5,8.0,2,7,2020
+2020-08-30,LAD,TEX,Los Angeles Dodgers,Texas Rangers,9.5,9.0,7,2,2020
+2020-08-30,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.5,10.0,5,6,2020
+2020-08-30,SDG,COL,San Diego Padres,Colorado Rockies,12.5,13.0,13,2,2020
+2020-08-30,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.5,10.0,2,1,2020
+2020-08-30,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.5,9.5,4,1,2020
+2020-08-30,ATL,PHI,Atlanta Braves,Philadelphia Phillies,10.5,9.0,12,10,2020
+2020-08-30,NYY,NYM,New York Yankees,New York Mets,7.5,7.0,5,2,2020
+2020-08-31,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.5,10.0,4,3,2020
+2020-08-31,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.5,9.0,2,1,2020
+2020-08-31,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.5,7,5,2020
+2020-08-31,TAM,NYY,Tampa Bay Rays,New York Yankees,7.5,7.5,5,3,2020
+2020-08-31,WAS,PHI,Washington Nationals,Philadelphia Phillies,10.5,10.5,6,8,2020
+2020-08-31,ATL,BOS,Atlanta Braves,Boston Red Sox,9.5,9.0,6,3,2020
+2020-08-31,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,8.5,5,6,2020
+2020-08-31,CLE,KAN,Cleveland Guardians,Kansas City Royals,7.5,7.5,1,2,2020
+2020-08-31,CWS,MIN,Chicago White Sox,Minnesota Twins,9.0,8.5,8,5,2020
+2020-08-31,SDG,COL,San Diego Padres,Colorado Rockies,7.0,12.0,6,0,2020
+2020-08-31,MIA,NYM,Miami Marlins,New York Mets,7.0,7.5,5,3,2020
+2020-09-01,STL,CIN,St. Louis Cardinals,Cincinnati Reds,8.0,9.0,16,2,2020
+2020-09-01,TOR,MIA,Toronto Blue Jays,Miami Marlins,8.5,8.5,2,3,2020
+2020-09-01,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,9.5,8,7,2020
+2020-09-01,NYM,BAL,New York Mets,Baltimore Orioles,10.0,10.5,5,9,2020
+2020-09-01,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,9.0,3,5,2020
+2020-09-01,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.5,8.5,0,6,2020
+2020-09-01,ATL,BOS,Atlanta Braves,Boston Red Sox,10.5,9.5,10,3,2020
+2020-09-01,DET,MIL,Detroit Tigers,Milwaukee Brewers,9.5,9.5,12,1,2020
+2020-09-01,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,10,1,2020
+2020-09-01,CWS,MIN,Chicago White Sox,Minnesota Twins,9.0,9.0,2,3,2020
+2020-09-01,TEX,HOU,Texas Rangers,Houston Astros,9.5,8.5,6,5,2020
+2020-09-01,SFO,COL,San Francisco Giants,Colorado Rockies,12.5,11.5,23,5,2020
+2020-09-01,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,9.0,8.5,3,6,2020
+2020-09-02,SFO,COL,San Francisco Giants,Colorado Rockies,12.0,11.5,6,9,2020
+2020-09-02,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,10.0,3,4,2020
+2020-09-02,TOR,MIA,Toronto Blue Jays,Miami Marlins,7.5,7.0,2,1,2020
+2020-09-02,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,9.0,8,2,2020
+2020-09-02,NYM,BAL,New York Mets,Baltimore Orioles,10.0,10.0,9,4,2020
+2020-09-02,TAM,NYY,Tampa Bay Rays,New York Yankees,9.0,9.0,5,2,2020
+2020-09-02,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.5,8.5,0,3,2020
+2020-09-02,ATL,BOS,Atlanta Braves,Boston Red Sox,11.0,11.0,7,5,2020
+2020-09-02,DET,MIL,Detroit Tigers,Milwaukee Brewers,9.0,9.0,5,8,2020
+2020-09-02,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,5,0,2020
+2020-09-02,CWS,MIN,Chicago White Sox,Minnesota Twins,9.0,9.5,1,8,2020
+2020-09-02,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.0,1,2,2020
+2020-09-02,SDG,LAA,San Diego Padres,Los Angeles Angels,9.5,9.0,11,4,2020
+2020-09-02,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,8.0,2,3,2020
+2020-09-03,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,9.5,10.0,2,6,2020
+2020-09-03,TEX,HOU,Texas Rangers,Houston Astros,8.0,7.5,4,8,2020
+2020-09-03,WAS,PHI,Washington Nationals,Philadelphia Phillies,10.5,10.5,5,6,2020
+2020-09-03,SDG,LAA,San Diego Padres,Los Angeles Angels,9.0,8.5,0,2,2020
+2020-09-03,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.5,10.5,6,2,2020
+2020-09-03,CWS,KAN,Chicago White Sox,Kansas City Royals,9.5,9.5,11,6,2020
+2020-09-03,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,8.5,1,5,2020
+2020-09-03,NYY,NYM,New York Yankees,New York Mets,9.5,9.0,7,9,2020
+2020-09-04,MIA,TAM,Miami Marlins,Tampa Bay Rays,8.0,7.5,4,5,2020
+2020-09-04,NYY,BAL,New York Yankees,Baltimore Orioles,8.0,8.0,6,5,2020
+2020-09-04,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,6.5,6.5,4,2,2020
+2020-09-04,PHI,NYM,Philadelphia Phillies,New York Mets,9.5,10.0,5,3,2020
+2020-09-04,MIL,CLE,Milwaukee Brewers,Cleveland Guardians,8.5,7.5,7,1,2020
+2020-09-04,WAS,ATL,Washington Nationals,Atlanta Braves,8.0,8.5,10,9,2020
+2020-09-04,TOR,BOS,Toronto Blue Jays,Boston Red Sox,8.0,8.5,8,7,2020
+2020-09-04,CWS,KAN,Chicago White Sox,Kansas City Royals,9.5,9.0,7,4,2020
+2020-09-04,DET,MIN,Detroit Tigers,Minnesota Twins,7.0,6.5,0,2,2020
+2020-09-04,STL,CHC,St. Louis Cardinals,Chicago Cubs,8.5,8.0,1,4,2020
+2020-09-04,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,8.5,5,6,2020
+2020-09-04,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.5,3,6,2020
+2020-09-04,SDG,OAK,San Diego Padres,Oakland Athletics,8.5,8.0,7,0,2020
+2020-09-04,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.0,6,10,2020
+2020-09-04,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.5,9.0,6,5,2020
+2020-09-04,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,6.5,6.0,4,3,2020
+2020-09-04,WAS,ATL,Washington Nationals,Atlanta Braves,8.5,8.0,1,7,2020
+2020-09-04,NYY,BAL,New York Yankees,Baltimore Orioles,8.0,7.5,3,6,2020
+2020-09-04,MIN,DET,Minnesota Twins,Detroit Tigers,7.0,7.0,3,2,2020
+2020-09-04,BOS,TOR,Boston Red Sox,Toronto Blue Jays,8.5,8.5,3,2,2020
+2020-09-05,SDG,OAK,San Diego Padres,Oakland Athletics,9.0,9.0,4,8,2020
+2020-09-05,MIA,TAM,Miami Marlins,Tampa Bay Rays,7.5,7.5,7,3,2020
+2020-09-05,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,1,6,2020
+2020-09-05,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.5,9.5,6,2,2020
+2020-09-05,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,9.5,5,3,2020
+2020-09-05,DET,MIN,Detroit Tigers,Minnesota Twins,8.5,8.5,3,4,2020
+2020-09-05,PHI,NYM,Philadelphia Phillies,New York Mets,9.5,9.0,1,5,2020
+2020-09-05,MIL,CLE,Milwaukee Brewers,Cleveland Guardians,8.0,7.5,3,4,2020
+2020-09-05,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,9.5,10,4,2020
+2020-09-05,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.5,10.5,8,9,2020
+2020-09-05,STL,CHC,St. Louis Cardinals,Chicago Cubs,6.0,6.0,4,2,2020
+2020-09-05,HOU,LAA,Houston Astros,Los Angeles Angels,7.0,7.5,9,10,2020
+2020-09-05,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.0,3,5,2020
+2020-09-05,COL,LAD,Colorado Rockies,Los Angeles Dodgers,8.5,9.0,5,2,2020
+2020-09-05,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.5,9.5,3,4,2020
+2020-09-05,CHC,STL,Chicago Cubs,St. Louis Cardinals,7.0,7.0,1,5,2020
+2020-09-05,LAA,HOU,Los Angeles Angels,Houston Astros,7.5,7.5,7,6,2020
+2020-09-06,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,1,5,2020
+2020-09-06,PHI,NYM,Philadelphia Phillies,New York Mets,7.0,7.5,1,14,2020
+2020-09-06,MIL,CLE,Milwaukee Brewers,Cleveland Guardians,7.0,7.0,1,4,2020
+2020-09-06,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,9.5,3,10,2020
+2020-09-06,MIA,TAM,Miami Marlins,Tampa Bay Rays,7.5,7.0,4,5,2020
+2020-09-06,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.5,11.0,10,8,2020
+2020-09-06,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.5,9.0,2,3,2020
+2020-09-06,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,11.0,8,2,2020
+2020-09-06,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.0,10,8,2020
+2020-09-06,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,9.0,9.0,2,4,2020
+2020-09-06,HOU,LAA,Houston Astros,Los Angeles Angels,9.5,9.5,5,9,2020
+2020-09-06,SDG,OAK,San Diego Padres,Oakland Athletics,9.5,10.5,5,3,2020
+2020-09-06,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,9.0,3,4,2020
+2020-09-06,STL,CUB,St. Louis Cardinals,Chicago Cubs,13.0,12.5,7,3,2020
+2020-09-06,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.5,9.5,7,6,2020
+2020-09-07,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,9.0,5,4,2020
+2020-09-07,PHI,NYM,Philadelphia Phillies,New York Mets,8.5,9.5,9,8,2020
+2020-09-07,DET,MIN,Detroit Tigers,Minnesota Twins,8.5,8.5,2,6,2020
+2020-09-07,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.0,4,8,2020
+2020-09-07,STL,CUB,St. Louis Cardinals,Chicago Cubs,8.0,7.5,1,5,2020
+2020-09-07,TAM,WAS,Tampa Bay Rays,Washington Nationals,8.5,8.0,1,6,2020
+2020-09-07,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,8.0,2,5,2020
+2020-09-07,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,9.0,7,12,2020
+2020-09-07,COL,SDG,Colorado Rockies,San Diego Padres,8.0,8.5,0,1,2020
+2020-09-07,HOU,OAK,Houston Astros,Oakland Athletics,9.0,9.0,0,6,2020
+2020-09-07,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,7.5,2,4,2020
+2020-09-08,TAM,WAS,Tampa Bay Rays,Washington Nationals,9.5,9.5,3,5,2020
+2020-09-08,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.5,8.5,8,6,2020
+2020-09-08,NYY,TOR,New York Yankees,Toronto Blue Jays,10.0,10.0,1,2,2020
+2020-09-08,BOS,PHI,Boston Red Sox,Philadelphia Phillies,8.0,7.5,5,6,2020
+2020-09-08,CWS,PIT,Chicago White Sox,Pittsburgh Pirates,9.5,9.5,4,5,2020
+2020-09-08,MIL,DET,Milwaukee Brewers,Detroit Tigers,8.5,9.0,3,8,2020
+2020-09-08,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,9.0,8,0,2020
+2020-09-08,BAL,NYM,Baltimore Orioles,New York Mets,10.0,9.0,11,2,2020
+2020-09-08,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.0,7.5,0,3,2020
+2020-09-08,MIN,STL,Minnesota Twins,St. Louis Cardinals,7.0,6.5,7,3,2020
+2020-09-08,LAA,TEX,Los Angeles Angels,Texas Rangers,8.0,8.0,1,7,2020
+2020-09-08,COL,SDG,Colorado Rockies,San Diego Padres,9.0,8.5,5,14,2020
+2020-09-08,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.0,5,4,2020
+2020-09-08,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.5,10,9,2020
+2020-09-08,SEA,SFO,Seattle Mariners,San Francisco Giants,8.5,9.0,5,6,2020
+2020-09-08,MIN,STL,Minnesota Twins,St. Louis Cardinals,7.0,7.0,4,6,2020
+2020-09-08,BOS,PHI,Boston Red Sox,Philadelphia Phillies,8.5,8.0,5,2,2020
+2020-09-08,OAK,HOU,Oakland Athletics,Houston Astros,7.0,6.5,4,2,2020
+2020-09-09,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.5,8.0,3,0,2020
+2020-09-09,NYY,TOR,New York Yankees,Toronto Blue Jays,10.5,10.0,7,2,2020
+2020-09-09,CWS,PIT,Chicago White Sox,Pittsburgh Pirates,9.0,9.0,8,1,2020
+2020-09-09,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,9.0,9,29,2020
+2020-09-09,MIL,DET,Milwaukee Brewers,Detroit Tigers,8.5,7.5,19,0,2020
+2020-09-09,BAL,NYM,Baltimore Orioles,New York Mets,9.5,9.5,6,7,2020
+2020-09-09,COL,SDG,Colorado Rockies,San Diego Padres,8.5,9.0,3,5,2020
+2020-09-09,CIN,CUB,Cincinnati Reds,Chicago Cubs,6.5,6.5,3,0,2020
+2020-09-09,LAA,TEX,Los Angeles Angels,Texas Rangers,9.5,9.5,3,7,2020
+2020-09-09,HOU,OAK,Houston Astros,Oakland Athletics,9.0,9.0,2,3,2020
+2020-09-09,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,8.5,9.0,6,4,2020
+2020-09-09,SEA,SFO,Seattle Mariners,San Francisco Giants,9.0,9.0,1,10,2020
+2020-09-10,HOU,OAK,Houston Astros,Oakland Athletics,9.5,9.0,1,3,2020
+2020-09-10,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,8.5,6,2,2020
+2020-09-10,ATL,WAS,Atlanta Braves,Washington Nationals,10.0,11.0,7,6,2020
+2020-09-10,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.5,7.5,11,1,2020
+2020-09-10,PHI,MIA,Philadelphia Phillies,Miami Marlins,9.0,8.5,6,7,2020
+2020-09-10,BOS,TAM,Boston Red Sox,Tampa Bay Rays,9.0,9.5,4,3,2020
+2020-09-10,CIN,CUB,Cincinnati Reds,Chicago Cubs,7.0,7.5,5,8,2020
+2020-09-10,SFO,SDG,San Francisco Giants,San Diego Padres,9.0,9.0,1,6,2020
+2020-09-10,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,9.5,2,5,2020
+2020-09-10,DET,STL,Detroit Tigers,St. Louis Cardinals,7.0,5.5,2,12,2020
+2020-09-10,DET,STL,Detroit Tigers,St. Louis Cardinals,7.0,7.0,6,3,2020
+2020-09-11,ATL,WAS,Atlanta Braves,Washington Nationals,11.0,11.0,7,8,2020
+2020-09-11,NYM,TOR,New York Mets,Toronto Blue Jays,8.0,8.5,18,1,2020
+2020-09-11,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,1,11,2020
+2020-09-11,BAL,NYY,Baltimore Orioles,New York Yankees,7.0,6.5,1,10,2020
+2020-09-11,PHI,MIA,Philadelphia Phillies,Miami Marlins,6.5,6.0,11,0,2020
+2020-09-11,PIT,KAN,Pittsburgh Pirates,Kansas City Royals,9.5,8.5,3,4,2020
+2020-09-11,DET,CWS,Detroit Tigers,Chicago White Sox,9.0,8.0,3,4,2020
+2020-09-11,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,9.0,0,1,2020
+2020-09-11,CLE,MIN,Cleveland Guardians,Minnesota Twins,7.0,6.5,1,3,2020
+2020-09-11,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.0,7.5,3,1,2020
+2020-09-11,LAA,COL,Los Angeles Angels,Colorado Rockies,12.5,12.0,4,8,2020
+2020-09-11,OAK,TEX,Oakland Athletics,Texas Rangers,9.5,9.5,10,6,2020
+2020-09-11,SEA,ARI,Seattle Mariners,Arizona Diamondbacks,9.0,9.5,3,4,2020
+2020-09-11,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.0,7.0,3,5,2020
+2020-09-11,BAL,NYY,Baltimore Orioles,New York Yankees,7.0,6.5,0,6,2020
+2020-09-12,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,9.0,1,2,2020
+2020-09-12,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,9.0,2,1,2020
+2020-09-12,PHI,MIA,Philadelphia Phillies,Miami Marlins,9.0,9.5,12,6,2020
+2020-09-12,NYM,TOR,New York Mets,Toronto Blue Jays,10.0,10.0,2,3,2020
+2020-09-12,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,7.5,4,5,2020
+2020-09-12,PIT,KAN,Pittsburgh Pirates,Kansas City Royals,9.0,9.5,4,7,2020
+2020-09-12,OAK,TEX,Oakland Athletics,Texas Rangers,8.0,7.5,2,5,2020
+2020-09-12,DET,CWS,Detroit Tigers,Chicago White Sox,10.0,10.5,0,14,2020
+2020-09-12,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.0,4,2,2020
+2020-09-12,LAA,COL,Los Angeles Angels,Colorado Rockies,12.5,12.0,5,2,2020
+2020-09-12,SEA,ARI,Seattle Mariners,Arizona Diamondbacks,8.0,8.5,7,3,2020
+2020-09-12,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.0,1,7,2020
+2020-09-12,HOU,LAD,Houston Astros,Los Angeles Dodgers,9.0,9.5,7,5,2020
+2020-09-12,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.5,8.0,4,8,2020
+2020-09-12,OAK,TEX,Oakland Athletics,Texas Rangers,7.0,7.0,10,1,2020
+2020-09-13,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,9.0,8,4,2020
+2020-09-13,BAL,NYY,Baltimore Orioles,New York Yankees,10.0,9.5,1,3,2020
+2020-09-13,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.0,6.5,1,2,2020
+2020-09-13,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.0,6,3,2020
+2020-09-13,PIT,KAN,Pittsburgh Pirates,Kansas City Royals,8.5,8.5,0,11,2020
+2020-09-13,DET,CWS,Detroit Tigers,Chicago White Sox,9.5,9.5,2,5,2020
+2020-09-13,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.5,9.5,12,0,2020
+2020-09-13,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.0,10,5,2020
+2020-09-13,OAK,TEX,Oakland Athletics,Texas Rangers,8.0,8.0,3,6,2020
+2020-09-13,HOU,LAD,Houston Astros,Los Angeles Dodgers,9.0,9.0,1,8,2020
+2020-09-13,NYM,TOR,New York Mets,Toronto Blue Jays,9.5,9.5,3,7,2020
+2020-09-13,LAA,COL,Los Angeles Angels,Colorado Rockies,13.0,12.5,5,3,2020
+2020-09-13,CLE,MIN,Cleveland Guardians,Minnesota Twins,8.5,8.0,5,7,2020
+2020-09-13,SFO,SDG,San Francisco Giants,San Diego Padres,6.5,6.0,0,6,2020
+2020-09-13,SEA,ARI,Seattle Mariners,Arizona Diamondbacks,9.0,9.0,7,3,2020
+2020-09-13,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.0,7.0,1,8,2020
+2020-09-13,SFO,SDG,San Francisco Giants,San Diego Padres,7.0,6.5,1,3,2020
+2020-09-14,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,6.5,6.0,1,3,2020
+2020-09-14,ATL,BAL,Atlanta Braves,Baltimore Orioles,10.5,10.0,1,14,2020
+2020-09-14,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,7.0,6.5,1,2,2020
+2020-09-14,MIN,CWS,Minnesota Twins,Chicago White Sox,9.5,9.0,1,3,2020
+2020-09-14,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.0,7.5,2,7,2020
+2020-09-14,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,7.0,7.5,4,9,2020
+2020-09-14,OAK,SEA,Oakland Athletics,Seattle Mariners,6.0,6.0,5,6,2020
+2020-09-14,OAK,SEA,Oakland Athletics,Seattle Mariners,7.0,7.0,9,0,2020
+2020-09-14,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,6.5,6.5,3,2,2020
+2020-09-14,PHI,MIA,Philadelphia Phillies,Miami Marlins,9.0,8.5,2,6,2020
+2020-09-15,WAS,TAM,Washington Nationals,Tampa Bay Rays,9.0,9.0,1,6,2020
+2020-09-15,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.0,1,4,2020
+2020-09-15,BOS,MIA,Boston Red Sox,Miami Marlins,9.0,9.0,2,0,2020
+2020-09-15,ATL,BAL,Atlanta Braves,Baltimore Orioles,10.5,10.5,5,1,2020
+2020-09-15,TOR,NYY,Toronto Blue Jays,New York Yankees,9.0,9.0,6,20,2020
+2020-09-15,NYM,PHI,New York Mets,Philadelphia Phillies,10.0,9.5,1,4,2020
+2020-09-15,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,8.5,0,6,2020
+2020-09-15,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.0,8.5,3,18,2020
+2020-09-15,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.0,1,4,2020
+2020-09-15,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,9.0,2,6,2020
+2020-09-15,CLE,CUB,Cleveland Guardians,Chicago Cubs,7.5,8.0,5,6,2020
+2020-09-15,OAK,COL,Oakland Athletics,Colorado Rockies,12.0,12.0,1,3,2020
+2020-09-15,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.5,3,1,2020
+2020-09-15,ARI,LAA,Arizona Diamondbacks,Los Angeles Angels,9.5,10.0,9,8,2020
+2020-09-16,WAS,TAM,Washington Nationals,Tampa Bay Rays,9.5,9.0,4,2,2020
+2020-09-16,OAK,COL,Oakland Athletics,Colorado Rockies,11.5,11.5,3,1,2020
+2020-09-16,LAD,SDG,Los Angeles Dodgers,San Diego Padres,9.0,9.0,7,5,2020
+2020-09-16,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,8.0,0,1,2020
+2020-09-16,BOS,MIA,Boston Red Sox,Miami Marlins,9.0,9.0,4,8,2020
+2020-09-16,ATL,BAL,Atlanta Braves,Baltimore Orioles,9.5,10.0,1,5,2020
+2020-09-16,TOR,NYY,Toronto Blue Jays,New York Yankees,8.5,8.5,2,13,2020
+2020-09-16,NYM,PHI,New York Mets,Philadelphia Phillies,7.5,7.5,5,4,2020
+2020-09-16,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,4,0,2020
+2020-09-16,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,6.0,6.0,4,2,2020
+2020-09-16,MIN,CWS,Minnesota Twins,Chicago White Sox,8.5,8.5,5,1,2020
+2020-09-16,TEX,HOU,Texas Rangers,Houston Astros,9.5,9.0,1,0,2020
+2020-09-16,CLE,CUB,Cleveland Guardians,Chicago Cubs,7.5,8.0,2,3,2020
+2020-09-16,ARI,LAA,Arizona Diamondbacks,Los Angeles Angels,9.0,9.0,9,6,2020
+2020-09-16,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,7.0,7.0,0,6,2020
+2020-09-16,SFO,SEA,San Francisco Giants,Seattle Mariners,9.0,8.5,9,3,2020
+2020-09-17,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,8.5,3,4,2020
+2020-09-17,ARI,LAA,Arizona Diamondbacks,Los Angeles Angels,9.5,10.0,3,7,2020
+2020-09-17,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,7.0,6.0,3,1,2020
+2020-09-17,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,9.5,7,10,2020
+2020-09-17,NYM,PHI,New York Mets,Philadelphia Phillies,8.0,8.0,10,6,2020
+2020-09-17,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.0,8.5,1,5,2020
+2020-09-17,TEX,HOU,Texas Rangers,Houston Astros,9.5,9.0,1,2,2020
+2020-09-17,CLE,DET,Cleveland Guardians,Detroit Tigers,7.0,7.0,10,3,2020
+2020-09-17,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.5,12.0,9,3,2020
+2020-09-17,SFO,SEA,San Francisco Giants,Seattle Mariners,8.5,9.0,6,4,2020
+2020-09-17,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,7.5,6,10,2020
+2020-09-17,BOS,MIA,Boston Red Sox,Miami Marlins,9.0,9.5,5,3,2020
+2020-09-18,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,7.5,7.0,7,8,2020
+2020-09-18,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,8.5,2,1,2020
+2020-09-18,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,7.0,6.5,6,5,2020
+2020-09-18,CWS,CIN,Chicago White Sox,Cincinnati Reds,9.0,9.5,1,7,2020
+2020-09-18,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.5,15,2,2020
+2020-09-18,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,8.5,1,0,2020
+2020-09-18,WAS,MIA,Washington Nationals,Miami Marlins,6.5,6.5,5,0,2020
+2020-09-18,NYY,BOS,New York Yankees,Boston Red Sox,10.5,10.5,6,5,2020
+2020-09-18,KAN,MIL,Kansas City Royals,Milwaukee Brewers,9.0,8.5,5,9,2020
+2020-09-18,ARI,HOU,Arizona Diamondbacks,Houston Astros,8.0,7.5,6,3,2020
+2020-09-18,LAD,COL,Los Angeles Dodgers,Colorado Rockies,13.0,13.0,15,6,2020
+2020-09-18,MIN,CUB,Minnesota Twins,Chicago Cubs,7.5,7.0,0,1,2020
+2020-09-18,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,9.5,2,6,2020
+2020-09-18,SFO,OAK,San Francisco Giants,Oakland Athletics,8.5,8.5,0,6,2020
+2020-09-18,SDG,SEA,San Diego Padres,Seattle Mariners,8.5,8.5,6,1,2020
+2020-09-18,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,7.0,7.0,2,7,2020
+2020-09-18,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,7.0,6.5,7,0,2020
+2020-09-18,WAS,MIA,Washington Nationals,Miami Marlins,7.0,7.0,3,14,2020
+2020-09-19,SFO,OAK,San Francisco Giants,Oakland Athletics,9.0,8.0,0,6,2020
+2020-09-19,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,9.0,8.0,1,3,2020
+2020-09-19,CWS,CIN,Chicago White Sox,Cincinnati Reds,8.0,8.0,5,0,2020
+2020-09-19,WAS,MIA,Washington Nationals,Miami Marlins,8.0,7.5,3,7,2020
+2020-09-19,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.0,2,5,2020
+2020-09-19,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,8.0,3,1,2020
+2020-09-19,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,8.0,5,4,2020
+2020-09-19,KAN,MIL,Kansas City Royals,Milwaukee Brewers,8.5,7.5,0,5,2020
+2020-09-19,ARI,HOU,Arizona Diamondbacks,Houston Astros,9.0,9.5,2,3,2020
+2020-09-19,ATL,NYM,Atlanta Braves,New York Mets,9.0,9.0,2,7,2020
+2020-09-19,TEX,LAA,Texas Rangers,Los Angeles Angels,7.5,7.5,3,4,2020
+2020-09-19,NYY,BOS,New York Yankees,Boston Red Sox,11.0,10.5,8,0,2020
+2020-09-19,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.0,12.0,6,1,2020
+2020-09-19,MIN,CHC,Minnesota Twins,Chicago Cubs,8.5,8.0,8,1,2020
+2020-09-19,SDG,SEA,San Diego Padres,Seattle Mariners,8.0,8.5,1,4,2020
+2020-09-20,TOR,PHI,Toronto Blue Jays,Philadelphia Phillies,9.5,9.5,6,3,2020
+2020-09-20,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,7.5,2,1,2020
+2020-09-20,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,8.5,1,2,2020
+2020-09-20,CWS,CIN,Chicago White Sox,Cincinnati Reds,9.0,9.5,3,7,2020
+2020-09-20,ATL,NYM,Atlanta Braves,New York Mets,10.0,9.5,7,0,2020
+2020-09-20,CLE,DET,Cleveland Guardians,Detroit Tigers,8.0,7.5,7,4,2020
+2020-09-20,WAS,MIA,Washington Nationals,Miami Marlins,6.0,6.0,1,2,2020
+2020-09-20,NYY,BOS,New York Yankees,Boston Red Sox,10.0,9.0,2,10,2020
+2020-09-20,KAN,MIL,Kansas City Royals,Milwaukee Brewers,8.5,8.5,3,5,2020
+2020-09-20,ARI,HOU,Arizona Diamondbacks,Houston Astros,9.5,9.5,2,3,2020
+2020-09-20,MIN,CUB,Minnesota Twins,Chicago Cubs,7.5,7.5,4,0,2020
+2020-09-20,LAD,COL,Los Angeles Dodgers,Colorado Rockies,12.5,12.0,3,6,2020
+2020-09-20,SFO,OAK,San Francisco Giants,Oakland Athletics,8.5,9.0,14,2,2020
+2020-09-20,SDG,SEA,San Diego Padres,Seattle Mariners,8.0,8.5,7,4,2020
+2020-09-20,TEX,LAA,Texas Rangers,Los Angeles Angels,9.5,10.0,7,2,2020
+2020-09-20,WAS,MIA,Washington Nationals,Miami Marlins,7.0,7.0,15,0,2020
+2020-09-21,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.5,5,8,2020
+2020-09-21,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,8.5,1,5,2020
+2020-09-21,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.0,4,7,2020
+2020-09-21,NYY,TOR,New York Yankees,Toronto Blue Jays,10.5,11.0,5,11,2020
+2020-09-21,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,7.5,7.0,3,6,2020
+2020-09-21,CHC,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,8.5,5,0,2020
+2020-09-21,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,9.5,4,5,2020
+2020-09-21,TAM,NYM,Tampa Bay Rays,New York Mets,7.0,7.0,2,1,2020
+2020-09-21,STL,KAN,St. Louis Cardinals,Kansas City Royals,9.0,9.0,1,4,2020
+2020-09-21,HOU,SEA,Houston Astros,Seattle Mariners,8.0,8.0,1,6,2020
+2020-09-21,COL,SFO,Colorado Rockies,San Francisco Giants,8.5,8.0,7,2,2020
+2020-09-22,PHI,WAS,Philadelphia Phillies,Washington Nationals,6.5,6.5,1,5,2020
+2020-09-22,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.5,9.5,3,5,2020
+2020-09-22,NYY,TOR,New York Yankees,Toronto Blue Jays,9.5,9.5,12,1,2020
+2020-09-22,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.0,9.0,3,2,2020
+2020-09-22,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,8.5,2,3,2020
+2020-09-22,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,10.5,1,11,2020
+2020-09-22,TAM,NYM,Tampa Bay Rays,New York Mets,7.5,7.5,2,5,2020
+2020-09-22,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.0,9.5,3,8,2020
+2020-09-22,DET,MIN,Detroit Tigers,Minnesota Twins,10.5,9.0,4,5,2020
+2020-09-22,STL,KAN,St. Louis Cardinals,Kansas City Royals,9.0,8.5,5,0,2020
+2020-09-22,LAA,SDG,Los Angeles Angels,San Diego Padres,9.0,9.0,4,2,2020
+2020-09-22,HOU,SEA,Houston Astros,Seattle Mariners,8.5,9.0,6,1,2020
+2020-09-22,TEX,ARI,Texas Rangers,Arizona Diamondbacks,9.0,9.5,0,7,2020
+2020-09-22,OAK,LAD,Oakland Athletics,Los Angeles Dodgers,9.0,9.0,2,7,2020
+2020-09-22,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,7.5,2,5,2020
+2020-09-22,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.0,8.0,7,8,2020
+2020-09-23,LAA,SDG,Los Angeles Angels,San Diego Padres,8.5,8.5,5,2,2020
+2020-09-23,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.5,9.5,12,3,2020
+2020-09-23,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.0,6.5,2,3,2020
+2020-09-23,TEX,ARI,Texas Rangers,Arizona Diamondbacks,9.5,9.0,3,7,2020
+2020-09-23,NYY,TOR,New York Yankees,Toronto Blue Jays,10.0,10.5,1,14,2020
+2020-09-23,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.5,2,3,2020
+2020-09-23,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.0,8.5,1,6,2020
+2020-09-23,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.0,8.5,1,2,2020
+2020-09-23,MIA,ATL,Miami Marlins,Atlanta Braves,8.0,8.0,4,9,2020
+2020-09-23,TAM,NYM,Tampa Bay Rays,New York Mets,8.5,8.5,8,5,2020
+2020-09-23,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.0,9.0,1,9,2020
+2020-09-23,DET,MIN,Detroit Tigers,Minnesota Twins,8.0,8.0,6,7,2020
+2020-09-23,STL,KAN,St. Louis Cardinals,Kansas City Royals,9.5,9.0,3,12,2020
+2020-09-23,OAK,LAD,Oakland Athletics,Los Angeles Dodgers,8.5,8.5,6,4,2020
+2020-09-23,COL,SFO,Colorado Rockies,San Francisco Giants,9.0,9.0,2,7,2020
+2020-09-24,COL,SFO,Colorado Rockies,San Francisco Giants,9.0,9.0,5,4,2020
+2020-09-24,NYM,WAS,New York Mets,Washington Nationals,9.0,9.0,3,2,2020
+2020-09-24,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.0,7.5,4,5,2020
+2020-09-24,NYY,TOR,New York Yankees,Toronto Blue Jays,10.0,9.5,1,4,2020
+2020-09-24,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,9.0,0,7,2020
+2020-09-24,MIA,ATL,Miami Marlins,Atlanta Braves,9.5,9.0,4,2,2020
+2020-09-24,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.0,9.5,13,1,2020
+2020-09-24,DET,KAN,Detroit Tigers,Kansas City Royals,9.5,9.0,7,8,2020
+2020-09-24,HOU,TEX,Houston Astros,Texas Rangers,8.0,8.0,12,4,2020
+2020-09-24,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,7.5,7.0,2,4,2020
+2020-09-24,OAK,LAD,Oakland Athletics,Los Angeles Dodgers,9.0,9.0,1,5,2020
+2020-09-25,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.0,9.5,5,10,2020
+2020-09-25,PHI,TAM,Philadelphia Phillies,Tampa Bay Rays,8.5,8.5,4,6,2020
+2020-09-25,MIA,NYY,Miami Marlins,New York Yankees,9.5,9.5,4,3,2020
+2020-09-25,PIT,CLE,Pittsburgh Pirates,Cleveland Guardians,7.5,7.5,3,4,2020
+2020-09-25,BOS,ATL,Boston Red Sox,Atlanta Braves,10.0,9.5,7,8,2020
+2020-09-25,HOU,TEX,Houston Astros,Texas Rangers,8.0,9.0,4,5,2020
+2020-09-25,DET,KAN,Detroit Tigers,Kansas City Royals,8.0,8.5,2,3,2020
+2020-09-25,CUB,CWS,Chicago Cubs,Chicago White Sox,8.5,8.0,10,0,2020
+2020-09-25,CIN,MIN,Cincinnati Reds,Minnesota Twins,8.5,8.5,7,2,2020
+2020-09-25,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,7.5,1,3,2020
+2020-09-25,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,8.5,8.0,5,9,2020
+2020-09-25,COL,ARI,Colorado Rockies,Arizona Diamondbacks,7.5,7.5,5,11,2020
+2020-09-25,SDG,SFO,San Diego Padres,San Francisco Giants,6.5,6.5,4,5,2020
+2020-09-25,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,6.0,6.0,0,3,2020
+2020-09-25,COL,ARI,Colorado Rockies,Arizona Diamondbacks,6.5,6.0,0,4,2020
+2020-09-25,SFO,SDG,San Francisco Giants,San Diego Padres,6.5,6.5,5,6,2020
+2020-09-25,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,6.5,6.5,9,1,2020
+2020-09-26,MIA,NYY,Miami Marlins,New York Yankees,9.5,9.5,4,11,2020
+2020-09-26,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.0,2,5,2020
+2020-09-26,PHI,TAM,Philadelphia Phillies,Tampa Bay Rays,8.0,7.5,3,4,2020
+2020-09-26,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,1,6,2020
+2020-09-26,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,9.5,4,3,2020
+2020-09-26,PIT,CLE,Pittsburgh Pirates,Cleveland Guardians,8.0,8.0,8,0,2020
+2020-09-26,BOS,ATL,Boston Red Sox,Atlanta Braves,9.0,9.5,8,2,2020
+2020-09-26,CUB,CWS,Chicago Cubs,Chicago White Sox,8.5,9.5,5,9,2020
+2020-09-26,CIN,MIN,Cincinnati Reds,Minnesota Twins,8.0,7.5,3,7,2020
+2020-09-26,NYM,WAS,New York Mets,Washington Nationals,8.5,7.0,3,5,2020
+2020-09-26,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,7.5,7.5,3,0,2020
+2020-09-26,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,9.0,10,3,2020
+2020-09-26,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,8.5,9.0,6,7,2020
+2020-09-26,SDG,SFO,San Diego Padres,San Francisco Giants,9.0,9.0,6,2,2020
+2020-09-26,NYM,WAS,New York Mets,Washington Nationals,6.0,5.0,3,4,2020
+2020-09-26,SEA,OAK,Seattle Mariners,Oakland Athletics,6.0,6.0,5,1,2020
+2020-09-26,OAK,SEA,Oakland Athletics,Seattle Mariners,7.0,7.0,3,12,2020
+2020-09-27,HOU,TEX,Houston Astros,Texas Rangers,9.5,9.5,4,8,2020
+2020-09-27,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,8.0,1,3,2020
+2020-09-27,MIA,NYY,Miami Marlins,New York Yankees,9.5,9.5,5,0,2020
+2020-09-27,NYM,WAS,New York Mets,Washington Nationals,9.0,8.5,5,15,2020
+2020-09-27,SDG,SFO,San Diego Padres,San Francisco Giants,9.0,8.5,5,4,2020
+2020-09-27,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.5,10.0,7,5,2020
+2020-09-27,CUB,CWS,Chicago Cubs,Chicago White Sox,10.0,9.0,10,8,2020
+2020-09-27,PIT,CLE,Pittsburgh Pirates,Cleveland Guardians,8.0,8.0,6,8,2020
+2020-09-27,BOS,ATL,Boston Red Sox,Atlanta Braves,10.0,9.5,9,1,2020
+2020-09-27,CIN,MIN,Cincinnati Reds,Minnesota Twins,8.5,8.0,5,3,2020
+2020-09-27,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.0,2,6,2020
+2020-09-27,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,9.0,8.5,0,5,2020
+2020-09-27,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,9.0,3,11,2020
+2020-09-27,PHI,TAM,Philadelphia Phillies,Tampa Bay Rays,7.5,7.5,0,5,2020
+2020-09-27,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,8.0,2,5,2020

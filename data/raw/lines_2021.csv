@@ -1,0 +1,2463 @@
+date,away_team_abbr,home_team_abbr,away_team,home_team,open_total,close_total,away_final,home_final,season
+2021-04-01,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.0,6.5,5,3,2021
+2021-04-01,ATL,PHI,Atlanta Braves,Philadelphia Phillies,7.5,7.5,2,3,2021
+2021-04-01,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.0,8.5,7,8,2021
+2021-04-01,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.5,10.5,5,8,2021
+2021-04-01,STL,CIN,St. Louis Cardinals,Cincinnati Reds,7.5,7.0,11,6,2021
+2021-04-01,TOR,NYY,Toronto Blue Jays,New York Yankees,8.0,8.0,3,2,2021
+2021-04-01,CLE,DET,Cleveland Guardians,Detroit Tigers,7.5,7.5,2,3,2021
+2021-04-01,TEX,KAN,Texas Rangers,Kansas City Royals,9.5,8.5,10,14,2021
+2021-04-01,CWS,LAA,Chicago White Sox,Los Angeles Angels,8.5,8.0,3,4,2021
+2021-04-01,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.0,8,1,2021
+2021-04-01,MIN,MIL,Minnesota Twins,Milwaukee Brewers,8.0,7.5,5,6,2021
+2021-04-01,TAM,MIA,Tampa Bay Rays,Miami Marlins,8.0,7.0,1,0,2021
+2021-04-01,SFO,SEA,San Francisco Giants,Seattle Mariners,8.5,8.0,7,8,2021
+2021-04-02,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.0,12.0,11,6,2021
+2021-04-02,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.0,2,4,2021
+2021-04-02,CWS,LAA,Chicago White Sox,Los Angeles Angels,8.5,8.5,12,8,2021
+2021-04-02,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.5,9,5,2021
+2021-04-02,TAM,MIA,Tampa Bay Rays,Miami Marlins,7.5,7.5,6,4,2021
+2021-04-02,SFO,SEA,San Francisco Giants,Seattle Mariners,8.5,8.5,6,3,2021
+2021-04-02,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.0,9.0,3,0,2021
+2021-04-03,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,11.0,11.0,1,5,2021
+2021-04-03,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,7.5,0,4,2021
+2021-04-03,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.0,6,9,2021
+2021-04-03,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.5,11.5,6,5,2021
+2021-04-03,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,0,7,2021
+2021-04-03,TOR,NYY,Toronto Blue Jays,New York Yankees,9.0,9.0,3,5,2021
+2021-04-03,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.0,2,5,2021
+2021-04-03,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,10.0,4,2,2021
+2021-04-03,TEX,KAN,Texas Rangers,Kansas City Royals,9.5,9.0,4,11,2021
+2021-04-03,HOU,OAK,Houston Astros,Oakland Athletics,9.0,9.0,9,1,2021
+2021-04-03,CWS,LAA,Chicago White Sox,Los Angeles Angels,8.5,9.0,3,5,2021
+2021-04-03,TAM,MIA,Tampa Bay Rays,Miami Marlins,8.0,7.5,7,12,2021
+2021-04-03,MIN,MIL,Minnesota Twins,Milwaukee Brewers,8.0,7.5,2,0,2021
+2021-04-03,SFO,SEA,San Francisco Giants,Seattle Mariners,9.0,9.0,0,4,2021
+2021-04-04,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,8.5,1,2,2021
+2021-04-04,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,9.5,1,12,2021
+2021-04-04,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.5,8.5,3,4,2021
+2021-04-04,LAD,COL,Los Angeles Dodgers,Colorado Rockies,12.0,12.0,4,2,2021
+2021-04-04,ARI,SDG,Arizona Diamondbacks,San Diego Padres,9.5,9.0,3,1,2021
+2021-04-04,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,9.5,3,1,2021
+2021-04-04,CLE,DET,Cleveland Guardians,Detroit Tigers,8.5,8.0,9,3,2021
+2021-04-04,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.0,9.5,11,3,2021
+2021-04-04,TEX,KAN,Texas Rangers,Kansas City Royals,9.5,10.0,7,3,2021
+2021-04-04,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.5,9,2,2021
+2021-04-04,CWS,LAA,Chicago White Sox,Los Angeles Angels,9.0,9.5,4,7,2021
+2021-04-04,MIN,MIL,Minnesota Twins,Milwaukee Brewers,8.5,8.0,8,2,2021
+2021-04-05,STL,MIA,St. Louis Cardinals,Miami Marlins,8.0,8.0,4,1,2021
+2021-04-05,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.0,3,5,2021
+2021-04-05,NYM,PHI,New York Mets,Philadelphia Phillies,7.5,7.5,3,5,2021
+2021-04-05,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.5,9.5,3,5,2021
+2021-04-05,SFO,SDG,San Francisco Giants,San Diego Padres,8.5,8.0,3,2,2021
+2021-04-05,MIN,DET,Minnesota Twins,Detroit Tigers,8.5,9.0,15,6,2021
+2021-04-05,TOR,TEX,Toronto Blue Jays,Texas Rangers,10.0,9.5,6,2,2021
+2021-04-05,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,9.0,3,0,2021
+2021-04-05,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,10.0,0,7,2021
+2021-04-05,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,9.5,2,11,2021
+2021-04-05,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,10.0,6,7,2021
+2021-04-05,CWS,SEA,Chicago White Sox,Seattle Mariners,9.0,8.0,6,0,2021
+2021-04-05,LAD,OAK,Los Angeles Dodgers,Oakland Athletics,9.0,8.5,10,3,2021
+2021-04-06,ATL,WAS,Atlanta Braves,Washington Nationals,8.0,7.5,5,6,2021
+2021-04-06,STL,MIA,St. Louis Cardinals,Miami Marlins,8.0,7.5,4,2,2021
+2021-04-06,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.0,1,14,2021
+2021-04-06,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,9.0,8,4,2021
+2021-04-06,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.5,9.0,4,0,2021
+2021-04-06,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,10.5,10,8,2021
+2021-04-06,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,8.0,1,3,2021
+2021-04-06,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.0,3,4,2021
+2021-04-06,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,9.0,4,2,2021
+2021-04-06,BAL,NYY,Baltimore Orioles,New York Yankees,8.5,8.0,2,7,2021
+2021-04-06,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.0,5,6,2021
+2021-04-06,TOR,TEX,Toronto Blue Jays,Texas Rangers,9.5,9.5,4,7,2021
+2021-04-06,CWS,SEA,Chicago White Sox,Seattle Mariners,7.5,7.0,10,4,2021
+2021-04-06,LAD,OAK,Los Angeles Dodgers,Oakland Athletics,8.0,8.5,5,1,2021
+2021-04-07,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,8.5,8.0,4,11,2021
+2021-04-07,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,9.0,4,2,2021
+2021-04-07,ATL,WAS,Atlanta Braves,Washington Nationals,6.5,6.5,7,6,2021
+2021-04-07,NYM,PHI,New York Mets,Philadelphia Phillies,8.0,8.0,2,8,2021
+2021-04-07,STL,MIA,St. Louis Cardinals,Miami Marlins,7.5,7.0,7,0,2021
+2021-04-07,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,7.5,3,2,2021
+2021-04-07,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,11.5,0,8,2021
+2021-04-07,MIN,DET,Minnesota Twins,Detroit Tigers,8.0,8.5,3,2,2021
+2021-04-07,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,8.5,2,9,2021
+2021-04-07,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,8.0,2,4,2021
+2021-04-07,TOR,TEX,Toronto Blue Jays,Texas Rangers,9.0,8.5,1,2,2021
+2021-04-07,CWS,SEA,Chicago White Sox,Seattle Mariners,8.5,8.5,4,8,2021
+2021-04-07,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,9.0,4,3,2021
+2021-04-07,LAD,OAK,Los Angeles Dodgers,Oakland Athletics,8.5,8.0,3,4,2021
+2021-04-07,ATL,WAS,Atlanta Braves,Washington Nationals,6.5,6.5,2,0,2021
+2021-04-08,MIA,NYM,Miami Marlins,New York Mets,8.5,8.5,2,3,2021
+2021-04-08,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,8.5,4,2,2021
+2021-04-08,ARI,COL,Arizona Diamondbacks,Colorado Rockies,12.0,11.0,3,7,2021
+2021-04-08,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,7.5,1,3,2021
+2021-04-08,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.0,7,3,2021
+2021-04-08,SEA,MIN,Seattle Mariners,Minnesota Twins,8.0,8.0,2,10,2021
+2021-04-08,KAN,CWS,Kansas City Royals,Chicago White Sox,9.0,8.0,0,6,2021
+2021-04-08,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,9.5,10.0,7,5,2021
+2021-04-08,OAK,HOU,Oakland Athletics,Houston Astros,9.5,10.0,2,6,2021
+2021-04-09,COL,SFO,Colorado Rockies,San Francisco Giants,8.5,8.5,1,3,2021
+2021-04-09,WAS,LAD,Washington Nationals,Los Angeles Dodgers,8.5,8.5,0,1,2021
+2021-04-09,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.5,7.5,1,8,2021
+2021-04-09,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,9.0,9.5,6,5,2021
+2021-04-09,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,8.0,5,10,2021
+2021-04-09,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,10.5,11.0,7,1,2021
+2021-04-09,DET,CLE,Detroit Tigers,Cleveland Guardians,8.5,9.5,1,4,2021
+2021-04-09,OAK,HOU,Oakland Athletics,Houston Astros,9.0,8.5,6,2,2021
+2021-04-09,SDG,TEX,San Diego Padres,Texas Rangers,9.0,9.0,3,0,2021
+2021-04-10,MIA,NYM,Miami Marlins,New York Mets,7.0,6.5,3,0,2021
+2021-04-10,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,8.0,9,5,2021
+2021-04-10,COL,SFO,Colorado Rockies,San Francisco Giants,8.5,8.5,3,4,2021
+2021-04-10,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.0,8.5,2,8,2021
+2021-04-10,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,8.0,4,5,2021
+2021-04-10,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,9.5,9.5,3,8,2021
+2021-04-10,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.5,7.5,5,9,2021
+2021-04-10,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,9.5,0,4,2021
+2021-04-10,SEA,MIN,Seattle Mariners,Minnesota Twins,8.5,8.0,4,3,2021
+2021-04-10,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,11.0,10.5,1,15,2021
+2021-04-10,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.0,7,3,2021
+2021-04-10,DET,CLE,Detroit Tigers,Cleveland Guardians,9.0,8.5,3,11,2021
+2021-04-10,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.5,6,4,2021
+2021-04-10,SDG,TEX,San Diego Padres,Texas Rangers,9.0,9.0,7,4,2021
+2021-04-11,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,8.0,1,7,2021
+2021-04-11,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.5,8.5,9,3,2021
+2021-04-11,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,7.5,0,4,2021
+2021-04-11,WAS,LAD,Washington Nationals,Los Angeles Dodgers,7.5,7.5,0,3,2021
+2021-04-11,CIN,ARI,Cincinnati Reds,Arizona Diamondbacks,9.0,9.0,0,7,2021
+2021-04-11,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.5,9.0,7,6,2021
+2021-04-11,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.5,14,9,2021
+2021-04-11,DET,CLE,Detroit Tigers,Cleveland Guardians,9.0,9.5,2,5,2021
+2021-04-11,NYY,TAM,New York Yankees,Tampa Bay Rays,9.0,8.5,8,4,2021
+2021-04-11,SEA,MIN,Seattle Mariners,Minnesota Twins,8.5,8.5,8,6,2021
+2021-04-11,KAN,CWS,Kansas City Royals,Chicago White Sox,9.0,8.5,4,3,2021
+2021-04-11,SDG,TEX,San Diego Padres,Texas Rangers,9.0,9.0,2,0,2021
+2021-04-12,SDG,PIT,San Diego Padres,Pittsburgh Pirates,8.5,7.5,6,2,2021
+2021-04-12,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,8.5,5,3,2021
+2021-04-12,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.5,3,6,2021
+2021-04-12,WAS,STL,Washington Nationals,St. Louis Cardinals,8.5,8.5,5,2,2021
+2021-04-12,CIN,SFO,Cincinnati Reds,San Francisco Giants,8.5,8.5,3,0,2021
+2021-04-12,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,9.0,3,1,2021
+2021-04-12,TEX,TAM,Texas Rangers,Tampa Bay Rays,7.5,7.0,0,1,2021
+2021-04-12,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.5,3,4,2021
+2021-04-12,LAA,KAN,Los Angeles Angels,Kansas City Royals,9.0,9.0,10,3,2021
+2021-04-12,DET,HOU,Detroit Tigers,Houston Astros,8.5,9.0,6,2,2021
+2021-04-12,OAK,ARI,Oakland Athletics,Arizona Diamondbacks,9.5,9.5,9,5,2021
+2021-04-13,SDG,PIT,San Diego Padres,Pittsburgh Pirates,7.5,8.0,4,8,2021
+2021-04-13,PHI,NYM,Philadelphia Phillies,New York Mets,7.5,6.5,3,4,2021
+2021-04-13,MIA,ATL,Miami Marlins,Atlanta Braves,8.0,7.5,14,8,2021
+2021-04-13,CUB,MIL,Chicago Cubs,Milwaukee Brewers,7.5,7.5,3,2,2021
+2021-04-13,WAS,STL,Washington Nationals,St. Louis Cardinals,7.5,7.0,3,14,2021
+2021-04-13,CIN,SFO,Cincinnati Reds,San Francisco Giants,7.5,7.5,6,7,2021
+2021-04-13,COL,LAD,Colorado Rockies,Los Angeles Dodgers,8.0,8.0,0,7,2021
+2021-04-13,BOS,MIN,Boston Red Sox,Minnesota Twins,8.5,9.0,4,2,2021
+2021-04-13,SEA,BAL,Seattle Mariners,Baltimore Orioles,9.0,7.0,6,7,2021
+2021-04-13,NYY,TOR,New York Yankees,Toronto Blue Jays,9.0,9.0,3,7,2021
+2021-04-13,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.0,8.0,8,3,2021
+2021-04-13,LAA,KAN,Los Angeles Angels,Kansas City Royals,9.0,8.5,2,3,2021
+2021-04-13,CLE,CWS,Cleveland Guardians,Chicago White Sox,7.0,6.5,2,0,2021
+2021-04-13,DET,HOU,Detroit Tigers,Houston Astros,9.0,9.5,8,2,2021
+2021-04-13,OAK,ARI,Oakland Athletics,Arizona Diamondbacks,9.0,8.5,7,5,2021
+2021-04-13,PHI,NYM,Philadelphia Phillies,New York Mets,5.5,5.5,0,4,2021
+2021-04-13,SEA,BAL,Seattle Mariners,Baltimore Orioles,6.0,6.0,4,3,2021
+2021-04-14,WAS,STL,Washington Nationals,St. Louis Cardinals,8.5,8.5,6,0,2021
+2021-04-14,CUB,MIL,Chicago Cubs,Milwaukee Brewers,7.5,7.5,0,7,2021
+2021-04-14,CIN,SFO,Cincinnati Reds,San Francisco Giants,7.5,8.5,0,3,2021
+2021-04-14,SDG,PIT,San Diego Padres,Pittsburgh Pirates,8.0,7.5,1,5,2021
+2021-04-14,PHI,NYM,Philadelphia Phillies,New York Mets,8.0,8.0,1,5,2021
+2021-04-14,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,8.5,6,5,2021
+2021-04-14,COL,LAD,Colorado Rockies,Los Angeles Dodgers,7.5,7.5,2,4,2021
+2021-04-14,NYY,TOR,New York Yankees,Toronto Blue Jays,10.5,10.5,4,5,2021
+2021-04-14,LAA,KAN,Los Angeles Angels,Kansas City Royals,9.5,8.5,1,6,2021
+2021-04-14,BOS,MIN,Boston Red Sox,Minnesota Twins,6.0,6.0,3,2,2021
+2021-04-14,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.5,8.0,5,1,2021
+2021-04-14,DET,HOU,Detroit Tigers,Houston Astros,9.0,8.0,6,4,2021
+2021-04-14,CLE,CWS,Cleveland Guardians,Chicago White Sox,7.5,7.5,0,8,2021
+2021-04-14,BOS,MIN,Boston Red Sox,Minnesota Twins,6.0,6.0,7,1,2021
+2021-04-15,MIA,ATL,Miami Marlins,Atlanta Braves,8.0,8.0,6,7,2021
+2021-04-15,SDG,PIT,San Diego Padres,Pittsburgh Pirates,8.0,7.5,8,3,2021
+2021-04-15,ARI,WAS,Arizona Diamondbacks,Washington Nationals,9.0,8.5,11,6,2021
+2021-04-15,COL,LAD,Colorado Rockies,Los Angeles Dodgers,7.5,7.5,5,7,2021
+2021-04-15,BOS,MIN,Boston Red Sox,Minnesota Twins,8.5,8.5,3,4,2021
+2021-04-15,CLE,CWS,Cleveland Guardians,Chicago White Sox,7.5,7.5,4,2,2021
+2021-04-15,TEX,TAM,Texas Rangers,Tampa Bay Rays,8.0,8.0,6,4,2021
+2021-04-15,TOR,KAN,Toronto Blue Jays,Kansas City Royals,9.0,9.0,5,7,2021
+2021-04-15,DET,OAK,Detroit Tigers,Oakland Athletics,8.5,8.5,4,8,2021
+2021-04-15,SEA,BAL,Seattle Mariners,Baltimore Orioles,7.5,7.0,4,2,2021
+2021-04-15,SEA,BAL,Seattle Mariners,Baltimore Orioles,7.5,7.0,2,1,2021
+2021-04-16,ATL,CUB,Atlanta Braves,Chicago Cubs,7.5,8.0,5,2,2021
+2021-04-16,ARI,WAS,Arizona Diamondbacks,Washington Nationals,8.0,8.5,0,1,2021
+2021-04-16,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,9.0,8.0,2,9,2021
+2021-04-16,SFO,MIA,San Francisco Giants,Miami Marlins,8.5,8.5,1,4,2021
+2021-04-16,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,8.0,6,1,2021
+2021-04-16,LAD,SDG,Los Angeles Dodgers,San Diego Padres,7.5,8.0,11,6,2021
+2021-04-16,TAM,NYY,Tampa Bay Rays,New York Yankees,,9.5,8,2,2021
+2021-04-16,BAL,TEX,Baltimore Orioles,Texas Rangers,9.0,8.5,5,2,2021
+2021-04-16,MIN,LAA,Minnesota Twins,Los Angeles Angels,9.0,9.0,3,10,2021
+2021-04-16,DET,OAK,Detroit Tigers,Oakland Athletics,8.5,8.5,0,3,2021
+2021-04-16,HOU,SEA,Houston Astros,Seattle Mariners,8.0,8.0,5,6,2021
+2021-04-16,CLE,CIN,Cleveland Guardians,Cincinnati Reds,9.0,9.0,3,10,2021
+2021-04-17,ARI,WAS,Arizona Diamondbacks,Washington Nationals,9.0,8.5,2,6,2021
+2021-04-17,ATL,CUB,Atlanta Braves,Chicago Cubs,8.5,7.5,4,13,2021
+2021-04-17,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,8.5,8.5,9,4,2021
+2021-04-17,SFO,MIA,San Francisco Giants,Miami Marlins,7.5,7.5,6,7,2021
+2021-04-17,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,8.0,1,7,2021
+2021-04-17,NYM,COL,New York Mets,Colorado Rockies,10.5,8.0,2,7,2021
+2021-04-17,LAD,SDG,Los Angeles Dodgers,San Diego Padres,7.5,7.0,2,0,2021
+2021-04-17,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,7.5,6,3,2021
+2021-04-17,TOR,KAN,Toronto Blue Jays,Kansas City Royals,9.0,6.5,5,1,2021
+2021-04-17,CWS,BOS,Chicago White Sox,Boston Red Sox,9.0,9.0,4,7,2021
+2021-04-17,DET,OAK,Detroit Tigers,Oakland Athletics,9.0,9.0,0,7,2021
+2021-04-17,BAL,TEX,Baltimore Orioles,Texas Rangers,8.0,8.5,6,1,2021
+2021-04-17,HOU,SEA,Houston Astros,Seattle Mariners,8.0,8.5,1,0,2021
+2021-04-17,CLE,CIN,Cleveland Guardians,Cincinnati Reds,8.5,8.0,2,3,2021
+2021-04-17,NYM,COL,New York Mets,Colorado Rockies,7.0,6.5,4,3,2021
+2021-04-17,TOR,KAN,Toronto Blue Jays,Kansas City Royals,7.5,7.5,2,3,2021
+2021-04-18,STL,PHI,St. Louis Cardinals,Philadelphia Phillies,8.0,8.0,0,2,2021
+2021-04-18,ARI,WAS,Arizona Diamondbacks,Washington Nationals,8.5,9.5,5,2,2021
+2021-04-18,SFO,MIA,San Francisco Giants,Miami Marlins,8.0,8.0,1,0,2021
+2021-04-18,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,7.5,6,5,2021
+2021-04-18,NYM,COL,New York Mets,Colorado Rockies,10.0,11.0,2,1,2021
+2021-04-18,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.0,7.5,2,5,2021
+2021-04-18,ATL,CUB,Atlanta Braves,Chicago Cubs,9.0,9.0,13,4,2021
+2021-04-18,TAM,NYY,Tampa Bay Rays,New York Yankees,8.0,7.5,4,2,2021
+2021-04-18,CWS,BOS,Chicago White Sox,Boston Red Sox,7.0,7.0,3,2,2021
+2021-04-18,TOR,KAN,Toronto Blue Jays,Kansas City Royals,9.0,8.5,0,2,2021
+2021-04-18,BAL,TEX,Baltimore Orioles,Texas Rangers,8.5,8.0,0,1,2021
+2021-04-18,DET,OAK,Detroit Tigers,Oakland Athletics,8.5,8.5,2,3,2021
+2021-04-18,HOU,SEA,Houston Astros,Seattle Mariners,9.0,9.0,2,7,2021
+2021-04-18,CLE,CIN,Cleveland Guardians,Cincinnati Reds,7.5,7.0,6,3,2021
+2021-04-18,CWS,BOS,Chicago White Sox,Boston Red Sox,7.0,7.0,5,1,2021
+2021-04-19,STL,WAS,St. Louis Cardinals,Washington Nationals,8.0,8.0,12,5,2021
+2021-04-19,SFO,PHI,San Francisco Giants,Philadelphia Phillies,8.5,8.5,2,0,2021
+2021-04-19,MIL,SDG,Milwaukee Brewers,San Diego Padres,7.0,6.5,3,1,2021
+2021-04-19,CWS,BOS,Chicago White Sox,Boston Red Sox,8.0,7.5,4,11,2021
+2021-04-19,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.5,7.5,4,1,2021
+2021-04-19,TEX,LAA,Texas Rangers,Los Angeles Angels,8.0,8.5,6,4,2021
+2021-04-19,LAD,SEA,Los Angeles Dodgers,Seattle Mariners,8.5,8.5,3,4,2021
+2021-04-20,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,8.0,7.5,3,4,2021
+2021-04-20,STL,WAS,St. Louis Cardinals,Washington Nationals,9.0,9.0,2,3,2021
+2021-04-20,SFO,PHI,San Francisco Giants,Philadelphia Phillies,8.5,8.5,10,7,2021
+2021-04-20,NYM,CUB,New York Mets,Chicago Cubs,7.5,7.5,1,3,2021
+2021-04-20,MIL,SDG,Milwaukee Brewers,San Diego Padres,7.0,6.5,6,0,2021
+2021-04-20,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.0,7.0,8,5,2021
+2021-04-20,TOR,BOS,Toronto Blue Jays,Boston Red Sox,8.5,8.0,2,4,2021
+2021-04-20,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.5,8.0,14,7,2021
+2021-04-20,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.5,2,6,2021
+2021-04-20,MIN,OAK,Minnesota Twins,Oakland Athletics,6.0,5.5,0,1,2021
+2021-04-20,LAD,SEA,Los Angeles Dodgers,Seattle Mariners,8.5,8.0,1,0,2021
+2021-04-20,ATL,NYY,Atlanta Braves,New York Yankees,9.0,8.5,1,3,2021
+2021-04-20,BAL,MIA,Baltimore Orioles,Miami Marlins,8.0,8.5,7,5,2021
+2021-04-20,HOU,COL,Houston Astros,Colorado Rockies,10.5,10.0,2,6,2021
+2021-04-20,MIN,OAK,Minnesota Twins,Oakland Athletics,6.5,6.5,0,7,2021
+2021-04-21,SFO,PHI,San Francisco Giants,Philadelphia Phillies,8.0,8.0,5,6,2021
+2021-04-21,STL,WAS,St. Louis Cardinals,Washington Nationals,8.5,7.5,0,1,2021
+2021-04-21,MIL,SDG,Milwaukee Brewers,San Diego Padres,7.5,7.5,4,2,2021
+2021-04-21,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,9.0,8.0,8,5,2021
+2021-04-21,NYM,CUB,New York Mets,Chicago Cubs,7.5,7.5,4,16,2021
+2021-04-21,MIN,OAK,Minnesota Twins,Oakland Athletics,8.0,7.5,12,13,2021
+2021-04-21,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,9.0,7,4,2021
+2021-04-21,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.0,9.5,6,3,2021
+2021-04-21,TAM,KAN,Tampa Bay Rays,Kansas City Royals,8.5,8.0,8,9,2021
+2021-04-21,BAL,MIA,Baltimore Orioles,Miami Marlins,8.0,7.5,0,3,2021
+2021-04-21,HOU,COL,Houston Astros,Colorado Rockies,10.5,10.0,3,6,2021
+2021-04-21,ATL,NYY,Atlanta Braves,New York Yankees,9.0,9.0,4,1,2021
+2021-04-21,PIT,DET,Pittsburgh Pirates,Detroit Tigers,6.0,6.0,3,2,2021
+2021-04-21,PIT,DET,Pittsburgh Pirates,Detroit Tigers,6.0,6.5,2,5,2021
+2021-04-22,ARI,CIN,Arizona Diamondbacks,Cincinnati Reds,8.5,8.5,14,11,2021
+2021-04-22,NYM,CUB,New York Mets,Chicago Cubs,9.5,9.5,3,4,2021
+2021-04-22,MIA,SFO,Miami Marlins,San Francisco Giants,8.0,8.0,0,3,2021
+2021-04-22,SDG,LAD,San Diego Padres,Los Angeles Dodgers,7.5,7.5,3,2,2021
+2021-04-22,NYY,CLE,New York Yankees,Cleveland Guardians,8.5,8.0,6,3,2021
+2021-04-22,SEA,BOS,Seattle Mariners,Boston Red Sox,9.5,9.5,7,3,2021
+2021-04-22,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,9.0,2,8,2021
+2021-04-22,PIT,DET,Pittsburgh Pirates,Detroit Tigers,8.5,8.5,4,2,2021
+2021-04-23,MIL,CUB,Milwaukee Brewers,Chicago Cubs,10.0,9.0,2,15,2021
+2021-04-23,WAS,NYM,Washington Nationals,New York Mets,7.0,7.0,0,6,2021
+2021-04-23,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,8.5,8.5,4,5,2021
+2021-04-23,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.0,8.0,4,5,2021
+2021-04-23,PHI,COL,Philadelphia Phillies,Colorado Rockies,10.5,10.5,4,5,2021
+2021-04-23,MIA,SFO,Miami Marlins,San Francisco Giants,7.5,7.0,3,5,2021
+2021-04-23,SDG,LAD,San Diego Padres,Los Angeles Dodgers,7.0,6.5,6,1,2021
+2021-04-23,OAK,BAL,Oakland Athletics,Baltimore Orioles,9.0,9.0,3,1,2021
+2021-04-23,SEA,BOS,Seattle Mariners,Boston Red Sox,9.0,9.0,5,6,2021
+2021-04-23,NYY,CLE,New York Yankees,Cleveland Guardians,8.5,8.5,5,3,2021
+2021-04-23,KAN,DET,Kansas City Royals,Detroit Tigers,8.5,8.5,6,2,2021
+2021-04-23,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.0,7.0,5,3,2021
+2021-04-23,LAA,HOU,Los Angeles Angels,Houston Astros,8.5,8.0,4,5,2021
+2021-04-23,TEX,CWS,Texas Rangers,Chicago White Sox,9.0,8.0,7,9,2021
+2021-04-23,PIT,MIN,Pittsburgh Pirates,Minnesota Twins,8.5,8.0,0,2,2021
+2021-04-24,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.5,0,2,2021
+2021-04-24,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.0,7.5,4,3,2021
+2021-04-24,WAS,NYM,Washington Nationals,New York Mets,8.0,8.0,7,1,2021
+2021-04-24,PHI,COL,Philadelphia Phillies,Colorado Rockies,10.0,10.0,7,5,2021
+2021-04-24,MIA,SFO,Miami Marlins,San Francisco Giants,7.0,7.0,5,2,2021
+2021-04-24,SDG,LAD,San Diego Padres,Los Angeles Dodgers,7.0,7.0,4,5,2021
+2021-04-24,SEA,BOS,Seattle Mariners,Boston Red Sox,9.0,9.0,8,2,2021
+2021-04-24,KAN,DET,Kansas City Royals,Detroit Tigers,7.5,8.0,2,1,2021
+2021-04-24,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,8.5,2,16,2021
+2021-04-24,NYY,CLE,New York Yankees,Cleveland Guardians,6.5,6.5,2,1,2021
+2021-04-24,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,3,5,2021
+2021-04-24,OAK,BAL,Oakland Athletics,Baltimore Orioles,10.0,9.0,7,2,2021
+2021-04-24,TEX,CWS,Texas Rangers,Chicago White Sox,8.0,7.5,1,2,2021
+2021-04-24,PIT,MIN,Pittsburgh Pirates,Minnesota Twins,8.0,8.0,6,2,2021
+2021-04-25,WAS,NYM,Washington Nationals,New York Mets,8.5,7.5,0,4,2021
+2021-04-25,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.0,7.0,2,5,2021
+2021-04-25,MIL,CUB,Milwaukee Brewers,Chicago Cubs,6.5,6.5,6,0,2021
+2021-04-25,PHI,COL,Philadelphia Phillies,Colorado Rockies,10.5,11.5,2,12,2021
+2021-04-25,MIA,SFO,Miami Marlins,San Francisco Giants,8.0,8.0,3,4,2021
+2021-04-25,SDG,LAD,San Diego Padres,Los Angeles Dodgers,7.5,7.0,8,7,2021
+2021-04-25,OAK,BAL,Oakland Athletics,Baltimore Orioles,8.0,8.0,1,8,2021
+2021-04-25,SEA,BOS,Seattle Mariners,Boston Red Sox,9.0,8.5,3,5,2021
+2021-04-25,NYY,CLE,New York Yankees,Cleveland Guardians,8.5,8.0,3,7,2021
+2021-04-25,KAN,DET,Kansas City Royals,Detroit Tigers,8.0,8.5,4,0,2021
+2021-04-25,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,7.5,7.5,1,0,2021
+2021-04-25,TEX,CWS,Texas Rangers,Chicago White Sox,7.5,7.5,4,8,2021
+2021-04-25,LAA,HOU,Los Angeles Angels,Houston Astros,8.0,8.0,4,2,2021
+2021-04-25,PIT,MIN,Pittsburgh Pirates,Minnesota Twins,8.0,8.5,6,2,2021
+2021-04-25,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,7.0,6.5,5,0,2021
+2021-04-25,ARI,ATL,Arizona Diamondbacks,Atlanta Braves,7.0,6.5,7,0,2021
+2021-04-26,CUB,ATL,Chicago Cubs,Atlanta Braves,8.5,8.5,7,8,2021
+2021-04-26,MIA,MIL,Miami Marlins,Milwaukee Brewers,6.5,6.5,8,0,2021
+2021-04-26,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,8.0,8.0,2,1,2021
+2021-04-26,COL,SFO,Colorado Rockies,San Francisco Giants,7.5,7.5,0,12,2021
+2021-04-26,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,7.0,7.5,5,3,2021
+2021-04-26,KAN,DET,Kansas City Royals,Detroit Tigers,7.5,8.5,3,2,2021
+2021-04-26,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.0,7.0,3,5,2021
+2021-04-26,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,2,4,2021
+2021-04-26,OAK,TAM,Oakland Athletics,Tampa Bay Rays,8.5,8.5,2,1,2021
+2021-04-26,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,9.0,9,4,2021
+2021-04-26,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.0,2,5,2021
+2021-04-27,CUB,ATL,Chicago Cubs,Atlanta Braves,8.5,8.5,0,5,2021
+2021-04-27,MIA,MIL,Miami Marlins,Milwaukee Brewers,8.0,8.0,4,5,2021
+2021-04-27,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,8.5,8.0,2,5,2021
+2021-04-27,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.5,1,5,2021
+2021-04-27,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,7.5,7,5,2021
+2021-04-27,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,7.5,7.5,6,5,2021
+2021-04-27,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,7.5,4,7,2021
+2021-04-27,NYY,BAL,New York Yankees,Baltimore Orioles,10.0,9.0,5,1,2021
+2021-04-27,OAK,TAM,Oakland Athletics,Tampa Bay Rays,8.5,8.5,3,4,2021
+2021-04-27,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,9.0,1,6,2021
+2021-04-27,DET,CWS,Detroit Tigers,Chicago White Sox,8.0,7.5,5,2,2021
+2021-04-27,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.5,0,2,2021
+2021-04-27,KAN,PIT,Kansas City Royals,Pittsburgh Pirates,8.0,8.0,1,2,2021
+2021-04-27,WAS,TOR,Washington Nationals,Toronto Blue Jays,8.5,8.5,5,9,2021
+2021-04-27,BOS,NYM,Boston Red Sox,New York Mets,8.5,8.5,2,1,2021
+2021-04-28,MIA,MIL,Miami Marlins,Milwaukee Brewers,7.5,8.0,6,2,2021
+2021-04-28,CIN,LAD,Cincinnati Reds,Los Angeles Dodgers,7.5,7.5,0,8,2021
+2021-04-28,CUB,ATL,Chicago Cubs,Atlanta Braves,8.5,9.0,0,10,2021
+2021-04-28,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,8.5,8.5,5,3,2021
+2021-04-28,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,12,3,2021
+2021-04-28,COL,SFO,Colorado Rockies,San Francisco Giants,7.0,7.0,3,7,2021
+2021-04-28,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.5,8.5,10,2,2021
+2021-04-28,NYY,BAL,New York Yankees,Baltimore Orioles,9.5,10.0,7,0,2021
+2021-04-28,OAK,TAM,Oakland Athletics,Tampa Bay Rays,7.5,7.5,0,2,2021
+2021-04-28,LAA,TEX,Los Angeles Angels,Texas Rangers,8.5,9.0,4,3,2021
+2021-04-28,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.5,5,7,2021
+2021-04-28,KAN,PIT,Kansas City Royals,Pittsburgh Pirates,8.0,8.0,9,6,2021
+2021-04-28,BOS,NYM,Boston Red Sox,New York Mets,7.0,7.0,1,0,2021
+2021-04-28,WAS,TOR,Washington Nationals,Toronto Blue Jays,9.5,9.5,8,2,2021
+2021-04-29,PHI,STL,Philadelphia Phillies,St. Louis Cardinals,7.0,7.0,3,4,2021
+2021-04-29,CUB,ATL,Chicago Cubs,Atlanta Braves,9.0,9.5,9,3,2021
+2021-04-29,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,7.5,7.5,1,2,2021
+2021-04-29,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,9.0,3,5,2021
+2021-04-29,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.5,3,4,2021
+2021-04-29,OAK,TAM,Oakland Athletics,Tampa Bay Rays,8.0,7.5,3,2,2021
+2021-04-29,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.0,1,0,2021
+2021-04-29,BOS,TEX,Boston Red Sox,Texas Rangers,9.0,8.5,1,4,2021
+2021-04-29,DET,CWS,Detroit Tigers,Chicago White Sox,6.0,6.0,1,3,2021
+2021-04-29,DET,CWS,Detroit Tigers,Chicago White Sox,6.0,6.0,0,11,2021
+2021-04-30,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,7.5,8.0,7,3,2021
+2021-04-30,NYM,PHI,New York Mets,Philadelphia Phillies,8.5,8.5,1,2,2021
+2021-04-30,MIA,WAS,Miami Marlins,Washington Nationals,8.0,8.5,1,2,2021
+2021-04-30,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,8.5,6,8,2021
+2021-04-30,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,7.5,8.0,1,3,2021
+2021-04-30,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,8.5,2,7,2021
+2021-04-30,SFO,SDG,San Francisco Giants,San Diego Padres,7.5,7.5,2,3,2021
+2021-04-30,DET,NYY,Detroit Tigers,New York Yankees,7.5,7.5,0,10,2021
+2021-04-30,HOU,TAM,Houston Astros,Tampa Bay Rays,7.5,8.0,9,2,2021
+2021-04-30,BOS,TEX,Boston Red Sox,Texas Rangers,8.5,8.5,6,1,2021
+2021-04-30,KAN,MIN,Kansas City Royals,Minnesota Twins,7.5,8.5,1,9,2021
+2021-04-30,CLE,CWS,Cleveland Guardians,Chicago White Sox,6.5,7.0,5,3,2021
+2021-04-30,BAL,OAK,Baltimore Orioles,Oakland Athletics,7.5,8.0,3,2,2021
+2021-04-30,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.0,8.5,4,7,2021
+2021-04-30,ATL,TOR,Atlanta Braves,Toronto Blue Jays,10.5,9.5,5,13,2021
+2021-05-01,MIA,WAS,Miami Marlins,Washington Nationals,8.5,7.5,2,7,2021
+2021-05-01,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,8.5,3,2,2021
+2021-05-01,NYM,PHI,New York Mets,Philadelphia Phillies,7.5,8.0,5,4,2021
+2021-05-01,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,7.5,7.0,12,5,2021
+2021-05-01,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,7.0,7.0,5,6,2021
+2021-05-01,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.0,8.5,14,6,2021
+2021-05-01,SFO,SDG,San Francisco Giants,San Diego Padres,7.0,7.0,2,6,2021
+2021-05-01,DET,NYY,Detroit Tigers,New York Yankees,8.0,8.5,4,6,2021
+2021-05-01,KAN,MIN,Kansas City Royals,Minnesota Twins,9.0,8.0,11,3,2021
+2021-05-01,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.0,3,7,2021
+2021-05-01,BAL,OAK,Baltimore Orioles,Oakland Athletics,8.0,8.0,8,4,2021
+2021-05-01,HOU,TAM,Houston Astros,Tampa Bay Rays,8.0,7.5,3,1,2021
+2021-05-01,BOS,TEX,Boston Red Sox,Texas Rangers,8.5,8.5,6,8,2021
+2021-05-01,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,8.5,10,5,2021
+2021-05-01,ATL,TOR,Atlanta Braves,Toronto Blue Jays,10.5,10.5,5,6,2021
+2021-05-02,MIA,WAS,Miami Marlins,Washington Nationals,7.0,7.0,1,3,2021
+2021-05-02,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,8.0,3,0,2021
+2021-05-02,CUB,CIN,Chicago Cubs,Cincinnati Reds,8.5,9.0,12,13,2021
+2021-05-02,LAD,MIL,Los Angeles Dodgers,Milwaukee Brewers,8.5,8.0,16,4,2021
+2021-05-02,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,9.0,4,8,2021
+2021-05-02,SFO,SDG,San Francisco Giants,San Diego Padres,6.5,7.0,7,1,2021
+2021-05-02,NYM,PHI,New York Mets,Philadelphia Phillies,9.0,8.0,8,7,2021
+2021-05-02,DET,NYY,Detroit Tigers,New York Yankees,9.0,8.0,0,2,2021
+2021-05-02,HOU,TAM,Houston Astros,Tampa Bay Rays,8.0,8.0,4,5,2021
+2021-05-02,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.0,7.5,5,0,2021
+2021-05-02,KAN,MIN,Kansas City Royals,Minnesota Twins,8.5,8.5,4,13,2021
+2021-05-02,BOS,TEX,Boston Red Sox,Texas Rangers,9.0,9.0,3,5,2021
+2021-05-02,BAL,OAK,Baltimore Orioles,Oakland Athletics,8.5,8.5,5,7,2021
+2021-05-02,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.0,8.5,0,2,2021
+2021-05-02,ATL,TOR,Atlanta Braves,Toronto Blue Jays,10.5,10.5,2,7,2021
+2021-05-03,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.5,9.0,3,4,2021
+2021-05-03,NYM,STL,New York Mets,St. Louis Cardinals,8.5,8.5,5,6,2021
+2021-05-03,PIT,SDG,Pittsburgh Pirates,San Diego Padres,8.0,9.0,0,2,2021
+2021-05-03,TEX,MIN,Texas Rangers,Minnesota Twins,8.5,8.5,5,6,2021
+2021-05-03,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,8.5,8,6,2021
+2021-05-03,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.0,7.5,7,3,2021
+2021-05-03,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.5,8.5,4,5,2021
+2021-05-03,BAL,SEA,Baltimore Orioles,Seattle Mariners,8.5,8.5,5,3,2021
+2021-05-04,ARI,MIA,Arizona Diamondbacks,Miami Marlins,7.5,8.0,3,9,2021
+2021-05-04,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,9.0,6,1,2021
+2021-05-04,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,7.5,7.5,5,6,2021
+2021-05-04,PIT,SDG,Pittsburgh Pirates,San Diego Padres,7.5,8.0,2,1,2021
+2021-05-04,HOU,NYY,Houston Astros,New York Yankees,8.5,8.5,3,7,2021
+2021-05-04,DET,BOS,Detroit Tigers,Boston Red Sox,8.5,9.0,7,11,2021
+2021-05-04,TEX,MIN,Texas Rangers,Minnesota Twins,8.5,8.5,6,3,2021
+2021-05-04,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.5,7,3,2021
+2021-05-04,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.5,8.5,8,3,2021
+2021-05-04,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.5,8.5,1,4,2021
+2021-05-04,BAL,SEA,Baltimore Orioles,Seattle Mariners,8.5,8.5,2,5,2021
+2021-05-04,CWS,CIN,Chicago White Sox,Cincinnati Reds,9.5,9.0,9,0,2021
+2021-05-04,SFO,COL,San Francisco Giants,Colorado Rockies,7.5,7.5,12,4,2021
+2021-05-04,LAD,CUB,Los Angeles Dodgers,Chicago Cubs,5.5,5.0,1,7,2021
+2021-05-04,LAD,CUB,Los Angeles Dodgers,Chicago Cubs,6.0,5.5,3,4,2021
+2021-05-04,SFO,COL,San Francisco Giants,Colorado Rockies,8.0,8.0,6,8,2021
+2021-05-05,SFO,COL,San Francisco Giants,Colorado Rockies,10.5,10.0,5,6,2021
+2021-05-05,ARI,MIA,Arizona Diamondbacks,Miami Marlins,7.5,8.0,0,8,2021
+2021-05-05,ATL,WAS,Atlanta Braves,Washington Nationals,8.5,9.0,5,3,2021
+2021-05-05,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,8.5,7.5,4,5,2021
+2021-05-05,LAD,CUB,Los Angeles Dodgers,Chicago Cubs,7.5,7.5,5,6,2021
+2021-05-05,PIT,SDG,Pittsburgh Pirates,San Diego Padres,6.5,6.5,2,4,2021
+2021-05-05,BAL,SEA,Baltimore Orioles,Seattle Mariners,7.5,7.5,6,0,2021
+2021-05-05,HOU,NYY,Houston Astros,New York Yankees,9.0,9.5,3,6,2021
+2021-05-05,DET,BOS,Detroit Tigers,Boston Red Sox,9.0,9.0,6,5,2021
+2021-05-05,TEX,MIN,Texas Rangers,Minnesota Twins,9.0,8.5,3,1,2021
+2021-05-05,CLE,KAN,Cleveland Guardians,Kansas City Royals,7.0,7.0,5,4,2021
+2021-05-05,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.5,8.5,3,1,2021
+2021-05-05,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.5,8.0,9,4,2021
+2021-05-05,CWS,CIN,Chicago White Sox,Cincinnati Reds,8.5,8.0,0,1,2021
+2021-05-05,NYM,STL,New York Mets,St. Louis Cardinals,6.0,6.0,1,4,2021
+2021-05-05,NYM,STL,New York Mets,St. Louis Cardinals,6.5,6.5,7,2,2021
+2021-05-06,MIL,PHI,Milwaukee Brewers,Philadelphia Phillies,7.0,6.5,0,2,2021
+2021-05-06,NYM,STL,New York Mets,St. Louis Cardinals,8.0,8.0,4,1,2021
+2021-05-06,ATL,WAS,Atlanta Braves,Washington Nationals,9.5,9.0,3,2,2021
+2021-05-06,ARI,MIA,Arizona Diamondbacks,Miami Marlins,7.5,7.5,1,3,2021
+2021-05-06,HOU,NYY,Houston Astros,New York Yankees,7.5,7.5,7,4,2021
+2021-05-06,DET,BOS,Detroit Tigers,Boston Red Sox,8.5,8.0,9,12,2021
+2021-05-06,TEX,MIN,Texas Rangers,Minnesota Twins,8.5,8.5,4,3,2021
+2021-05-06,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,8.0,4,0,2021
+2021-05-06,TOR,OAK,Toronto Blue Jays,Oakland Athletics,8.0,8.5,10,4,2021
+2021-05-06,TAM,LAA,Tampa Bay Rays,Los Angeles Angels,8.5,8.0,8,3,2021
+2021-05-07,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,7.5,7.5,2,3,2021
+2021-05-07,MIL,MIA,Milwaukee Brewers,Miami Marlins,7.0,6.5,1,6,2021
+2021-05-07,ARI,NYM,Arizona Diamondbacks,New York Mets,8.0,7.0,4,5,2021
+2021-05-07,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.5,8.0,12,2,2021
+2021-05-07,COL,STL,Colorado Rockies,St. Louis Cardinals,7.0,7.5,0,5,2021
+2021-05-07,SDG,SFO,San Diego Padres,San Francisco Giants,7.0,7.5,4,5,2021
+2021-05-07,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,8.5,6,2,2021
+2021-05-07,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.0,7,3,2021
+2021-05-07,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,8.5,5,4,2021
+2021-05-07,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,8.5,3,0,2021
+2021-05-07,TOR,HOU,Toronto Blue Jays,Houston Astros,9.0,9.0,4,10,2021
+2021-05-07,TAM,OAK,Tampa Bay Rays,Oakland Athletics,8.0,7.5,1,2,2021
+2021-05-07,WAS,NYY,Washington Nationals,New York Yankees,9.5,8.5,11,4,2021
+2021-05-07,CIN,CLE,Cincinnati Reds,Cleveland Guardians,8.5,8.0,3,0,2021
+2021-05-07,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,8.5,8.5,2,9,2021
+2021-05-08,COL,STL,Colorado Rockies,St. Louis Cardinals,8.5,7.5,8,9,2021
+2021-05-08,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.0,8.0,2,3,2021
+2021-05-08,SDG,SFO,San Diego Padres,San Francisco Giants,7.0,7.0,1,7,2021
+2021-05-08,MIL,MIA,Milwaukee Brewers,Miami Marlins,8.0,8.0,6,2,2021
+2021-05-08,ARI,NYM,Arizona Diamondbacks,New York Mets,8.0,8.0,2,4,2021
+2021-05-08,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.5,9.0,7,8,2021
+2021-05-08,TAM,OAK,Tampa Bay Rays,Oakland Athletics,7.5,7.5,3,6,2021
+2021-05-08,MIN,DET,Minnesota Twins,Detroit Tigers,8.0,7.5,3,7,2021
+2021-05-08,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,9.5,8,9,2021
+2021-05-08,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,9.0,11,6,2021
+2021-05-08,TOR,HOU,Toronto Blue Jays,Houston Astros,9.0,9.0,8,4,2021
+2021-05-08,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,9.0,9,1,2021
+2021-05-08,WAS,NYY,Washington Nationals,New York Yankees,8.0,8.0,3,4,2021
+2021-05-08,CIN,CLE,Cincinnati Reds,Cleveland Guardians,8.5,8.0,2,9,2021
+2021-05-08,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,8.5,8.0,14,11,2021
+2021-05-09,MIL,MIA,Milwaukee Brewers,Miami Marlins,7.5,7.0,2,1,2021
+2021-05-09,ARI,NYM,Arizona Diamondbacks,New York Mets,6.5,7.0,2,4,2021
+2021-05-09,COL,STL,Colorado Rockies,St. Louis Cardinals,7.5,7.0,0,2,2021
+2021-05-09,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,6.0,6.0,6,5,2021
+2021-05-09,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,8.0,11,1,2021
+2021-05-09,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,7.5,1,6,2021
+2021-05-09,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.0,9.0,4,3,2021
+2021-05-09,CWS,KAN,Chicago White Sox,Kansas City Royals,8.5,7.5,9,3,2021
+2021-05-09,TOR,HOU,Toronto Blue Jays,Houston Astros,9.0,9.0,4,7,2021
+2021-05-09,SEA,TEX,Seattle Mariners,Texas Rangers,8.5,8.0,2,10,2021
+2021-05-09,TAM,OAK,Tampa Bay Rays,Oakland Athletics,8.0,7.5,4,3,2021
+2021-05-09,WAS,NYY,Washington Nationals,New York Yankees,9.5,9.0,2,3,2021
+2021-05-09,LAD,LAA,Los Angeles Dodgers,Los Angeles Angels,8.5,8.5,1,2,2021
+2021-05-10,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.0,7.5,14,1,2021
+2021-05-10,MIA,ARI,Miami Marlins,Arizona Diamondbacks,8.5,9.0,2,5,2021
+2021-05-10,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.0,1,4,2021
+2021-05-10,LAA,HOU,Los Angeles Angels,Houston Astros,9.5,9.5,5,4,2021
+2021-05-10,TEX,SFO,Texas Rangers,San Francisco Giants,7.0,7.0,1,3,2021
+2021-05-11,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.0,7.5,2,7,2021
+2021-05-11,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,9.0,6,2,2021
+2021-05-11,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,7.5,7.0,6,1,2021
+2021-05-11,SDG,COL,San Diego Padres,Colorado Rockies,9.5,9.5,8,1,2021
+2021-05-11,MIA,ARI,Miami Marlins,Arizona Diamondbacks,8.0,8.0,3,11,2021
+2021-05-11,KAN,DET,Kansas City Royals,Detroit Tigers,7.5,8.0,7,8,2021
+2021-05-11,OAK,BOS,Oakland Athletics,Boston Red Sox,9.0,8.5,3,2,2021
+2021-05-11,NYY,TAM,New York Yankees,Tampa Bay Rays,8.0,8.0,3,1,2021
+2021-05-11,MIN,CWS,Minnesota Twins,Chicago White Sox,8.5,7.5,3,9,2021
+2021-05-11,LAA,HOU,Los Angeles Angels,Houston Astros,8.5,8.5,1,5,2021
+2021-05-11,TEX,SFO,Texas Rangers,San Francisco Giants,8.0,8.0,2,4,2021
+2021-05-11,CUB,CLE,Chicago Cubs,Cleveland Guardians,7.0,7.0,2,3,2021
+2021-05-11,BAL,NYM,Baltimore Orioles,New York Mets,7.0,6.5,2,3,2021
+2021-05-11,TOR,ATL,Toronto Blue Jays,Atlanta Braves,8.5,9.5,5,3,2021
+2021-05-11,SEA,LAD,Seattle Mariners,Los Angeles Dodgers,7.5,7.0,4,6,2021
+2021-05-12,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,7.5,7.0,5,1,2021
+2021-05-12,SDG,COL,San Diego Padres,Colorado Rockies,7.0,6.5,5,3,2021
+2021-05-12,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.5,8.5,5,2,2021
+2021-05-12,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,7.0,7.5,1,4,2021
+2021-05-12,MIA,ARI,Miami Marlins,Arizona Diamondbacks,7.5,9.0,3,2,2021
+2021-05-12,KAN,DET,Kansas City Royals,Detroit Tigers,8.0,8.0,2,4,2021
+2021-05-12,OAK,BOS,Oakland Athletics,Boston Red Sox,9.0,9.5,4,1,2021
+2021-05-12,NYY,TAM,New York Yankees,Tampa Bay Rays,7.5,7.0,1,0,2021
+2021-05-12,MIN,CWS,Minnesota Twins,Chicago White Sox,8.5,8.0,8,13,2021
+2021-05-12,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,8.5,1,9,2021
+2021-05-12,BAL,NYM,Baltimore Orioles,New York Mets,8.0,7.0,1,7,2021
+2021-05-12,CUB,CLE,Chicago Cubs,Cleveland Guardians,9.0,8.5,1,2,2021
+2021-05-12,TOR,ATL,Toronto Blue Jays,Atlanta Braves,8.5,7.5,4,1,2021
+2021-05-12,SEA,LAD,Seattle Mariners,Los Angeles Dodgers,8.0,8.0,1,7,2021
+2021-05-12,SDG,COL,San Diego Padres,Colorado Rockies,8.0,7.5,2,3,2021
+2021-05-13,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.5,8.0,1,5,2021
+2021-05-13,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,7.0,6.5,2,0,2021
+2021-05-13,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,8.0,8.0,3,1,2021
+2021-05-13,CIN,COL,Cincinnati Reds,Colorado Rockies,10.0,11.5,8,13,2021
+2021-05-13,MIA,ARI,Miami Marlins,Arizona Diamondbacks,8.0,8.5,5,1,2021
+2021-05-13,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,3,4,2021
+2021-05-13,MIN,CWS,Minnesota Twins,Chicago White Sox,7.5,7.5,2,4,2021
+2021-05-13,OAK,BOS,Oakland Athletics,Boston Red Sox,9.0,9.0,1,8,2021
+2021-05-13,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,8.0,1,9,2021
+2021-05-13,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.0,3,4,2021
+2021-05-13,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.0,7.5,4,2,2021
+2021-05-13,TOR,ATL,Toronto Blue Jays,Atlanta Braves,9.0,8.5,8,4,2021
+2021-05-14,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,7.5,7.5,2,3,2021
+2021-05-14,ATL,MIL,Atlanta Braves,Milwaukee Brewers,8.0,7.5,6,3,2021
+2021-05-14,CIN,COL,Cincinnati Reds,Colorado Rockies,10.0,10.5,6,9,2021
+2021-05-14,WAS,ARI,Washington Nationals,Arizona Diamondbacks,8.5,9.0,17,2,2021
+2021-05-14,MIA,LAD,Miami Marlins,Los Angeles Dodgers,7.0,6.5,6,9,2021
+2021-05-14,STL,SDG,St. Louis Cardinals,San Diego Padres,7.0,7.0,4,5,2021
+2021-05-14,KAN,CWS,Kansas City Royals,Chicago White Sox,6.0,6.0,6,2,2021
+2021-05-14,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,8.5,5,4,2021
+2021-05-14,LAA,BOS,Los Angeles Angels,Boston Red Sox,9.5,9.5,3,4,2021
+2021-05-14,TEX,HOU,Texas Rangers,Houston Astros,9.0,9.0,4,10,2021
+2021-05-14,KAN,CWS,Kansas City Royals,Chicago White Sox,6.5,6.5,1,3,2021
+2021-05-14,OAK,MIN,Oakland Athletics,Minnesota Twins,9.0,8.5,6,1,2021
+2021-05-14,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.0,7.5,3,7,2021
+2021-05-14,CUB,DET,Chicago Cubs,Detroit Tigers,8.5,9.0,4,2,2021
+2021-05-14,NYM,TAM,New York Mets,Tampa Bay Rays,7.0,6.5,2,3,2021
+2021-05-14,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,10.5,11.0,5,1,2021
+2021-05-15,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,7.5,7.5,6,8,2021
+2021-05-15,ATL,MIL,Atlanta Braves,Milwaukee Brewers,7.5,8.0,5,1,2021
+2021-05-15,CIN,COL,Cincinnati Reds,Colorado Rockies,11.0,11.0,6,5,2021
+2021-05-15,WAS,ARI,Washington Nationals,Arizona Diamondbacks,9.0,10.0,4,11,2021
+2021-05-15,STL,SDG,St. Louis Cardinals,San Diego Padres,7.0,7.0,3,13,2021
+2021-05-15,MIA,LAD,Miami Marlins,Los Angeles Dodgers,7.5,7.5,0,7,2021
+2021-05-15,OAK,MIN,Oakland Athletics,Minnesota Twins,8.5,8.5,4,5,2021
+2021-05-15,LAA,BOS,Los Angeles Angels,Boston Red Sox,9.5,10.0,0,9,2021
+2021-05-15,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,8.5,8,2,2021
+2021-05-15,KAN,CWS,Kansas City Royals,Chicago White Sox,8.5,8.0,5,1,2021
+2021-05-15,TEX,HOU,Texas Rangers,Houston Astros,9.0,8.5,5,6,2021
+2021-05-15,CLE,SEA,Cleveland Guardians,Seattle Mariners,8.0,8.5,3,7,2021
+2021-05-15,NYM,TAM,New York Mets,Tampa Bay Rays,8.0,7.5,5,12,2021
+2021-05-15,CUB,DET,Chicago Cubs,Detroit Tigers,8.5,9.0,8,9,2021
+2021-05-15,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,9.5,10.0,0,4,2021
+2021-05-16,SFO,PIT,San Francisco Giants,Pittsburgh Pirates,8.0,7.5,4,1,2021
+2021-05-16,ATL,MIL,Atlanta Braves,Milwaukee Brewers,7.0,7.0,9,10,2021
+2021-05-16,CIN,COL,Cincinnati Reds,Colorado Rockies,11.5,11.0,7,6,2021
+2021-05-16,MIA,LAD,Miami Marlins,Los Angeles Dodgers,8.0,7.5,3,2,2021
+2021-05-16,WAS,ARI,Washington Nationals,Arizona Diamondbacks,9.5,9.0,3,0,2021
+2021-05-16,STL,SDG,St. Louis Cardinals,San Diego Padres,7.0,7.5,3,5,2021
+2021-05-16,NYY,BAL,New York Yankees,Baltimore Orioles,9.0,9.0,6,10,2021
+2021-05-16,LAA,BOS,Los Angeles Angels,Boston Red Sox,9.5,9.5,6,5,2021
+2021-05-16,TEX,HOU,Texas Rangers,Houston Astros,8.0,7.5,2,6,2021
+2021-05-16,OAK,MIN,Oakland Athletics,Minnesota Twins,8.5,8.5,7,6,2021
+2021-05-16,KAN,CWS,Kansas City Royals,Chicago White Sox,8.5,8.5,3,4,2021
+2021-05-16,CLE,SEA,Cleveland Guardians,Seattle Mariners,7.5,7.5,2,3,2021
+2021-05-16,PHI,TOR,Philadelphia Phillies,Toronto Blue Jays,10.5,10.0,8,10,2021
+2021-05-16,CUB,DET,Chicago Cubs,Detroit Tigers,8.0,8.0,5,1,2021
+2021-05-16,NYM,TAM,New York Mets,Tampa Bay Rays,7.5,7.5,1,7,2021
+2021-05-17,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.0,8.0,6,3,2021
+2021-05-17,NYM,ATL,New York Mets,Atlanta Braves,7.5,8.0,3,1,2021
+2021-05-17,WAS,CUB,Washington Nationals,Chicago Cubs,8.0,8.0,3,7,2021
+2021-05-17,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.0,7.0,1,3,2021
+2021-05-17,COL,SDG,Colorado Rockies,San Diego Padres,7.0,6.5,0,7,2021
+2021-05-17,CWS,MIN,Chicago White Sox,Minnesota Twins,8.5,9.5,16,4,2021
+2021-05-17,NYY,TEX,New York Yankees,Texas Rangers,8.0,8.0,2,5,2021
+2021-05-17,CLE,LAA,Cleveland Guardians,Los Angeles Angels,9.0,9.5,4,7,2021
+2021-05-17,DET,SEA,Detroit Tigers,Seattle Mariners,8.0,7.5,4,1,2021
+2021-05-18,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.5,8.0,4,2,2021
+2021-05-18,MIA,PHI,Miami Marlins,Philadelphia Phillies,7.5,7.5,3,8,2021
+2021-05-18,NYM,ATL,New York Mets,Atlanta Braves,8.5,8.5,4,3,2021
+2021-05-18,WAS,CUB,Washington Nationals,Chicago Cubs,8.5,9.0,3,6,2021
+2021-05-18,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,7.5,7.5,2,5,2021
+2021-05-18,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.5,7.5,1,9,2021
+2021-05-18,COL,SDG,Colorado Rockies,San Diego Padres,7.0,7.0,1,2,2021
+2021-05-18,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,8.5,9.0,13,6,2021
+2021-05-18,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.5,9.0,0,8,2021
+2021-05-18,CWS,MIN,Chicago White Sox,Minnesota Twins,8.0,8.5,4,5,2021
+2021-05-18,NYY,TEX,New York Yankees,Texas Rangers,9.5,8.5,7,4,2021
+2021-05-18,CLE,LAA,Cleveland Guardians,Los Angeles Angels,8.5,7.5,6,5,2021
+2021-05-18,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.0,5,6,2021
+2021-05-18,DET,SEA,Detroit Tigers,Seattle Mariners,8.0,8.0,5,0,2021
+2021-05-18,MIL,KAN,Milwaukee Brewers,Kansas City Royals,7.5,7.5,0,2,2021
+2021-05-19,COL,SDG,Colorado Rockies,San Diego Padres,7.5,8.0,0,3,2021
+2021-05-19,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.0,8.5,4,0,2021
+2021-05-19,MIA,PHI,Miami Marlins,Philadelphia Phillies,7.5,7.5,3,1,2021
+2021-05-19,NYM,ATL,New York Mets,Atlanta Braves,8.0,7.5,4,5,2021
+2021-05-19,WAS,CUB,Washington Nationals,Chicago Cubs,9.5,9.0,4,3,2021
+2021-05-19,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,7.0,7.0,5,8,2021
+2021-05-19,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.5,7.5,2,4,2021
+2021-05-19,CWS,MIN,Chicago White Sox,Minnesota Twins,8.5,9.0,2,1,2021
+2021-05-19,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,8.0,8.0,9,7,2021
+2021-05-19,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.5,9.5,7,3,2021
+2021-05-19,NYY,TEX,New York Yankees,Texas Rangers,9.0,9.0,2,0,2021
+2021-05-19,CLE,LAA,Cleveland Guardians,Los Angeles Angels,7.5,8.0,3,2,2021
+2021-05-19,HOU,OAK,Houston Astros,Oakland Athletics,8.0,8.5,8,1,2021
+2021-05-19,DET,SEA,Detroit Tigers,Seattle Mariners,8.5,8.0,6,2,2021
+2021-05-19,MIL,KAN,Milwaukee Brewers,Kansas City Royals,7.5,7.5,4,6,2021
+2021-05-20,SFO,CIN,San Francisco Giants,Cincinnati Reds,8.5,8.5,19,4,2021
+2021-05-20,WAS,CUB,Washington Nationals,Chicago Cubs,10.5,10.5,2,5,2021
+2021-05-20,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.5,6,0,2021
+2021-05-20,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,8.5,9.0,6,4,2021
+2021-05-20,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,8.5,2,3,2021
+2021-05-20,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,9.0,10,1,2021
+2021-05-20,NYY,TEX,New York Yankees,Texas Rangers,8.5,7.5,2,0,2021
+2021-05-20,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.5,8,4,2021
+2021-05-20,MIN,LAA,Minnesota Twins,Los Angeles Angels,7.0,7.0,1,7,2021
+2021-05-20,MIN,LAA,Minnesota Twins,Los Angeles Angels,6.5,6.0,6,3,2021
+2021-05-20,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.0,10.0,8,7,2021
+2021-05-21,NYM,MIA,New York Mets,Miami Marlins,7.5,7.0,6,5,2021
+2021-05-21,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.0,9.5,4,9,2021
+2021-05-21,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,8.0,8.0,1,20,2021
+2021-05-21,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.0,8.5,12,3,2021
+2021-05-21,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,11.5,1,7,2021
+2021-05-21,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,6.5,7.0,2,1,2021
+2021-05-21,CWS,NYY,Chicago White Sox,New York Yankees,8.5,8.0,1,2,2021
+2021-05-21,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,9.0,10,0,2021
+2021-05-21,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,9,7,2021
+2021-05-21,HOU,TEX,Houston Astros,Texas Rangers,8.5,9.0,5,7,2021
+2021-05-21,DET,KAN,Detroit Tigers,Kansas City Royals,8.5,8.5,7,5,2021
+2021-05-21,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,8,4,2021
+2021-05-21,BAL,WAS,Baltimore Orioles,Washington Nationals,8.0,8.5,2,4,2021
+2021-05-21,BOS,PHI,Boston Red Sox,Philadelphia Phillies,8.0,8.5,11,3,2021
+2021-05-21,SEA,SDG,Seattle Mariners,San Diego Padres,7.5,7.5,1,16,2021
+2021-05-22,ARI,COL,Arizona Diamondbacks,Colorado Rockies,10.5,11.0,6,7,2021
+2021-05-22,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,9.0,4,3,2021
+2021-05-22,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,9.5,9.5,1,6,2021
+2021-05-22,NYM,MIA,New York Mets,Miami Marlins,7.5,7.0,1,3,2021
+2021-05-22,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.0,7.5,6,3,2021
+2021-05-22,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,8.5,1,2,2021
+2021-05-22,CWS,NYY,Chicago White Sox,New York Yankees,7.0,8.0,0,7,2021
+2021-05-22,HOU,TEX,Houston Astros,Texas Rangers,8.5,9.0,4,8,2021
+2021-05-22,DET,KAN,Detroit Tigers,Kansas City Royals,8.0,8.5,5,7,2021
+2021-05-22,MIN,CLE,Minnesota Twins,Cleveland Guardians,7.0,7.5,3,5,2021
+2021-05-22,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,9.5,3,1,2021
+2021-05-22,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,6,2,2021
+2021-05-22,BAL,WAS,Baltimore Orioles,Washington Nationals,9.5,9.0,9,12,2021
+2021-05-22,BOS,PHI,Boston Red Sox,Philadelphia Phillies,9.0,9.0,4,3,2021
+2021-05-22,SEA,SDG,Seattle Mariners,San Diego Padres,8.0,7.5,4,6,2021
+2021-05-23,NYM,MIA,New York Mets,Miami Marlins,7.5,7.0,1,5,2021
+2021-05-23,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.0,9,4,2021
+2021-05-23,PIT,ATL,Pittsburgh Pirates,Atlanta Braves,8.5,8.0,1,7,2021
+2021-05-23,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.0,12.0,3,4,2021
+2021-05-23,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,7.5,11,5,2021
+2021-05-23,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,9.0,2,1,2021
+2021-05-23,CWS,NYY,Chicago White Sox,New York Yankees,9.0,9.5,4,5,2021
+2021-05-23,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,6,4,2021
+2021-05-23,MIN,CLE,Minnesota Twins,Cleveland Guardians,8.5,9.0,8,5,2021
+2021-05-23,DET,KAN,Detroit Tigers,Kansas City Royals,8.5,9.0,2,3,2021
+2021-05-23,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,2,3,2021
+2021-05-23,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,5,6,2021
+2021-05-23,BOS,PHI,Boston Red Sox,Philadelphia Phillies,8.0,7.5,2,6,2021
+2021-05-23,BAL,WAS,Baltimore Orioles,Washington Nationals,9.0,9.5,5,6,2021
+2021-05-23,SEA,SDG,Seattle Mariners,San Diego Padres,7.5,7.0,2,9,2021
+2021-05-24,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.0,7.0,6,9,2021
+2021-05-24,COL,NYM,Colorado Rockies,New York Mets,7.5,6.5,3,2,2021
+2021-05-24,SDG,MIL,San Diego Padres,Milwaukee Brewers,7.0,7.0,3,5,2021
+2021-05-24,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,10.5,10.5,14,8,2021
+2021-05-24,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,9.0,6,5,2021
+2021-05-24,BAL,MIN,Baltimore Orioles,Minnesota Twins,8.5,9.0,3,8,2021
+2021-05-24,SEA,OAK,Seattle Mariners,Oakland Athletics,8.0,7.5,4,2,2021
+2021-05-24,STL,CWS,St. Louis Cardinals,Chicago White Sox,8.0,8.5,1,5,2021
+2021-05-25,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,9.0,4,3,2021
+2021-05-25,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.0,7.0,2,0,2021
+2021-05-25,CIN,WAS,Cincinnati Reds,Washington Nationals,7.5,7.5,2,1,2021
+2021-05-25,COL,NYM,Colorado Rockies,New York Mets,6.5,6.0,1,3,2021
+2021-05-25,SDG,MIL,San Diego Padres,Milwaukee Brewers,7.0,7.0,7,1,2021
+2021-05-25,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,8,0,2021
+2021-05-25,TOR,NYY,Toronto Blue Jays,New York Yankees,9.0,9.0,6,2,2021
+2021-05-25,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,9.0,4,1,2021
+2021-05-25,KAN,TAM,Kansas City Royals,Tampa Bay Rays,8.5,8.5,2,1,2021
+2021-05-25,BAL,MIN,Baltimore Orioles,Minnesota Twins,9.0,9.5,4,7,2021
+2021-05-25,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,8.5,5,11,2021
+2021-05-25,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.5,4,3,2021
+2021-05-25,ATL,BOS,Atlanta Braves,Boston Red Sox,9.5,10.0,3,1,2021
+2021-05-25,LAD,HOU,Los Angeles Dodgers,Houston Astros,8.0,8.5,9,2,2021
+2021-05-25,STL,CWS,St. Louis Cardinals,Chicago White Sox,8.0,8.0,3,8,2021
+2021-05-26,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,8.5,4,1,2021
+2021-05-26,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.0,7.0,2,4,2021
+2021-05-26,SDG,MIL,San Diego Padres,Milwaukee Brewers,8.0,8.0,2,1,2021
+2021-05-26,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,9.0,5,4,2021
+2021-05-26,BAL,MIN,Baltimore Orioles,Minnesota Twins,9.5,8.5,2,3,2021
+2021-05-26,SEA,OAK,Seattle Mariners,Oakland Athletics,9.0,8.5,3,6,2021
+2021-05-26,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,9.0,8,9,2021
+2021-05-26,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,9.5,0,1,2021
+2021-05-26,KAN,TAM,Kansas City Royals,Tampa Bay Rays,7.5,7.0,1,2,2021
+2021-05-26,STL,CWS,St. Louis Cardinals,Chicago White Sox,8.5,8.5,4,0,2021
+2021-05-26,ATL,BOS,Atlanta Braves,Boston Red Sox,9.5,11.0,5,9,2021
+2021-05-26,LAD,HOU,Los Angeles Dodgers,Houston Astros,8.5,8.5,2,5,2021
+2021-05-27,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.0,7.0,3,2,2021
+2021-05-27,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.0,7.5,5,3,2021
+2021-05-27,SDG,MIL,San Diego Padres,Milwaukee Brewers,8.0,8.0,5,6,2021
+2021-05-27,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,9.5,9.5,5,4,2021
+2021-05-27,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.0,7.5,3,4,2021
+2021-05-27,CLE,DET,Cleveland Guardians,Detroit Tigers,7.0,7.0,5,2,2021
+2021-05-27,KAN,TAM,Kansas City Royals,Tampa Bay Rays,7.5,7.5,2,7,2021
+2021-05-27,BAL,CWS,Baltimore Orioles,Chicago White Sox,9.0,8.5,1,5,2021
+2021-05-27,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.0,8.0,0,5,2021
+2021-05-27,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,8.5,0,5,2021
+2021-05-27,TOR,NYY,Toronto Blue Jays,New York Yankees,7.0,7.0,2,0,2021
+2021-05-27,TOR,NYY,Toronto Blue Jays,New York Yankees,7.0,7.0,3,5,2021
+2021-05-27,COL,NYM,Colorado Rockies,New York Mets,5.0,5.0,0,1,2021
+2021-05-27,COL,NYM,Colorado Rockies,New York Mets,5.5,6.0,2,4,2021
+2021-05-27,CIN,WAS,Cincinnati Reds,Washington Nationals,6.0,6.5,3,0,2021
+2021-05-28,CIN,CUB,Cincinnati Reds,Chicago Cubs,6.5,6.5,0,1,2021
+2021-05-28,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,9.0,9.5,8,6,2021
+2021-05-28,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,7.5,8,5,2021
+2021-05-28,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,8.5,7.5,11,2,2021
+2021-05-28,NYY,DET,New York Yankees,Detroit Tigers,7.0,7.0,2,3,2021
+2021-05-28,KAN,MIN,Kansas City Royals,Minnesota Twins,8.5,9.0,8,3,2021
+2021-05-28,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.0,7.5,1,3,2021
+2021-05-28,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,8.5,2,3,2021
+2021-05-28,MIA,BOS,Miami Marlins,Boston Red Sox,9.0,8.5,2,5,2021
+2021-05-28,SDG,HOU,San Diego Padres,Houston Astros,8.5,8.0,10,3,2021
+2021-05-29,CIN,CUB,Cincinnati Reds,Chicago Cubs,6.5,7.0,2,10,2021
+2021-05-29,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,7.5,11,6,2021
+2021-05-29,ATL,NYM,Atlanta Braves,New York Mets,6.5,6.5,2,13,2021
+2021-05-29,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,10.0,10.0,7,4,2021
+2021-05-29,KAN,MIN,Kansas City Royals,Minnesota Twins,9.0,9.5,5,6,2021
+2021-05-29,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.5,8.0,4,0,2021
+2021-05-29,NYY,DET,New York Yankees,Detroit Tigers,8.5,8.5,1,6,2021
+2021-05-29,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.5,2,3,2021
+2021-05-29,PHI,TAM,Philadelphia Phillies,Tampa Bay Rays,7.0,7.0,3,5,2021
+2021-05-29,MIA,BOS,Miami Marlins,Boston Red Sox,8.5,7.5,1,3,2021
+2021-05-29,SDG,HOU,San Diego Padres,Houston Astros,8.0,8.0,11,8,2021
+2021-05-29,MIL,WAS,Milwaukee Brewers,Washington Nationals,6.0,5.5,4,1,2021
+2021-05-29,MIL,WAS,Milwaukee Brewers,Washington Nationals,6.5,6.5,6,2,2021
+2021-05-29,COL,PIT,Colorado Rockies,Pittsburgh Pirates,5.0,5.0,0,7,2021
+2021-05-29,COL,PIT,Colorado Rockies,Pittsburgh Pirates,6.0,5.5,0,4,2021
+2021-05-29,BAL,CWS,Baltimore Orioles,Chicago White Sox,6.5,6.5,4,7,2021
+2021-05-29,BAL,CWS,Baltimore Orioles,Chicago White Sox,5.5,5.5,1,3,2021
+2021-05-30,MIL,WAS,Milwaukee Brewers,Washington Nationals,6.5,6.0,3,0,2021
+2021-05-30,COL,PIT,Colorado Rockies,Pittsburgh Pirates,7.5,7.5,4,3,2021
+2021-05-30,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.5,8.0,5,1,2021
+2021-05-30,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,7.0,5,4,2021
+2021-05-30,STL,ARI,St. Louis Cardinals,Arizona Diamondbacks,10.0,9.0,2,9,2021
+2021-05-30,NYY,DET,New York Yankees,Detroit Tigers,9.0,9.0,2,6,2021
+2021-05-30,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,9.0,6,3,2021
+2021-05-30,BAL,CWS,Baltimore Orioles,Chicago White Sox,9.0,8.0,1,3,2021
+2021-05-30,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.0,4,2,2021
+2021-05-30,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.0,2,4,2021
+2021-05-30,PHI,TAM,Philadelphia Phillies,Tampa Bay Rays,8.0,7.5,2,6,2021
+2021-05-30,SDG,HOU,San Diego Padres,Houston Astros,8.5,8.5,4,7,2021
+2021-05-30,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,6.5,6.5,4,1,2021
+2021-05-30,TOR,CLE,Toronto Blue Jays,Cleveland Guardians,7.0,7.0,5,6,2021
+2021-05-31,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,8.5,8.5,1,11,2021
+2021-05-31,SDG,CUB,San Diego Padres,Chicago Cubs,10.0,10.0,2,7,2021
+2021-05-31,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,8.5,3,5,2021
+2021-05-31,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,6.5,7.0,4,9,2021
+2021-05-31,NYM,ARI,New York Mets,Arizona Diamondbacks,7.5,7.5,6,2,2021
+2021-05-31,MIN,BAL,Minnesota Twins,Baltimore Orioles,9.0,8.5,3,2,2021
+2021-05-31,TAM,NYY,Tampa Bay Rays,New York Yankees,9.0,8.5,3,1,2021
+2021-05-31,CWS,CLE,Chicago White Sox,Cleveland Guardians,6.0,5.5,8,6,2021
+2021-05-31,OAK,SEA,Oakland Athletics,Seattle Mariners,8.5,8.5,5,6,2021
+2021-05-31,BOS,HOU,Boston Red Sox,Houston Astros,8.5,9.0,2,11,2021
+2021-05-31,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.0,7.0,1,3,2021
+2021-05-31,DET,MIL,Detroit Tigers,Milwaukee Brewers,7.5,7.0,2,3,2021
+2021-05-31,LAA,SFO,Los Angeles Angels,San Francisco Giants,8.5,8.0,1,6,2021
+2021-05-31,PIT,KAN,Pittsburgh Pirates,Kansas City Royals,8.5,8.0,3,7,2021
+2021-06-01,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,7.0,7.5,17,3,2021
+2021-06-01,WAS,ATL,Washington Nationals,Atlanta Braves,8.0,8.5,11,6,2021
+2021-06-01,SDG,CUB,San Diego Padres,Chicago Cubs,8.0,8.5,3,4,2021
+2021-06-01,NYM,ARI,New York Mets,Arizona Diamondbacks,9.0,9.0,5,6,2021
+2021-06-01,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,8.0,8.5,3,2,2021
+2021-06-01,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.0,7.0,5,6,2021
+2021-06-01,MIN,BAL,Minnesota Twins,Baltimore Orioles,9.0,9.0,4,7,2021
+2021-06-01,TAM,NYY,Tampa Bay Rays,New York Yankees,7.5,7.5,3,5,2021
+2021-06-01,BOS,HOU,Boston Red Sox,Houston Astros,9.0,8.5,1,5,2021
+2021-06-01,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,7.5,12,6,2021
+2021-06-01,MIA,TOR,Miami Marlins,Toronto Blue Jays,8.5,8.5,1,5,2021
+2021-06-01,DET,MIL,Detroit Tigers,Milwaukee Brewers,8.0,7.5,10,7,2021
+2021-06-01,PIT,KAN,Pittsburgh Pirates,Kansas City Royals,8.0,8.5,5,10,2021
+2021-06-01,TEX,COL,Texas Rangers,Colorado Rockies,9.5,9.5,2,3,2021
+2021-06-01,LAA,SFO,Los Angeles Angels,San Francisco Giants,7.5,7.0,8,1,2021
+2021-06-02,SDG,CUB,San Diego Padres,Chicago Cubs,7.5,7.0,1,6,2021
+2021-06-02,NYM,ARI,New York Mets,Arizona Diamondbacks,8.5,8.5,7,6,2021
+2021-06-02,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,9.5,5,3,2021
+2021-06-02,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,8.0,8.0,3,14,2021
+2021-06-02,MIN,BAL,Minnesota Twins,Baltimore Orioles,9.5,9.5,3,6,2021
+2021-06-02,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.5,3,4,2021
+2021-06-02,BOS,HOU,Boston Red Sox,Houston Astros,9.0,9.0,1,2,2021
+2021-06-02,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,8.0,6,0,2021
+2021-06-02,MIA,TOR,Miami Marlins,Toronto Blue Jays,8.5,8.0,5,6,2021
+2021-06-02,TEX,COL,Texas Rangers,Colorado Rockies,10.5,11.0,3,6,2021
+2021-06-03,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,10.0,1,5,2021
+2021-06-03,MIA,PIT,Miami Marlins,Pittsburgh Pirates,8.0,7.5,3,5,2021
+2021-06-03,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,8.5,9.5,4,7,2021
+2021-06-03,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.5,4,2,2021
+2021-06-03,CUB,SFO,Chicago Cubs,San Francisco Giants,8.0,8.0,2,7,2021
+2021-06-03,NYM,SDG,New York Mets,San Diego Padres,7.0,6.5,3,4,2021
+2021-06-03,TAM,NYY,Tampa Bay Rays,New York Yankees,7.5,7.5,9,2,2021
+2021-06-03,BOS,HOU,Boston Red Sox,Houston Astros,9.0,9.0,5,1,2021
+2021-06-03,DET,CWS,Detroit Tigers,Chicago White Sox,8.0,8.0,1,4,2021
+2021-06-03,MIN,KAN,Minnesota Twins,Kansas City Royals,9.0,9.0,5,6,2021
+2021-06-03,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,9.0,6,2,2021
+2021-06-03,TEX,COL,Texas Rangers,Colorado Rockies,10.5,10.5,6,11,2021
+2021-06-04,WAS,PHI,Washington Nationals,Philadelphia Phillies,6.5,7.0,2,1,2021
+2021-06-04,MIA,PIT,Miami Marlins,Pittsburgh Pirates,7.5,8.0,2,9,2021
+2021-06-04,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,9.0,8.5,9,5,2021
+2021-06-04,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,8.0,8.0,1,5,2021
+2021-06-04,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.0,8.5,6,4,2021
+2021-06-04,CUB,SFO,Chicago Cubs,San Francisco Giants,8.0,8.5,5,8,2021
+2021-06-04,NYM,SDG,New York Mets,San Diego Padres,7.5,7.5,0,2,2021
+2021-06-04,BOS,NYY,Boston Red Sox,New York Yankees,10.0,9.0,5,2,2021
+2021-06-04,CLE,BAL,Cleveland Guardians,Baltimore Orioles,9.0,8.5,1,3,2021
+2021-06-04,HOU,TOR,Houston Astros,Toronto Blue Jays,8.5,8.5,13,1,2021
+2021-06-04,TAM,TEX,Tampa Bay Rays,Texas Rangers,8.0,8.0,4,5,2021
+2021-06-04,MIN,KAN,Minnesota Twins,Kansas City Royals,9.5,9.5,5,14,2021
+2021-06-04,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,8.5,8,9,2021
+2021-06-04,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,9.0,2,3,2021
+2021-06-04,OAK,COL,Oakland Athletics,Colorado Rockies,10.5,11.0,9,5,2021
+2021-06-05,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,9.0,5,2,2021
+2021-06-05,MIA,PIT,Miami Marlins,Pittsburgh Pirates,7.0,7.5,7,8,2021
+2021-06-05,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.0,10.0,2,5,2021
+2021-06-05,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,7.5,7.5,5,7,2021
+2021-06-05,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,8.5,8.0,4,6,2021
+2021-06-05,CUB,SFO,Chicago Cubs,San Francisco Giants,7.5,7.5,3,4,2021
+2021-06-05,NYM,SDG,New York Mets,San Diego Padres,6.0,5.5,4,0,2021
+2021-06-05,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,8.0,4,3,2021
+2021-06-05,HOU,TOR,Houston Astros,Toronto Blue Jays,9.5,10.0,2,6,2021
+2021-06-05,TAM,TEX,Tampa Bay Rays,Texas Rangers,8.5,8.0,3,0,2021
+2021-06-05,CLE,BAL,Cleveland Guardians,Baltimore Orioles,8.5,8.5,10,4,2021
+2021-06-05,MIN,KAN,Minnesota Twins,Kansas City Royals,8.5,8.5,5,4,2021
+2021-06-05,BOS,NYY,Boston Red Sox,New York Yankees,9.0,9.5,7,3,2021
+2021-06-05,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.0,8.0,5,12,2021
+2021-06-05,OAK,COL,Oakland Athletics,Colorado Rockies,11.5,12.0,6,3,2021
+2021-06-06,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.5,9.5,6,12,2021
+2021-06-06,MIA,PIT,Miami Marlins,Pittsburgh Pirates,8.0,8.0,3,1,2021
+2021-06-06,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,8.0,8.5,2,4,2021
+2021-06-06,ARI,MIL,Arizona Diamondbacks,Milwaukee Brewers,7.5,8.0,0,2,2021
+2021-06-06,CIN,STL,Cincinnati Reds,St. Louis Cardinals,9.0,8.5,8,7,2021
+2021-06-06,CUB,SFO,Chicago Cubs,San Francisco Giants,8.5,8.0,4,3,2021
+2021-06-06,NYM,SDG,New York Mets,San Diego Padres,8.0,7.0,6,2,2021
+2021-06-06,CLE,BAL,Cleveland Guardians,Baltimore Orioles,10.0,9.0,5,18,2021
+2021-06-06,HOU,TOR,Houston Astros,Toronto Blue Jays,10.0,9.5,6,3,2021
+2021-06-06,MIN,KAN,Minnesota Twins,Kansas City Royals,9.5,9.0,2,1,2021
+2021-06-06,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,9.0,0,3,2021
+2021-06-06,TAM,TEX,Tampa Bay Rays,Texas Rangers,8.0,8.0,7,1,2021
+2021-06-06,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,9.0,9,5,2021
+2021-06-06,BOS,NYY,Boston Red Sox,New York Yankees,9.0,9.5,6,5,2021
+2021-06-06,OAK,COL,Oakland Athletics,Colorado Rockies,11.5,11.0,1,3,2021
+2021-06-07,CUB,SDG,Chicago Cubs,San Diego Padres,7.5,8.0,4,9,2021
+2021-06-07,KAN,LAA,Kansas City Royals,Los Angeles Angels,8.5,9.0,3,8,2021
+2021-06-07,MIA,BOS,Miami Marlins,Boston Red Sox,8.5,10.0,3,5,2021
+2021-06-08,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,7.5,8.5,5,3,2021
+2021-06-08,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.5,9.0,9,5,2021
+2021-06-08,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.5,5,1,2021
+2021-06-08,COL,MIA,Colorado Rockies,Miami Marlins,7.5,7.0,2,6,2021
+2021-06-08,CUB,SDG,Chicago Cubs,San Diego Padres,7.5,8.0,7,1,2021
+2021-06-08,SEA,DET,Seattle Mariners,Detroit Tigers,8.5,8.5,3,5,2021
+2021-06-08,HOU,BOS,Houston Astros,Boston Red Sox,9.5,10.0,7,1,2021
+2021-06-08,TOR,CWS,Toronto Blue Jays,Chicago White Sox,8.5,8.0,1,6,2021
+2021-06-08,NYY,MIN,New York Yankees,Minnesota Twins,8.5,9.5,8,4,2021
+2021-06-08,KAN,LAA,Kansas City Royals,Los Angeles Angels,9.0,8.5,1,8,2021
+2021-06-08,NYM,BAL,New York Mets,Baltimore Orioles,9.5,9.5,3,10,2021
+2021-06-08,WAS,TAM,Washington Nationals,Tampa Bay Rays,7.5,7.5,1,3,2021
+2021-06-08,SFO,TEX,San Francisco Giants,Texas Rangers,8.5,8.5,9,4,2021
+2021-06-08,CLE,STL,Cleveland Guardians,St. Louis Cardinals,7.5,7.5,10,1,2021
+2021-06-08,ARI,OAK,Arizona Diamondbacks,Oakland Athletics,8.5,8.0,2,5,2021
+2021-06-09,CUB,SDG,Chicago Cubs,San Diego Padres,8.0,8.0,3,1,2021
+2021-06-09,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,9.0,1,2,2021
+2021-06-09,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,9.0,9.0,2,1,2021
+2021-06-09,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,9.5,10.0,3,7,2021
+2021-06-09,COL,MIA,Colorado Rockies,Miami Marlins,8.0,7.5,4,3,2021
+2021-06-09,HOU,BOS,Houston Astros,Boston Red Sox,10.0,10.0,8,3,2021
+2021-06-09,SEA,DET,Seattle Mariners,Detroit Tigers,8.5,9.0,9,6,2021
+2021-06-09,NYY,MIN,New York Yankees,Minnesota Twins,8.0,8.5,9,6,2021
+2021-06-09,TOR,CWS,Toronto Blue Jays,Chicago White Sox,8.5,8.0,6,2,2021
+2021-06-09,KAN,LAA,Kansas City Royals,Los Angeles Angels,9.0,9.0,1,6,2021
+2021-06-09,SFO,TEX,San Francisco Giants,Texas Rangers,8.0,7.5,3,4,2021
+2021-06-09,ARI,OAK,Arizona Diamondbacks,Oakland Athletics,8.5,8.5,0,4,2021
+2021-06-09,NYM,BAL,New York Mets,Baltimore Orioles,9.0,9.5,14,1,2021
+2021-06-09,WAS,TAM,Washington Nationals,Tampa Bay Rays,8.0,7.5,9,7,2021
+2021-06-09,CLE,STL,Cleveland Guardians,St. Louis Cardinals,8.5,8.0,2,8,2021
+2021-06-10,LAD,PIT,Los Angeles Dodgers,Pittsburgh Pirates,9.0,8.0,5,3,2021
+2021-06-10,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.5,8.0,7,2,2021
+2021-06-10,ATL,PHI,Atlanta Braves,Philadelphia Phillies,8.0,7.5,3,4,2021
+2021-06-10,COL,MIA,Colorado Rockies,Miami Marlins,7.5,7.5,4,11,2021
+2021-06-10,SEA,DET,Seattle Mariners,Detroit Tigers,9.0,9.5,3,8,2021
+2021-06-10,HOU,BOS,Houston Astros,Boston Red Sox,9.0,9.0,8,12,2021
+2021-06-10,TOR,CWS,Toronto Blue Jays,Chicago White Sox,8.0,9.0,2,5,2021
+2021-06-10,NYY,MIN,New York Yankees,Minnesota Twins,10.5,10.5,5,7,2021
+2021-06-10,KAN,OAK,Kansas City Royals,Oakland Athletics,8.5,8.0,6,1,2021
+2021-06-11,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.0,9.5,5,8,2021
+2021-06-11,SFO,WAS,San Francisco Giants,Washington Nationals,7.5,7.5,1,0,2021
+2021-06-11,ATL,MIA,Atlanta Braves,Miami Marlins,7.5,7.0,3,4,2021
+2021-06-11,SDG,NYM,San Diego Padres,New York Mets,5.5,6.0,2,3,2021
+2021-06-11,COL,CIN,Colorado Rockies,Cincinnati Reds,9.5,9.0,5,11,2021
+2021-06-11,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,7.5,7.5,4,7,2021
+2021-06-11,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.0,8.0,2,4,2021
+2021-06-11,CWS,DET,Chicago White Sox,Detroit Tigers,8.0,8.5,5,4,2021
+2021-06-11,SEA,CLE,Seattle Mariners,Cleveland Guardians,8.5,9.0,0,7,2021
+2021-06-11,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,9.5,5,6,2021
+2021-06-11,HOU,MIN,Houston Astros,Minnesota Twins,10.5,10.5,6,4,2021
+2021-06-11,KAN,OAK,Kansas City Royals,Oakland Athletics,8.5,8.5,3,4,2021
+2021-06-11,LAA,ARI,Los Angeles Angels,Arizona Diamondbacks,9.0,9.0,6,5,2021
+2021-06-11,TEX,LAD,Texas Rangers,Los Angeles Dodgers,8.0,8.0,1,12,2021
+2021-06-12,COL,CIN,Colorado Rockies,Cincinnati Reds,9.0,9.0,3,10,2021
+2021-06-12,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,7.5,7.5,4,7,2021
+2021-06-12,ATL,MIA,Atlanta Braves,Miami Marlins,7.5,7.5,2,4,2021
+2021-06-12,SDG,NYM,San Diego Padres,New York Mets,7.5,7.0,1,4,2021
+2021-06-12,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.0,8.5,2,7,2021
+2021-06-12,SFO,WAS,San Francisco Giants,Washington Nationals,6.5,7.0,2,1,2021
+2021-06-12,KAN,OAK,Kansas City Royals,Oakland Athletics,8.5,9.0,2,11,2021
+2021-06-12,CWS,DET,Chicago White Sox,Detroit Tigers,8.5,9.0,15,2,2021
+2021-06-12,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.0,9.5,7,2,2021
+2021-06-12,SEA,CLE,Seattle Mariners,Cleveland Guardians,9.0,8.0,4,5,2021
+2021-06-12,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,7.5,8.0,4,5,2021
+2021-06-12,HOU,MIN,Houston Astros,Minnesota Twins,9.5,9.0,2,5,2021
+2021-06-12,NYY,PHI,New York Yankees,Philadelphia Phillies,9.5,9.0,7,8,2021
+2021-06-12,LAA,ARI,Los Angeles Angels,Arizona Diamondbacks,9.0,9.0,8,7,2021
+2021-06-12,TEX,LAD,Texas Rangers,Los Angeles Dodgers,7.5,8.0,12,1,2021
+2021-06-12,SFO,WAS,San Francisco Giants,Washington Nationals,6.0,6.0,0,2,2021
+2021-06-13,SFO,WAS,San Francisco Giants,Washington Nationals,8.5,9.0,0,5,2021
+2021-06-13,SDG,NYM,San Diego Padres,New York Mets,8.0,8.0,7,3,2021
+2021-06-13,ATL,MIA,Atlanta Braves,Miami Marlins,7.5,7.5,6,4,2021
+2021-06-13,COL,CIN,Colorado Rockies,Cincinnati Reds,9.5,10.0,2,6,2021
+2021-06-13,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,8.5,2,5,2021
+2021-06-13,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.5,9.5,0,2,2021
+2021-06-13,SEA,CLE,Seattle Mariners,Cleveland Guardians,7.5,7.5,6,2,2021
+2021-06-13,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.5,10.5,18,4,2021
+2021-06-13,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.0,4,1,2021
+2021-06-13,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.0,8.0,1,7,2021
+2021-06-13,HOU,MIN,Houston Astros,Minnesota Twins,9.5,9.5,14,3,2021
+2021-06-13,KAN,OAK,Kansas City Royals,Oakland Athletics,8.5,8.5,3,6,2021
+2021-06-13,NYY,PHI,New York Yankees,Philadelphia Phillies,8.0,8.0,0,7,2021
+2021-06-13,TEX,LAD,Texas Rangers,Los Angeles Dodgers,8.0,8.0,3,5,2021
+2021-06-13,LAA,ARI,Los Angeles Angels,Arizona Diamondbacks,9.5,9.5,10,3,2021
+2021-06-14,PIT,WAS,Pittsburgh Pirates,Washington Nationals,8.5,8.5,2,3,2021
+2021-06-14,CUB,NYM,Chicago Cubs,New York Mets,9.0,9.0,2,5,2021
+2021-06-14,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.5,10,2,2021
+2021-06-14,MIA,STL,Miami Marlins,St. Louis Cardinals,8.5,8.5,2,4,2021
+2021-06-14,SDG,COL,San Diego Padres,Colorado Rockies,11.5,11.5,2,3,2021
+2021-06-14,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,8.0,2,5,2021
+2021-06-14,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,9.0,9.0,1,3,2021
+2021-06-14,BAL,CLE,Baltimore Orioles,Cleveland Guardians,9.0,8.5,3,4,2021
+2021-06-14,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.0,9.5,1,2,2021
+2021-06-14,TAM,CWS,Tampa Bay Rays,Chicago White Sox,7.5,7.0,5,2,2021
+2021-06-14,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,9.5,10,3,2021
+2021-06-14,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.5,8.0,5,8,2021
+2021-06-14,MIN,SEA,Minnesota Twins,Seattle Mariners,8.5,8.0,3,4,2021
+2021-06-15,PIT,WAS,Pittsburgh Pirates,Washington Nationals,8.0,8.5,1,8,2021
+2021-06-15,CUB,NYM,Chicago Cubs,New York Mets,8.5,8.5,2,3,2021
+2021-06-15,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.0,2,1,2021
+2021-06-15,MIA,STL,Miami Marlins,St. Louis Cardinals,7.5,7.5,1,2,2021
+2021-06-15,SDG,COL,San Diego Padres,Colorado Rockies,10.5,11.5,4,8,2021
+2021-06-15,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,7.5,8,9,2021
+2021-06-15,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,9.0,8.5,3,5,2021
+2021-06-15,NYY,TOR,New York Yankees,Toronto Blue Jays,8.5,9.5,6,5,2021
+2021-06-15,BAL,CLE,Baltimore Orioles,Cleveland Guardians,9.5,8.5,2,7,2021
+2021-06-15,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,8.5,4,3,2021
+2021-06-15,TEX,HOU,Texas Rangers,Houston Astros,8.5,8.5,3,6,2021
+2021-06-15,TAM,CWS,Tampa Bay Rays,Chicago White Sox,8.5,8.0,0,3,2021
+2021-06-15,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.5,8.0,4,6,2021
+2021-06-15,MIN,SEA,Minnesota Twins,Seattle Mariners,8.5,8.5,0,10,2021
+2021-06-15,BOS,ATL,Boston Red Sox,Atlanta Braves,9.0,9.5,10,8,2021
+2021-06-16,MIA,STL,Miami Marlins,St. Louis Cardinals,8.0,7.5,0,1,2021
+2021-06-16,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.0,7.5,2,1,2021
+2021-06-16,SDG,COL,San Diego Padres,Colorado Rockies,12.0,12.0,7,8,2021
+2021-06-16,PIT,WAS,Pittsburgh Pirates,Washington Nationals,9.0,9.0,1,3,2021
+2021-06-16,CUB,NYM,Chicago Cubs,New York Mets,6.5,6.5,3,6,2021
+2021-06-16,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,8.0,7,13,2021
+2021-06-16,PHI,LAD,Philadelphia Phillies,Los Angeles Dodgers,7.5,7.0,2,0,2021
+2021-06-16,TAM,CWS,Tampa Bay Rays,Chicago White Sox,8.0,7.5,7,8,2021
+2021-06-16,DET,KAN,Detroit Tigers,Kansas City Royals,9.0,9.0,6,5,2021
+2021-06-16,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,9.5,4,8,2021
+2021-06-16,NYY,TOR,New York Yankees,Toronto Blue Jays,8.5,8.5,3,2,2021
+2021-06-16,BAL,CLE,Baltimore Orioles,Cleveland Guardians,8.0,8.0,7,8,2021
+2021-06-16,TEX,HOU,Texas Rangers,Houston Astros,8.5,9.0,4,8,2021
+2021-06-16,MIN,SEA,Minnesota Twins,Seattle Mariners,8.5,8.5,7,2,2021
+2021-06-16,BOS,ATL,Boston Red Sox,Atlanta Braves,9.0,9.5,10,8,2021
+2021-06-17,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,7.0,3,10,2021
+2021-06-17,CUB,NYM,Chicago Cubs,New York Mets,7.5,7.5,2,0,2021
+2021-06-17,STL,ATL,St. Louis Cardinals,Atlanta Braves,9.0,9.5,0,4,2021
+2021-06-17,MIL,COL,Milwaukee Brewers,Colorado Rockies,10.0,10.5,3,7,2021
+2021-06-17,CIN,SDG,Cincinnati Reds,San Diego Padres,7.0,7.5,4,6,2021
+2021-06-17,BAL,CLE,Baltimore Orioles,Cleveland Guardians,9.0,9.5,3,10,2021
+2021-06-17,NYY,TOR,New York Yankees,Toronto Blue Jays,10.5,10.5,8,4,2021
+2021-06-17,CWS,HOU,Chicago White Sox,Houston Astros,9.0,9.0,2,10,2021
+2021-06-17,DET,LAA,Detroit Tigers,Los Angeles Angels,9.0,9.0,5,7,2021
+2021-06-17,TAM,SEA,Tampa Bay Rays,Seattle Mariners,8.5,8.5,5,6,2021
+2021-06-18,NYM,WAS,New York Mets,Washington Nationals,8.5,9.0,0,1,2021
+2021-06-18,STL,ATL,St. Louis Cardinals,Atlanta Braves,9.5,9.5,1,9,2021
+2021-06-18,MIA,CUB,Miami Marlins,Chicago Cubs,9.0,8.5,10,2,2021
+2021-06-18,MIL,COL,Milwaukee Brewers,Colorado Rockies,10.5,10.5,5,6,2021
+2021-06-18,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.5,3,0,2021
+2021-06-18,PHI,SFO,Philadelphia Phillies,San Francisco Giants,8.5,8.5,3,5,2021
+2021-06-18,CIN,SDG,Cincinnati Reds,San Diego Padres,8.0,9.0,2,8,2021
+2021-06-18,OAK,NYY,Oakland Athletics,New York Yankees,9.5,9.5,5,3,2021
+2021-06-18,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.0,10.5,1,7,2021
+2021-06-18,MIN,TEX,Minnesota Twins,Texas Rangers,8.5,8.5,7,5,2021
+2021-06-18,BOS,KAN,Boston Red Sox,Kansas City Royals,9.5,10.5,3,5,2021
+2021-06-18,CWS,HOU,Chicago White Sox,Houston Astros,8.5,7.5,1,2,2021
+2021-06-18,DET,LAA,Detroit Tigers,Los Angeles Angels,9.0,9.0,3,11,2021
+2021-06-18,TAM,SEA,Tampa Bay Rays,Seattle Mariners,7.5,7.5,1,5,2021
+2021-06-18,CLE,PIT,Cleveland Guardians,Pittsburgh Pirates,8.5,9.0,10,11,2021
+2021-06-19,NYM,WAS,New York Mets,Washington Nationals,7.0,6.5,5,1,2021
+2021-06-19,MIA,CUB,Miami Marlins,Chicago Cubs,8.5,9.0,11,1,2021
+2021-06-19,PHI,SFO,Philadelphia Phillies,San Francisco Giants,7.5,7.5,13,6,2021
+2021-06-19,NYM,WAS,New York Mets,Washington Nationals,7.0,7.0,2,6,2021
+2021-06-19,CIN,SDG,Cincinnati Reds,San Diego Padres,8.5,9.0,5,7,2021
+2021-06-19,MIL,COL,Milwaukee Brewers,Colorado Rockies,10.5,10.5,6,5,2021
+2021-06-19,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.0,9,3,2021
+2021-06-19,OAK,NYY,Oakland Athletics,New York Yankees,9.0,9.5,5,7,2021
+2021-06-19,MIN,TEX,Minnesota Twins,Texas Rangers,9.0,9.0,3,2,2021
+2021-06-19,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.0,10.0,10,7,2021
+2021-06-19,BOS,KAN,Boston Red Sox,Kansas City Royals,10.5,11.0,7,1,2021
+2021-06-19,CWS,HOU,Chicago White Sox,Houston Astros,8.0,7.5,3,7,2021
+2021-06-19,DET,LAA,Detroit Tigers,Los Angeles Angels,9.5,9.5,3,8,2021
+2021-06-19,TAM,SEA,Tampa Bay Rays,Seattle Mariners,8.0,7.5,5,6,2021
+2021-06-19,CLE,PIT,Cleveland Guardians,Pittsburgh Pirates,9.0,8.5,3,6,2021
+2021-06-20,NYM,WAS,New York Mets,Washington Nationals,8.0,8.5,2,5,2021
+2021-06-20,MIA,CUB,Miami Marlins,Chicago Cubs,9.5,9.5,0,2,2021
+2021-06-20,MIL,COL,Milwaukee Brewers,Colorado Rockies,11.5,12.0,7,6,2021
+2021-06-20,PHI,SFO,Philadelphia Phillies,San Francisco Giants,8.5,8.0,2,11,2021
+2021-06-20,CIN,SDG,Cincinnati Reds,San Diego Padres,8.5,8.0,2,3,2021
+2021-06-20,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,9.0,9,8,2021
+2021-06-20,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,10.5,7,4,2021
+2021-06-20,OAK,NYY,Oakland Athletics,New York Yankees,9.5,10.0,1,2,2021
+2021-06-20,BOS,KAN,Boston Red Sox,Kansas City Royals,10.0,9.5,3,7,2021
+2021-06-20,CWS,HOU,Chicago White Sox,Houston Astros,8.5,8.5,2,8,2021
+2021-06-20,MIN,TEX,Minnesota Twins,Texas Rangers,8.5,8.0,4,2,2021
+2021-06-20,DET,LAA,Detroit Tigers,Los Angeles Angels,9.0,9.5,5,3,2021
+2021-06-20,TAM,SEA,Tampa Bay Rays,Seattle Mariners,8.5,8.5,2,6,2021
+2021-06-20,CLE,PIT,Cleveland Guardians,Pittsburgh Pirates,9.0,8.0,2,1,2021
+2021-06-20,STL,ATL,St. Louis Cardinals,Atlanta Braves,7.5,7.5,9,1,2021
+2021-06-20,STL,ATL,St. Louis Cardinals,Atlanta Braves,7.5,7.5,0,1,2021
+2021-06-21,ATL,NYM,Atlanta Braves,New York Mets,,5.0,2,4,2021
+2021-06-21,ATL,NYM,Atlanta Braves,New York Mets,6.0,6.5,1,0,2021
+2021-06-21,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,9.5,9.5,1,5,2021
+2021-06-21,LAD,SDG,Los Angeles Dodgers,San Diego Padres,6.5,7.0,2,6,2021
+2021-06-21,HOU,BAL,Houston Astros,Baltimore Orioles,10.0,10.5,10,2,2021
+2021-06-21,OAK,TEX,Oakland Athletics,Texas Rangers,8.5,8.0,3,8,2021
+2021-06-21,CLE,CUB,Cleveland Guardians,Chicago Cubs,7.0,7.0,4,0,2021
+2021-06-21,CIN,MIN,Cincinnati Reds,Minnesota Twins,9.5,9.5,5,7,2021
+2021-06-22,WAS,PHI,Washington Nationals,Philadelphia Phillies,7.0,6.5,3,2,2021
+2021-06-22,ATL,NYM,Atlanta Braves,New York Mets,7.0,7.0,3,0,2021
+2021-06-22,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,8.5,8.0,5,0,2021
+2021-06-22,LAD,SDG,Los Angeles Dodgers,San Diego Padres,7.5,7.5,2,3,2021
+2021-06-22,KAN,NYY,Kansas City Royals,New York Yankees,8.0,7.5,6,5,2021
+2021-06-22,HOU,BAL,Houston Astros,Baltimore Orioles,10.5,9.0,3,1,2021
+2021-06-22,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,8.0,9,5,2021
+2021-06-22,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,9.0,13,6,2021
+2021-06-22,CIN,MIN,Cincinnati Reds,Minnesota Twins,9.5,9.0,10,7,2021
+2021-06-22,CWS,PIT,Chicago White Sox,Pittsburgh Pirates,7.5,7.5,3,6,2021
+2021-06-22,TOR,MIA,Toronto Blue Jays,Miami Marlins,7.5,7.5,2,1,2021
+2021-06-22,STL,DET,St. Louis Cardinals,Detroit Tigers,9.0,8.5,2,8,2021
+2021-06-22,CLE,CUB,Cleveland Guardians,Chicago Cubs,9.0,8.5,1,7,2021
+2021-06-22,SFO,LAA,San Francisco Giants,Los Angeles Angels,8.5,9.0,5,0,2021
+2021-06-22,COL,SEA,Colorado Rockies,Seattle Mariners,8.0,8.5,1,2,2021
+2021-06-23,WAS,PHI,Washington Nationals,Philadelphia Phillies,8.5,9.0,13,12,2021
+2021-06-23,MIL,ARI,Milwaukee Brewers,Arizona Diamondbacks,8.0,7.5,3,2,2021
+2021-06-23,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.5,3,7,2021
+2021-06-23,LAD,SDG,Los Angeles Dodgers,San Diego Padres,7.5,7.5,3,5,2021
+2021-06-23,HOU,BAL,Houston Astros,Baltimore Orioles,10.5,9.5,13,0,2021
+2021-06-23,KAN,NYY,Kansas City Royals,New York Yankees,9.5,10.0,5,6,2021
+2021-06-23,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,9.0,2,8,2021
+2021-06-23,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,9.0,3,5,2021
+2021-06-23,CWS,PIT,Chicago White Sox,Pittsburgh Pirates,8.5,8.5,4,3,2021
+2021-06-23,STL,DET,St. Louis Cardinals,Detroit Tigers,9.0,9.0,2,6,2021
+2021-06-23,SFO,LAA,San Francisco Giants,Los Angeles Angels,8.0,8.0,9,3,2021
+2021-06-23,COL,SEA,Colorado Rockies,Seattle Mariners,8.5,8.5,5,2,2021
+2021-06-23,TOR,MIA,Toronto Blue Jays,Miami Marlins,7.5,7.5,3,1,2021
+2021-06-24,WAS,MIA,Washington Nationals,Miami Marlins,8.0,8.5,7,3,2021
+2021-06-24,ATL,CIN,Atlanta Braves,Cincinnati Reds,10.5,11.0,3,5,2021
+2021-06-24,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,9.0,8,2,2021
+2021-06-24,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,7.5,8.5,4,0,2021
+2021-06-24,KAN,NYY,Kansas City Royals,New York Yankees,10.0,9.0,1,8,2021
+2021-06-24,OAK,TEX,Oakland Athletics,Texas Rangers,8.5,8.0,5,1,2021
+2021-06-24,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,11.0,10.5,0,9,2021
+2021-06-24,HOU,DET,Houston Astros,Detroit Tigers,9.5,9.5,12,3,2021
+2021-06-24,BOS,TAM,Boston Red Sox,Tampa Bay Rays,9.0,9.0,0,1,2021
+2021-06-24,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,9.0,4,1,2021
+2021-06-25,COL,MIL,Colorado Rockies,Milwaukee Brewers,7.5,7.5,4,5,2021
+2021-06-25,PHI,NYM,Philadelphia Phillies,New York Mets,6.0,5.5,1,2,2021
+2021-06-25,PHI,NYM,Philadelphia Phillies,New York Mets,6.5,7.0,2,1,2021
+2021-06-25,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.5,2,11,2021
+2021-06-25,ATL,CIN,Atlanta Braves,Cincinnati Reds,10.0,10.5,3,2,2021
+2021-06-25,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,9.0,5,4,2021
+2021-06-25,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,5,11,2021
+2021-06-25,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,9.0,9.0,2,6,2021
+2021-06-25,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,11.0,10.5,6,5,2021
+2021-06-25,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.5,8.0,3,4,2021
+2021-06-25,NYY,BOS,New York Yankees,Boston Red Sox,10.5,10.5,3,5,2021
+2021-06-25,KAN,TEX,Kansas City Royals,Texas Rangers,8.0,8.0,4,9,2021
+2021-06-25,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.5,9.5,7,8,2021
+2021-06-25,SEA,CWS,Seattle Mariners,Chicago White Sox,8.0,7.5,9,3,2021
+2021-06-25,OAK,SFO,Oakland Athletics,San Francisco Giants,8.5,7.5,0,2,2021
+2021-06-26,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.0,1,3,2021
+2021-06-26,COL,MIL,Colorado Rockies,Milwaukee Brewers,8.5,8.0,4,10,2021
+2021-06-26,WAS,MIA,Washington Nationals,Miami Marlins,8.0,7.5,2,3,2021
+2021-06-26,ATL,CIN,Atlanta Braves,Cincinnati Reds,9.0,9.0,1,4,2021
+2021-06-26,PHI,NYM,Philadelphia Phillies,New York Mets,6.0,6.5,3,4,2021
+2021-06-26,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,9.0,9.0,2,3,2021
+2021-06-26,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.0,8.0,10,1,2021
+2021-06-26,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.0,10.0,4,12,2021
+2021-06-26,KAN,TEX,Kansas City Royals,Texas Rangers,8.0,8.0,0,8,2021
+2021-06-26,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.5,7.5,3,13,2021
+2021-06-26,NYY,BOS,New York Yankees,Boston Red Sox,10.0,10.0,2,4,2021
+2021-06-26,OAK,SFO,Oakland Athletics,San Francisco Giants,8.0,8.0,5,6,2021
+2021-06-26,HOU,DET,Houston Astros,Detroit Tigers,7.5,7.0,1,3,2021
+2021-06-26,HOU,DET,Houston Astros,Detroit Tigers,8.0,7.5,3,2,2021
+2021-06-27,ATL,CIN,Atlanta Braves,Cincinnati Reds,9.5,9.5,4,0,2021
+2021-06-27,PHI,NYM,Philadelphia Phillies,New York Mets,7.5,7.0,4,2,2021
+2021-06-27,WAS,MIA,Washington Nationals,Miami Marlins,6.5,6.5,5,1,2021
+2021-06-27,COL,MIL,Colorado Rockies,Milwaukee Brewers,9.0,9.0,0,5,2021
+2021-06-27,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,9.0,7,2,2021
+2021-06-27,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,7.5,4,5,2021
+2021-06-27,CUB,LAD,Chicago Cubs,Los Angeles Dodgers,8.0,8.0,1,7,2021
+2021-06-27,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,11.0,10.0,2,5,2021
+2021-06-27,HOU,DET,Houston Astros,Detroit Tigers,10.0,9.0,1,2,2021
+2021-06-27,LAA,TAM,Los Angeles Angels,Tampa Bay Rays,8.0,8.0,6,4,2021
+2021-06-27,NYY,BOS,New York Yankees,Boston Red Sox,8.5,9.5,2,9,2021
+2021-06-27,CLE,MIN,Cleveland Guardians,Minnesota Twins,10.0,9.5,2,8,2021
+2021-06-27,KAN,TEX,Kansas City Royals,Texas Rangers,9.0,9.0,1,4,2021
+2021-06-27,OAK,SFO,Oakland Athletics,San Francisco Giants,8.5,8.5,6,2,2021
+2021-06-27,SEA,CWS,Seattle Mariners,Chicago White Sox,7.0,7.0,5,7,2021
+2021-06-28,PIT,COL,Pittsburgh Pirates,Colorado Rockies,11.0,11.5,0,2,2021
+2021-06-28,PHI,CIN,Philadelphia Phillies,Cincinnati Reds,9.5,9.5,4,12,2021
+2021-06-28,NYM,WAS,New York Mets,Washington Nationals,9.0,9.5,4,8,2021
+2021-06-28,CUB,MIL,Chicago Cubs,Milwaukee Brewers,7.0,7.5,4,14,2021
+2021-06-28,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,9.5,8.5,1,7,2021
+2021-06-28,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,8.5,2,3,2021
+2021-06-28,LAA,NYY,Los Angeles Angels,New York Yankees,9.5,10.5,5,3,2021
+2021-06-28,DET,CLE,Detroit Tigers,Cleveland Guardians,9.5,9.5,5,13,2021
+2021-06-28,KAN,BOS,Kansas City Royals,Boston Red Sox,10.0,11.0,5,6,2021
+2021-06-28,BAL,HOU,Baltimore Orioles,Houston Astros,9.5,9.5,9,7,2021
+2021-06-29,MIA,PHI,Miami Marlins,Philadelphia Phillies,7.5,9.0,3,4,2021
+2021-06-29,SDG,CIN,San Diego Padres,Cincinnati Reds,9.5,10.5,5,4,2021
+2021-06-29,NYM,ATL,New York Mets,Atlanta Braves,8.5,9.0,4,3,2021
+2021-06-29,CUB,MIL,Chicago Cubs,Milwaukee Brewers,7.0,7.5,1,2,2021
+2021-06-29,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,8.5,9.0,2,3,2021
+2021-06-29,PIT,COL,Pittsburgh Pirates,Colorado Rockies,10.5,10.5,0,8,2021
+2021-06-29,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.0,7.5,1,3,2021
+2021-06-29,LAA,NYY,Los Angeles Angels,New York Yankees,10.0,10.0,5,11,2021
+2021-06-29,SEA,TOR,Seattle Mariners,Toronto Blue Jays,10.0,9.5,3,9,2021
+2021-06-29,KAN,BOS,Kansas City Royals,Boston Red Sox,10.5,10.5,6,7,2021
+2021-06-29,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,8.5,6,7,2021
+2021-06-29,BAL,HOU,Baltimore Orioles,Houston Astros,10.0,9.0,13,3,2021
+2021-06-29,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,8.5,5,4,2021
+2021-06-29,TAM,WAS,Tampa Bay Rays,Washington Nationals,9.0,9.5,3,4,2021
+2021-06-30,ARI,STL,Arizona Diamondbacks,St. Louis Cardinals,9.0,8.5,4,7,2021
+2021-06-30,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.5,8.5,7,15,2021
+2021-06-30,PIT,COL,Pittsburgh Pirates,Colorado Rockies,11.5,11.0,2,6,2021
+2021-06-30,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.5,8.5,11,6,2021
+2021-06-30,SDG,CIN,San Diego Padres,Cincinnati Reds,10.0,10.0,7,5,2021
+2021-06-30,NYM,ATL,New York Mets,Atlanta Braves,8.5,9.0,2,20,2021
+2021-06-30,LAA,NYY,Los Angeles Angels,New York Yankees,9.5,10.0,11,8,2021
+2021-06-30,SEA,TOR,Seattle Mariners,Toronto Blue Jays,10.5,10.5,9,7,2021
+2021-06-30,KAN,BOS,Kansas City Royals,Boston Red Sox,10.5,11.0,2,6,2021
+2021-06-30,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,9.0,3,13,2021
+2021-06-30,BAL,HOU,Baltimore Orioles,Houston Astros,10.0,9.0,5,2,2021
+2021-06-30,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,8.0,1,3,2021
+2021-06-30,TAM,WAS,Tampa Bay Rays,Washington Nationals,10.0,9.5,6,15,2021
+2021-06-30,DET,CLE,Detroit Tigers,Cleveland Guardians,8.0,7.5,9,4,2021
+2021-06-30,DET,CLE,Detroit Tigers,Cleveland Guardians,8.0,8.0,7,1,2021
+2021-07-01,LAD,WAS,Los Angeles Dodgers,Washington Nationals,9.5,9.5,6,2,2021
+2021-07-01,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,8.0,7,2,2021
+2021-07-01,SDG,CIN,San Diego Padres,Cincinnati Reds,10.0,9.5,4,5,2021
+2021-07-01,NYM,ATL,New York Mets,Atlanta Braves,6.0,7.0,3,4,2021
+2021-07-01,STL,COL,St. Louis Cardinals,Colorado Rockies,11.5,11.0,2,5,2021
+2021-07-01,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,3,5,2021
+2021-07-01,SEA,TOR,Seattle Mariners,Toronto Blue Jays,9.5,10.0,7,2,2021
+2021-07-01,KAN,BOS,Kansas City Royals,Boston Red Sox,10.5,10.0,1,15,2021
+2021-07-01,MIN,CWS,Minnesota Twins,Chicago White Sox,8.0,8.5,5,8,2021
+2021-07-01,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,8.0,8,3,2021
+2021-07-01,HOU,CLE,Houston Astros,Cleveland Guardians,9.0,8.5,7,2,2021
+2021-07-02,SDG,PHI,San Diego Padres,Philadelphia Phillies,8.0,8.5,3,4,2021
+2021-07-02,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,7.5,7,2,2021
+2021-07-02,LAD,WAS,Los Angeles Dodgers,Washington Nationals,7.5,8.0,10,5,2021
+2021-07-02,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,1,2,2021
+2021-07-02,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,9.0,0,1,2021
+2021-07-02,STL,COL,St. Louis Cardinals,Colorado Rockies,12.0,13.0,9,3,2021
+2021-07-02,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,8.5,11,4,2021
+2021-07-02,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,10.0,1,11,2021
+2021-07-02,HOU,CLE,Houston Astros,Cleveland Guardians,9.5,9.0,6,3,2021
+2021-07-02,CWS,DET,Chicago White Sox,Detroit Tigers,8.0,8.5,8,2,2021
+2021-07-02,MIN,KAN,Minnesota Twins,Kansas City Royals,10.5,10.0,4,7,2021
+2021-07-02,BAL,LAA,Baltimore Orioles,Los Angeles Angels,9.5,10.0,7,8,2021
+2021-07-02,BOS,OAK,Boston Red Sox,Oakland Athletics,8.5,8.5,3,2,2021
+2021-07-02,TEX,SEA,Texas Rangers,Seattle Mariners,8.0,8.0,4,5,2021
+2021-07-03,SDG,PHI,San Diego Padres,Philadelphia Phillies,8.0,8.0,2,4,2021
+2021-07-03,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,9.5,11,2,2021
+2021-07-03,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,2,3,2021
+2021-07-03,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,9.0,3,2,2021
+2021-07-03,LAD,WAS,Los Angeles Dodgers,Washington Nationals,8.5,8.5,5,3,2021
+2021-07-03,STL,COL,St. Louis Cardinals,Colorado Rockies,12.0,12.0,2,3,2021
+2021-07-03,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.5,9.5,6,5,2021
+2021-07-03,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,10.5,10.0,3,6,2021
+2021-07-03,MIN,KAN,Minnesota Twins,Kansas City Royals,10.0,10.0,3,6,2021
+2021-07-03,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.0,5,11,2021
+2021-07-03,HOU,CLE,Houston Astros,Cleveland Guardians,9.5,9.5,3,2,2021
+2021-07-03,BOS,OAK,Boston Red Sox,Oakland Athletics,9.0,9.5,6,7,2021
+2021-07-03,BAL,LAA,Baltimore Orioles,Los Angeles Angels,10.0,9.5,1,4,2021
+2021-07-03,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,9.0,7,3,2021
+2021-07-03,NYM,NYY,New York Mets,New York Yankees,8.0,8.5,8,3,2021
+2021-07-04,LAD,WAS,Los Angeles Dodgers,Washington Nationals,9.5,9.0,5,1,2021
+2021-07-04,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,7.5,0,2,2021
+2021-07-04,SDG,PHI,San Diego Padres,Philadelphia Phillies,9.0,9.0,11,1,2021
+2021-07-04,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,2,3,2021
+2021-07-04,MIA,ATL,Miami Marlins,Atlanta Braves,9.0,8.5,7,8,2021
+2021-07-04,STL,COL,St. Louis Cardinals,Colorado Rockies,11.0,11.0,2,3,2021
+2021-07-04,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.0,5,2,2021
+2021-07-04,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,10.0,5,1,2021
+2021-07-04,HOU,CLE,Houston Astros,Cleveland Guardians,9.0,9.0,4,3,2021
+2021-07-04,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,9.5,5,6,2021
+2021-07-04,MIN,KAN,Minnesota Twins,Kansas City Royals,10.0,10.0,6,2,2021
+2021-07-04,BOS,OAK,Boston Red Sox,Oakland Athletics,9.0,9.0,1,0,2021
+2021-07-04,BAL,LAA,Baltimore Orioles,Los Angeles Angels,10.0,10.5,5,6,2021
+2021-07-04,TEX,SEA,Texas Rangers,Seattle Mariners,9.0,9.0,1,4,2021
+2021-07-04,NYM,NYY,New York Mets,New York Yankees,7.0,7.0,2,4,2021
+2021-07-04,NYM,NYY,New York Mets,New York Yankees,6.0,6.0,10,5,2021
+2021-07-05,STL,SFO,St. Louis Cardinals,San Francisco Giants,7.0,7.5,5,3,2021
+2021-07-05,LAD,MIA,Los Angeles Dodgers,Miami Marlins,7.0,6.5,4,5,2021
+2021-07-05,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,8.5,9.0,1,11,2021
+2021-07-05,MIL,NYM,Milwaukee Brewers,New York Mets,7.5,7.5,2,4,2021
+2021-07-05,PHI,CUB,Philadelphia Phillies,Chicago Cubs,10.5,11.0,13,3,2021
+2021-07-05,WAS,SDG,Washington Nationals,San Diego Padres,8.0,8.5,7,5,2021
+2021-07-05,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,10.0,5,8,2021
+2021-07-05,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,8.5,8.5,8,9,2021
+2021-07-05,DET,TEX,Detroit Tigers,Texas Rangers,9.0,9.0,7,3,2021
+2021-07-05,BOS,LAA,Boston Red Sox,Los Angeles Angels,10.0,10.0,5,4,2021
+2021-07-05,CIN,KAN,Cincinnati Reds,Kansas City Royals,10.0,10.5,6,2,2021
+2021-07-06,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,8.5,9.0,1,2,2021
+2021-07-06,LAD,MIA,Los Angeles Dodgers,Miami Marlins,7.5,8.0,1,2,2021
+2021-07-06,PHI,CUB,Philadelphia Phillies,Chicago Cubs,9.5,10.0,15,10,2021
+2021-07-06,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,8.5,3,4,2021
+2021-07-06,STL,SFO,St. Louis Cardinals,San Francisco Giants,8.0,8.0,6,5,2021
+2021-07-06,WAS,SDG,Washington Nationals,San Diego Padres,9.0,9.0,4,7,2021
+2021-07-06,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,11.0,11.0,5,7,2021
+2021-07-06,DET,TEX,Detroit Tigers,Texas Rangers,9.0,9.0,5,10,2021
+2021-07-06,CWS,MIN,Chicago White Sox,Minnesota Twins,9.0,8.0,4,1,2021
+2021-07-06,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,6,9,2021
+2021-07-06,BOS,LAA,Boston Red Sox,Los Angeles Angels,9.5,8.5,3,5,2021
+2021-07-06,NYY,SEA,New York Yankees,Seattle Mariners,9.0,9.5,12,1,2021
+2021-07-06,CIN,KAN,Cincinnati Reds,Kansas City Royals,9.5,9.5,6,7,2021
+2021-07-07,ATL,PIT,Atlanta Braves,Pittsburgh Pirates,9.0,9.5,14,3,2021
+2021-07-07,LAD,MIA,Los Angeles Dodgers,Miami Marlins,9.0,9.0,6,9,2021
+2021-07-07,PHI,CUB,Philadelphia Phillies,Chicago Cubs,7.5,7.5,3,8,2021
+2021-07-07,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.5,9.5,4,6,2021
+2021-07-07,STL,SFO,St. Louis Cardinals,San Francisco Giants,8.5,9.0,2,5,2021
+2021-07-07,WAS,SDG,Washington Nationals,San Diego Padres,8.5,8.0,15,5,2021
+2021-07-07,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,7.0,7.0,1,8,2021
+2021-07-07,CWS,MIN,Chicago White Sox,Minnesota Twins,8.5,8.5,6,1,2021
+2021-07-07,DET,TEX,Detroit Tigers,Texas Rangers,8.0,8.0,5,3,2021
+2021-07-07,BOS,LAA,Boston Red Sox,Los Angeles Angels,9.0,9.5,4,5,2021
+2021-07-07,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.5,11.0,10,2,2021
+2021-07-07,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.5,3,4,2021
+2021-07-07,NYY,SEA,New York Yankees,Seattle Mariners,8.5,8.5,5,4,2021
+2021-07-07,CIN,KAN,Cincinnati Reds,Kansas City Royals,9.5,9.5,5,2,2021
+2021-07-07,CLE,TAM,Cleveland Guardians,Tampa Bay Rays,7.0,6.5,0,4,2021
+2021-07-07,MIL,NYM,Milwaukee Brewers,New York Mets,,,3,4,2021
+2021-07-07,MIL,NYM,Milwaukee Brewers,New York Mets,7.0,7.0,5,0,2021
+2021-07-08,LAD,MIA,Los Angeles Dodgers,Miami Marlins,7.5,7.0,6,1,2021
+2021-07-08,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,9.5,9,3,2021
+2021-07-08,PHI,CUB,Philadelphia Phillies,Chicago Cubs,8.0,7.5,8,0,2021
+2021-07-08,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,8.5,3,5,2021
+2021-07-08,WAS,SDG,Washington Nationals,San Diego Padres,6.5,7.0,8,9,2021
+2021-07-08,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.0,2,1,2021
+2021-07-08,NYY,SEA,New York Yankees,Seattle Mariners,9.0,8.5,0,4,2021
+2021-07-08,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.5,9.5,4,7,2021
+2021-07-08,DET,MIN,Detroit Tigers,Minnesota Twins,10.0,9.5,3,5,2021
+2021-07-09,STL,CUB,St. Louis Cardinals,Chicago Cubs,8.0,7.5,5,10,2021
+2021-07-09,ATL,MIA,Atlanta Braves,Miami Marlins,7.5,8.0,5,0,2021
+2021-07-09,PIT,NYM,Pittsburgh Pirates,New York Mets,7.5,7.5,4,13,2021
+2021-07-09,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.5,9.0,2,0,2021
+2021-07-09,WAS,SFO,Washington Nationals,San Francisco Giants,9.0,8.5,3,5,2021
+2021-07-09,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,8.5,5,2,2021
+2021-07-09,COL,SDG,Colorado Rockies,San Diego Padres,8.5,9.0,2,4,2021
+2021-07-09,CWS,BAL,Chicago White Sox,Baltimore Orioles,10.5,10.0,12,1,2021
+2021-07-09,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,9.0,8.5,1,7,2021
+2021-07-09,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.5,9.5,1,2,2021
+2021-07-09,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,9.0,2,3,2021
+2021-07-09,NYY,HOU,New York Yankees,Houston Astros,9.5,9.0,4,0,2021
+2021-07-09,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.5,2,4,2021
+2021-07-09,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.0,9.0,3,7,2021
+2021-07-09,PHI,BOS,Philadelphia Phillies,Boston Red Sox,10.5,11.5,5,11,2021
+2021-07-10,WAS,SFO,Washington Nationals,San Francisco Giants,9.0,8.5,4,10,2021
+2021-07-10,PIT,NYM,Pittsburgh Pirates,New York Mets,5.5,6.0,6,2,2021
+2021-07-10,ATL,MIA,Atlanta Braves,Miami Marlins,7.0,7.0,5,4,2021
+2021-07-10,STL,CUB,St. Louis Cardinals,Chicago Cubs,7.0,8.0,6,0,2021
+2021-07-10,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,8.0,8.5,4,3,2021
+2021-07-10,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,7.5,8.0,1,22,2021
+2021-07-10,COL,SDG,Colorado Rockies,San Diego Padres,7.5,7.5,3,0,2021
+2021-07-10,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,9.0,2,5,2021
+2021-07-10,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.5,4,9,2021
+2021-07-10,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,9.0,8,4,2021
+2021-07-10,CWS,BAL,Chicago White Sox,Baltimore Orioles,10.0,10.5,8,3,2021
+2021-07-10,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.0,6,14,2021
+2021-07-10,NYY,HOU,New York Yankees,Houston Astros,8.5,8.0,1,0,2021
+2021-07-10,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.5,8.0,0,2,2021
+2021-07-10,PHI,BOS,Philadelphia Phillies,Boston Red Sox,11.0,11.0,11,2,2021
+2021-07-10,PIT,NYM,Pittsburgh Pirates,New York Mets,7.0,6.5,2,4,2021
+2021-07-11,ATL,MIA,Atlanta Braves,Miami Marlins,7.0,6.5,4,7,2021
+2021-07-11,PIT,NYM,Pittsburgh Pirates,New York Mets,8.5,9.0,6,5,2021
+2021-07-11,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,7.0,7.5,3,1,2021
+2021-07-11,WAS,SFO,Washington Nationals,San Francisco Giants,8.0,8.0,1,3,2021
+2021-07-11,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,9.0,4,7,2021
+2021-07-11,COL,SDG,Colorado Rockies,San Diego Padres,9.0,8.5,3,1,2021
+2021-07-11,CWS,BAL,Chicago White Sox,Baltimore Orioles,11.0,10.0,7,5,2021
+2021-07-11,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.5,3,1,2021
+2021-07-11,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,9.0,9,12,2021
+2021-07-11,NYY,HOU,New York Yankees,Houston Astros,9.0,8.5,7,8,2021
+2021-07-11,OAK,TEX,Oakland Athletics,Texas Rangers,8.5,8.0,4,1,2021
+2021-07-11,LAA,SEA,Los Angeles Angels,Seattle Mariners,9.0,9.0,7,1,2021
+2021-07-11,PHI,BOS,Philadelphia Phillies,Boston Red Sox,10.5,10.5,5,4,2021
+2021-07-16,MIA,PHI,Miami Marlins,Philadelphia Phillies,6.5,7.0,2,5,2021
+2021-07-16,NYM,PIT,New York Mets,Pittsburgh Pirates,7.5,8.5,1,4,2021
+2021-07-16,SDG,WAS,San Diego Padres,Washington Nationals,9.5,9.5,24,8,2021
+2021-07-16,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,8.0,9.0,11,6,2021
+2021-07-16,MIA,PHI,Miami Marlins,Philadelphia Phillies,6.0,6.5,7,0,2021
+2021-07-16,SFO,STL,San Francisco Giants,St. Louis Cardinals,7.5,8.0,7,2,2021
+2021-07-16,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.0,12.0,10,4,2021
+2021-07-16,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,9.5,9.0,5,1,2021
+2021-07-16,BOS,NYY,Boston Red Sox,New York Yankees,10.0,9.5,4,0,2021
+2021-07-16,TEX,TOR,Texas Rangers,Toronto Blue Jays,10.0,9.5,2,10,2021
+2021-07-16,BAL,KAN,Baltimore Orioles,Kansas City Royals,9.5,9.5,2,9,2021
+2021-07-16,HOU,CWS,Houston Astros,Chicago White Sox,9.0,9.0,7,1,2021
+2021-07-16,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,8.5,6,5,2021
+2021-07-16,CLE,OAK,Cleveland Guardians,Oakland Athletics,8.5,8.5,4,5,2021
+2021-07-16,TAM,ATL,Tampa Bay Rays,Atlanta Braves,9.0,8.5,7,6,2021
+2021-07-17,MIA,PHI,Miami Marlins,Philadelphia Phillies,9.0,9.5,2,2,2021
+2021-07-17,SDG,WAS,San Diego Padres,Washington Nationals,9.0,9.5,5,4,2021
+2021-07-17,NYM,PIT,New York Mets,Pittsburgh Pirates,8.5,9.0,7,9,2021
+2021-07-17,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,7.5,8.0,7,4,2021
+2021-07-17,SFO,STL,San Francisco Giants,St. Louis Cardinals,7.5,8.0,1,3,2021
+2021-07-17,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,9.0,9.0,4,2,2021
+2021-07-17,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.5,11.5,9,2,2021
+2021-07-17,CLE,OAK,Cleveland Guardians,Oakland Athletics,9.0,8.5,3,2,2021
+2021-07-17,BAL,KAN,Baltimore Orioles,Kansas City Royals,9.5,9.5,8,4,2021
+2021-07-17,HOU,CWS,Houston Astros,Chicago White Sox,8.5,9.0,1,10,2021
+2021-07-17,BOS,NYY,Boston Red Sox,New York Yankees,8.0,8.0,1,3,2021
+2021-07-17,SEA,LAA,Seattle Mariners,Los Angeles Angels,9.0,8.5,4,9,2021
+2021-07-17,TAM,ATL,Tampa Bay Rays,Atlanta Braves,8.5,8.5,0,9,2021
+2021-07-17,MIN,DET,Minnesota Twins,Detroit Tigers,7.5,8.0,0,1,2021
+2021-07-17,MIN,DET,Minnesota Twins,Detroit Tigers,7.0,7.0,4,5,2021
+2021-07-18,NYM,PIT,New York Mets,Pittsburgh Pirates,8.0,8.5,7,6,2021
+2021-07-18,SDG,WAS,San Diego Padres,Washington Nationals,8.0,8.0,7,8,2021
+2021-07-18,MIA,PHI,Miami Marlins,Philadelphia Phillies,8.0,8.0,4,7,2021
+2021-07-18,MIL,CIN,Milwaukee Brewers,Cincinnati Reds,7.5,7.5,8,0,2021
+2021-07-18,SFO,STL,San Francisco Giants,St. Louis Cardinals,8.5,9.0,1,2,2021
+2021-07-18,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.5,11.5,5,6,2021
+2021-07-18,CUB,ARI,Chicago Cubs,Arizona Diamondbacks,9.0,9.0,4,6,2021
+2021-07-18,MIN,DET,Minnesota Twins,Detroit Tigers,10.0,10.5,0,7,2021
+2021-07-18,HOU,CWS,Houston Astros,Chicago White Sox,8.0,8.0,0,4,2021
+2021-07-18,BAL,KAN,Baltimore Orioles,Kansas City Royals,10.0,10.0,5,0,2021
+2021-07-18,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,8.5,7,4,2021
+2021-07-18,CLE,OAK,Cleveland Guardians,Oakland Athletics,8.0,8.0,4,2,2021
+2021-07-18,BOS,NYY,Boston Red Sox,New York Yankees,9.5,9.5,1,9,2021
+2021-07-18,TAM,ATL,Tampa Bay Rays,Atlanta Braves,9.0,9.0,7,5,2021
+2021-07-18,TEX,TOR,Texas Rangers,Toronto Blue Jays,7.5,7.5,0,5,2021
+2021-07-18,TEX,TOR,Texas Rangers,Toronto Blue Jays,8.0,8.0,0,10,2021
+2021-07-19,MIA,WAS,Miami Marlins,Washington Nationals,9.5,9.5,1,18,2021
+2021-07-19,NYM,CIN,New York Mets,Cincinnati Reds,11.0,11.0,15,11,2021
+2021-07-19,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,8.5,3,8,2021
+2021-07-19,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,9.5,9.5,2,4,2021
+2021-07-19,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.0,7.5,7,2,2021
+2021-07-19,MIN,CWS,Minnesota Twins,Chicago White Sox,7.0,7.0,3,2,2021
+2021-07-19,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.5,10.5,13,4,2021
+2021-07-19,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,9.0,9.0,6,1,2021
+2021-07-19,TEX,DET,Texas Rangers,Detroit Tigers,9.0,9.0,0,14,2021
+2021-07-19,CLE,HOU,Cleveland Guardians,Houston Astros,9.0,9.0,3,4,2021
+2021-07-19,MIN,CWS,Minnesota Twins,Chicago White Sox,7.0,7.0,3,5,2021
+2021-07-19,LAA,OAK,Los Angeles Angels,Oakland Athletics,8.0,8.0,1,4,2021
+2021-07-20,MIA,WAS,Miami Marlins,Washington Nationals,9.0,9.0,3,6,2021
+2021-07-20,NYM,CIN,New York Mets,Cincinnati Reds,10.5,10.5,3,4,2021
+2021-07-20,SDG,ATL,San Diego Padres,Atlanta Braves,9.0,9.0,1,2,2021
+2021-07-20,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,9.0,7,6,2021
+2021-07-20,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,9.0,9.0,6,11,2021
+2021-07-20,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,8.5,6,8,2021
+2021-07-20,LAA,OAK,Los Angeles Angels,Oakland Athletics,9.0,8.5,0,6,2021
+2021-07-20,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,7.5,3,9,2021
+2021-07-20,TEX,DET,Texas Rangers,Detroit Tigers,9.0,9.0,1,4,2021
+2021-07-20,CLE,HOU,Cleveland Guardians,Houston Astros,9.5,8.5,3,9,2021
+2021-07-20,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,9.5,5,9,2021
+2021-07-20,PHI,NYY,Philadelphia Phillies,New York Yankees,9.0,9.0,4,6,2021
+2021-07-20,KAN,MIL,Kansas City Royals,Milwaukee Brewers,9.0,9.5,5,2,2021
+2021-07-20,SEA,COL,Seattle Mariners,Colorado Rockies,10.5,11.0,6,4,2021
+2021-07-21,SDG,ATL,San Diego Padres,Atlanta Braves,7.5,7.5,3,2,2021
+2021-07-21,NYM,CIN,New York Mets,Cincinnati Reds,10.0,10.0,7,0,2021
+2021-07-21,PIT,ARI,Pittsburgh Pirates,Arizona Diamondbacks,9.0,9.0,4,6,2021
+2021-07-21,MIA,WAS,Miami Marlins,Washington Nationals,8.0,10.0,3,1,2021
+2021-07-21,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.0,8.0,2,3,2021
+2021-07-21,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.5,8.5,4,2,2021
+2021-07-21,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.5,4,5,2021
+2021-07-21,TEX,DET,Texas Rangers,Detroit Tigers,9.5,9.5,2,4,2021
+2021-07-21,CLE,HOU,Cleveland Guardians,Houston Astros,9.0,8.5,5,4,2021
+2021-07-21,MIN,CWS,Minnesota Twins,Chicago White Sox,9.0,9.0,7,2,2021
+2021-07-21,KAN,MIL,Kansas City Royals,Milwaukee Brewers,9.5,9.0,6,3,2021
+2021-07-21,SEA,COL,Seattle Mariners,Colorado Rockies,11.5,11.0,3,6,2021
+2021-07-21,PHI,NYY,Philadelphia Phillies,New York Yankees,10.0,10.5,5,6,2021
+2021-07-21,SDG,ATL,San Diego Padres,Atlanta Braves,8.0,8.0,5,4,2021
+2021-07-21,BOS,TOR,Boston Red Sox,Toronto Blue Jays,10.5,10.5,7,4,2021
+2021-07-22,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,8.5,7,2,2021
+2021-07-22,SDG,MIA,San Diego Padres,Miami Marlins,8.0,8.5,3,2,2021
+2021-07-22,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.5,8.5,2,3,2021
+2021-07-22,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,8.0,8.0,5,3,2021
+2021-07-22,TEX,DET,Texas Rangers,Detroit Tigers,9.5,9.5,5,7,2021
+2021-07-22,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,9.0,9.5,5,4,2021
+2021-07-22,NYY,BOS,New York Yankees,Boston Red Sox,10.0,9.5,4,5,2021
+2021-07-22,LAA,MIN,Los Angeles Angels,Minnesota Twins,9.5,9.0,3,2,2021
+2021-07-22,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,7.5,4,1,2021
+2021-07-23,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,10.5,10.0,3,8,2021
+2021-07-23,ATL,PHI,Atlanta Braves,Philadelphia Phillies,7.5,7.5,1,5,2021
+2021-07-23,SDG,MIA,San Diego Padres,Miami Marlins,8.0,8.0,5,2,2021
+2021-07-23,STL,CIN,St. Louis Cardinals,Cincinnati Reds,10.0,9.5,5,6,2021
+2021-07-23,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.5,8.5,6,4,2021
+2021-07-23,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.0,9,6,2021
+2021-07-23,NYY,BOS,New York Yankees,Boston Red Sox,8.5,8.5,2,6,2021
+2021-07-23,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,9.0,9.5,10,5,2021
+2021-07-23,LAA,MIN,Los Angeles Angels,Minnesota Twins,10.0,9.5,4,5,2021
+2021-07-23,TEX,HOU,Texas Rangers,Houston Astros,9.0,8.5,3,7,2021
+2021-07-23,DET,KAN,Detroit Tigers,Kansas City Royals,10.0,10.5,3,5,2021
+2021-07-23,OAK,SEA,Oakland Athletics,Seattle Mariners,7.5,7.5,3,4,2021
+2021-07-23,WAS,BAL,Washington Nationals,Baltimore Orioles,10.0,10.5,1,6,2021
+2021-07-23,TOR,NYM,Toronto Blue Jays,New York Mets,9.0,9.0,0,3,2021
+2021-07-23,CWS,MIL,Chicago White Sox,Milwaukee Brewers,7.5,7.5,1,7,2021
+2021-07-24,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,11.5,11.0,7,3,2021
+2021-07-24,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.5,10.5,15,3,2021
+2021-07-24,SDG,MIA,San Diego Padres,Miami Marlins,8.0,9.0,2,3,2021
+2021-07-24,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.5,9.5,3,5,2021
+2021-07-24,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.0,8.0,10,2,2021
+2021-07-24,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,8.5,0,1,2021
+2021-07-24,NYY,BOS,New York Yankees,Boston Red Sox,9.0,9.0,4,3,2021
+2021-07-24,TEX,HOU,Texas Rangers,Houston Astros,8.5,8.0,1,4,2021
+2021-07-24,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,10.0,10.5,8,2,2021
+2021-07-24,LAA,MIN,Los Angeles Angels,Minnesota Twins,9.0,9.0,2,1,2021
+2021-07-24,DET,KAN,Detroit Tigers,Kansas City Royals,10.0,10.0,8,9,2021
+2021-07-24,OAK,SEA,Oakland Athletics,Seattle Mariners,7.5,7.5,4,5,2021
+2021-07-24,WAS,BAL,Washington Nationals,Baltimore Orioles,9.5,11.0,3,5,2021
+2021-07-24,CWS,MIL,Chicago White Sox,Milwaukee Brewers,7.5,7.0,1,6,2021
+2021-07-24,TOR,NYM,Toronto Blue Jays,New York Mets,8.0,8.5,10,3,2021
+2021-07-25,ATL,PHI,Atlanta Braves,Philadelphia Phillies,9.0,9.5,1,2,2021
+2021-07-25,SDG,MIA,San Diego Padres,Miami Marlins,7.5,7.5,3,9,2021
+2021-07-25,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,10.0,10,6,2021
+2021-07-25,ARI,CUB,Arizona Diamondbacks,Chicago Cubs,9.0,9.0,1,5,2021
+2021-07-25,PIT,SFO,Pittsburgh Pirates,San Francisco Giants,8.5,8.0,1,6,2021
+2021-07-25,COL,LAD,Colorado Rockies,Los Angeles Dodgers,8.5,8.5,2,3,2021
+2021-07-25,NYY,BOS,New York Yankees,Boston Red Sox,10.5,10.5,4,5,2021
+2021-07-25,TAM,CLE,Tampa Bay Rays,Cleveland Guardians,10.0,9.0,2,3,2021
+2021-07-25,LAA,MIN,Los Angeles Angels,Minnesota Twins,10.0,10.0,6,2,2021
+2021-07-25,DET,KAN,Detroit Tigers,Kansas City Royals,10.5,10.0,1,6,2021
+2021-07-25,TEX,HOU,Texas Rangers,Houston Astros,8.5,8.5,1,3,2021
+2021-07-25,OAK,SEA,Oakland Athletics,Seattle Mariners,8.5,9.0,3,4,2021
+2021-07-25,WAS,BAL,Washington Nationals,Baltimore Orioles,9.5,10.0,4,5,2021
+2021-07-25,TOR,NYM,Toronto Blue Jays,New York Mets,9.0,9.5,4,5,2021
+2021-07-25,CWS,MIL,Chicago White Sox,Milwaukee Brewers,7.0,7.5,3,1,2021
+2021-07-26,ATL,NYM,Atlanta Braves,New York Mets,7.0,6.5,2,0,2021
+2021-07-26,WAS,PHI,Washington Nationals,Philadelphia Phillies,10.0,9.5,5,6,2021
+2021-07-26,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.5,8.5,5,6,2021
+2021-07-26,ATL,NYM,Atlanta Braves,New York Mets,7.0,7.0,0,1,2021
+2021-07-26,TOR,BOS,Toronto Blue Jays,Boston Red Sox,11.0,11.5,4,5,2021
+2021-07-26,CWS,KAN,Chicago White Sox,Kansas City Royals,10.0,9.5,3,4,2021
+2021-07-26,DET,MIN,Detroit Tigers,Minnesota Twins,10.0,10.0,5,6,2021
+2021-07-26,HOU,SEA,Houston Astros,Seattle Mariners,9.0,8.5,8,11,2021
+2021-07-26,COL,LAA,Colorado Rockies,Los Angeles Angels,8.0,7.5,2,6,2021
+2021-07-27,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,9.0,9,0,2021
+2021-07-27,WAS,PHI,Washington Nationals,Philadelphia Phillies,9.5,10.5,6,4,2021
+2021-07-27,ATL,NYM,Atlanta Braves,New York Mets,8.0,9.0,12,5,2021
+2021-07-27,CIN,CUB,Cincinnati Reds,Chicago Cubs,9.5,10.5,7,4,2021
+2021-07-27,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.0,8.5,1,2,2021
+2021-07-27,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,7.5,4,3,2021
+2021-07-27,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.0,6,5,2021
+2021-07-27,CWS,KAN,Chicago White Sox,Kansas City Royals,10.0,9.5,5,3,2021
+2021-07-27,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.0,8,6,2021
+2021-07-27,MIA,BAL,Miami Marlins,Baltimore Orioles,9.5,9.0,7,3,2021
+2021-07-27,STL,CLE,St. Louis Cardinals,Cleveland Guardians,9.0,9.5,4,2,2021
+2021-07-27,ARI,TEX,Arizona Diamondbacks,Texas Rangers,8.5,8.5,4,5,2021
+2021-07-27,COL,LAA,Colorado Rockies,Los Angeles Angels,9.5,9.0,12,3,2021
+2021-07-27,OAK,SDG,Oakland Athletics,San Diego Padres,8.5,8.5,4,7,2021
+2021-07-28,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,9.0,9.0,7,3,2021
+2021-07-28,ATL,NYM,Atlanta Braves,New York Mets,8.0,7.5,1,2,2021
+2021-07-28,CIN,CUB,Cincinnati Reds,Chicago Cubs,9.5,10.0,8,2,2021
+2021-07-28,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,7.5,8,0,2021
+2021-07-28,DET,MIN,Detroit Tigers,Minnesota Twins,10.5,10.0,17,14,2021
+2021-07-28,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.5,11,4,2021
+2021-07-28,NYY,TAM,New York Yankees,Tampa Bay Rays,8.5,8.5,3,1,2021
+2021-07-28,CWS,KAN,Chicago White Sox,Kansas City Royals,9.5,10.0,2,3,2021
+2021-07-28,STL,CLE,St. Louis Cardinals,Cleveland Guardians,9.0,8.5,2,7,2021
+2021-07-28,OAK,SDG,Oakland Athletics,San Diego Padres,8.5,8.0,10,4,2021
+2021-07-28,MIA,BAL,Miami Marlins,Baltimore Orioles,9.5,10.0,7,8,2021
+2021-07-28,ARI,TEX,Arizona Diamondbacks,Texas Rangers,9.0,9.0,3,2,2021
+2021-07-28,COL,LAA,Colorado Rockies,Los Angeles Angels,9.0,9.0,7,8,2021
+2021-07-28,TOR,BOS,Toronto Blue Jays,Boston Red Sox,8.5,8.5,4,1,2021
+2021-07-28,TOR,BOS,Toronto Blue Jays,Boston Red Sox,9.0,8.0,1,4,2021
+2021-07-29,ATL,NYM,Atlanta Braves,New York Mets,8.5,8.5,6,3,2021
+2021-07-29,CIN,CUB,Cincinnati Reds,Chicago Cubs,7.0,7.0,7,4,2021
+2021-07-29,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.5,8.5,0,5,2021
+2021-07-29,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.0,8.0,12,0,2021
+2021-07-29,COL,SDG,Colorado Rockies,San Diego Padres,8.0,8.0,0,3,2021
+2021-07-29,NYY,TAM,New York Yankees,Tampa Bay Rays,8.0,7.5,0,14,2021
+2021-07-29,CWS,KAN,Chicago White Sox,Kansas City Royals,9.5,9.0,0,5,2021
+2021-07-29,BAL,DET,Baltimore Orioles,Detroit Tigers,9.5,10.0,2,6,2021
+2021-07-29,TOR,BOS,Toronto Blue Jays,Boston Red Sox,10.0,10.5,13,1,2021
+2021-07-29,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,4,0,2021
+2021-07-29,WAS,PHI,Washington Nationals,Philadelphia Phillies,5.5,5.0,3,1,2021
+2021-07-29,WAS,PHI,Washington Nationals,Philadelphia Phillies,7.0,7.0,8,11,2021
+2021-07-30,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,9.0,9.0,0,7,2021
+2021-07-30,CUB,WAS,Chicago Cubs,Washington Nationals,9.0,9.0,3,4,2021
+2021-07-30,CIN,NYM,Cincinnati Reds,New York Mets,8.5,8.0,6,2,2021
+2021-07-30,MIL,ATL,Milwaukee Brewers,Atlanta Braves,8.5,8.5,9,5,2021
+2021-07-30,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.0,5,6,2021
+2021-07-30,COL,SDG,Colorado Rockies,San Diego Padres,8.5,8.5,9,4,2021
+2021-07-30,KAN,TOR,Kansas City Royals,Toronto Blue Jays,10.5,10.0,4,6,2021
+2021-07-30,BAL,DET,Baltimore Orioles,Detroit Tigers,10.0,9.0,4,3,2021
+2021-07-30,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,9.0,3,7,2021
+2021-07-30,SEA,TEX,Seattle Mariners,Texas Rangers,8.0,7.5,9,5,2021
+2021-07-30,CLE,CWS,Cleveland Guardians,Chicago White Sox,8.5,8.0,4,6,2021
+2021-07-30,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.5,2,0,2021
+2021-07-30,NYY,MIA,New York Yankees,Miami Marlins,8.0,7.5,3,1,2021
+2021-07-30,MIN,STL,Minnesota Twins,St. Louis Cardinals,8.5,9.0,1,5,2021
+2021-07-30,HOU,SFO,Houston Astros,San Francisco Giants,7.5,8.0,9,6,2021
+2021-07-31,CUB,WAS,Chicago Cubs,Washington Nationals,7.5,8.0,6,3,2021
+2021-07-31,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,8.0,7.5,2,3,2021
+2021-07-31,CIN,NYM,Cincinnati Reds,New York Mets,8.0,9.0,4,5,2021
+2021-07-31,MIL,ATL,Milwaukee Brewers,Atlanta Braves,8.5,9.0,1,8,2021
+2021-07-31,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,9.5,8,3,2021
+2021-07-31,COL,SDG,Colorado Rockies,San Diego Padres,7.0,7.0,5,3,2021
+2021-07-31,KAN,TOR,Kansas City Royals,Toronto Blue Jays,10.5,9.0,0,4,2021
+2021-07-31,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.5,10.0,0,1,2021
+2021-07-31,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,8.5,5,9,2021
+2021-07-31,BAL,DET,Baltimore Orioles,Detroit Tigers,9.0,9.5,5,2,2021
+2021-07-31,SEA,TEX,Seattle Mariners,Texas Rangers,8.0,8.5,4,5,2021
+2021-07-31,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,9.0,12,11,2021
+2021-07-31,HOU,SFO,Houston Astros,San Francisco Giants,8.0,8.5,6,8,2021
+2021-07-31,NYY,MIA,New York Yankees,Miami Marlins,8.0,7.5,4,2,2021
+2021-07-31,MIN,STL,Minnesota Twins,St. Louis Cardinals,9.0,8.5,8,1,2021
+2021-08-01,CUB,WAS,Chicago Cubs,Washington Nationals,8.0,8.5,5,6,2021
+2021-08-01,PHI,PIT,Philadelphia Phillies,Pittsburgh Pirates,9.0,8.5,15,4,2021
+2021-08-01,CIN,NYM,Cincinnati Reds,New York Mets,9.0,8.5,7,1,2021
+2021-08-01,MIL,ATL,Milwaukee Brewers,Atlanta Braves,9.0,9.0,2,1,2021
+2021-08-01,COL,SDG,Colorado Rockies,San Diego Padres,8.5,8.5,1,8,2021
+2021-08-01,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,9.5,13,0,2021
+2021-08-01,KAN,TOR,Kansas City Royals,Toronto Blue Jays,9.5,8.5,1,5,2021
+2021-08-01,BAL,DET,Baltimore Orioles,Detroit Tigers,9.5,10.0,2,6,2021
+2021-08-01,CLE,CWS,Cleveland Guardians,Chicago White Sox,9.0,9.5,1,2,2021
+2021-08-01,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,9.0,3,4,2021
+2021-08-01,OAK,LAA,Oakland Athletics,Los Angeles Angels,10.0,9.5,8,3,2021
+2021-08-01,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,9.0,2,3,2021
+2021-08-01,NYY,MIA,New York Yankees,Miami Marlins,7.0,7.0,3,1,2021
+2021-08-01,MIN,STL,Minnesota Twins,St. Louis Cardinals,8.5,8.0,3,7,2021
+2021-08-01,HOU,SFO,Houston Astros,San Francisco Giants,8.5,8.5,3,5,2021
+2021-08-02,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,8.5,7,5,2021
+2021-08-02,NYM,MIA,New York Mets,Miami Marlins,7.5,7.5,3,6,2021
+2021-08-02,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.0,2,6,2021
+2021-08-02,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.0,9.5,11,8,2021
+2021-08-02,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,9.5,9.0,5,2,2021
+2021-08-02,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,10.0,7,1,2021
+2021-08-02,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.5,9.0,8,2,2021
+2021-08-02,LAA,TEX,Los Angeles Angels,Texas Rangers,8.5,8.5,1,4,2021
+2021-08-03,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.0,8.0,5,4,2021
+2021-08-03,NYM,MIA,New York Mets,Miami Marlins,7.5,8.5,4,5,2021
+2021-08-03,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,9.0,9.0,8,5,2021
+2021-08-03,ATL,STL,Atlanta Braves,St. Louis Cardinals,9.0,8.5,6,1,2021
+2021-08-03,CUB,COL,Chicago Cubs,Colorado Rockies,11.5,11.5,6,13,2021
+2021-08-03,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.5,9.5,1,3,2021
+2021-08-03,BAL,NYY,Baltimore Orioles,New York Yankees,8.5,10.5,1,13,2021
+2021-08-03,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,8.5,9.0,2,7,2021
+2021-08-03,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.5,8.0,4,2,2021
+2021-08-03,BOS,DET,Boston Red Sox,Detroit Tigers,10.0,10.0,2,4,2021
+2021-08-03,LAA,TEX,Los Angeles Angels,Texas Rangers,8.5,8.5,11,3,2021
+2021-08-03,KAN,CWS,Kansas City Royals,Chicago White Sox,9.5,9.0,1,7,2021
+2021-08-03,MIN,CIN,Minnesota Twins,Cincinnati Reds,9.0,9.0,7,5,2021
+2021-08-03,SDG,OAK,San Diego Padres,Oakland Athletics,9.0,8.5,8,1,2021
+2021-08-03,HOU,LAD,Houston Astros,Los Angeles Dodgers,8.0,8.5,3,0,2021
+2021-08-04,PIT,MIL,Pittsburgh Pirates,Milwaukee Brewers,8.5,8.0,2,4,2021
+2021-08-04,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,9.5,9,5,2021
+2021-08-04,NYM,MIA,New York Mets,Miami Marlins,7.5,7.5,5,3,2021
+2021-08-04,ATL,STL,Atlanta Braves,St. Louis Cardinals,9.0,9.0,7,4,2021
+2021-08-04,CUB,COL,Chicago Cubs,Colorado Rockies,11.0,11.0,3,2,2021
+2021-08-04,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,8.5,9.0,7,1,2021
+2021-08-04,SEA,TAM,Seattle Mariners,Tampa Bay Rays,8.0,8.0,3,4,2021
+2021-08-04,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,9.0,3,10,2021
+2021-08-04,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,10.0,9.5,6,8,2021
+2021-08-04,BOS,DET,Boston Red Sox,Detroit Tigers,9.0,9.0,4,1,2021
+2021-08-04,LAA,TEX,Los Angeles Angels,Texas Rangers,8.0,8.0,2,1,2021
+2021-08-04,KAN,CWS,Kansas City Royals,Chicago White Sox,8.5,8.5,9,1,2021
+2021-08-04,MIN,CIN,Minnesota Twins,Cincinnati Reds,9.0,9.5,5,6,2021
+2021-08-04,SDG,OAK,San Diego Padres,Oakland Athletics,8.0,8.0,4,5,2021
+2021-08-04,HOU,LAD,Houston Astros,Los Angeles Dodgers,8.5,9.0,5,7,2021
+2021-08-05,NYM,MIA,New York Mets,Miami Marlins,8.0,8.0,2,4,2021
+2021-08-05,CUB,COL,Chicago Cubs,Colorado Rockies,11.5,11.5,5,6,2021
+2021-08-05,SFO,ARI,San Francisco Giants,Arizona Diamondbacks,9.5,9.0,5,4,2021
+2021-08-05,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.5,8.5,7,6,2021
+2021-08-05,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.5,4,7,2021
+2021-08-05,ATL,STL,Atlanta Braves,St. Louis Cardinals,9.0,9.0,8,4,2021
+2021-08-05,BOS,DET,Boston Red Sox,Detroit Tigers,10.0,10.0,1,8,2021
+2021-08-05,LAA,TEX,Los Angeles Angels,Texas Rangers,9.5,9.0,5,0,2021
+2021-08-05,SEA,NYY,Seattle Mariners,New York Yankees,9.5,9.5,3,5,2021
+2021-08-05,CLE,TOR,Cleveland Guardians,Toronto Blue Jays,9.5,9.0,0,3,2021
+2021-08-05,KAN,CWS,Kansas City Royals,Chicago White Sox,9.5,9.5,3,2,2021
+2021-08-05,MIN,HOU,Minnesota Twins,Houston Astros,9.0,9.0,5,3,2021
+2021-08-06,NYM,PHI,New York Mets,Philadelphia Phillies,8.5,9.5,2,4,2021
+2021-08-06,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.5,0,10,2021
+2021-08-06,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,9.0,4,8,2021
+2021-08-06,SFO,MIL,San Francisco Giants,Milwaukee Brewers,8.0,8.0,1,2,2021
+2021-08-06,MIA,COL,Miami Marlins,Colorado Rockies,10.0,9.5,2,14,2021
+2021-08-06,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,8,5,2021
+2021-08-06,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.0,10.0,10,6,2021
+2021-08-06,SEA,NYY,Seattle Mariners,New York Yankees,10.0,10.5,2,3,2021
+2021-08-06,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,9.0,4,12,2021
+2021-08-06,DET,CLE,Detroit Tigers,Cleveland Guardians,9.5,9.5,1,6,2021
+2021-08-06,MIN,HOU,Minnesota Twins,Houston Astros,9.0,9.0,5,4,2021
+2021-08-06,TEX,OAK,Texas Rangers,Oakland Athletics,8.0,8.0,1,4,2021
+2021-08-06,CWS,CUB,Chicago White Sox,Chicago Cubs,9.0,8.5,8,6,2021
+2021-08-06,KAN,STL,Kansas City Royals,St. Louis Cardinals,8.5,8.0,2,4,2021
+2021-08-06,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,9.0,8.0,4,3,2021
+2021-08-07,NYM,PHI,New York Mets,Philadelphia Phillies,9.5,9.5,3,5,2021
+2021-08-07,SFO,MIL,San Francisco Giants,Milwaukee Brewers,8.0,8.5,9,6,2021
+2021-08-07,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,10.0,10.5,3,11,2021
+2021-08-07,WAS,ATL,Washington Nationals,Atlanta Braves,8.5,8.5,3,2,2021
+2021-08-07,MIA,COL,Miami Marlins,Colorado Rockies,10.5,10.5,4,7,2021
+2021-08-07,ARI,SDG,Arizona Diamondbacks,San Diego Padres,7.5,8.0,2,6,2021
+2021-08-07,SEA,NYY,Seattle Mariners,New York Yankees,10.0,10.5,4,5,2021
+2021-08-07,BOS,TOR,Boston Red Sox,Toronto Blue Jays,7.0,7.0,0,1,2021
+2021-08-07,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.5,3,12,2021
+2021-08-07,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.0,10.0,12,3,2021
+2021-08-07,BOS,TOR,Boston Red Sox,Toronto Blue Jays,7.0,7.0,2,1,2021
+2021-08-07,DET,CLE,Detroit Tigers,Cleveland Guardians,10.0,9.5,2,1,2021
+2021-08-07,MIN,HOU,Minnesota Twins,Houston Astros,9.0,8.5,0,4,2021
+2021-08-07,CWS,CUB,Chicago White Sox,Chicago Cubs,9.0,8.5,4,0,2021
+2021-08-07,KAN,STL,Kansas City Royals,St. Louis Cardinals,8.5,8.5,2,5,2021
+2021-08-07,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,8.5,8.5,3,5,2021
+2021-08-08,NYM,PHI,New York Mets,Philadelphia Phillies,8.0,8.0,0,3,2021
+2021-08-08,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,10.0,10.5,2,3,2021
+2021-08-08,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,8.5,4,5,2021
+2021-08-08,SFO,MIL,San Francisco Giants,Milwaukee Brewers,9.0,9.5,5,4,2021
+2021-08-08,MIA,COL,Miami Marlins,Colorado Rockies,11.5,11.0,8,13,2021
+2021-08-08,ARI,SDG,Arizona Diamondbacks,San Diego Padres,8.5,8.5,0,2,2021
+2021-08-08,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.5,10.0,9,6,2021
+2021-08-08,SEA,NYY,Seattle Mariners,New York Yankees,10.0,9.0,2,0,2021
+2021-08-08,BOS,TOR,Boston Red Sox,Toronto Blue Jays,9.0,9.0,8,9,2021
+2021-08-08,DET,CLE,Detroit Tigers,Cleveland Guardians,9.5,9.5,5,7,2021
+2021-08-08,MIN,HOU,Minnesota Twins,Houston Astros,9.0,8.0,7,5,2021
+2021-08-08,TEX,OAK,Texas Rangers,Oakland Athletics,9.0,8.5,3,6,2021
+2021-08-08,KAN,STL,Kansas City Royals,St. Louis Cardinals,9.5,10.0,6,5,2021
+2021-08-08,LAA,LAD,Los Angeles Angels,Los Angeles Dodgers,8.5,8.5,2,8,2021
+2021-08-08,CWS,CUB,Chicago White Sox,Chicago Cubs,10.5,10.0,9,3,2021
+2021-08-09,MIA,SDG,Miami Marlins,San Diego Padres,7.5,7.5,3,8,2021
+2021-08-09,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,10.0,11,1,2021
+2021-08-09,NYY,KAN,New York Yankees,Kansas City Royals,9.5,10.0,8,6,2021
+2021-08-09,CIN,CLE,Cincinnati Reds,Cleveland Guardians,9.5,9.5,3,9,2021
+2021-08-10,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.5,9.5,4,1,2021
+2021-08-10,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,8.5,8.5,5,0,2021
+2021-08-10,CIN,ATL,Cincinnati Reds,Atlanta Braves,9.5,9.5,2,3,2021
+2021-08-10,MIL,CUB,Milwaukee Brewers,Chicago Cubs,8.5,8.0,6,3,2021
+2021-08-10,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,8.0,7,8,2021
+2021-08-10,MIA,SDG,Miami Marlins,San Diego Padres,8.5,7.5,5,6,2021
+2021-08-10,LAA,TOR,Los Angeles Angels,Toronto Blue Jays,8.0,7.5,6,3,2021
+2021-08-10,DET,BAL,Detroit Tigers,Baltimore Orioles,10.5,10.0,9,4,2021
+2021-08-10,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,9.5,8,4,2021
+2021-08-10,OAK,CLE,Oakland Athletics,Cleveland Guardians,9.5,9.5,4,3,2021
+2021-08-10,CWS,MIN,Chicago White Sox,Minnesota Twins,10.5,10.5,3,4,2021
+2021-08-10,NYY,KAN,New York Yankees,Kansas City Royals,10.5,10.0,4,8,2021
+2021-08-10,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,7.5,7.5,4,0,2021
+2021-08-10,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.0,5,4,2021
+2021-08-10,COL,HOU,Colorado Rockies,Houston Astros,9.0,9.0,0,5,2021
+2021-08-10,MIL,CUB,Milwaukee Brewers,Chicago Cubs,7.5,7.0,4,2,2021
+2021-08-11,MIA,SDG,Miami Marlins,San Diego Padres,8.5,8.0,7,0,2021
+2021-08-11,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.0,9.0,4,0,2021
+2021-08-11,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,9.5,10.5,8,2,2021
+2021-08-11,CIN,ATL,Cincinnati Reds,Atlanta Braves,9.5,9.5,6,8,2021
+2021-08-11,MIL,CUB,Milwaukee Brewers,Chicago Cubs,10.0,10.0,10,0,2021
+2021-08-11,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,7.5,7.5,2,7,2021
+2021-08-11,CWS,MIN,Chicago White Sox,Minnesota Twins,9.5,9.5,0,1,2021
+2021-08-11,NYY,KAN,New York Yankees,Kansas City Royals,10.5,10.0,5,2,2021
+2021-08-11,DET,BAL,Detroit Tigers,Baltimore Orioles,10.0,10.0,5,2,2021
+2021-08-11,OAK,CLE,Oakland Athletics,Cleveland Guardians,9.0,9.5,6,3,2021
+2021-08-11,TAM,BOS,Tampa Bay Rays,Boston Red Sox,10.0,10.5,8,20,2021
+2021-08-11,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,9.5,9.5,10,2,2021
+2021-08-11,TEX,SEA,Texas Rangers,Seattle Mariners,8.0,8.0,1,2,2021
+2021-08-11,COL,HOU,Colorado Rockies,Houston Astros,9.0,9.0,1,5,2021
+2021-08-12,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.5,8.5,7,6,2021
+2021-08-12,LAD,PHI,Los Angeles Dodgers,Philadelphia Phillies,11.0,10.0,1,2,2021
+2021-08-12,MIL,CUB,Milwaukee Brewers,Chicago Cubs,9.0,8.5,17,4,2021
+2021-08-12,CIN,ATL,Cincinnati Reds,Atlanta Braves,10.5,10.0,12,3,2021
+2021-08-12,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,3,12,2021
+2021-08-12,COL,SFO,Colorado Rockies,San Francisco Giants,7.5,7.5,0,7,2021
+2021-08-12,OAK,CLE,Oakland Athletics,Cleveland Guardians,10.0,9.5,17,0,2021
+2021-08-12,DET,BAL,Detroit Tigers,Baltimore Orioles,10.5,10.5,6,4,2021
+2021-08-12,TEX,SEA,Texas Rangers,Seattle Mariners,8.5,8.5,1,3,2021
+2021-08-12,TAM,BOS,Tampa Bay Rays,Boston Red Sox,10.5,11.0,8,1,2021
+2021-08-12,NYY,CWS,New York Yankees,Chicago White Sox,9.5,9.5,8,9,2021
+2021-08-12,TOR,LAA,Toronto Blue Jays,Los Angeles Angels,8.5,8.5,3,6,2021
+2021-08-12,WAS,NYM,Washington Nationals,New York Mets,6.5,6.5,1,4,2021
+2021-08-12,WAS,NYM,Washington Nationals,New York Mets,7.0,7.0,4,5,2021
+2021-08-13,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,8.5,8.5,6,1,2021
+2021-08-13,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,9.0,4,2,2021
+2021-08-13,CUB,MIA,Chicago Cubs,Miami Marlins,8.0,7.5,10,14,2021
+2021-08-13,LAD,NYM,Los Angeles Dodgers,New York Mets,9.0,8.0,6,5,2021
+2021-08-13,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,8.5,2,3,2021
+2021-08-13,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,7.5,4,5,2021
+2021-08-13,CLE,DET,Cleveland Guardians,Detroit Tigers,9.5,9.5,7,4,2021
+2021-08-13,BAL,BOS,Baltimore Orioles,Boston Red Sox,11.0,11.0,1,8,2021
+2021-08-13,OAK,TEX,Oakland Athletics,Texas Rangers,8.5,8.5,6,8,2021
+2021-08-13,TAM,MIN,Tampa Bay Rays,Minnesota Twins,9.5,9.5,10,4,2021
+2021-08-13,HOU,LAA,Houston Astros,Los Angeles Angels,8.5,9.0,4,1,2021
+2021-08-13,TOR,SEA,Toronto Blue Jays,Seattle Mariners,8.5,8.5,2,3,2021
+2021-08-13,STL,KAN,St. Louis Cardinals,Kansas City Royals,9.0,8.5,6,0,2021
+2021-08-14,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,10.0,9.5,1,6,2021
+2021-08-14,ATL,WAS,Atlanta Braves,Washington Nationals,9.0,9.0,12,2,2021
+2021-08-14,CUB,MIA,Chicago Cubs,Miami Marlins,7.5,7.5,4,5,2021
+2021-08-14,LAD,NYM,Los Angeles Dodgers,New York Mets,8.5,8.5,2,1,2021
+2021-08-14,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,0,7,2021
+2021-08-14,COL,SFO,Colorado Rockies,San Francisco Giants,8.0,8.5,4,1,2021
+2021-08-14,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.0,10.0,2,16,2021
+2021-08-14,CLE,DET,Cleveland Guardians,Detroit Tigers,10.5,10.0,4,6,2021
+2021-08-14,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,9.0,8,3,2021
+2021-08-14,TAM,MIN,Tampa Bay Rays,Minnesota Twins,9.5,9.5,0,12,2021
+2021-08-14,NYY,CWS,New York Yankees,Chicago White Sox,9.0,8.5,7,5,2021
+2021-08-14,HOU,LAA,Houston Astros,Los Angeles Angels,9.5,9.5,8,2,2021
+2021-08-14,TOR,SEA,Toronto Blue Jays,Seattle Mariners,8.5,9.0,3,9,2021
+2021-08-14,STL,KAN,St. Louis Cardinals,Kansas City Royals,10.0,10.0,9,4,2021
+2021-08-14,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,7.0,7.0,4,14,2021
+2021-08-14,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,7.5,7.5,6,0,2021
+2021-08-15,CIN,PHI,Cincinnati Reds,Philadelphia Phillies,9.0,8.0,7,4,2021
+2021-08-15,ATL,WAS,Atlanta Braves,Washington Nationals,9.5,9.5,6,5,2021
+2021-08-15,MIL,PIT,Milwaukee Brewers,Pittsburgh Pirates,8.5,9.0,2,1,2021
+2021-08-15,CUB,MIA,Chicago Cubs,Miami Marlins,7.5,7.0,1,4,2021
+2021-08-15,COL,SFO,Colorado Rockies,San Francisco Giants,8.5,8.0,2,5,2021
+2021-08-15,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.0,8,2,2021
+2021-08-15,LAD,NYM,Los Angeles Dodgers,New York Mets,8.0,8.0,14,4,2021
+2021-08-15,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,10.5,2,6,2021
+2021-08-15,CLE,DET,Cleveland Guardians,Detroit Tigers,9.0,9.5,11,0,2021
+2021-08-15,TAM,MIN,Tampa Bay Rays,Minnesota Twins,10.5,10.5,4,5,2021
+2021-08-15,NYY,CWS,New York Yankees,Chicago White Sox,9.0,8.5,5,3,2021
+2021-08-15,OAK,TEX,Oakland Athletics,Texas Rangers,9.0,8.5,4,7,2021
+2021-08-15,HOU,LAA,Houston Astros,Los Angeles Angels,9.5,9.0,1,3,2021
+2021-08-15,TOR,SEA,Toronto Blue Jays,Seattle Mariners,9.0,8.5,8,3,2021
+2021-08-15,STL,KAN,St. Louis Cardinals,Kansas City Royals,10.0,10.0,7,2,2021
+2021-08-16,ATL,MIA,Atlanta Braves,Miami Marlins,8.5,8.5,12,2,2021
+2021-08-16,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.0,9.5,5,14,2021
+2021-08-16,SDG,COL,San Diego Padres,Colorado Rockies,12.0,13.0,5,6,2021
+2021-08-16,NYM,SFO,New York Mets,San Francisco Giants,8.0,9.0,5,7,2021
+2021-08-16,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,9.0,9.0,1,2,2021
+2021-08-16,LAA,NYY,Los Angeles Angels,New York Yankees,9.0,8.5,1,2,2021
+2021-08-16,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.5,2,9,2021
+2021-08-16,HOU,KAN,Houston Astros,Kansas City Royals,10.5,10.0,6,7,2021
+2021-08-16,CLE,MIN,Cleveland Guardians,Minnesota Twins,10.0,9.5,4,5,2021
+2021-08-16,OAK,CWS,Oakland Athletics,Chicago White Sox,9.5,9.0,2,5,2021
+2021-08-17,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,2,1,2021
+2021-08-17,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,7.5,2,0,2021
+2021-08-17,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,7.5,7.0,2,0,2021
+2021-08-17,SDG,COL,San Diego Padres,Colorado Rockies,12.5,12.5,3,7,2021
+2021-08-17,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,9.0,9.5,2,3,2021
+2021-08-17,NYM,SFO,New York Mets,San Francisco Giants,8.0,8.0,2,3,2021
+2021-08-17,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,9.0,9.0,3,4,2021
+2021-08-17,BOS,NYY,Boston Red Sox,New York Yankees,7.0,7.0,3,5,2021
+2021-08-17,BOS,NYY,Boston Red Sox,New York Yankees,7.5,7.0,0,2,2021
+2021-08-17,LAA,DET,Los Angeles Angels,Detroit Tigers,9.5,9.0,8,2,2021
+2021-08-17,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,8.5,8.5,0,10,2021
+2021-08-17,SEA,TEX,Seattle Mariners,Texas Rangers,8.5,8.5,3,1,2021
+2021-08-17,OAK,CWS,Oakland Athletics,Chicago White Sox,9.0,8.5,0,9,2021
+2021-08-17,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.5,9.5,3,1,2021
+2021-08-17,HOU,KAN,Houston Astros,Kansas City Royals,10.0,9.5,1,3,2021
+2021-08-17,TOR,WAS,Toronto Blue Jays,Washington Nationals,9.0,9.0,6,12,2021
+2021-08-18,CUB,CIN,Chicago Cubs,Cincinnati Reds,9.5,9.5,7,1,2021
+2021-08-18,SDG,COL,San Diego Padres,Colorado Rockies,13.0,14.0,5,7,2021
+2021-08-18,NYM,SFO,New York Mets,San Francisco Giants,8.5,9.0,6,2,2021
+2021-08-18,ATL,MIA,Atlanta Braves,Miami Marlins,8.0,7.5,11,9,2021
+2021-08-18,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,7.0,7.0,6,4,2021
+2021-08-18,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,9.5,9.5,2,4,2021
+2021-08-18,PIT,LAD,Pittsburgh Pirates,Los Angeles Dodgers,8.5,8.5,0,9,2021
+2021-08-18,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.5,9.5,7,8,2021
+2021-08-18,BOS,NYY,Boston Red Sox,New York Yankees,10.0,10.0,2,5,2021
+2021-08-18,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,9.0,9.0,4,8,2021
+2021-08-18,LAA,DET,Los Angeles Angels,Detroit Tigers,8.5,8.5,3,1,2021
+2021-08-18,SEA,TEX,Seattle Mariners,Texas Rangers,9.0,8.5,3,1,2021
+2021-08-18,OAK,CWS,Oakland Athletics,Chicago White Sox,9.0,9.0,2,3,2021
+2021-08-18,HOU,KAN,Houston Astros,Kansas City Royals,10.0,9.5,2,3,2021
+2021-08-18,TOR,WAS,Toronto Blue Jays,Washington Nationals,9.0,9.0,5,8,2021
+2021-08-19,PHI,ARI,Philadelphia Phillies,Arizona Diamondbacks,8.5,8.0,2,6,2021
+2021-08-19,MIA,CIN,Miami Marlins,Cincinnati Reds,8.5,9.0,1,6,2021
+2021-08-19,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,7.5,8.0,4,8,2021
+2021-08-19,NYM,LAD,New York Mets,Los Angeles Dodgers,9.0,9.0,1,4,2021
+2021-08-19,LAA,DET,Los Angeles Angels,Detroit Tigers,9.5,9.5,13,10,2021
+2021-08-19,BAL,TAM,Baltimore Orioles,Tampa Bay Rays,9.0,9.0,2,7,2021
+2021-08-19,SEA,TEX,Seattle Mariners,Texas Rangers,8.5,8.5,9,8,2021
+2021-08-19,OAK,CWS,Oakland Athletics,Chicago White Sox,9.0,9.0,5,4,2021
+2021-08-19,HOU,KAN,Houston Astros,Kansas City Royals,9.5,9.0,6,3,2021
+2021-08-19,MIN,NYY,Minnesota Twins,New York Yankees,10.5,10.5,5,7,2021
+2021-08-20,MIA,CIN,Miami Marlins,Cincinnati Reds,8.0,8.5,3,5,2021
+2021-08-20,WAS,MIL,Washington Nationals,Milwaukee Brewers,9.5,9.0,4,1,2021
+2021-08-20,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,8.5,4,0,2021
+2021-08-20,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,11.5,4,9,2021
+2021-08-20,NYM,LAD,New York Mets,Los Angeles Dodgers,8.5,8.0,2,3,2021
+2021-08-20,PHI,SDG,Philadelphia Phillies,San Diego Padres,8.5,9.0,4,3,2021
+2021-08-20,MIN,NYY,Minnesota Twins,New York Yankees,10.5,10.5,2,10,2021
+2021-08-20,DET,TOR,Detroit Tigers,Toronto Blue Jays,9.5,9.5,4,1,2021
+2021-08-20,LAA,CLE,Los Angeles Angels,Cleveland Guardians,9.5,9.5,1,9,2021
+2021-08-20,TEX,BOS,Texas Rangers,Boston Red Sox,9.0,9.0,0,6,2021
+2021-08-20,CWS,TAM,Chicago White Sox,Tampa Bay Rays,9.0,8.5,7,5,2021
+2021-08-20,SEA,HOU,Seattle Mariners,Houston Astros,9.0,8.5,3,12,2021
+2021-08-20,KAN,CUB,Kansas City Royals,Chicago Cubs,9.0,8.5,6,2,2021
+2021-08-20,ATL,BAL,Atlanta Braves,Baltimore Orioles,10.5,10.0,3,0,2021
+2021-08-20,SFO,OAK,San Francisco Giants,Oakland Athletics,8.5,9.0,1,4,2021
+2021-08-21,NYM,LAD,New York Mets,Los Angeles Dodgers,8.5,8.5,3,4,2021
+2021-08-21,WAS,MIL,Washington Nationals,Milwaukee Brewers,9.0,9.0,6,9,2021
+2021-08-21,MIA,CIN,Miami Marlins,Cincinnati Reds,9.0,9.0,4,7,2021
+2021-08-21,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,9.0,9.0,5,4,2021
+2021-08-21,ARI,COL,Arizona Diamondbacks,Colorado Rockies,11.5,11.5,2,5,2021
+2021-08-21,PHI,SDG,Philadelphia Phillies,San Diego Padres,8.0,7.5,3,4,2021
+2021-08-21,MIN,NYY,Minnesota Twins,New York Yankees,9.0,8.0,1,7,2021
+2021-08-21,CWS,TAM,Chicago White Sox,Tampa Bay Rays,9.0,9.0,4,8,2021
+2021-08-21,DET,TOR,Detroit Tigers,Toronto Blue Jays,9.5,9.5,0,3,2021
+2021-08-21,LAA,CLE,Los Angeles Angels,Cleveland Guardians,9.5,9.0,1,5,2021
+2021-08-21,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.0,1,15,2021
+2021-08-21,TEX,BOS,Texas Rangers,Boston Red Sox,9.5,9.5,10,1,2021
+2021-08-21,KAN,CUB,Kansas City Royals,Chicago Cubs,9.5,9.5,4,2,2021
+2021-08-21,SFO,OAK,San Francisco Giants,Oakland Athletics,8.5,8.0,6,5,2021
+2021-08-21,ATL,BAL,Atlanta Braves,Baltimore Orioles,10.5,10.5,5,4,2021
+2021-08-22,MIA,CIN,Miami Marlins,Cincinnati Reds,9.0,8.5,1,3,2021
+2021-08-22,WAS,MIL,Washington Nationals,Milwaukee Brewers,9.0,9.0,3,7,2021
+2021-08-22,PIT,STL,Pittsburgh Pirates,St. Louis Cardinals,8.5,8.5,0,3,2021
+2021-08-22,ARI,COL,Arizona Diamondbacks,Colorado Rockies,12.0,11.5,8,4,2021
+2021-08-22,PHI,SDG,Philadelphia Phillies,San Diego Padres,9.0,9.0,7,4,2021
+2021-08-22,NYM,LAD,New York Mets,Los Angeles Dodgers,9.0,8.5,7,2,2021
+2021-08-22,DET,TOR,Detroit Tigers,Toronto Blue Jays,10.5,10.0,5,3,2021
+2021-08-22,CWS,TAM,Chicago White Sox,Tampa Bay Rays,9.0,9.0,0,9,2021
+2021-08-22,SEA,HOU,Seattle Mariners,Houston Astros,9.0,9.0,6,3,2021
+2021-08-22,LAA,CLE,Los Angeles Angels,Cleveland Guardians,9.0,9.0,0,3,2021
+2021-08-22,ATL,BAL,Atlanta Braves,Baltimore Orioles,10.0,9.5,3,1,2021
+2021-08-22,KAN,CUB,Kansas City Royals,Chicago Cubs,8.5,8.0,9,1,2021
+2021-08-22,SFO,OAK,San Francisco Giants,Oakland Athletics,8.5,8.0,2,1,2021
+2021-08-23,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,9.0,9.5,5,6,2021
+2021-08-23,COL,CUB,Colorado Rockies,Chicago Cubs,9.0,8.5,4,6,2021
+2021-08-23,CWS,TOR,Chicago White Sox,Toronto Blue Jays,9.0,8.5,1,2,2021
+2021-08-23,KAN,HOU,Kansas City Royals,Houston Astros,9.0,9.0,7,1,2021
+2021-08-23,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.5,5,3,2021
+2021-08-23,NYY,ATL,New York Yankees,Atlanta Braves,9.0,9.0,5,1,2021
+2021-08-23,TEX,BOS,Texas Rangers,Boston Red Sox,9.5,9.5,4,8,2021
+2021-08-24,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,8.5,9.0,2,4,2021
+2021-08-24,SFO,NYM,San Francisco Giants,New York Mets,8.5,8.5,8,0,2021
+2021-08-24,WAS,MIA,Washington Nationals,Miami Marlins,8.5,8.5,5,1,2021
+2021-08-24,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,7.5,7.5,4,7,2021
+2021-08-24,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.5,8.5,5,2,2021
+2021-08-24,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,9.0,5,1,2021
+2021-08-24,LAA,BAL,Los Angeles Angels,Baltimore Orioles,10.5,10.0,14,8,2021
+2021-08-24,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.5,9.0,5,2,2021
+2021-08-24,MIN,BOS,Minnesota Twins,Boston Red Sox,9.5,10.5,9,11,2021
+2021-08-24,TEX,CLE,Texas Rangers,Cleveland Guardians,9.0,9.0,7,3,2021
+2021-08-24,KAN,HOU,Kansas City Royals,Houston Astros,9.0,8.5,0,4,2021
+2021-08-24,TAM,PHI,Tampa Bay Rays,Philadelphia Phillies,9.5,9.0,3,1,2021
+2021-08-24,NYY,ATL,New York Yankees,Atlanta Braves,9.5,9.0,5,4,2021
+2021-08-24,DET,STL,Detroit Tigers,St. Louis Cardinals,8.5,8.0,4,3,2021
+2021-08-25,ARI,PIT,Arizona Diamondbacks,Pittsburgh Pirates,9.0,9.0,5,2,2021
+2021-08-25,WAS,MIA,Washington Nationals,Miami Marlins,8.0,8.0,3,4,2021
+2021-08-25,SFO,NYM,San Francisco Giants,New York Mets,8.5,8.5,3,2,2021
+2021-08-25,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,7.5,7.5,1,4,2021
+2021-08-25,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.0,8.0,5,3,2021
+2021-08-25,KAN,HOU,Kansas City Royals,Houston Astros,9.0,8.0,5,6,2021
+2021-08-25,LAA,BAL,Los Angeles Angels,Baltimore Orioles,9.5,9.0,6,10,2021
+2021-08-25,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.5,8.5,1,3,2021
+2021-08-25,MIN,BOS,Minnesota Twins,Boston Red Sox,10.5,10.5,9,6,2021
+2021-08-25,TEX,CLE,Texas Rangers,Cleveland Guardians,9.0,9.0,2,7,2021
+2021-08-25,DET,STL,Detroit Tigers,St. Louis Cardinals,9.5,9.0,2,3,2021
+2021-08-25,TAM,PHI,Tampa Bay Rays,Philadelphia Phillies,8.5,8.0,7,4,2021
+2021-08-25,COL,CUB,Colorado Rockies,Chicago Cubs,7.0,7.0,2,5,2021
+2021-08-25,COL,CUB,Colorado Rockies,Chicago Cubs,7.0,7.0,13,10,2021
+2021-08-26,CIN,MIL,Cincinnati Reds,Milwaukee Brewers,9.0,9.0,5,1,2021
+2021-08-26,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.0,8.5,7,11,2021
+2021-08-26,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,8.5,9.0,8,7,2021
+2021-08-26,SFO,NYM,San Francisco Giants,New York Mets,8.5,8.5,3,2,2021
+2021-08-26,WAS,MIA,Washington Nationals,Miami Marlins,7.5,7.5,5,7,2021
+2021-08-26,LAD,SDG,Los Angeles Dodgers,San Diego Padres,8.0,7.5,4,0,2021
+2021-08-26,LAA,BAL,Los Angeles Angels,Baltimore Orioles,10.5,10.5,1,13,2021
+2021-08-26,CWS,TOR,Chicago White Sox,Toronto Blue Jays,8.5,8.5,10,7,2021
+2021-08-26,TEX,CLE,Texas Rangers,Cleveland Guardians,9.5,9.5,6,10,2021
+2021-08-26,MIN,BOS,Minnesota Twins,Boston Red Sox,10.0,10.0,2,12,2021
+2021-08-26,NYY,OAK,New York Yankees,Oakland Athletics,8.5,8.5,7,6,2021
+2021-08-26,KAN,SEA,Kansas City Royals,Seattle Mariners,8.5,8.0,6,4,2021
+2021-08-27,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,8.5,8.5,6,7,2021
+2021-08-27,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,9.0,8.5,4,3,2021
+2021-08-27,WAS,NYM,Washington Nationals,New York Mets,9.0,8.5,2,1,2021
+2021-08-27,CIN,MIA,Cincinnati Reds,Miami Marlins,8.0,8.0,6,0,2021
+2021-08-27,SFO,ATL,San Francisco Giants,Atlanta Braves,8.5,8.5,5,6,2021
+2021-08-27,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.0,4,2,2021
+2021-08-27,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.5,10.0,6,3,2021
+2021-08-27,BOS,CLE,Boston Red Sox,Cleveland Guardians,9.5,9.5,4,3,2021
+2021-08-27,TOR,DET,Toronto Blue Jays,Detroit Tigers,9.5,9.5,1,2,2021
+2021-08-27,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,5,4,2021
+2021-08-27,NYY,OAK,New York Yankees,Oakland Athletics,8.0,8.0,8,2,2021
+2021-08-27,KAN,SEA,Kansas City Royals,Seattle Mariners,8.0,8.0,8,7,2021
+2021-08-27,MIL,MIN,Milwaukee Brewers,Minnesota Twins,9.5,9.5,0,2,2021
+2021-08-27,CUB,CWS,Chicago Cubs,Chicago White Sox,9.5,9.0,13,17,2021
+2021-08-27,SDG,LAA,San Diego Padres,Los Angeles Angels,9.0,9.0,5,0,2021
+2021-08-28,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,9.0,8.5,0,7,2021
+2021-08-28,CIN,MIA,Cincinnati Reds,Miami Marlins,8.0,7.5,1,6,2021
+2021-08-28,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,8.5,13,0,2021
+2021-08-28,WAS,NYM,Washington Nationals,New York Mets,8.5,8.0,3,5,2021
+2021-08-28,SFO,ATL,San Francisco Giants,Atlanta Braves,9.0,8.5,5,0,2021
+2021-08-28,COL,LAD,Colorado Rockies,Los Angeles Dodgers,8.5,9.0,2,5,2021
+2021-08-28,BOS,CLE,Boston Red Sox,Cleveland Guardians,9.5,9.0,5,3,2021
+2021-08-28,NYY,OAK,New York Yankees,Oakland Athletics,9.0,9.0,2,3,2021
+2021-08-28,KAN,SEA,Kansas City Royals,Seattle Mariners,8.5,8.5,4,2,2021
+2021-08-28,TOR,DET,Toronto Blue Jays,Detroit Tigers,9.5,9.5,3,2,2021
+2021-08-28,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,9.5,9.5,4,3,2021
+2021-08-28,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,5,2,2021
+2021-08-28,CUB,CWS,Chicago Cubs,Chicago White Sox,8.5,9.0,7,0,2021
+2021-08-28,MIL,MIN,Milwaukee Brewers,Minnesota Twins,9.5,10.0,4,6,2021
+2021-08-28,SDG,LAA,San Diego Padres,Los Angeles Angels,10.0,10.0,2,10,2021
+2021-08-29,ARI,PHI,Arizona Diamondbacks,Philadelphia Phillies,8.5,8.5,4,7,2021
+2021-08-29,STL,PIT,St. Louis Cardinals,Pittsburgh Pirates,8.5,9.0,3,4,2021
+2021-08-29,WAS,NYM,Washington Nationals,New York Mets,8.5,8.0,4,9,2021
+2021-08-29,CIN,MIA,Cincinnati Reds,Miami Marlins,8.0,8.0,1,2,2021
+2021-08-29,SFO,ATL,San Francisco Giants,Atlanta Braves,9.0,9.0,0,9,2021
+2021-08-29,COL,LAD,Colorado Rockies,Los Angeles Dodgers,9.0,9.0,5,0,2021
+2021-08-29,TAM,BAL,Tampa Bay Rays,Baltimore Orioles,10.5,10.0,12,8,2021
+2021-08-29,BOS,CLE,Boston Red Sox,Cleveland Guardians,9.5,10.5,5,7,2021
+2021-08-29,TOR,DET,Toronto Blue Jays,Detroit Tigers,9.5,9.0,2,1,2021
+2021-08-29,HOU,TEX,Houston Astros,Texas Rangers,9.0,8.5,2,13,2021
+2021-08-29,KAN,SEA,Kansas City Royals,Seattle Mariners,8.5,8.5,3,4,2021
+2021-08-29,NYY,OAK,New York Yankees,Oakland Athletics,9.0,9.0,1,3,2021
+2021-08-29,CUB,CWS,Chicago Cubs,Chicago White Sox,8.5,9.0,1,13,2021
+2021-08-29,MIL,MIN,Milwaukee Brewers,Minnesota Twins,10.0,9.5,6,2,2021
+2021-08-30,STL,CIN,St. Louis Cardinals,Cincinnati Reds,9.0,9.5,3,1,2021
+2021-08-30,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.0,8.0,7,4,2021
+2021-08-30,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,9.5,7,5,2021
+2021-08-30,MIL,SFO,Milwaukee Brewers,San Francisco Giants,7.5,7.5,3,1,2021
+2021-08-30,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,9.0,8.5,3,5,2021
+2021-08-30,MIN,DET,Minnesota Twins,Detroit Tigers,9.0,9.0,3,2,2021
+2021-08-30,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.0,3,7,2021
+2021-08-30,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,9.0,1,6,2021
+2021-08-30,NYY,LAA,New York Yankees,Los Angeles Angels,9.0,9.0,7,8,2021
+2021-08-30,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.0,4,3,2021
+2021-08-30,COL,TEX,Colorado Rockies,Texas Rangers,8.5,8.5,3,4,2021
+2021-08-31,PHI,WAS,Philadelphia Phillies,Washington Nationals,9.0,9.0,12,6,2021
+2021-08-31,MIA,NYM,Miami Marlins,New York Mets,6.5,6.5,1,3,2021
+2021-08-31,SDG,ARI,San Diego Padres,Arizona Diamondbacks,9.0,8.0,3,0,2021
+2021-08-31,MIL,SFO,Milwaukee Brewers,San Francisco Giants,7.5,7.5,6,2,2021
+2021-08-31,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,8.0,7.5,2,3,2021
+2021-08-31,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,9.5,9.5,4,2,2021
+2021-08-31,OAK,DET,Oakland Athletics,Detroit Tigers,9.0,9.0,9,3,2021
+2021-08-31,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.5,9.0,5,8,2021
+2021-08-31,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,8.5,7,2,2021
+2021-08-31,NYY,LAA,New York Yankees,Los Angeles Angels,8.5,9.5,4,6,2021
+2021-08-31,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.0,0,4,2021
+2021-08-31,COL,TEX,Colorado Rockies,Texas Rangers,9.0,8.5,3,4,2021
+2021-08-31,PIT,CWS,Pittsburgh Pirates,Chicago White Sox,9.0,8.5,2,4,2021
+2021-08-31,CUB,MIN,Chicago Cubs,Minnesota Twins,9.5,9.5,3,1,2021
+2021-09-01,SDG,ARI,San Diego Padres,Arizona Diamondbacks,8.5,8.5,3,8,2021
+2021-09-01,MIL,SFO,Milwaukee Brewers,San Francisco Giants,7.5,8.0,5,2,2021
+2021-09-01,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,7.5,7.5,3,4,2021
+2021-09-01,HOU,SEA,Houston Astros,Seattle Mariners,8.5,8.5,0,1,2021
+2021-09-01,NYY,LAA,New York Yankees,Los Angeles Angels,8.5,8.5,4,1,2021
+2021-09-01,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.0,9.5,4,5,2021
+2021-09-01,OAK,DET,Oakland Athletics,Detroit Tigers,9.5,9.5,6,8,2021
+2021-09-01,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,7.5,3,2,2021
+2021-09-01,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,5,3,2021
+2021-09-01,COL,TEX,Colorado Rockies,Texas Rangers,9.0,8.5,9,5,2021
+2021-09-01,PIT,CWS,Pittsburgh Pirates,Chicago White Sox,9.0,8.5,3,6,2021
+2021-09-01,CUB,MIN,Chicago Cubs,Minnesota Twins,9.0,9.0,3,0,2021
+2021-09-01,STL,CIN,St. Louis Cardinals,Cincinnati Reds,7.0,7.0,5,4,2021
+2021-09-01,STL,CIN,St. Louis Cardinals,Cincinnati Reds,7.0,7.0,2,12,2021
+2021-09-02,MIL,SFO,Milwaukee Brewers,San Francisco Giants,8.0,7.5,1,5,2021
+2021-09-02,MIA,NYM,Miami Marlins,New York Mets,7.5,7.0,3,4,2021
+2021-09-02,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.5,8.5,5,6,2021
+2021-09-02,ATL,COL,Atlanta Braves,Colorado Rockies,12.5,12.5,6,5,2021
+2021-09-02,OAK,DET,Oakland Athletics,Detroit Tigers,9.0,9.0,8,6,2021
+2021-09-02,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,7.5,4,0,2021
+2021-09-02,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.0,8.5,4,2,2021
+2021-09-02,PHI,WAS,Philadelphia Phillies,Washington Nationals,8.5,8.0,7,6,2021
+2021-09-03,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,9.0,8.5,5,6,2021
+2021-09-03,NYM,WAS,New York Mets,Washington Nationals,9.0,9.0,6,2,2021
+2021-09-03,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,7.5,3,10,2021
+2021-09-03,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,7.5,7.5,15,4,2021
+2021-09-03,ATL,COL,Atlanta Braves,Colorado Rockies,12.5,11.0,3,4,2021
+2021-09-03,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.5,8.5,2,3,2021
+2021-09-03,BAL,NYY,Baltimore Orioles,New York Yankees,9.0,9.0,3,4,2021
+2021-09-03,OAK,TOR,Oakland Athletics,Toronto Blue Jays,9.0,9.0,10,11,2021
+2021-09-03,MIN,TAM,Minnesota Twins,Tampa Bay Rays,9.0,9.0,3,5,2021
+2021-09-03,CLE,BOS,Cleveland Guardians,Boston Red Sox,9.0,9.0,5,8,2021
+2021-09-03,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,9.0,2,7,2021
+2021-09-03,TEX,LAA,Texas Rangers,Los Angeles Angels,8.5,7.5,2,3,2021
+2021-09-03,DET,CIN,Detroit Tigers,Cincinnati Reds,9.5,9.5,15,5,2021
+2021-09-03,SEA,ARI,Seattle Mariners,Arizona Diamondbacks,8.5,8.5,6,5,2021
+2021-09-03,HOU,SDG,Houston Astros,San Diego Padres,8.5,9.0,6,3,2021
+2021-09-04,NYM,WAS,New York Mets,Washington Nationals,6.5,6.5,11,9,2021
+2021-09-04,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,8.5,8.5,6,7,2021
+2021-09-04,NYM,WAS,New York Mets,Washington Nationals,7.0,7.0,3,4,2021
+2021-09-04,PHI,MIA,Philadelphia Phillies,Miami Marlins,7.5,7.5,2,3,2021
+2021-09-04,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.5,8.5,0,4,2021
+2021-09-04,ATL,COL,Atlanta Braves,Colorado Rockies,10.5,11.0,6,7,2021
+2021-09-04,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,8.5,8.5,6,1,2021
+2021-09-04,BAL,NYY,Baltimore Orioles,New York Yankees,10.0,9.0,4,3,2021
+2021-09-04,OAK,TOR,Oakland Athletics,Toronto Blue Jays,9.0,9.0,8,10,2021
+2021-09-04,MIN,TAM,Minnesota Twins,Tampa Bay Rays,9.0,8.5,4,11,2021
+2021-09-04,CLE,BOS,Cleveland Guardians,Boston Red Sox,10.0,9.5,3,4,2021
+2021-09-04,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,8.5,10,7,2021
+2021-09-04,TEX,LAA,Texas Rangers,Los Angeles Angels,8.0,9.0,1,4,2021
+2021-09-04,DET,CIN,Detroit Tigers,Cincinnati Reds,9.0,9.0,4,7,2021
+2021-09-04,SEA,ARI,Seattle Mariners,Arizona Diamondbacks,9.0,9.0,8,5,2021
+2021-09-04,HOU,SDG,Houston Astros,San Diego Padres,8.0,7.5,2,10,2021
+2021-09-05,NYM,WAS,New York Mets,Washington Nationals,8.5,9.0,13,6,2021
+2021-09-05,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,7.5,4,3,2021
+2021-09-05,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.0,7.5,5,6,2021
+2021-09-05,PIT,CUB,Pittsburgh Pirates,Chicago Cubs,9.5,9.0,8,11,2021
+2021-09-05,ATL,COL,Atlanta Braves,Colorado Rockies,11.0,11.5,9,2,2021
+2021-09-05,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,8.0,4,6,2021
+2021-09-05,BAL,NYY,Baltimore Orioles,New York Yankees,9.5,9.5,8,7,2021
+2021-09-05,OAK,TOR,Oakland Athletics,Toronto Blue Jays,9.0,9.5,0,8,2021
+2021-09-05,MIN,TAM,Minnesota Twins,Tampa Bay Rays,9.0,9.0,6,5,2021
+2021-09-05,CLE,BOS,Cleveland Guardians,Boston Red Sox,9.5,9.5,11,5,2021
+2021-09-05,CWS,KAN,Chicago White Sox,Kansas City Royals,9.0,8.5,0,6,2021
+2021-09-05,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,9.5,7,3,2021
+2021-09-05,DET,CIN,Detroit Tigers,Cincinnati Reds,9.0,9.0,4,1,2021
+2021-09-05,SEA,ARI,Seattle Mariners,Arizona Diamondbacks,9.0,9.0,10,4,2021
+2021-09-05,HOU,SDG,Houston Astros,San Diego Padres,9.0,8.5,3,4,2021
+2021-09-06,NYM,WAS,New York Mets,Washington Nationals,9.0,9.5,3,4,2021
+2021-09-06,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,7.5,7.0,12,0,2021
+2021-09-06,CIN,CUB,Cincinnati Reds,Chicago Cubs,8.5,8.0,3,4,2021
+2021-09-06,SFO,COL,San Francisco Giants,Colorado Rockies,11.0,10.5,10,5,2021
+2021-09-06,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,8.0,7.5,5,1,2021
+2021-09-06,KAN,BAL,Kansas City Royals,Baltimore Orioles,10.0,10.0,3,2,2021
+2021-09-06,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,10.0,8,0,2021
+2021-09-06,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,10.0,11,10,2021
+2021-09-06,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.5,5,2,2021
+2021-09-06,SEA,HOU,Seattle Mariners,Houston Astros,8.5,8.5,2,11,2021
+2021-09-06,TEX,LAA,Texas Rangers,Los Angeles Angels,9.0,9.0,4,0,2021
+2021-09-06,DET,PIT,Detroit Tigers,Pittsburgh Pirates,9.0,8.5,3,6,2021
+2021-09-07,NYM,MIA,New York Mets,Miami Marlins,8.0,7.5,9,4,2021
+2021-09-07,WAS,ATL,Washington Nationals,Atlanta Braves,9.0,9.0,5,8,2021
+2021-09-07,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,8.0,8.5,0,10,2021
+2021-09-07,CIN,CUB,Cincinnati Reds,Chicago Cubs,10.5,9.5,4,3,2021
+2021-09-07,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,9.0,9.0,7,2,2021
+2021-09-07,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,12.0,12,3,2021
+2021-09-07,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.5,10.0,3,0,2021
+2021-09-07,KAN,BAL,Kansas City Royals,Baltimore Orioles,10.0,10.0,3,7,2021
+2021-09-07,TOR,NYY,Toronto Blue Jays,New York Yankees,8.5,8.0,5,1,2021
+2021-09-07,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,9.5,12,7,2021
+2021-09-07,SEA,HOU,Seattle Mariners,Houston Astros,9.0,8.5,4,5,2021
+2021-09-07,CWS,OAK,Chicago White Sox,Oakland Athletics,9.0,9.0,6,3,2021
+2021-09-07,DET,PIT,Detroit Tigers,Pittsburgh Pirates,9.0,9.0,2,3,2021
+2021-09-07,TEX,ARI,Texas Rangers,Arizona Diamondbacks,8.5,8.5,3,1,2021
+2021-09-07,LAA,SDG,Los Angeles Angels,San Diego Padres,7.5,7.5,4,0,2021
+2021-09-08,SFO,COL,San Francisco Giants,Colorado Rockies,12.0,11.5,7,4,2021
+2021-09-08,NYM,MIA,New York Mets,Miami Marlins,7.5,7.0,1,2,2021
+2021-09-08,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,10.0,4,2,2021
+2021-09-08,CIN,CUB,Cincinnati Reds,Chicago Cubs,9.0,9.0,1,4,2021
+2021-09-08,PHI,MIL,Philadelphia Phillies,Milwaukee Brewers,8.0,8.0,3,4,2021
+2021-09-08,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,8.5,8.0,4,5,2021
+2021-09-08,SEA,HOU,Seattle Mariners,Houston Astros,9.0,8.5,8,5,2021
+2021-09-08,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,3,0,2021
+2021-09-08,KAN,BAL,Kansas City Royals,Baltimore Orioles,10.0,9.5,8,9,2021
+2021-09-08,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,9.5,6,3,2021
+2021-09-08,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.5,10.0,1,2,2021
+2021-09-08,CWS,OAK,Chicago White Sox,Oakland Athletics,9.0,8.5,1,5,2021
+2021-09-08,TEX,ARI,Texas Rangers,Arizona Diamondbacks,8.5,9.0,8,5,2021
+2021-09-08,DET,PIT,Detroit Tigers,Pittsburgh Pirates,9.0,9.0,5,1,2021
+2021-09-08,LAA,SDG,Los Angeles Angels,San Diego Padres,7.5,8.0,5,8,2021
+2021-09-09,LAD,STL,Los Angeles Dodgers,St. Louis Cardinals,8.5,9.0,1,2,2021
+2021-09-09,NYM,MIA,New York Mets,Miami Marlins,7.5,7.5,2,3,2021
+2021-09-09,COL,PHI,Colorado Rockies,Philadelphia Phillies,8.5,8.0,4,3,2021
+2021-09-09,WAS,ATL,Washington Nationals,Atlanta Braves,9.5,9.0,6,7,2021
+2021-09-09,CWS,OAK,Chicago White Sox,Oakland Athletics,9.0,7.5,1,3,2021
+2021-09-09,MIN,CLE,Minnesota Twins,Cleveland Guardians,9.0,9.0,1,4,2021
+2021-09-09,KAN,BAL,Kansas City Royals,Baltimore Orioles,9.5,8.5,6,0,2021
+2021-09-09,TOR,NYY,Toronto Blue Jays,New York Yankees,9.5,8.5,6,4,2021
+2021-09-10,SFO,CUB,San Francisco Giants,Chicago Cubs,9.0,9.5,6,1,2021
+2021-09-10,WAS,PIT,Washington Nationals,Pittsburgh Pirates,8.5,9.0,3,4,2021
+2021-09-10,COL,PHI,Colorado Rockies,Philadelphia Phillies,8.5,8.5,11,2,2021
+2021-09-10,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,8.0,2,6,2021
+2021-09-10,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.5,4,2,2021
+2021-09-10,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,7.5,0,3,2021
+2021-09-10,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,9.5,9.0,3,6,2021
+2021-09-10,TAM,DET,Tampa Bay Rays,Detroit Tigers,9.5,9.0,4,10,2021
+2021-09-10,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,9.5,6,4,2021
+2021-09-10,LAA,HOU,Los Angeles Angels,Houston Astros,8.0,7.5,5,10,2021
+2021-09-10,BOS,CWS,Boston Red Sox,Chicago White Sox,8.5,8.5,3,4,2021
+2021-09-10,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.5,5,10,2021
+2021-09-10,MIL,CLE,Milwaukee Brewers,Cleveland Guardians,9.5,9.5,10,3,2021
+2021-09-10,NYY,NYM,New York Yankees,New York Mets,8.5,8.0,3,10,2021
+2021-09-10,ARI,SEA,Arizona Diamondbacks,Seattle Mariners,8.0,8.0,4,5,2021
+2021-09-11,SFO,CUB,San Francisco Giants,Chicago Cubs,10.5,10.5,15,4,2021
+2021-09-11,COL,PHI,Colorado Rockies,Philadelphia Phillies,7.5,7.5,1,6,2021
+2021-09-11,WAS,PIT,Washington Nationals,Pittsburgh Pirates,9.0,9.0,7,10,2021
+2021-09-11,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,8.0,4,6,2021
+2021-09-11,MIA,ATL,Miami Marlins,Atlanta Braves,8.5,7.5,6,4,2021
+2021-09-11,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,8.0,4,5,2021
+2021-09-11,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,9.0,8,6,2021
+2021-09-11,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,7.5,7.5,11,10,2021
+2021-09-11,TAM,DET,Tampa Bay Rays,Detroit Tigers,9.0,9.5,7,2,2021
+2021-09-11,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,8.5,4,2,2021
+2021-09-11,BOS,CWS,Boston Red Sox,Chicago White Sox,9.0,9.5,9,8,2021
+2021-09-11,KAN,MIN,Kansas City Royals,Minnesota Twins,9.5,9.0,2,9,2021
+2021-09-11,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,8.0,8.0,11,2,2021
+2021-09-11,MIL,CLE,Milwaukee Brewers,Cleveland Guardians,8.5,9.0,3,0,2021
+2021-09-11,NYY,NYM,New York Yankees,New York Mets,8.0,8.0,8,7,2021
+2021-09-11,ARI,SEA,Arizona Diamondbacks,Seattle Mariners,8.5,8.5,7,3,2021
+2021-09-12,WAS,PIT,Washington Nationals,Pittsburgh Pirates,9.0,9.0,6,2,2021
+2021-09-12,COL,PHI,Colorado Rockies,Philadelphia Phillies,8.5,9.0,5,4,2021
+2021-09-12,MIA,ATL,Miami Marlins,Atlanta Braves,8.0,8.5,3,5,2021
+2021-09-12,CIN,STL,Cincinnati Reds,St. Louis Cardinals,8.5,9.0,0,2,2021
+2021-09-12,SFO,CUB,San Francisco Giants,Chicago Cubs,9.5,9.0,6,5,2021
+2021-09-12,SDG,LAD,San Diego Padres,Los Angeles Dodgers,7.5,7.5,0,8,2021
+2021-09-12,TOR,BAL,Toronto Blue Jays,Baltimore Orioles,10.0,11.0,22,7,2021
+2021-09-12,TAM,DET,Tampa Bay Rays,Detroit Tigers,9.0,9.0,7,8,2021
+2021-09-12,BOS,CWS,Boston Red Sox,Chicago White Sox,9.5,9.0,1,2,2021
+2021-09-12,KAN,MIN,Kansas City Royals,Minnesota Twins,9.0,8.5,5,3,2021
+2021-09-12,LAA,HOU,Los Angeles Angels,Houston Astros,9.0,8.5,1,3,2021
+2021-09-12,TEX,OAK,Texas Rangers,Oakland Athletics,8.5,8.0,4,3,2021
+2021-09-12,MIL,CLE,Milwaukee Brewers,Cleveland Guardians,8.5,9.5,11,1,2021
+2021-09-12,ARI,SEA,Arizona Diamondbacks,Seattle Mariners,8.5,8.0,5,4,2021
+2021-09-12,NYY,NYM,New York Yankees,New York Mets,8.5,8.5,6,7,2021
+2021-09-13,MIA,WAS,Miami Marlins,Washington Nationals,7.5,7.5,3,0,2021
+2021-09-13,STL,NYM,St. Louis Cardinals,New York Mets,8.5,8.0,7,0,2021
+2021-09-13,SDG,SFO,San Diego Padres,San Francisco Giants,8.0,8.0,1,9,2021
+2021-09-13,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.0,8.0,1,5,2021
+2021-09-13,MIN,NYY,Minnesota Twins,New York Yankees,10.0,10.0,5,6,2021
+2021-09-13,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.5,9.0,1,8,2021
+2021-09-13,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,15,1,2021
+2021-09-13,BOS,SEA,Boston Red Sox,Seattle Mariners,8.0,8.0,4,5,2021
+2021-09-14,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.5,8.5,5,6,2021
+2021-09-14,CUB,PHI,Chicago Cubs,Philadelphia Phillies,9.0,9.5,6,3,2021
+2021-09-14,MIA,WAS,Miami Marlins,Washington Nationals,8.5,8.5,2,8,2021
+2021-09-14,STL,NYM,St. Louis Cardinals,New York Mets,8.0,8.0,7,6,2021
+2021-09-14,COL,ATL,Colorado Rockies,Atlanta Braves,9.0,9.0,5,4,2021
+2021-09-14,SDG,SFO,San Diego Padres,San Francisco Giants,8.5,9.0,1,6,2021
+2021-09-14,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.5,9.0,4,8,2021
+2021-09-14,CLE,MIN,Cleveland Guardians,Minnesota Twins,6.5,6.0,3,1,2021
+2021-09-14,NYY,BAL,New York Yankees,Baltimore Orioles,9.5,9.5,7,2,2021
+2021-09-14,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,2,0,2021
+2021-09-14,CLE,MIN,Cleveland Guardians,Minnesota Twins,7.5,7.5,3,6,2021
+2021-09-14,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,1,8,2021
+2021-09-14,OAK,KAN,Oakland Athletics,Kansas City Royals,9.0,9.0,7,10,2021
+2021-09-14,LAA,CWS,Los Angeles Angels,Chicago White Sox,9.0,9.0,3,9,2021
+2021-09-14,BOS,SEA,Boston Red Sox,Seattle Mariners,8.0,8.0,8,4,2021
+2021-09-14,MIL,DET,Milwaukee Brewers,Detroit Tigers,9.0,9.0,0,1,2021
+2021-09-15,MIA,WAS,Miami Marlins,Washington Nationals,8.5,9.0,8,6,2021
+2021-09-15,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.0,9.0,4,5,2021
+2021-09-15,CUB,PHI,Chicago Cubs,Philadelphia Phillies,9.0,9.0,5,6,2021
+2021-09-15,STL,NYM,St. Louis Cardinals,New York Mets,8.0,8.5,11,4,2021
+2021-09-15,COL,ATL,Colorado Rockies,Atlanta Braves,9.0,9.0,3,2,2021
+2021-09-15,SDG,SFO,San Diego Padres,San Francisco Giants,8.5,8.5,9,6,2021
+2021-09-15,ARI,LAD,Arizona Diamondbacks,Los Angeles Dodgers,8.0,8.0,3,5,2021
+2021-09-15,TAM,TOR,Tampa Bay Rays,Toronto Blue Jays,9.0,9.0,3,6,2021
+2021-09-15,BOS,SEA,Boston Red Sox,Seattle Mariners,8.5,8.5,9,4,2021
+2021-09-15,NYY,BAL,New York Yankees,Baltimore Orioles,10.0,10.0,4,3,2021
+2021-09-15,CLE,MIN,Cleveland Guardians,Minnesota Twins,9.0,9.0,12,3,2021
+2021-09-15,HOU,TEX,Houston Astros,Texas Rangers,9.0,9.0,7,2,2021
+2021-09-15,LAA,CWS,Los Angeles Angels,Chicago White Sox,9.5,9.5,3,2,2021
+2021-09-15,OAK,KAN,Oakland Athletics,Kansas City Royals,8.5,8.5,12,10,2021
+2021-09-15,MIL,DET,Milwaukee Brewers,Detroit Tigers,9.0,8.5,1,4,2021
+2021-09-16,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.5,8.0,1,0,2021
+2021-09-16,SDG,SFO,San Diego Padres,San Francisco Giants,8.5,8.0,7,4,2021
+2021-09-16,CUB,PHI,Chicago Cubs,Philadelphia Phillies,9.0,9.0,8,17,2021
+2021-09-16,OAK,KAN,Oakland Athletics,Kansas City Royals,9.5,10.5,7,2,2021
+2021-09-16,LAA,CWS,Los Angeles Angels,Chicago White Sox,8.0,8.0,9,3,2021
+2021-09-16,NYY,BAL,New York Yankees,Baltimore Orioles,10.0,10.5,2,3,2021
+2021-09-16,DET,TAM,Detroit Tigers,Tampa Bay Rays,9.0,8.5,2,5,2021
+2021-09-16,HOU,TEX,Houston Astros,Texas Rangers,9.0,8.5,12,1,2021
+2021-09-17,COL,WAS,Colorado Rockies,Washington Nationals,8.5,8.5,9,8,2021
+2021-09-17,PHI,NYM,Philadelphia Phillies,New York Mets,7.5,7.5,4,3,2021
+2021-09-17,PIT,MIA,Pittsburgh Pirates,Miami Marlins,8.0,7.5,2,1,2021
+2021-09-17,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,8.5,8.5,1,3,2021
+2021-09-17,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.0,5,8,2021
+2021-09-17,SDG,STL,San Diego Padres,St. Louis Cardinals,9.0,9.0,2,8,2021
+2021-09-17,ATL,SFO,Atlanta Braves,San Francisco Giants,7.5,8.0,5,6,2021
+2021-09-17,CLE,NYY,Cleveland Guardians,New York Yankees,10.0,9.0,0,8,2021
+2021-09-17,MIN,TOR,Minnesota Twins,Toronto Blue Jays,9.0,9.5,7,3,2021
+2021-09-17,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,8.5,4,7,2021
+2021-09-17,BAL,BOS,Baltimore Orioles,Boston Red Sox,9.5,9.5,1,7,2021
+2021-09-17,CWS,TEX,Chicago White Sox,Texas Rangers,9.0,8.5,8,0,2021
+2021-09-17,SEA,KAN,Seattle Mariners,Kansas City Royals,9.5,9.0,6,2,2021
+2021-09-17,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,5,4,2021
+2021-09-17,ARI,HOU,Arizona Diamondbacks,Houston Astros,9.0,9.0,3,4,2021
+2021-09-18,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,8.0,8.0,5,1,2021
+2021-09-18,COL,WAS,Colorado Rockies,Washington Nationals,9.0,9.0,6,0,2021
+2021-09-18,PIT,MIA,Pittsburgh Pirates,Miami Marlins,8.0,8.0,6,3,2021
+2021-09-18,PHI,NYM,Philadelphia Phillies,New York Mets,8.0,7.5,5,3,2021
+2021-09-18,CUB,MIL,Chicago Cubs,Milwaukee Brewers,8.0,7.5,4,6,2021
+2021-09-18,SDG,STL,San Diego Padres,St. Louis Cardinals,8.0,7.5,2,3,2021
+2021-09-18,ATL,SFO,Atlanta Braves,San Francisco Giants,8.0,7.5,0,2,2021
+2021-09-18,CLE,NYY,Cleveland Guardians,New York Yankees,9.5,9.5,11,3,2021
+2021-09-18,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.5,10.5,3,9,2021
+2021-09-18,MIN,TOR,Minnesota Twins,Toronto Blue Jays,9.5,9.5,2,6,2021
+2021-09-18,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,8.5,4,3,2021
+2021-09-18,CWS,TEX,Chicago White Sox,Texas Rangers,9.0,8.5,1,2,2021
+2021-09-18,SEA,KAN,Seattle Mariners,Kansas City Royals,9.0,9.0,1,8,2021
+2021-09-18,OAK,LAA,Oakland Athletics,Los Angeles Angels,9.0,9.0,3,1,2021
+2021-09-18,ARI,HOU,Arizona Diamondbacks,Houston Astros,9.0,8.5,6,4,2021
+2021-09-19,COL,WAS,Colorado Rockies,Washington Nationals,9.0,8.5,0,3,2021
+2021-09-19,LAD,CIN,Los Angeles Dodgers,Cincinnati Reds,8.5,9.0,8,5,2021
+2021-09-19,PIT,MIA,Pittsburgh Pirates,Miami Marlins,7.0,7.0,5,6,2021
+2021-09-19,CUB,MIL,Chicago Cubs,Milwaukee Brewers,9.0,9.0,6,4,2021
+2021-09-19,SDG,STL,San Diego Padres,St. Louis Cardinals,9.0,9.0,7,8,2021
+2021-09-19,ATL,SFO,Atlanta Braves,San Francisco Giants,8.0,8.0,3,0,2021
+2021-09-19,PHI,NYM,Philadelphia Phillies,New York Mets,8.0,8.0,2,3,2021
+2021-09-19,CLE,NYY,Cleveland Guardians,New York Yankees,9.0,8.5,11,1,2021
+2021-09-19,MIN,TOR,Minnesota Twins,Toronto Blue Jays,9.0,9.0,3,5,2021
+2021-09-19,DET,TAM,Detroit Tigers,Tampa Bay Rays,8.5,8.5,2,0,2021
+2021-09-19,BAL,BOS,Baltimore Orioles,Boston Red Sox,10.0,9.5,6,8,2021
+2021-09-19,SEA,KAN,Seattle Mariners,Kansas City Royals,9.0,9.5,7,1,2021
+2021-09-19,CWS,TEX,Chicago White Sox,Texas Rangers,9.0,8.5,7,2,2021
+2021-09-19,OAK,LAA,Oakland Athletics,Los Angeles Angels,8.5,8.0,3,2,2021
+2021-09-19,ARI,HOU,Arizona Diamondbacks,Houston Astros,8.5,8.5,6,7,2021
+2021-09-20,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.5,5,9,2021
+2021-09-20,WAS,MIA,Washington Nationals,Miami Marlins,8.5,8.0,7,8,2021
+2021-09-20,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.0,8.0,5,2,2021
+2021-09-20,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.0,9.5,11,4,2021
+2021-09-20,KAN,CLE,Kansas City Royals,Cleveland Guardians,7.0,7.0,7,2,2021
+2021-09-20,CWS,DET,Chicago White Sox,Detroit Tigers,9.0,8.5,3,4,2021
+2021-09-20,TEX,NYY,Texas Rangers,New York Yankees,9.5,8.5,3,4,2021
+2021-09-20,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.5,8.0,4,6,2021
+2021-09-20,KAN,CLE,Kansas City Royals,Cleveland Guardians,8.0,8.0,4,2,2021
+2021-09-20,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,9.0,10,0,2021
+2021-09-20,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.0,4,2,2021
+2021-09-20,BAL,PHI,Baltimore Orioles,Philadelphia Phillies,8.0,7.5,2,0,2021
+2021-09-21,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.0,9.0,6,2,2021
+2021-09-21,WAS,MIA,Washington Nationals,Miami Marlins,8.0,8.0,7,1,2021
+2021-09-21,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,7.5,7.5,2,1,2021
+2021-09-21,LAD,COL,Los Angeles Dodgers,Colorado Rockies,11.0,11.0,5,4,2021
+2021-09-21,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.5,9.5,6,1,2021
+2021-09-21,SFO,SDG,San Francisco Giants,San Diego Padres,7.5,7.5,6,5,2021
+2021-09-21,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.0,1,4,2021
+2021-09-21,CWS,DET,Chicago White Sox,Detroit Tigers,9.5,9.5,3,5,2021
+2021-09-21,TEX,NYY,Texas Rangers,New York Yankees,9.0,8.5,1,7,2021
+2021-09-21,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,8.0,8.5,4,2,2021
+2021-09-21,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,9.5,10,5,2021
+2021-09-21,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.5,5,2,2021
+2021-09-21,BAL,PHI,Baltimore Orioles,Philadelphia Phillies,10.5,9.5,2,3,2021
+2021-09-21,NYM,BOS,New York Mets,Boston Red Sox,9.5,9.5,3,6,2021
+2021-09-21,MIN,CUB,Minnesota Twins,Chicago Cubs,8.0,8.0,9,5,2021
+2021-09-22,WAS,MIA,Washington Nationals,Miami Marlins,8.0,8.0,7,5,2021
+2021-09-22,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,9.0,9.0,10,2,2021
+2021-09-22,LAD,COL,Los Angeles Dodgers,Colorado Rockies,10.5,10.5,5,10,2021
+2021-09-22,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,9.0,9.5,9,2,2021
+2021-09-22,SFO,SDG,San Francisco Giants,San Diego Padres,9.0,9.5,8,6,2021
+2021-09-22,TOR,TAM,Toronto Blue Jays,Tampa Bay Rays,9.0,9.0,1,7,2021
+2021-09-22,TEX,NYY,Texas Rangers,New York Yankees,8.5,9.0,3,7,2021
+2021-09-22,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,9.5,9,5,2021
+2021-09-22,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.5,4,1,2021
+2021-09-22,BAL,PHI,Baltimore Orioles,Philadelphia Phillies,8.5,8.0,3,4,2021
+2021-09-22,NYM,BOS,New York Mets,Boston Red Sox,9.0,9.5,5,12,2021
+2021-09-22,MIN,CUB,Minnesota Twins,Chicago Cubs,7.0,6.5,5,4,2021
+2021-09-23,STL,MIL,St. Louis Cardinals,Milwaukee Brewers,8.0,8.0,8,5,2021
+2021-09-23,LAD,COL,Los Angeles Dodgers,Colorado Rockies,10.5,10.5,7,5,2021
+2021-09-23,ATL,ARI,Atlanta Braves,Arizona Diamondbacks,8.5,8.5,4,6,2021
+2021-09-23,SFO,SDG,San Francisco Giants,San Diego Padres,8.0,7.5,6,7,2021
+2021-09-23,WAS,CIN,Washington Nationals,Cincinnati Reds,8.5,9.0,3,2,2021
+2021-09-23,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,8.5,8.0,6,12,2021
+2021-09-23,CWS,CLE,Chicago White Sox,Cleveland Guardians,7.0,7.0,7,2,2021
+2021-09-23,SEA,OAK,Seattle Mariners,Oakland Athletics,8.5,8.5,6,5,2021
+2021-09-23,CWS,CLE,Chicago White Sox,Cleveland Guardians,6.5,6.0,3,5,2021
+2021-09-23,TEX,BAL,Texas Rangers,Baltimore Orioles,9.0,9.0,0,3,2021
+2021-09-23,TOR,MIN,Toronto Blue Jays,Minnesota Twins,9.5,9.5,2,7,2021
+2021-09-23,HOU,LAA,Houston Astros,Los Angeles Angels,9.0,8.5,2,3,2021
+2021-09-24,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.0,8.5,8,5,2021
+2021-09-24,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,8.5,8.5,6,8,2021
+2021-09-24,WAS,CIN,Washington Nationals,Cincinnati Reds,9.0,8.5,7,8,2021
+2021-09-24,STL,CUB,St. Louis Cardinals,Chicago Cubs,9.0,8.5,12,4,2021
+2021-09-24,NYM,MIL,New York Mets,Milwaukee Brewers,8.5,8.0,1,5,2021
+2021-09-24,SFO,COL,San Francisco Giants,Colorado Rockies,12.0,12.0,7,2,2021
+2021-09-24,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.5,10.0,4,2,2021
+2021-09-24,ATL,SDG,Atlanta Braves,San Diego Padres,8.0,8.5,4,0,2021
+2021-09-24,TEX,BAL,Texas Rangers,Baltimore Orioles,9.0,9.5,8,5,2021
+2021-09-24,NYY,BOS,New York Yankees,Boston Red Sox,9.0,9.0,8,3,2021
+2021-09-24,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.0,1,0,2021
+2021-09-24,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,8.5,3,1,2021
+2021-09-24,TOR,MIN,Toronto Blue Jays,Minnesota Twins,9.0,9.0,1,3,2021
+2021-09-24,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,8.5,6,5,2021
+2021-09-24,HOU,OAK,Houston Astros,Oakland Athletics,7.5,8.5,2,14,2021
+2021-09-24,MIA,TAM,Miami Marlins,Tampa Bay Rays,9.0,8.5,0,8,2021
+2021-09-25,STL,CUB,St. Louis Cardinals,Chicago Cubs,10.5,10.0,8,5,2021
+2021-09-25,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,9.0,8.5,0,3,2021
+2021-09-25,WAS,CIN,Washington Nationals,Cincinnati Reds,9.5,10.0,6,7,2021
+2021-09-25,NYM,MIL,New York Mets,Milwaukee Brewers,7.5,7.5,1,2,2021
+2021-09-25,ATL,SDG,Atlanta Braves,San Diego Padres,9.0,8.5,10,8,2021
+2021-09-25,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,11.5,7,2,2021
+2021-09-25,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.0,2,7,2021
+2021-09-25,HOU,OAK,Houston Astros,Oakland Athletics,8.5,8.0,1,2,2021
+2021-09-25,NYY,BOS,New York Yankees,Boston Red Sox,10.5,10.0,5,3,2021
+2021-09-25,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,1,5,2021
+2021-09-25,TEX,BAL,Texas Rangers,Baltimore Orioles,8.5,9.0,2,3,2021
+2021-09-25,TOR,MIN,Toronto Blue Jays,Minnesota Twins,9.0,8.5,6,1,2021
+2021-09-25,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.5,8.5,0,6,2021
+2021-09-25,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,8.5,1,14,2021
+2021-09-25,MIA,TAM,Miami Marlins,Tampa Bay Rays,7.5,7.0,3,7,2021
+2021-09-26,PIT,PHI,Pittsburgh Pirates,Philadelphia Phillies,9.0,9.0,6,0,2021
+2021-09-26,WAS,CIN,Washington Nationals,Cincinnati Reds,9.5,9.0,2,9,2021
+2021-09-26,NYM,MIL,New York Mets,Milwaukee Brewers,8.0,8.0,4,8,2021
+2021-09-26,STL,CUB,St. Louis Cardinals,Chicago Cubs,10.5,11.0,4,2,2021
+2021-09-26,SFO,COL,San Francisco Giants,Colorado Rockies,11.5,11.5,6,2,2021
+2021-09-26,LAD,ARI,Los Angeles Dodgers,Arizona Diamondbacks,9.0,9.0,3,0,2021
+2021-09-26,ATL,SDG,Atlanta Braves,San Diego Padres,8.5,8.0,4,3,2021
+2021-09-26,KAN,DET,Kansas City Royals,Detroit Tigers,9.0,9.0,2,1,2021
+2021-09-26,TEX,BAL,Texas Rangers,Baltimore Orioles,8.5,8.5,7,4,2021
+2021-09-26,CWS,CLE,Chicago White Sox,Cleveland Guardians,8.0,8.5,5,2,2021
+2021-09-26,TOR,MIN,Toronto Blue Jays,Minnesota Twins,9.0,9.5,5,2,2021
+2021-09-26,SEA,LAA,Seattle Mariners,Los Angeles Angels,8.5,8.5,5,1,2021
+2021-09-26,HOU,OAK,Houston Astros,Oakland Athletics,9.0,9.0,3,4,2021
+2021-09-26,NYY,BOS,New York Yankees,Boston Red Sox,10.0,9.5,6,3,2021
+2021-09-26,MIA,TAM,Miami Marlins,Tampa Bay Rays,8.0,8.0,2,3,2021
+2021-09-27,PIT,CIN,Pittsburgh Pirates,Cincinnati Reds,9.5,9.5,1,13,2021
+2021-09-27,WAS,COL,Washington Nationals,Colorado Rockies,11.5,11.5,5,4,2021
+2021-09-27,CWS,DET,Chicago White Sox,Detroit Tigers,9.5,9.5,8,7,2021
+2021-09-27,OAK,SEA,Oakland Athletics,Seattle Mariners,8.5,8.5,4,13,2021
+2021-09-27,KAN,CLE,Kansas City Royals,Cleveland Guardians,9.0,9.5,3,8,2021
+2021-09-28,MIA,NYM,Miami Marlins,New York Mets,6.0,5.5,2,5,2021
+2021-09-28,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,9.0,8.5,6,8,2021
+2021-09-28,MIA,NYM,Miami Marlins,New York Mets,6.0,6.0,1,2,2021
+2021-09-28,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,7.5,1,2,2021
+2021-09-28,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,7.0,7.0,2,6,2021
+2021-09-28,WAS,COL,Washington Nationals,Colorado Rockies,11.5,11.5,1,3,2021
+2021-09-28,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,7.5,4,6,2021
+2021-09-28,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,7.5,1,2,2021
+2021-09-28,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.0,2,4,2021
+2021-09-28,NYY,TOR,New York Yankees,Toronto Blue Jays,9.5,9.0,7,2,2021
+2021-09-28,DET,MIN,Detroit Tigers,Minnesota Twins,9.5,9.5,2,3,2021
+2021-09-28,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,9.0,2,5,2021
+2021-09-28,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,4,6,2021
+2021-09-28,TAM,HOU,Tampa Bay Rays,Houston Astros,9.0,9.0,3,4,2021
+2021-09-28,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,8.0,2,4,2021
+2021-09-28,CIN,CWS,Cincinnati Reds,Chicago White Sox,9.5,9.0,1,7,2021
+2021-09-29,WAS,COL,Washington Nationals,Colorado Rockies,12.5,11.5,5,10,2021
+2021-09-29,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,8.5,3,2,2021
+2021-09-29,MIA,NYM,Miami Marlins,New York Mets,7.5,7.5,3,2,2021
+2021-09-29,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.0,8.0,2,7,2021
+2021-09-29,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,8.0,7.5,4,0,2021
+2021-09-29,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.0,8.0,0,1,2021
+2021-09-29,SDG,LAD,San Diego Padres,Los Angeles Dodgers,8.0,8.0,9,11,2021
+2021-09-29,BOS,BAL,Boston Red Sox,Baltimore Orioles,9.5,9.5,6,0,2021
+2021-09-29,NYY,TOR,New York Yankees,Toronto Blue Jays,8.5,8.0,5,6,2021
+2021-09-29,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,9.0,2,5,2021
+2021-09-29,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,9.0,7,2,2021
+2021-09-29,CLE,KAN,Cleveland Guardians,Kansas City Royals,9.0,9.0,5,10,2021
+2021-09-29,TAM,HOU,Tampa Bay Rays,Houston Astros,9.0,9.0,7,0,2021
+2021-09-29,OAK,SEA,Oakland Athletics,Seattle Mariners,8.0,7.5,2,4,2021
+2021-09-29,CIN,CWS,Cincinnati Reds,Chicago White Sox,8.5,7.5,1,6,2021
+2021-09-30,MIL,STL,Milwaukee Brewers,St. Louis Cardinals,9.0,8.5,3,4,2021
+2021-09-30,CUB,PIT,Chicago Cubs,Pittsburgh Pirates,8.5,8.5,9,0,2021
+2021-09-30,MIA,NYM,Miami Marlins,New York Mets,8.0,7.5,3,12,2021
+2021-09-30,PHI,ATL,Philadelphia Phillies,Atlanta Braves,8.5,8.5,3,5,2021
+2021-09-30,ARI,SFO,Arizona Diamondbacks,San Francisco Giants,8.5,8.5,4,5,2021
+2021-09-30,SDG,LAD,San Diego Padres,Los Angeles Dodgers,9.0,9.0,3,8,2021
+2021-09-30,LAA,TEX,Los Angeles Angels,Texas Rangers,9.0,8.0,6,7,2021
+2021-09-30,BOS,BAL,Boston Red Sox,Baltimore Orioles,10.5,10.0,2,6,2021
+2021-09-30,NYY,TOR,New York Yankees,Toronto Blue Jays,8.5,8.5,6,2,2021
+2021-09-30,TAM,HOU,Tampa Bay Rays,Houston Astros,9.0,8.5,2,3,2021
+2021-09-30,DET,MIN,Detroit Tigers,Minnesota Twins,9.0,8.5,10,7,2021
+2021-09-30,CLE,KAN,Cleveland Guardians,Kansas City Royals,8.5,8.5,6,1,2021
+2021-10-01,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.5,8.0,2,9,2021
+2021-10-01,PHI,MIA,Philadelphia Phillies,Miami Marlins,6.5,6.5,5,0,2021
+2021-10-01,NYM,ATL,New York Mets,Atlanta Braves,8.5,8.0,4,3,2021
+2021-10-01,CUB,STL,Chicago Cubs,St. Louis Cardinals,8.0,8.0,3,4,2021
+2021-10-01,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,9.0,9,7,2021
+2021-10-01,SDG,SFO,San Diego Padres,San Francisco Giants,9.0,9.0,0,3,2021
+2021-10-01,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,8.0,8.0,6,8,2021
+2021-10-01,TAM,NYY,Tampa Bay Rays,New York Yankees,8.5,8.5,4,3,2021
+2021-10-01,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.0,9.5,4,6,2021
+2021-10-01,CLE,TEX,Cleveland Guardians,Texas Rangers,8.5,8.5,9,6,2021
+2021-10-01,MIN,KAN,Minnesota Twins,Kansas City Royals,9.5,9.5,6,11,2021
+2021-10-01,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,8.5,1,8,2021
+2021-10-01,OAK,HOU,Oakland Athletics,Houston Astros,8.5,8.0,8,6,2021
+2021-10-01,LAA,SEA,Los Angeles Angels,Seattle Mariners,7.5,7.5,2,1,2021
+2021-10-01,BOS,WAS,Boston Red Sox,Washington Nationals,9.5,9.0,4,2,2021
+2021-10-02,SDG,SFO,San Diego Padres,San Francisco Giants,7.5,8.0,3,2,2021
+2021-10-02,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,8.0,1,3,2021
+2021-10-02,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,8.5,8.5,6,8,2021
+2021-10-02,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,9.0,6,5,2021
+2021-10-02,NYM,ATL,New York Mets,Atlanta Braves,8.5,8.5,5,6,2021
+2021-10-02,COL,ARI,Colorado Rockies,Arizona Diamondbacks,8.5,8.5,2,11,2021
+2021-10-02,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,7.5,7.0,3,8,2021
+2021-10-02,TAM,NYY,Tampa Bay Rays,New York Yankees,9.0,8.5,12,2,2021
+2021-10-02,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,8.5,8.5,1,10,2021
+2021-10-02,CLE,TEX,Cleveland Guardians,Texas Rangers,8.5,8.5,2,7,2021
+2021-10-02,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.5,4,10,2021
+2021-10-02,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,9.0,4,5,2021
+2021-10-02,MIN,KAN,Minnesota Twins,Kansas City Royals,9.5,9.0,4,0,2021
+2021-10-02,LAA,SEA,Los Angeles Angels,Seattle Mariners,8.0,8.0,4,6,2021
+2021-10-02,BOS,WAS,Boston Red Sox,Washington Nationals,9.5,9.5,5,3,2021
+2021-10-03,CIN,PIT,Cincinnati Reds,Pittsburgh Pirates,9.5,9.0,6,3,2021
+2021-10-03,SDG,SFO,San Diego Padres,San Francisco Giants,9.0,8.5,4,11,2021
+2021-10-03,PHI,MIA,Philadelphia Phillies,Miami Marlins,8.0,7.5,4,5,2021
+2021-10-03,COL,ARI,Colorado Rockies,Arizona Diamondbacks,9.0,9.0,4,5,2021
+2021-10-03,MIL,LAD,Milwaukee Brewers,Los Angeles Dodgers,8.5,8.5,3,10,2021
+2021-10-03,CUB,STL,Chicago Cubs,St. Louis Cardinals,9.0,8.5,3,2,2021
+2021-10-03,NYM,ATL,New York Mets,Atlanta Braves,8.5,8.5,0,5,2021
+2021-10-03,CLE,TEX,Cleveland Guardians,Texas Rangers,7.5,8.0,6,0,2021
+2021-10-03,TAM,NYY,Tampa Bay Rays,New York Yankees,9.5,9.5,0,1,2021
+2021-10-03,BAL,TOR,Baltimore Orioles,Toronto Blue Jays,10.5,10.0,4,12,2021
+2021-10-03,LAA,SEA,Los Angeles Angels,Seattle Mariners,7.0,7.5,7,3,2021
+2021-10-03,DET,CWS,Detroit Tigers,Chicago White Sox,8.5,8.0,5,2,2021
+2021-10-03,MIN,KAN,Minnesota Twins,Kansas City Royals,10.5,10.0,7,3,2021
+2021-10-03,OAK,HOU,Oakland Athletics,Houston Astros,9.0,9.0,6,7,2021
+2021-10-03,BOS,WAS,Boston Red Sox,Washington Nationals,10.0,9.5,7,5,2021
+2021-10-05,NYY,BOS,New York Yankees,Boston Red Sox,8.5,8.0,2,6,2021
+2021-10-06,STL,LAD,St. Louis Cardinals,Los Angeles Dodgers,7.5,7.5,1,3,2021
+2021-10-07,CWS,HOU,Chicago White Sox,Houston Astros,8.0,7.5,1,6,2021
+2021-10-07,BOS,TAM,Boston Red Sox,Tampa Bay Rays,8.0,8.0,0,5,2021
+2021-10-08,CWS,HOU,Chicago White Sox,Houston Astros,8.0,8.0,4,9,2021
+2021-10-08,BOS,TAM,Boston Red Sox,Tampa Bay Rays,7.5,7.5,14,6,2021
+2021-10-08,ATL,MIL,Atlanta Braves,Milwaukee Brewers,7.0,7.0,1,2,2021
+2021-10-08,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.0,7.0,0,4,2021
+2021-10-09,ATL,MIL,Atlanta Braves,Milwaukee Brewers,7.5,7.0,3,0,2021
+2021-10-09,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.5,7.0,9,2,2021
+2021-10-10,TAM,BOS,Tampa Bay Rays,Boston Red Sox,8.5,8.5,4,6,2021
+2021-10-10,HOU,CWS,Houston Astros,Chicago White Sox,8.0,8.5,6,12,2021
+2021-10-11,MIL,ATL,Milwaukee Brewers,Atlanta Braves,7.5,8.0,0,3,2021
+2021-10-11,TAM,BOS,Tampa Bay Rays,Boston Red Sox,9.0,9.0,5,6,2021
+2021-10-11,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,7.5,1,0,2021
+2021-10-12,MIL,ATL,Milwaukee Brewers,Atlanta Braves,8.5,8.0,4,5,2021
+2021-10-12,SFO,LAD,San Francisco Giants,Los Angeles Dodgers,7.5,8.0,2,7,2021
+2021-10-12,HOU,CWS,Houston Astros,Chicago White Sox,8.5,8.5,10,1,2021
+2021-10-14,LAD,SFO,Los Angeles Dodgers,San Francisco Giants,7.0,7.0,2,1,2021
+2021-10-15,BOS,HOU,Boston Red Sox,Houston Astros,8.5,8.5,4,5,2021
+2021-10-16,BOS,HOU,Boston Red Sox,Houston Astros,8.5,8.5,9,5,2021
+2021-10-16,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,8.0,8.0,2,3,2021
+2021-10-17,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,7.5,8.0,4,5,2021
+2021-10-18,HOU,BOS,Houston Astros,Boston Red Sox,9.0,9.5,3,12,2021
+2021-10-19,HOU,BOS,Houston Astros,Boston Red Sox,10.0,10.0,9,2,2021
+2021-10-19,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,7.5,7.0,5,6,2021
+2021-10-20,HOU,BOS,Houston Astros,Boston Red Sox,9.5,9.5,9,1,2021
+2021-10-20,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,8.0,8.5,9,2,2021
+2021-10-21,ATL,LAD,Atlanta Braves,Los Angeles Dodgers,8.0,7.5,2,11,2021
+2021-10-22,BOS,HOU,Boston Red Sox,Houston Astros,8.5,9.0,0,5,2021
+2021-10-23,LAD,ATL,Los Angeles Dodgers,Atlanta Braves,8.0,8.0,2,4,2021
+2021-10-26,ATL,HOU,Atlanta Braves,Houston Astros,8.0,8.5,6,2,2021
+2021-10-27,ATL,HOU,Atlanta Braves,Houston Astros,8.5,9.0,2,7,2021
+2021-10-29,HOU,ATL,Houston Astros,Atlanta Braves,8.5,8.5,0,2,2021
+2021-10-30,HOU,ATL,Houston Astros,Atlanta Braves,8.5,9.0,2,3,2021
+2021-10-31,HOU,ATL,Houston Astros,Atlanta Braves,8.5,8.5,9,5,2021
+2021-11-02,ATL,HOU,Atlanta Braves,Houston Astros,9.0,8.5,7,0,2021
