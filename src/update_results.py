@@ -276,11 +276,14 @@ def main():
 
         # Pull yesterday's scored bets for the email
         yesterday = (date.today() - timedelta(days=1)).strftime("%Y-%m-%d")
+        if "profit_units" not in combined.columns:
+            combined["profit_units"] = np.nan
         scored = combined[
             combined["date"].astype(str).str.startswith(yesterday) &
             combined["bet"].notna() &
             combined["profit_units"].notna()
         ]
+
         yesterday_results = [
             {
                 "bet":          r["bet"],
