@@ -71,7 +71,7 @@ def fill_results(df: pd.DataFrame, results: dict) -> pd.DataFrame:
             continue
 
         actual = results[key]
-        df.at[idx, "actual_total"] = actual
+        df.loc[idx, "actual_total"] = float(actual)
 
         if pd.isna(row.get("bet")) or row.get("bet") == "":
             continue
@@ -84,9 +84,9 @@ def fill_results(df: pd.DataFrame, results: dict) -> pd.DataFrame:
         push = actual == line
         won = (actual > line) if bet == "OVER" else (actual < line)
 
-        df.at[idx, "push"] = push
-        df.at[idx, "won"] = won if not push else False
-        df.at[idx, "profit_units"] = 0.0 if push else (1.0 if won else -1.1)
+        df.loc[idx, "push"] = bool(push)
+        df.loc[idx, "won"] = bool(won) if not push else False
+        df.loc[idx, "profit_units"] = float(0.0 if push else (1.0 if won else -1.1))
 
     return df
 
