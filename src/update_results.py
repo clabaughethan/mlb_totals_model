@@ -46,14 +46,21 @@ def fetch_results(game_date: str) -> dict:
 def fill_results(df: pd.DataFrame, results: dict) -> pd.DataFrame:
     """Add actual_total, won, push, profit_units to rows that have a bet and no result yet."""
     df = df.copy()
-    if "actual_total" not in df.columns:
-        df["actual_total"] = np.nan
-    if "won" not in df.columns:
-        df["won"] = np.nan
-    if "push" not in df.columns:
-        df["push"] = np.nan
-    if "profit_units" not in df.columns:
-        df["profit_units"] = np.nan
+    expected_dtypes = {
+        "actual_total": "float64",
+        "won": "boolean",
+        "push": "boolean",
+        "profit_units": "float64",
+    }
+
+    for col, dtype in expected_dtypes.items():
+        if col not in df.columns:
+            df[col] = pd.Series([pd.NA] * len(df), dtype=dtype)
+        else:
+            if dtype == "float64":
+                df[col] = pd.to_numeric(df[col], errors="coerce").astype("float64")
+            else:
+                df[col] = df[col].astype(dtype)
 
     for idx, row in df.iterrows():
         if pd.notna(row.get("actual_total")):
