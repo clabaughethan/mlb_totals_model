@@ -1,0 +1,39 @@
+name: MLB Daily Run
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 11am ET daily
+  workflow_dispatch:        # allows manual trigger from GitHub UI
+
+jobs:
+  daily-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily script
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python src/daily_run.py
+
+      - name: Commit results back to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/predictions/ data/lines_cache/
+          git diff --staged --quiet || git commit -m "daily run $(date +%Y-%m-%d)"
+          git push
