@@ -480,8 +480,12 @@ def main():
 
         edge = (predicted - line) if line is not None else None
         bet = None
-        if edge is not None and not np.isnan(edge) and args.edge <= abs(edge) <= MAX_EDGE:
-            bet = "OVER" if edge > 0 else "UNDER"
+        watch = False
+        if edge is not None and not np.isnan(edge):
+            if args.edge <= abs(edge) <= MAX_EDGE:
+                bet = "OVER" if edge > 0 else "UNDER"
+            elif abs(edge) > MAX_EDGE:
+                watch = True  # exceeds cap — track but don't bet
 
         rows.append({
             "away": game["away_team"],
@@ -492,6 +496,7 @@ def main():
             "line": line,
             "edge": round(edge, 2) if edge is not None else None,
             "bet": bet,
+            "watch": watch,
             "temp_f": feats.get("temp_f"),
             "wind_mph": feats.get("wind_mph"),
             "wind_out": bool(feats.get("wind_out_num")),
@@ -516,6 +521,7 @@ def main():
         print(f"  {away:<22} {home:<22} {pred:>5} {line_str:>5} {edge_str:>6} {bet_str:>6}{flag}")
 
     bets = df[df["bet"].notna()]
+    watch_bets = df[df["watch"] == True]
     print(f"\n  {len(bets)} bet(s) flagged (edge {args.edge}–{MAX_EDGE} runs)")
 
     if not bets.empty:
@@ -529,6 +535,14 @@ def main():
                 wind_note = " (wind out)" if r["wind_out"] else ""
                 print(f"    Weather: {r['temp_f']:.0f}°F, {r['wind_mph']:.0f} mph{wind_note}")
 
+    if not watch_bets.empty:
+        print(f"\n{'─'*55}")
+        print(f"  WATCH LIST (edge >{MAX_EDGE} — not betting):")
+        for _, r in watch_bets.iterrows():
+            direction = "OVER" if r["edge"] > 0 else "UNDER"
+            print(f"  {direction} {r['away']} @ {r['home']}"
+                  f"  |  Pred: {r['predicted']:.1f}  Line: {r['line']}  Edge: {r['edge']:+.2f}")
+
     # Save output
     out_dir = Path(__file__).parent.parent / "data" / "predictions"
     out_dir.mkdir(exist_ok=True)
@@ -536,15 +550,14 @@ def main():
     df.to_csv(out_path, index=False)
     print(f"\n  Saved: {out_path.name}")
 
-    # Return flagged bets as list of dicts for daily_run / notify
-    flagged = []
-    for _, r in bets.iterrows():
+    # Return flagged bets and watch list for daily_run / notify
+    def _to_bet_dict(r, bet_label=None):
         wx_parts = []
         if pd.notna(r.get("temp_f")):
             note = " (wind out)" if r.get("wind_out") else ""
             wx_parts.append(f"{r['temp_f']:.0f}°F, {r['wind_mph']:.0f} mph{note}")
-        flagged.append({
-            "bet":       r["bet"],
+        return {
+            "bet":       bet_label or r.get("bet", ""),
             "away":      r["away"],
             "home":      r["home"],
             "predicted": r["predicted"],
@@ -553,8 +566,12 @@ def main():
             "away_sp":   r.get("away_sp", "TBD"),
             "home_sp":   r.get("home_sp", "TBD"),
             "weather":   wx_parts[0] if wx_parts else "",
-        })
-    return flagged
+        }
+
+    flagged = [_to_bet_dict(r) for _, r in bets.iterrows()]
+    watch_list = [_to_bet_dict(r, "OVER" if r["edge"] > 0 else "UNDER")
+                  for _, r in watch_bets.iterrows()]
+    return flagged, watch_list
 
 
 if __name__ == "__main__":

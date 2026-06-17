@@ -37,7 +37,7 @@ def _fmt_block(stats: dict, unit_sizes: list) -> str:
 
 
 def build_email_body(summary: dict, today_bets: list, game_date: str,
-                     yesterday_results: list = None,
+                     yesterday_results: list = None, watch_list: list = None,
                      unit_sizes: list = None) -> str:
     if unit_sizes is None:
         unit_sizes = [10, 20, 25, 50, 100]
@@ -65,6 +65,18 @@ def build_email_body(summary: dict, today_bets: list, game_date: str,
         lines.append("")
     else:
         lines.append("No bets flagged today.")
+        lines.append("")
+
+    # Watch list
+    if watch_list:
+        lines.append(f"WATCH LIST — edge >{1.5} (not betting)")
+        lines.append("─" * 50)
+        for b in watch_list:
+            lines.append(
+                f"  {b['bet']} {b['away']} @ {b['home']}"
+                f"  |  Pred: {b['predicted']:.1f}  Line: {b['line']}  Edge: {b['edge']:+.2f}"
+            )
+            lines.append(f"  {b.get('away_sp','TBD')} vs {b.get('home_sp','TBD')}")
         lines.append("")
 
     # Yesterday's results
@@ -155,10 +167,10 @@ def send_email(subject: str, body: str) -> bool:
 
 
 def notify_daily(summary: dict, today_bets: list, game_date: str,
-                 yesterday_results: list = None):
+                 yesterday_results: list = None, watch_list: list = None):
     """Build and send the daily summary email."""
     subject = f"MLB Totals Model — {game_date}"
-    body = build_email_body(summary, today_bets, game_date, yesterday_results)
+    body = build_email_body(summary, today_bets, game_date, yesterday_results, watch_list)
 
     print(f"\n  Sending daily summary email...")
     send_email(subject, body)
