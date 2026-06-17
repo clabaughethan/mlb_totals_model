@@ -1,16 +1,16 @@
 away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-New York Mets,Cincinnati Reds,Nolan McLean,Nick Lodolo,8.83,9.0,-0.17,,False,81.7,12.5,True
-Kansas City Royals,Washington Nationals,Luinder Avila,Zack Littell,10.4,9.5,0.9,OVER,False,87.7,9.5,False
-Miami Marlins,Philadelphia Phillies,Sandy Alcantara,Andrew Painter,9.23,9.0,0.23,,False,83.7,9.8,True
-San Francisco Giants,Atlanta Braves,Adrian Houser,Grant Holmes,10.15,9.0,1.15,OVER,False,85.1,10.3,False
+New York Mets,Cincinnati Reds,Nolan McLean,Nick Lodolo,8.75,9.0,-0.25,,False,81.2,16.2,True
+Kansas City Royals,Washington Nationals,Luinder Avila,Zack Littell,10.39,9.5,0.89,OVER,False,86.8,9.4,False
+Miami Marlins,Philadelphia Phillies,Sandy Alcantara,Andrew Painter,9.2,9.0,0.2,,False,81.2,10.4,True
+San Francisco Giants,Atlanta Braves,Adrian Houser,Grant Holmes,9.02,9.0,0.02,,False,77.8,13.0,False
 Detroit Tigers,Houston Astros,Casey Mize,Peter Lambert,7.88,8.5,-0.62,,False,,0.0,False
-San Diego Padres,St. Louis Cardinals,Bradgley Rodriguez,Kyle Leahy,7.66,7.5,0.16,,False,86.2,14.2,False
-Tampa Bay Rays,Los Angeles Dodgers,Shane McClanahan,Shohei Ohtani,6.41,7.5,-1.09,UNDER,False,66.0,7.4,False
+San Diego Padres,St. Louis Cardinals,Bradgley Rodriguez,Kyle Leahy,7.58,7.5,0.08,,False,84.7,17.9,False
+Tampa Bay Rays,Los Angeles Dodgers,Shane McClanahan,Shohei Ohtani,6.41,7.5,-1.09,UNDER,False,66.9,7.9,False
 Los Angeles Angels,Arizona Diamondbacks,Sam Aldegheri,Eduardo Rodriguez,8.3,9.0,-0.7,,False,,0.0,False
-Toronto Blue Jays,Boston Red Sox,Max Scherzer,Jake Bennett,11.11,9.5,1.61,,True,78.6,10.7,False
-Chicago White Sox,New York Yankees,Anthony Kay,Carlos Rodón,8.98,8.5,0.48,,False,71.4,11.2,False
-San Francisco Giants,Atlanta Braves,TBD,JR Ritchie,9.54,9.0,0.54,,False,85.1,10.3,False
-Cleveland Guardians,Milwaukee Brewers,Gavin Williams,Brandon Sproat,9.81,7.5,2.31,,True,60.8,2.1,True
-Colorado Rockies,Chicago Cubs,Sean Sullivan,Javier Assad,6.74,10.0,-3.26,,True,,,False
-Pittsburgh Pirates,Athletics,Braxton Ashcraft,Aaron Civale,8.94,10.0,-1.06,UNDER,False,,,False
-Baltimore Orioles,Seattle Mariners,Kyle Bradish,George Kirby,8.23,7.5,0.73,,False,,,False
+Toronto Blue Jays,Boston Red Sox,Braydon Fisher,Jake Bennett,8.11,9.5,-1.39,UNDER,False,76.4,11.4,False
+Chicago White Sox,New York Yankees,Anthony Kay,Carlos Rodón,9.01,8.5,0.51,,False,70.5,9.6,False
+San Francisco Giants,Atlanta Braves,Carson Whisenhunt,JR Ritchie,8.41,9.0,-0.59,,False,77.8,13.0,False
+Cleveland Guardians,Milwaukee Brewers,Gavin Williams,Brandon Sproat,9.38,7.5,1.88,,True,65.2,5.9,False
+Colorado Rockies,Chicago Cubs,Sean Sullivan,Javier Assad,6.52,10.0,-3.48,,True,66.3,9.7,False
+Pittsburgh Pirates,Athletics,Braxton Ashcraft,Aaron Civale,8.77,10.0,-1.23,UNDER,False,78.5,11.5,False
+Baltimore Orioles,Seattle Mariners,Kyle Bradish,George Kirby,8.49,7.5,0.99,OVER,False,70.6,6.0,True
