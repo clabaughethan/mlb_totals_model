@@ -46,21 +46,14 @@ def fetch_results(game_date: str) -> dict:
 def fill_results(df: pd.DataFrame, results: dict) -> pd.DataFrame:
     """Add actual_total, won, push, profit_units to rows that have a bet and no result yet."""
     df = df.copy()
-    expected_dtypes = {
-        "actual_total": "float64",
-        "won": "boolean",
-        "push": "boolean",
-        "profit_units": "float64",
-    }
-
-    for col, dtype in expected_dtypes.items():
-        if col not in df.columns:
-            df[col] = pd.Series([pd.NA] * len(df), dtype=dtype)
-        else:
-            if dtype == "float64":
-                df[col] = pd.to_numeric(df[col], errors="coerce").astype("float64")
-            else:
-                df[col] = df[col].astype(dtype)
+    if "actual_total" not in df.columns:
+        df["actual_total"] = np.nan
+    if "won" not in df.columns:
+        df["won"] = np.nan
+    if "push" not in df.columns:
+        df["push"] = np.nan
+    if "profit_units" not in df.columns:
+        df["profit_units"] = np.nan
 
     for idx, row in df.iterrows():
         if pd.notna(row.get("actual_total")):
@@ -71,7 +64,7 @@ def fill_results(df: pd.DataFrame, results: dict) -> pd.DataFrame:
             continue
 
         actual = results[key]
-        df.loc[idx, "actual_total"] = float(actual)
+        df.at[idx, "actual_total"] = actual
 
         if pd.isna(row.get("bet")) or row.get("bet") == "":
             continue
@@ -81,12 +74,12 @@ def fill_results(df: pd.DataFrame, results: dict) -> pd.DataFrame:
             continue
 
         bet = row["bet"]
-        push = actual == line
-        won = (actual > line) if bet == "OVER" else (actual < line)
+        push = float(actual == line)
+        won = float((actual > line) if bet == "OVER" else (actual < line))
 
-        df.loc[idx, "push"] = bool(push)
-        df.loc[idx, "won"] = bool(won) if not push else False
-        df.loc[idx, "profit_units"] = float(0.0 if push else (1.0 if won else -1.1))
+        df.at[idx, "push"] = push
+        df.at[idx, "won"] = won if not push else 0.0
+        df.at[idx, "profit_units"] = 0.0 if push else (1.0 if won else -1.1)
 
     return df
 
@@ -290,7 +283,6 @@ def main():
             combined["bet"].notna() &
             combined["profit_units"].notna()
         ]
-
         yesterday_results = [
             {
                 "bet":          r["bet"],

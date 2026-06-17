@@ -42,14 +42,15 @@ def main():
         print("=" * 55)
         print("  STEP 2 — Generate today's predictions")
         print("=" * 55)
-        today_bets = predict_today.main() or []
+        result = predict_today.main()
+        today_bets, watch_list = result if isinstance(result, tuple) else (result or [], [])
 
         # Step 3 — send email
         print()
         print("=" * 55)
         print("  STEP 3 — Send daily summary")
         print("=" * 55)
-        notify.notify_daily(summary, today_bets, game_date, yesterday_results)
+        notify.notify_daily(summary, today_bets, game_date, yesterday_results, watch_list)
 
     except Exception as e:
         err = traceback.format_exc()
