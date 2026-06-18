@@ -1,0 +1,10 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Toronto Blue Jays,Boston Red Sox,Trey Yesavage,Sonny Gray,7.63,9.5,-1.87,,True,72.5,2.1,False
+Cleveland Guardians,Milwaukee Brewers,Parker Messick,Shane Drohan,7.45,7.5,-0.05,,False,70.2,9.1,False
+Minnesota Twins,Texas Rangers,Joe Ryan,Jack Leiter,7.95,7.5,0.45,,False,,0.0,False
+Baltimore Orioles,Seattle Mariners,Shane Baz,Bryan Woo,7.37,7.5,-0.13,,False,73.8,8.1,False
+New York Mets,Philadelphia Phillies,Sean Manaea,Aaron Nola,8.35,9.5,-1.15,UNDER,False,86.5,17.3,False
+Chicago White Sox,New York Yankees,Sean Burke,Ryan Weathers,8.49,9.5,-1.01,UNDER,False,89.0,16.0,False
+San Francisco Giants,Atlanta Braves,Landen Roupp,Martín Pérez,7.52,8.0,-0.48,,False,74.2,10.3,False
+St. Louis Cardinals,Kansas City Royals,Matthew Liberatore,Noah Cameron,8.74,9.0,-0.26,,False,77.5,7.2,False
+Los Angeles Angels,Athletics,TBD,Gage Jump,8.97,10.5,-1.53,,True,72.5,13.9,False
