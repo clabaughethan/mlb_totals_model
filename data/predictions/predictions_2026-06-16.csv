@@ -1,0 +1,5 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+New York Mets,Cincinnati Reds,Kodai Senga,Brady Singer,10.8,10.0,0.80,OVER,False,79.0,12.0,True,8,0.0,0.0,-1.1
+Colorado Rockies,Chicago Cubs,Ryan Feltner,Edward Cabrera,8.7,9.5,-0.80,UNDER,False,68.0,15.0,False,7,1.0,0.0,1.0
+Minnesota Twins,Texas Rangers,Zebby Matthews,Kumar Rocker,8.8,8.0,0.80,OVER,False,,,False,14,1.0,0.0,1.0
+Detroit Tigers,Houston Astros,Framber Valdez,Hunter Brown,7.6,8.5,-0.90,UNDER,False,,,False,6,1.0,0.0,1.0
