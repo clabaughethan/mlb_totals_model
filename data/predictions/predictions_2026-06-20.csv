@@ -1,0 +1,15 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Chicago White Sox,Detroit Tigers,Sean Newcomb,Troy Melton,8.17,9.0,-0.83,UNDER,False,76.4,11.0,False
+Cincinnati Reds,New York Yankees,Andrew Abbott,Will Warren,7.88,9.5,-1.62,,True,80.8,12.8,False
+Toronto Blue Jays,Chicago Cubs,Patrick Corbin,Colin Rea,8.78,9.0,-0.22,,False,67.0,7.9,False
+San Diego Padres,Texas Rangers,Walker Buehler,MacKenzie Gore,7.66,7.5,0.16,,False,,0.0,False
+Washington Nationals,Tampa Bay Rays,Cade Cavalli,Ian Seymour,7.28,8.0,-0.72,,False,,0.0,False
+San Francisco Giants,Miami Marlins,Trevor McDonald,Max Meyer,7.37,8.0,-0.63,,False,,0.0,False
+Milwaukee Brewers,Atlanta Braves,Kyle Harrison,Chris Sale,7.19,7.0,0.19,,False,85.5,9.1,True
+Cleveland Guardians,Houston Astros,Joey Cantillo,Spencer Arrighetti,8.59,8.5,0.09,,False,,0.0,False
+New York Mets,Philadelphia Phillies,Freddy Peralta,Cristopher Sánchez,7.58,7.5,0.08,,False,82.8,11.8,False
+Pittsburgh Pirates,Colorado Rockies,Paul Skenes,Tomoyuki Sugano,9.59,10.5,-0.91,UNDER,False,92.2,13.2,True
+Los Angeles Angels,Athletics,Walbert Ureña,J.T. Ginn,9.3,10.0,-0.7,,False,77.3,11.7,False
+Baltimore Orioles,Los Angeles Dodgers,Trevor Rogers,Yoshinobu Yamamoto,7.92,8.0,-0.08,,False,66.5,8.4,False
+Boston Red Sox,Seattle Mariners,Connelly Early,Emerson Hancock,7.69,7.5,0.19,,False,70.6,7.4,False
+Minnesota Twins,Arizona Diamondbacks,Taj Bradley,Zac Gallen,8.65,9.5,-0.85,UNDER,False,,0.0,False
