@@ -8,6 +8,7 @@ Scans data/predictions/ for any CSVs missing actual_total, pulls final
 scores from statsapi, fills in results, and prints a cumulative summary.
 """
 
+import random
 import sys
 import time
 from pathlib import Path
@@ -15,7 +16,22 @@ from datetime import date, timedelta
 
 import pandas as pd
 import numpy as np
+import requests
 import statsapi
+
+
+def _retry(fn, *args, max_attempts=3, base_delay=2, **kwargs):
+    """Call fn(*args, **kwargs) with exponential backoff on 5xx errors."""
+    for attempt in range(max_attempts):
+        try:
+            return fn(*args, **kwargs)
+        except requests.exceptions.HTTPError as e:
+            if attempt + 1 < max_attempts and e.response is not None and e.response.status_code >= 500:
+                delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
+                print(f"  statsapi 5xx (attempt {attempt+1}/{max_attempts}), retrying in {delay:.0f}s...")
+                time.sleep(delay)
+            else:
+                raise
 
 if sys.stdout.encoding != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -30,7 +46,7 @@ UNIT_SIZES = [10, 20, 25, 50, 100]
 def fetch_results(game_date: str) -> dict:
     """Return {(away_team, home_team): total_runs} for all final games on date."""
     try:
-        schedule = statsapi.schedule(start_date=game_date, end_date=game_date, sportId=1)
+        schedule = _retry(statsapi.schedule, start_date=game_date, end_date=game_date, sportId=1)
     except Exception as e:
         print(f"  statsapi error for {game_date}: {e}")
         return {}

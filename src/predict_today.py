@@ -15,6 +15,7 @@ Requirements:
 
 import argparse
 import os
+import random
 import sys
 import time
 import unicodedata
@@ -30,6 +31,21 @@ import pandas as pd
 import requests
 import statsapi
 import joblib
+
+
+def _retry(fn, *args, max_attempts=3, base_delay=2, **kwargs):
+    """Call fn(*args, **kwargs) with exponential backoff on 5xx errors."""
+    for attempt in range(max_attempts):
+        try:
+            return fn(*args, **kwargs)
+        except requests.exceptions.HTTPError as e:
+            if attempt + 1 < max_attempts and e.response is not None and e.response.status_code >= 500:
+                delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
+                print(f"  statsapi 5xx (attempt {attempt+1}/{max_attempts}), retrying in {delay:.0f}s...")
+                time.sleep(delay)
+            else:
+                raise
+
 
 RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
 MODELS_DIR = Path(__file__).parent.parent / "models"
@@ -115,7 +131,7 @@ def normalize_name(name: str) -> str:
 
 def get_today_games(game_date: str) -> list[dict]:
     """Fetch today's scheduled games with starting pitchers."""
-    schedule = statsapi.schedule(start_date=game_date, end_date=game_date, sportId=1)
+    schedule = _retry(statsapi.schedule, start_date=game_date, end_date=game_date, sportId=1)
     games = [g for g in schedule if g["game_type"] == "R"]
     print(f"  {len(games)} regular season games on {game_date}")
 
@@ -125,7 +141,7 @@ def get_today_games(game_date: str) -> list[dict]:
         # Try to get confirmed SP from probable pitchers
         home_sp, away_sp = None, None
         try:
-            details = statsapi.get("game", {"gamePk": game_pk})
+            details = _retry(statsapi.get, "game", {"gamePk": game_pk})
             probs = details.get("gameData", {}).get("probablePitchers", {})
             home_sp = probs.get("home", {}).get("fullName")
             away_sp = probs.get("away", {}).get("fullName")
@@ -154,7 +170,7 @@ def get_recent_team_stats(game_date: str, n_games: int = 14) -> pd.DataFrame:
     end_dt = datetime.strptime(game_date, "%Y-%m-%d")
     start_dt = end_dt - timedelta(days=60)  # look back 60 days to find n_games
 
-    schedule = statsapi.schedule(
+    schedule = _retry(statsapi.schedule,
         start_date=start_dt.strftime("%Y-%m-%d"),
         end_date=(end_dt - timedelta(days=1)).strftime("%Y-%m-%d"),
         sportId=1,
@@ -208,7 +224,7 @@ def get_rest_days(game_date: str) -> dict:
     end_dt = datetime.strptime(game_date, "%Y-%m-%d")
     start_dt = end_dt - timedelta(days=10)
 
-    schedule = statsapi.schedule(
+    schedule = _retry(statsapi.schedule,
         start_date=start_dt.strftime("%Y-%m-%d"),
         end_date=(end_dt - timedelta(days=1)).strftime("%Y-%m-%d"),
         sportId=1,
@@ -247,22 +263,28 @@ def get_forecast_weather(venue_name: str, game_date: str, game_hour_local: int =
         f"&temperature_unit=fahrenheit&windspeed_unit=mph&timezone=auto"
         f"&start_date={game_date}&end_date={game_date}"
     )
-    try:
-        resp = requests.get(url, timeout=15)
-        resp.raise_for_status()
-        data = resp.json()
-        hourly = data.get("hourly", {})
-        idx = min(game_hour_local, len(hourly.get("temperature_2m", [])) - 1)
-        temp = hourly.get("temperature_2m", [None])[idx]
-        wind = hourly.get("windspeed_10m", [None])[idx]
-        wdir = hourly.get("winddirection_10m", [None])[idx]
-        wind_out = False
-        if wdir is not None:
-            diff = abs((wdir - cf_deg + 180) % 360 - 180)
-            wind_out = diff <= 45
-        return {"temp_f": temp, "wind_mph": wind, "wind_deg": wdir, "wind_out": wind_out}
-    except Exception:
-        return {"temp_f": None, "wind_mph": None, "wind_deg": None, "wind_out": False}
+    for attempt in range(3):
+        try:
+            resp = requests.get(url, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+            hourly = data.get("hourly", {})
+            idx = min(game_hour_local, len(hourly.get("temperature_2m", [])) - 1)
+            temp = hourly.get("temperature_2m", [None])[idx]
+            wind = hourly.get("windspeed_10m", [None])[idx]
+            wdir = hourly.get("winddirection_10m", [None])[idx]
+            wind_out = False
+            if wdir is not None:
+                diff = abs((wdir - cf_deg + 180) % 360 - 180)
+                wind_out = diff <= 45
+            return {"temp_f": temp, "wind_mph": wind, "wind_deg": wdir, "wind_out": wind_out}
+        except requests.exceptions.RequestException:
+            if attempt + 1 < 3:
+                delay = 2 * (2 ** attempt) + random.uniform(0, 1)
+                print(f"  Open-Meteo error (attempt {attempt+1}/3), retrying in {delay:.0f}s...")
+                time.sleep(delay)
+            else:
+                return {"temp_f": None, "wind_mph": None, "wind_deg": None, "wind_out": False}
 
 
 def load_sp_stats(season: int) -> pd.DataFrame:
@@ -314,33 +336,40 @@ def get_lines_oddsapi(game_date: str) -> dict:
         "https://api.the-odds-api.com/v4/sports/baseball_mlb/odds/"
         f"?apiKey={api_key}&regions=us&markets=totals&oddsFormat=american"
     )
-    try:
-        resp = requests.get(url, timeout=15)
-        resp.raise_for_status()
-        remaining = resp.headers.get("x-requests-remaining", "?")
-        lines = {}
-        for game in resp.json():
-            home = game.get("home_team", "")
-            away = game.get("away_team", "")
-            for bookmaker in game.get("bookmakers", []):
-                for market in bookmaker.get("markets", []):
-                    if market["key"] == "totals":
-                        for outcome in market.get("outcomes", []):
-                            if outcome["name"] == "Over":
-                                # Store both orderings so matching works regardless of API convention
-                                lines[(home, away)] = outcome["point"]
-                                lines[(away, home)] = outcome["point"]
-                                break
-                        break
+    for attempt in range(3):
+        try:
+            resp = requests.get(url, timeout=15)
+            resp.raise_for_status()
+            remaining = resp.headers.get("x-requests-remaining", "?")
+            lines = {}
+            for game in resp.json():
+                home = game.get("home_team", "")
+                away = game.get("away_team", "")
+                for bookmaker in game.get("bookmakers", []):
+                    for market in bookmaker.get("markets", []):
+                        if market["key"] == "totals":
+                            for outcome in market.get("outcomes", []):
+                                if outcome["name"] == "Over":
+                                    # Store both orderings so matching works regardless of API convention
+                                    lines[(home, away)] = outcome["point"]
+                                    lines[(away, home)] = outcome["point"]
+                                    break
+                            break
 
-        # Save to cache (deduplicated)
-        import json
-        cache_path.write_text(json.dumps({"|||".join(k): v for k, v in lines.items()}))
-        print(f"  Odds API: {len(lines)} lines fetched  ({remaining} credits remaining)")
-        return lines
-    except Exception as e:
-        print(f"  Odds API error: {e}")
-        return {}
+            # Save to cache (deduplicated)
+            import json
+            cache_path.write_text(json.dumps({"|||".join(k): v for k, v in lines.items()}))
+            print(f"  Odds API: {len(lines)} lines fetched  ({remaining} credits remaining)")
+            return lines
+        except Exception as e:
+            if attempt + 1 < 3:
+                print(f"  Odds API error (attempt {attempt+1}/3): {e}")
+                delay = 2 * (2 ** attempt) + random.uniform(0, 1)
+                print(f"  Retrying in {delay:.0f}s...")
+                time.sleep(delay)
+            else:
+                print(f"  Odds API error: {e}")
+                return {}
 
 
 def get_prior_season_lg_rpg(season: int) -> float:
