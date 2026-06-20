@@ -15,6 +15,7 @@ Requirements:
 
 import argparse
 import os
+import random
 import sys
 import time
 import unicodedata
@@ -30,6 +31,21 @@ import pandas as pd
 import requests
 import statsapi
 import joblib
+
+
+def _retry(fn, *args, max_attempts=3, base_delay=2, **kwargs):
+    """Call fn(*args, **kwargs) with exponential backoff on 5xx errors."""
+    for attempt in range(max_attempts):
+        try:
+            return fn(*args, **kwargs)
+        except requests.exceptions.HTTPError as e:
+            if attempt + 1 < max_attempts and e.response is not None and e.response.status_code >= 500:
+                delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
+                print(f"  statsapi 5xx (attempt {attempt+1}/{max_attempts}), retrying in {delay:.0f}s...")
+                time.sleep(delay)
+            else:
+                raise
+
 
 RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
 MODELS_DIR = Path(__file__).parent.parent / "models"
@@ -115,7 +131,7 @@ def normalize_name(name: str) -> str:
 
 def get_today_games(game_date: str) -> list[dict]:
     """Fetch today's scheduled games with starting pitchers."""
-    schedule = statsapi.schedule(start_date=game_date, end_date=game_date, sportId=1)
+    schedule = _retry(statsapi.schedule, start_date=game_date, end_date=game_date, sportId=1)
     games = [g for g in schedule if g["game_type"] == "R"]
     print(f"  {len(games)} regular season games on {game_date}")
 
@@ -125,7 +141,7 @@ def get_today_games(game_date: str) -> list[dict]:
         # Try to get confirmed SP from probable pitchers
         home_sp, away_sp = None, None
         try:
-            details = statsapi.get("game", {"gamePk": game_pk})
+            details = _retry(statsapi.get, "game", {"gamePk": game_pk})
             probs = details.get("gameData", {}).get("probablePitchers", {})
             home_sp = probs.get("home", {}).get("fullName")
             away_sp = probs.get("away", {}).get("fullName")
@@ -154,7 +170,7 @@ def get_recent_team_stats(game_date: str, n_games: int = 14) -> pd.DataFrame:
     end_dt = datetime.strptime(game_date, "%Y-%m-%d")
     start_dt = end_dt - timedelta(days=60)  # look back 60 days to find n_games
 
-    schedule = statsapi.schedule(
+    schedule = _retry(statsapi.schedule,
         start_date=start_dt.strftime("%Y-%m-%d"),
         end_date=(end_dt - timedelta(days=1)).strftime("%Y-%m-%d"),
         sportId=1,
@@ -208,7 +224,7 @@ def get_rest_days(game_date: str) -> dict:
     end_dt = datetime.strptime(game_date, "%Y-%m-%d")
     start_dt = end_dt - timedelta(days=10)
 
-    schedule = statsapi.schedule(
+    schedule = _retry(statsapi.schedule,
         start_date=start_dt.strftime("%Y-%m-%d"),
         end_date=(end_dt - timedelta(days=1)).strftime("%Y-%m-%d"),
         sportId=1,
