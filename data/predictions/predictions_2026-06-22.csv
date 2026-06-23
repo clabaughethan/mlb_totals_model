@@ -1,14 +1,14 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-New York Yankees,Detroit Tigers,Gerrit Cole,Framber Valdez,8.14,8.5,-0.36,,False,69.4,9.0,False
-Kansas City Royals,Tampa Bay Rays,Michael Wacha,Drew Rasmussen,6.92,7.5,-0.58,,False,,0.0,False
-Texas Rangers,Miami Marlins,Tyler Alexander,Tyler Phillips,7.39,8.5,-1.11,UNDER,False,,0.0,False
-Philadelphia Phillies,Washington Nationals,TBD,Foster Griffin,8.76,10.0,-1.24,UNDER,False,76.4,13.7,True
-Houston Astros,Toronto Blue Jays,Hunter Brown,Dylan Cease,6.0,7.5,-1.5,,True,,0.0,False
-Chicago Cubs,New York Mets,Shota Imanaga,Kodai Senga,9.77,8.5,1.27,OVER,False,70.9,10.5,False
-Milwaukee Brewers,Cincinnati Reds,TBD,Brady Singer,8.67,9.5,-0.83,UNDER,False,68.8,11.3,False
-Los Angeles Dodgers,Minnesota Twins,Eric Lauer,Zebby Matthews,10.81,9.5,1.31,OVER,False,76.9,6.2,False
-Cleveland Guardians,Chicago White Sox,Gavin Williams,Anthony Kay,8.55,7.5,1.05,OVER,False,,,False
-Arizona Diamondbacks,St. Louis Cardinals,Merrill Kelly,Andre Pallante,9.65,8.5,1.15,OVER,False,69.0,6.8,False
-Boston Red Sox,Colorado Rockies,Jake Bennett,Ryan Feltner,9.62,11.5,-1.88,,True,87.2,10.8,False
-Baltimore Orioles,Los Angeles Angels,Kyle Bradish,Sam Aldegheri,9.47,9.0,0.47,,False,69.4,7.9,True
-Atlanta Braves,San Diego Padres,Grant Holmes,Michael King,8.83,7.5,1.33,OVER,False,66.6,5.8,True
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+New York Yankees,Detroit Tigers,Gerrit Cole,Framber Valdez,8.14,8.5,-0.36,,False,69.4,9.0,False,8.0,,,
+Kansas City Royals,Tampa Bay Rays,Michael Wacha,Drew Rasmussen,6.92,7.5,-0.58,,False,,0.0,False,3.0,,,
+Texas Rangers,Miami Marlins,Tyler Alexander,Tyler Phillips,7.39,8.5,-1.11,UNDER,False,,0.0,False,7.0,1.0,0.0,1.0
+Philadelphia Phillies,Washington Nationals,TBD,Foster Griffin,8.76,10.0,-1.24,UNDER,False,76.4,13.7,True,5.0,1.0,0.0,1.0
+Houston Astros,Toronto Blue Jays,Hunter Brown,Dylan Cease,6.0,7.5,-1.5,,True,,0.0,False,6.0,,,
+Chicago Cubs,New York Mets,Shota Imanaga,Kodai Senga,9.77,8.5,1.27,OVER,False,70.9,10.5,False,,,,
+Milwaukee Brewers,Cincinnati Reds,TBD,Brady Singer,8.67,9.5,-0.83,UNDER,False,68.8,11.3,False,3.0,1.0,0.0,1.0
+Los Angeles Dodgers,Minnesota Twins,Eric Lauer,Zebby Matthews,10.81,9.5,1.31,OVER,False,76.9,6.2,False,3.0,0.0,0.0,-1.1
+Cleveland Guardians,Chicago White Sox,Gavin Williams,Anthony Kay,8.55,7.5,1.05,OVER,False,,,False,11.0,1.0,0.0,1.0
+Arizona Diamondbacks,St. Louis Cardinals,Merrill Kelly,Andre Pallante,9.65,8.5,1.15,OVER,False,69.0,6.8,False,5.0,0.0,0.0,-1.1
+Boston Red Sox,Colorado Rockies,Jake Bennett,Ryan Feltner,9.62,11.5,-1.88,,True,87.2,10.8,False,5.0,,,
+Baltimore Orioles,Los Angeles Angels,Kyle Bradish,Sam Aldegheri,9.47,9.0,0.47,,False,69.4,7.9,True,7.0,,,
+Atlanta Braves,San Diego Padres,Grant Holmes,Michael King,8.83,7.5,1.33,OVER,False,66.6,5.8,True,1.0,0.0,0.0,-1.1
