@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Washington Nationals,Baltimore Orioles,Zack Littell,Kyle Bradish,9.67,9.0,0.67,,False,76.2,1.0,False
+Cincinnati Reds,Pittsburgh Pirates,Brady Singer,Mitch Keller,9.93,9.0,0.93,OVER,False,75.7,4.7,True
+Texas Rangers,Toronto Blue Jays,Kumar Rocker,Shane Bieber,8.25,8.5,-0.25,,False,,0.0,False
+Houston Astros,Detroit Tigers,Hunter Brown,Jack Flaherty,6.23,8.0,-1.77,,True,83.3,7.7,False
+Seattle Mariners,Cleveland Guardians,Emerson Hancock,Gavin Williams,6.71,7.5,-0.79,UNDER,False,79.7,8.1,False
+Arizona Diamondbacks,Tampa Bay Rays,Merrill Kelly,Drew Rasmussen,8.08,7.5,0.58,,False,,0.0,False
+Philadelphia Phillies,New York Mets,Jesús Luzardo,Cionel Pérez,8.38,8.5,-0.12,,False,77.4,7.7,False
+Colorado Rockies,Minnesota Twins,Ryan Feltner,Connor Prielipp,9.43,9.0,0.43,,False,78.7,12.8,False
+Kansas City Royals,Chicago White Sox,Luinder Avila,Anthony Kay,9.55,8.5,1.05,OVER,False,,,False
+Chicago Cubs,Milwaukee Brewers,Ryan Rolison,Brandon Woodruff,8.21,8.0,0.21,,False,73.3,8.6,False
+Miami Marlins,St. Louis Cardinals,Tyler Phillips,Kyle Leahy,8.59,9.0,-0.41,,False,91.3,10.2,False
+Athletics,Los Angeles Angels,Aaron Civale,Sam Aldegheri,9.64,9.5,0.14,,False,67.0,7.7,True
+Atlanta Braves,San Francisco Giants,Chris Sale,Robbie Ray,7.2,7.5,-0.3,,False,68.3,14.6,True
+Los Angeles Dodgers,San Diego Padres,Emmet Sheehan,Michael King,8.61,8.0,0.61,,False,65.9,6.0,True
+New York Yankees,Boston Red Sox,Carlos Rodón,Sonny Gray,7.56,8.0,-0.44,,False,,,False
