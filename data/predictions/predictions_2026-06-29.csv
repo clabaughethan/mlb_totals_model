@@ -1,14 +1,14 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-Chicago White Sox,Baltimore Orioles,Sean Burke,Shane Baz,8.11,9.5,-1.39,UNDER,False,88.4,5.4,False
-Pittsburgh Pirates,Philadelphia Phillies,Braxton Ashcraft,Aaron Nola,8.74,8.5,0.24,,False,85.0,10.3,True
-Detroit Tigers,New York Yankees,Casey Mize,Ryan Weathers,7.06,7.5,-0.44,,False,83.2,8.4,False
-New York Mets,Toronto Blue Jays,Sean Manaea,Trey Yesavage,7.92,9.0,-1.08,UNDER,False,,0.0,False
-Washington Nationals,Boston Red Sox,Miles Mikolas,Ranger Suarez,8.18,8.5,-0.32,,False,70.9,6.5,False
-Texas Rangers,Cleveland Guardians,Tyler Alexander,Parker Messick,6.79,7.5,-0.71,,False,84.8,7.4,False
-Cincinnati Reds,Milwaukee Brewers,Nick Lodolo,Robert Gasser,9.95,9.0,0.95,OVER,False,91.0,12.7,False
-San Diego Padres,Chicago Cubs,TBD,Shota Imanaga,8.71,11.0,-2.29,,True,89.7,13.0,False
-Minnesota Twins,Houston Astros,Zebby Matthews,Peter Lambert,8.82,9.0,-0.18,,False,,0.0,False
-Miami Marlins,Colorado Rockies,Sandy Alcantara,TBD,9.35,11.5,-2.15,,True,85.6,11.0,False
-Los Angeles Dodgers,Athletics,Eric Lauer,Gage Jump,10.06,10.5,-0.44,,False,89.9,5.1,True
-Los Angeles Angels,Seattle Mariners,Ryan Johnson,George Kirby,10.27,8.0,2.27,,True,68.2,6.4,False
-San Francisco Giants,Arizona Diamondbacks,Tyler Mahle,Eduardo Rodriguez,9.01,9.0,0.01,,False,,0.0,False
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+Chicago White Sox,Baltimore Orioles,Sean Burke,Shane Baz,8.11,9.5,-1.39,UNDER,False,88.4,5.4,False,10.0,0.0,0.0,-1.1
+Pittsburgh Pirates,Philadelphia Phillies,Braxton Ashcraft,Aaron Nola,8.74,8.5,0.24,,False,85.0,10.3,True,18.0,,,
+Detroit Tigers,New York Yankees,Casey Mize,Ryan Weathers,7.06,7.5,-0.44,,False,83.2,8.4,False,10.0,,,
+New York Mets,Toronto Blue Jays,Sean Manaea,Trey Yesavage,7.92,9.0,-1.08,UNDER,False,,0.0,False,3.0,1.0,0.0,1.0
+Washington Nationals,Boston Red Sox,Miles Mikolas,Ranger Suarez,8.18,8.5,-0.32,,False,70.9,6.5,False,9.0,,,
+Texas Rangers,Cleveland Guardians,Tyler Alexander,Parker Messick,6.79,7.5,-0.71,,False,84.8,7.4,False,9.0,,,
+Cincinnati Reds,Milwaukee Brewers,Nick Lodolo,Robert Gasser,9.95,9.0,0.95,OVER,False,91.0,12.7,False,8.0,0.0,0.0,-1.1
+San Diego Padres,Chicago Cubs,TBD,Shota Imanaga,8.71,11.0,-2.29,,True,89.7,13.0,False,5.0,,,
+Minnesota Twins,Houston Astros,Zebby Matthews,Peter Lambert,8.82,9.0,-0.18,,False,,0.0,False,9.0,,,
+Miami Marlins,Colorado Rockies,Sandy Alcantara,TBD,9.35,11.5,-2.15,,True,85.6,11.0,False,17.0,,,
+Los Angeles Dodgers,Athletics,Eric Lauer,Gage Jump,10.06,10.5,-0.44,,False,89.9,5.1,True,13.0,,,
+Los Angeles Angels,Seattle Mariners,Ryan Johnson,George Kirby,10.27,8.0,2.27,,True,68.2,6.4,False,8.0,,,
+San Francisco Giants,Arizona Diamondbacks,Tyler Mahle,Eduardo Rodriguez,9.01,9.0,0.01,,False,,0.0,False,9.0,,,
