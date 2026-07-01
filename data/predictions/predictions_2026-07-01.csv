@@ -1,0 +1,15 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Chicago White Sox,Baltimore Orioles,Noah Schultz,Dean Kremer,8.37,10.0,-1.63,,True,98.1,8.5,False
+Texas Rangers,Cleveland Guardians,MacKenzie Gore,Joey Cantillo,7.98,7.5,0.48,,False,94.2,9.3,False
+Washington Nationals,Boston Red Sox,Brad Lord,Payton Tolle,8.07,9.5,-1.43,UNDER,False,94.7,8.4,True
+Detroit Tigers,New York Yankees,Troy Melton,Will Warren,8.22,9.5,-1.28,UNDER,False,88.8,9.2,False
+San Diego Padres,Chicago Cubs,Walker Buehler,Colin Rea,8.83,12.0,-3.17,,True,92.0,12.7,False
+New York Mets,Toronto Blue Jays,Freddy Peralta,Braydon Fisher,7.48,8.5,-1.02,UNDER,False,,0.0,False
+Pittsburgh Pirates,Philadelphia Phillies,Paul Skenes,Zack Wheeler,8.36,8.0,0.36,,False,98.0,7.3,True
+St. Louis Cardinals,Atlanta Braves,Michael McGreevy,Reynaldo López,8.25,9.0,-0.75,UNDER,False,97.5,6.7,False
+Tampa Bay Rays,Kansas City Royals,Shane McClanahan,Seth Lugo,8.06,10.5,-2.44,,True,92.7,15.4,False
+Minnesota Twins,Houston Astros,Taj Bradley,Tatsuya Imai,9.12,8.5,0.62,,False,,0.0,False
+Cincinnati Reds,Milwaukee Brewers,Andrew Abbott,Shane Drohan,7.36,9.0,-1.64,,True,92.2,14.5,False
+Miami Marlins,Colorado Rockies,Max Meyer,Kyle Freeland,9.54,11.0,-1.46,UNDER,False,90.5,6.5,False
+Los Angeles Dodgers,Athletics,TBD,J.T. Ginn,8.69,11.0,-2.31,,True,82.7,10.4,False
+San Francisco Giants,Arizona Diamondbacks,Trevor McDonald,Zac Gallen,8.47,9.5,-1.03,UNDER,False,,0.0,False

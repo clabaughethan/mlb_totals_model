@@ -2,15 +2,15 @@ away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
 Chicago White Sox,Baltimore Orioles,Erick Fedde,Trey Gibson,10.72,10.5,0.22,,False,88.9,11.6,False,12.0,,,
 Texas Rangers,Cleveland Guardians,Jacob deGrom,Tanner Bibee,8.13,8.0,0.13,,False,92.2,8.6,True,6.0,,,
 Pittsburgh Pirates,Philadelphia Phillies,Bubba Chandler,Cristopher Sánchez,8.57,8.5,0.07,,False,88.9,10.2,True,8.0,,,
-Detroit Tigers,New York Yankees,Tarik Skubal,Cam Schlittler,6.14,7.0,-0.86,UNDER,False,88.4,9.2,False,,,,
-New York Mets,Toronto Blue Jays,Nolan McLean,Kevin Gausman,6.96,8.0,-1.04,UNDER,False,,0.0,False,,,,
-Washington Nationals,Boston Red Sox,Cade Cavalli,Connelly Early,7.43,9.0,-1.57,,True,86.4,8.7,False,,,,
-St. Louis Cardinals,Atlanta Braves,Matthew Liberatore,Martín Pérez,8.61,9.0,-0.39,,False,95.2,6.9,False,,,,
-Tampa Bay Rays,Kansas City Royals,Griffin Jax,Noah Cameron,9.2,10.0,-0.8,UNDER,False,92.5,15.6,False,,,,
-Cincinnati Reds,Milwaukee Brewers,Rhett Lowder,Brandon Sproat,8.34,9.0,-0.66,,False,92.2,14.4,False,,,,
-San Diego Padres,Chicago Cubs,JP Sears,Matthew Boyd,8.13,11.5,-3.37,,True,90.7,13.7,False,,,,
-Minnesota Twins,Houston Astros,Joe Ryan,Mike Burrows,8.36,8.5,-0.14,,False,,0.0,False,,,,
-Miami Marlins,Colorado Rockies,Eury Pérez,Tanner Gordon,9.54,11.5,-1.96,,True,82.2,12.3,False,,,,
-Los Angeles Dodgers,Athletics,Justin Wrobleski,Jeffrey Springs,8.74,11.0,-2.26,,True,,,False,,,,
-Los Angeles Angels,Seattle Mariners,José Soriano,Bryan Woo,6.85,7.0,-0.15,,False,,,False,,,,
-San Francisco Giants,Arizona Diamondbacks,Landen Roupp,TBD,8.14,9.0,-0.86,UNDER,False,,0.0,False,,,,
+Detroit Tigers,New York Yankees,Tarik Skubal,Cam Schlittler,6.14,7.0,-0.86,UNDER,False,88.4,9.2,False,12.0,0.0,0.0,-1.1
+New York Mets,Toronto Blue Jays,Nolan McLean,Kevin Gausman,6.96,8.0,-1.04,UNDER,False,,0.0,False,3.0,1.0,0.0,1.0
+Washington Nationals,Boston Red Sox,Cade Cavalli,Connelly Early,7.43,9.0,-1.57,,True,86.4,8.7,False,9.0,,,
+St. Louis Cardinals,Atlanta Braves,Matthew Liberatore,Martín Pérez,8.61,9.0,-0.39,,False,95.2,6.9,False,8.0,,,
+Tampa Bay Rays,Kansas City Royals,Griffin Jax,Noah Cameron,9.2,10.0,-0.8,UNDER,False,92.5,15.6,False,14.0,0.0,0.0,-1.1
+Cincinnati Reds,Milwaukee Brewers,Rhett Lowder,Brandon Sproat,8.34,9.0,-0.66,,False,92.2,14.4,False,9.0,,,
+San Diego Padres,Chicago Cubs,JP Sears,Matthew Boyd,8.13,11.5,-3.37,,True,90.7,13.7,False,16.0,,,
+Minnesota Twins,Houston Astros,Joe Ryan,Mike Burrows,8.36,8.5,-0.14,,False,,0.0,False,10.0,,,
+Miami Marlins,Colorado Rockies,Eury Pérez,Tanner Gordon,9.54,11.5,-1.96,,True,82.2,12.3,False,17.0,,,
+Los Angeles Dodgers,Athletics,Justin Wrobleski,Jeffrey Springs,8.74,11.0,-2.26,,True,,,False,12.0,,,
+Los Angeles Angels,Seattle Mariners,José Soriano,Bryan Woo,6.85,7.0,-0.15,,False,,,False,11.0,,,
+San Francisco Giants,Arizona Diamondbacks,Landen Roupp,TBD,8.14,9.0,-0.86,UNDER,False,,0.0,False,10.0,0.0,0.0,-1.1
