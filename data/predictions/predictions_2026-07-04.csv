@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Pittsburgh Pirates,Washington Nationals,Braxton Ashcraft,Carson Palmquist,8.79,12.5,-3.71,,True,93.6,10.0,True
+Minnesota Twins,New York Yankees,Zebby Matthews,Brendan Beck,8.42,10.5,-2.08,,True,98.0,7.9,False
+Detroit Tigers,Texas Rangers,Jack Flaherty,Kumar Rocker,9.32,8.0,1.32,OVER,False,,0.0,False
+Toronto Blue Jays,Seattle Mariners,Shane Bieber,Logan Gilbert,6.8,7.5,-0.7,,False,65.0,9.9,False
+Baltimore Orioles,Cincinnati Reds,Brandon Young,Hunter Greene,8.58,9.5,-0.92,UNDER,False,93.5,5.0,True
+Tampa Bay Rays,Houston Astros,Drew Rasmussen,Hunter Brown,6.5,7.0,-0.5,,False,,0.0,False
+Chicago White Sox,Cleveland Guardians,Sean Burke,Parker Messick,7.75,7.5,0.25,,False,83.5,4.7,False
+St. Louis Cardinals,Chicago Cubs,Kyle Leahy,Shota Imanaga,9.78,8.0,1.78,,True,70.2,5.2,False
+New York Mets,Atlanta Braves,Sean Manaea,Chris Sale,6.64,8.0,-1.36,UNDER,False,94.3,5.7,False
+San Francisco Giants,Colorado Rockies,Robbie Ray,Sean Sullivan,8.97,12.0,-3.03,,True,85.7,9.7,False
+Philadelphia Phillies,Kansas City Royals,Jesús Luzardo,Michael Wacha,9.12,9.0,0.12,,False,75.2,1.1,False
+Boston Red Sox,Los Angeles Angels,Sonny Gray,Sam Aldegheri,8.05,8.5,-0.45,,False,,,False
+Miami Marlins,Athletics,Sandy Alcantara,Aaron Civale,9.3,11.0,-1.7,,True,,,False
+Milwaukee Brewers,Arizona Diamondbacks,Brandon Woodruff,Merrill Kelly,9.5,9.5,-0.0,,False,,0.0,False
+San Diego Padres,Los Angeles Dodgers,Wandy Peralta,Yoshinobu Yamamoto,7.98,8.5,-0.52,,False,72.2,6.4,False
