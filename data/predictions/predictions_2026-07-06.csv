@@ -1,9 +1,9 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-Philadelphia Phillies,Kansas City Royals,Cristopher Sánchez,Noah Cameron,7.15,8.5,-1.35,UNDER,False,90.4,6.4,False
-New York Yankees,Tampa Bay Rays,Cam Schlittler,Griffin Jax,6.96,7.5,-0.54,,False,,0.0,False
-Houston Astros,Washington Nationals,Mike Burrows,Miles Mikolas,10.32,10.0,0.32,,False,91.2,6.5,False
-New York Mets,Atlanta Braves,Freddy Peralta,Reynaldo López,8.54,9.0,-0.46,,False,82.8,5.7,False
-Milwaukee Brewers,St. Louis Cardinals,Shane Drohan,Dustin May,7.23,8.0,-0.77,UNDER,False,87.2,5.3,False
-Arizona Diamondbacks,San Diego Padres,Brandon Pfaadt,Walker Buehler,8.58,8.5,0.08,,False,70.7,8.5,False
-Toronto Blue Jays,San Francisco Giants,Kevin Gausman,Landen Roupp,6.59,7.5,-0.91,UNDER,False,57.7,17.1,True
-Colorado Rockies,Los Angeles Dodgers,Kyle Freeland,Eric Lauer,10.55,9.5,1.05,OVER,False,73.2,7.4,False
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+Philadelphia Phillies,Kansas City Royals,Cristopher Sánchez,Noah Cameron,7.15,8.5,-1.35,UNDER,False,90.4,6.4,False,16.0,0.0,0.0,-1.1
+New York Yankees,Tampa Bay Rays,Cam Schlittler,Griffin Jax,6.96,7.5,-0.54,,False,,0.0,False,6.0,,,
+Houston Astros,Washington Nationals,Mike Burrows,Miles Mikolas,10.32,10.0,0.32,,False,91.2,6.5,False,23.0,,,
+New York Mets,Atlanta Braves,Freddy Peralta,Reynaldo López,8.54,9.0,-0.46,,False,82.8,5.7,False,13.0,,,
+Milwaukee Brewers,St. Louis Cardinals,Shane Drohan,Dustin May,7.23,8.0,-0.77,UNDER,False,87.2,5.3,False,7.0,1.0,0.0,1.0
+Arizona Diamondbacks,San Diego Padres,Brandon Pfaadt,Walker Buehler,8.58,8.5,0.08,,False,70.7,8.5,False,8.0,,,
+Toronto Blue Jays,San Francisco Giants,Kevin Gausman,Landen Roupp,6.59,7.5,-0.91,UNDER,False,57.7,17.1,True,11.0,0.0,0.0,-1.1
+Colorado Rockies,Los Angeles Dodgers,Kyle Freeland,Eric Lauer,10.55,9.5,1.05,OVER,False,73.2,7.4,False,15.0,1.0,0.0,1.0
