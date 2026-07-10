@@ -1,14 +1,14 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-Atlanta Braves,Pittsburgh Pirates,Bryce Elder,Mitch Keller,8.48,10.0,-1.52,,True,85.2,7.9,False
-Kansas City Royals,New York Mets,Michael Wacha,Sean Manaea,7.94,9.0,-1.06,UNDER,False,73.8,7.4,False
-New York Yankees,Tampa Bay Rays,Paul Blackburn,Drew Rasmussen,6.6,7.5,-0.9,UNDER,False,,0.0,False
-Chicago Cubs,Baltimore Orioles,David Peterson,Trevor Rogers,8.6,10.0,-1.4,UNDER,False,75.1,3.5,False
-Cleveland Guardians,Minnesota Twins,Gavin Williams,Bailey Ober,9.06,8.5,0.56,,False,85.2,5.7,True
-Boston Red Sox,Chicago White Sox,Patrick Sandoval,Anthony Kay,8.77,9.0,-0.23,,False,,,False
-Athletics,Detroit Tigers,Jack Perkins,Framber Valdez,7.67,9.0,-1.33,UNDER,False,85.0,10.6,False
-Seattle Mariners,Miami Marlins,Bryce Miller,Janson Junk,7.95,8.0,-0.05,,False,,0.0,False
-Philadelphia Phillies,Cincinnati Reds,Jesús Luzardo,Brady Singer,9.28,9.5,-0.22,,False,84.7,6.8,True
-Milwaukee Brewers,St. Louis Cardinals,Logan Henderson,Andre Pallante,7.48,8.5,-1.02,UNDER,False,83.9,2.7,False
-Los Angeles Angels,Texas Rangers,Reid Detmers,Nathan Eovaldi,7.55,7.0,0.55,,False,,0.0,False
-Arizona Diamondbacks,San Diego Padres,Merrill Kelly,Griffin Canning,10.08,9.0,1.08,OVER,False,67.6,5.5,False
-Colorado Rockies,San Francisco Giants,Ryan Feltner,TBD,8.61,8.0,0.61,,False,61.1,17.3,True
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+Atlanta Braves,Pittsburgh Pirates,Bryce Elder,Mitch Keller,8.48,10.0,-1.52,,True,85.2,7.9,False,15.0,,,
+Kansas City Royals,New York Mets,Michael Wacha,Sean Manaea,7.94,9.0,-1.06,UNDER,False,73.8,7.4,False,10.0,0.0,0.0,-1.1
+New York Yankees,Tampa Bay Rays,Paul Blackburn,Drew Rasmussen,6.6,7.5,-0.9,UNDER,False,,0.0,False,16.0,0.0,0.0,-1.1
+Chicago Cubs,Baltimore Orioles,David Peterson,Trevor Rogers,8.6,10.0,-1.4,UNDER,False,75.1,3.5,False,5.0,1.0,0.0,1.0
+Cleveland Guardians,Minnesota Twins,Gavin Williams,Bailey Ober,9.06,8.5,0.56,,False,85.2,5.7,True,7.0,,,
+Boston Red Sox,Chicago White Sox,Patrick Sandoval,Anthony Kay,8.77,9.0,-0.23,,False,,,False,3.0,,,
+Athletics,Detroit Tigers,Jack Perkins,Framber Valdez,7.67,9.0,-1.33,UNDER,False,85.0,10.6,False,5.0,1.0,0.0,1.0
+Seattle Mariners,Miami Marlins,Bryce Miller,Janson Junk,7.95,8.0,-0.05,,False,,0.0,False,12.0,,,
+Philadelphia Phillies,Cincinnati Reds,Jesús Luzardo,Brady Singer,9.28,9.5,-0.22,,False,84.7,6.8,True,1.0,,,
+Milwaukee Brewers,St. Louis Cardinals,Logan Henderson,Andre Pallante,7.48,8.5,-1.02,UNDER,False,83.9,2.7,False,12.0,0.0,0.0,-1.1
+Los Angeles Angels,Texas Rangers,Reid Detmers,Nathan Eovaldi,7.55,7.0,0.55,,False,,0.0,False,13.0,,,
+Arizona Diamondbacks,San Diego Padres,Merrill Kelly,Griffin Canning,10.08,9.0,1.08,OVER,False,67.6,5.5,False,4.0,0.0,0.0,-1.1
+Colorado Rockies,San Francisco Giants,Ryan Feltner,TBD,8.61,8.0,0.61,,False,61.1,17.3,True,10.0,,,
