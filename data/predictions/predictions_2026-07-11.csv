@@ -1,0 +1,17 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Milwaukee Brewers,Pittsburgh Pirates,Brandon Sproat,Braxton Ashcraft,9.48,9.0,0.48,,False,81.9,2.2,False
+Milwaukee Brewers,Pittsburgh Pirates,Shane Drohan,Bubba Chandler,9.23,9.0,0.23,,False,81.9,2.2,False
+Los Angeles Angels,Minnesota Twins,Ryan Johnson,Joe Ryan,10.54,9.0,1.54,,True,90.4,7.2,False
+Athletics,Chicago White Sox,Gage Jump,Bryan Hudson,6.59,8.5,-1.91,,True,,,False
+Colorado Rockies,San Francisco Giants,Kyle Freeland,Tyler Mahle,9.49,8.5,0.99,OVER,False,64.8,17.0,True
+New York Yankees,Washington Nationals,Cam Schlittler,PJ Poulin,9.05,9.0,0.05,,False,86.6,1.6,False
+Boston Red Sox,New York Mets,Eduardo Rivera,Freddy Peralta,8.79,8.5,0.29,,False,75.6,3.6,False
+Seattle Mariners,Tampa Bay Rays,Logan Gilbert,Griffin Jax,8.13,7.0,1.13,OVER,False,,0.0,False
+Cleveland Guardians,Miami Marlins,Tanner Bibee,Eury Pérez,9.01,7.5,1.51,,True,,0.0,False
+Philadelphia Phillies,Detroit Tigers,Cristopher Sánchez,Casey Mize,5.85,7.5,-1.65,,True,84.2,8.6,False
+Kansas City Royals,Baltimore Orioles,Noah Cameron,Kyle Bradish,8.05,9.0,-0.95,UNDER,False,84.2,3.1,False
+Houston Astros,Texas Rangers,Peter Lambert,Kumar Rocker,8.61,8.5,0.11,,False,,0.0,False
+Chicago Cubs,Cincinnati Reds,Javier Assad,Nick Lodolo,9.06,10.0,-0.94,UNDER,False,76.7,4.9,False
+Atlanta Braves,St. Louis Cardinals,Reynaldo López,Matthew Liberatore,9.41,8.0,1.41,OVER,False,78.1,6.5,True
+Toronto Blue Jays,San Diego Padres,Trey Yesavage,Walker Buehler,8.05,8.0,0.05,,False,71.4,5.1,True
+Arizona Diamondbacks,Los Angeles Dodgers,Brandon Pfaadt,Yoshinobu Yamamoto,8.58,9.0,-0.42,,False,74.4,5.8,False
