@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Tampa Bay Rays,Boston Red Sox,Griffin Jax,Jake Bennett,10.8,9.0,1.8,,True,83.2,7.8,True
+Tampa Bay Rays,Boston Red Sox,TBD,TBD,10.2,9.0,1.2,OVER,False,83.2,7.8,True
+Los Angeles Dodgers,New York Yankees,Roki Sasaki,Gerrit Cole,10.33,9.0,1.33,OVER,False,89.0,5.6,False
+Pittsburgh Pirates,Cleveland Guardians,Jared Jones,Gavin Williams,9.74,7.5,2.24,,True,83.2,4.4,False
+Texas Rangers,Atlanta Braves,Cal Quantrill,Chris Sale,9.8,8.0,1.8,,True,91.8,7.3,False
+Chicago White Sox,Toronto Blue Jays,Anthony Kay,Spencer Miles,9.74,8.5,1.24,OVER,False,,0.0,False
+Miami Marlins,Milwaukee Brewers,Sandy Alcantara,Logan Henderson,8.87,8.0,0.87,OVER,False,94.2,12.4,False
+Minnesota Twins,Chicago Cubs,Bailey Ober,Colin Rea,11.35,11.0,0.35,,False,92.3,11.0,False
+Baltimore Orioles,Houston Astros,Dean Kremer,Peter Lambert,11.42,8.5,2.92,,True,,0.0,False
+San Diego Padres,Kansas City Royals,Michael King,Seth Lugo,9.61,10.0,-0.39,,False,89.3,12.0,False
+Cincinnati Reds,Colorado Rockies,Brady Singer,Gabriel Hughes,11.48,12.0,-0.52,,False,89.4,5.1,False
+Detroit Tigers,Los Angeles Angels,Troy Melton,Reid Detmers,9.85,8.0,1.85,,True,75.4,8.1,True
+Washington Nationals,Athletics,Cade Cavalli,Gage Jump,8.38,10.0,-1.62,,True,85.0,11.4,False
+St. Louis Cardinals,Arizona Diamondbacks,Michael McGreevy,Merrill Kelly,11.15,9.0,2.15,,True,,0.0,False
+San Francisco Giants,Seattle Mariners,Landen Roupp,Bryce Miller,8.18,7.0,1.18,OVER,False,71.0,5.0,True
