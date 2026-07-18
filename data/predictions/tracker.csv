@@ -110,3 +110,8 @@ Boston Red Sox,New York Mets,Payton Tolle,Zach Thornton,9.15,8.0,1.15,OVER,77.8,
 Los Angeles Angels,Minnesota Twins,José Soriano,Taj Bradley,8.06,9.0,-0.94,UNDER,92.0,9.4,False,6.0,1.0,0.0,1.0,2026-07-12,False
 Arizona Diamondbacks,Los Angeles Dodgers,Mitch Bratt,Emmet Sheehan,8.33,9.5,-1.17,UNDER,72.7,5.7,False,8.0,1.0,0.0,1.0,2026-07-12,False
 Toronto Blue Jays,San Diego Padres,Kevin Gausman,Germán Márquez,9.34,8.5,0.84,OVER,71.3,6.0,True,9.0,1.0,0.0,1.0,2026-07-12,False
+Tampa Bay Rays,Boston Red Sox,TBD,TBD,10.2,9.0,1.2,OVER,83.2,7.8,True,8.0,0.0,0.0,-1.1,2026-07-17,False
+Los Angeles Dodgers,New York Yankees,Roki Sasaki,Gerrit Cole,10.33,9.0,1.33,OVER,89.0,5.6,False,3.0,0.0,0.0,-1.1,2026-07-17,False
+Chicago White Sox,Toronto Blue Jays,Anthony Kay,Spencer Miles,9.74,8.5,1.24,OVER,,0.0,False,16.0,1.0,0.0,1.0,2026-07-17,False
+Miami Marlins,Milwaukee Brewers,Sandy Alcantara,Logan Henderson,8.87,8.0,0.87,OVER,94.2,12.4,False,3.0,0.0,0.0,-1.1,2026-07-17,False
+San Francisco Giants,Seattle Mariners,Landen Roupp,Bryce Miller,8.18,7.0,1.18,OVER,71.0,5.0,True,7.0,0.0,1.0,0.0,2026-07-17,False
