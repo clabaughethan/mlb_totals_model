@@ -1,0 +1,17 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Chicago White Sox,Toronto Blue Jays,Sean Burke,Trey Yesavage,8.15,8.0,0.15,,False,,0.0,False
+Los Angeles Dodgers,New York Yankees,Yoshinobu Yamamoto,Cam Schlittler,6.99,9.0,-2.01,,True,79.6,9.7,False
+Los Angeles Dodgers,New York Yankees,TBD,TBD,8.52,9.0,-0.48,,False,79.6,9.7,False
+Tampa Bay Rays,Boston Red Sox,Shane McClanahan,Sonny Gray,7.33,8.5,-1.17,UNDER,False,78.5,11.6,True
+New York Mets,Philadelphia Phillies,Nolan McLean,Alan Rangel,7.98,8.5,-0.52,,False,76.9,6.7,False
+Texas Rangers,Atlanta Braves,Nathan Eovaldi,Grant Holmes,9.33,8.5,0.83,OVER,False,79.4,20.2,False
+Pittsburgh Pirates,Cleveland Guardians,Paul Skenes,Joey Cantillo,7.68,7.0,0.68,,False,75.7,6.3,False
+Baltimore Orioles,Houston Astros,Brandon Young,Hunter Brown,7.2,8.5,-1.3,UNDER,False,,0.0,False
+San Diego Padres,Kansas City Royals,Germán Márquez,Noah Cameron,9.41,9.5,-0.09,,False,91.3,7.2,False
+Miami Marlins,Milwaukee Brewers,Eury Pérez,Robert Gasser,9.94,8.0,1.94,,True,76.6,6.7,False
+Minnesota Twins,Chicago Cubs,Zebby Matthews,Shota Imanaga,9.41,7.5,1.91,,True,74.9,5.5,False
+Cincinnati Reds,Colorado Rockies,Hunter Greene,Ryan Feltner,9.51,11.0,-1.49,UNDER,False,95.9,7.8,False
+Washington Nationals,Athletics,Foster Griffin,Jacob Lopez,10.55,10.5,0.05,,False,82.1,12.0,False
+Detroit Tigers,Los Angeles Angels,Casey Mize,Ryan Johnson,10.5,9.5,1.0,OVER,False,76.3,7.9,True
+San Francisco Giants,Seattle Mariners,Robbie Ray,Logan Gilbert,8.35,7.0,1.35,OVER,False,71.7,8.3,True
+St. Louis Cardinals,Arizona Diamondbacks,Andre Pallante,Eduardo Rodriguez,8.78,9.0,-0.22,,False,,0.0,False
