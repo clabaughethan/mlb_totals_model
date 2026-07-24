@@ -1,6 +1,6 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-San Diego Padres,Atlanta Braves,Kyle Hart,Chris Sale,8.5,8.0,0.5,,False,88.7,8.8,False
-Minnesota Twins,Cleveland Guardians,Taj Bradley,Gavin Williams,7.69,7.5,0.19,,False,72.6,8.1,False
-Tampa Bay Rays,Toronto Blue Jays,Ian Seymour,Shane Bieber,8.39,8.5,-0.11,,False,,0.0,False
-Arizona Diamondbacks,St. Louis Cardinals,Brandon Pfaadt,Michael McGreevy,8.89,7.5,1.39,OVER,False,80.8,6.2,False
-Kansas City Royals,Detroit Tigers,Randy Dobnak,Troy Melton,8.03,8.5,-0.47,,False,77.8,8.3,False
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+San Diego Padres,Atlanta Braves,Kyle Hart,Chris Sale,8.5,8.0,0.5,,False,88.7,8.8,False,11.0,,,
+Minnesota Twins,Cleveland Guardians,Taj Bradley,Gavin Williams,7.69,7.5,0.19,,False,72.6,8.1,False,4.0,,,
+Tampa Bay Rays,Toronto Blue Jays,Ian Seymour,Shane Bieber,8.39,8.5,-0.11,,False,,0.0,False,4.0,,,
+Arizona Diamondbacks,St. Louis Cardinals,Brandon Pfaadt,Michael McGreevy,8.89,7.5,1.39,OVER,False,80.8,6.2,False,16.0,1.0,0.0,1.0
+Kansas City Royals,Detroit Tigers,Randy Dobnak,Troy Melton,8.03,8.5,-0.47,,False,77.8,8.3,False,7.0,,,
