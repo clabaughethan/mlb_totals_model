@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Cleveland Guardians,Tampa Bay Rays,Parker Messick,Drew Rasmussen,6.92,7.0,-0.08,,False,,0.0,False
+Arizona Diamondbacks,Washington Nationals,Kohl Drake,Miles Mikolas,9.47,10.0,-0.53,,False,83.6,7.9,False
+Chicago Cubs,Pittsburgh Pirates,Jameson Taillon,Braxton Ashcraft,9.15,9.0,0.15,,False,79.6,3.8,False
+Toronto Blue Jays,Boston Red Sox,Kevin Gausman,Ranger Suarez,6.7,7.5,-0.8,UNDER,False,67.3,7.9,False
+Atlanta Braves,Baltimore Orioles,Reynaldo López,Shane Baz,8.95,8.5,0.45,,False,82.6,6.8,False
+Kansas City Royals,Detroit Tigers,Luinder Avila,Framber Valdez,8.74,9.0,-0.26,,False,90.1,5.3,True
+Los Angeles Dodgers,New York Mets,Emmet Sheehan,Freddy Peralta,7.97,8.5,-0.53,,False,79.7,6.5,False
+San Diego Padres,Miami Marlins,Walker Buehler,Janson Junk,7.55,9.0,-1.45,UNDER,False,,0.0,False
+Athletics,Minnesota Twins,Jeffrey Springs,Connor Prielipp,7.99,10.0,-2.01,,True,97.7,8.9,False
+Houston Astros,Chicago White Sox,Ronel Blanco,Erick Fedde,8.57,9.5,-0.93,UNDER,False,,,False
+Colorado Rockies,Milwaukee Brewers,Kyle Freeland,Jacob Misiorowski,7.13,8.0,-0.87,UNDER,False,83.3,6.5,False
+Cincinnati Reds,St. Louis Cardinals,Andrew Abbott,Kyle Leahy,8.97,8.5,0.47,,False,101.1,4.1,True
+Seattle Mariners,Texas Rangers,Logan Gilbert,Jacob deGrom,8.04,7.0,1.04,OVER,False,,0.0,False
+Los Angeles Angels,San Francisco Giants,José Soriano,Carson Whisenhunt,7.75,8.5,-0.75,UNDER,False,63.5,19.7,True
+New York Yankees,Philadelphia Phillies,Will Warren,Cristopher Sánchez,6.4,8.0,-1.6,,True,81.8,6.1,True
