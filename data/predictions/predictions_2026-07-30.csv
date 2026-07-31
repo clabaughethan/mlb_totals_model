@@ -1,11 +1,11 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-Texas Rangers,Tampa Bay Rays,Cole Winn,Shane McClanahan,7.57,7.5,0.07,,False,,0.0,False
-Kansas City Royals,Minnesota Twins,Noah Cameron,Bailey Ober,7.9,9.0,-1.1,UNDER,False,86.7,7.7,False
-New York Yankees,Chicago White Sox,Ryan Weathers,Sean Burke,8.36,7.5,0.86,OVER,False,,,False
-Chicago Cubs,St. Louis Cardinals,Javier Assad,Andre Pallante,8.46,8.5,-0.04,,False,87.6,7.3,False
-Pittsburgh Pirates,Cincinnati Reds,Yohan Ramírez,Rhett Lowder,8.79,9.5,-0.71,,False,86.4,5.8,False
-Miami Marlins,New York Mets,Eury Pérez,Nolan McLean,7.71,7.0,0.71,,False,74.5,1.9,True
-Washington Nationals,Atlanta Braves,Jake Irvin,Grant Holmes,9.31,9.5,-0.19,,False,88.0,8.1,False
-Boston Red Sox,Athletics,Sonny Gray,Mason Barnett,8.24,10.0,-1.76,,True,92.2,8.9,False
-San Francisco Giants,San Diego Padres,TBD,JP Sears,9.07,8.5,0.57,,False,72.0,4.1,True
-Seattle Mariners,Los Angeles Dodgers,Bryan Woo,Roki Sasaki,7.5,8.5,-1.0,UNDER,False,72.5,7.1,False
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+Texas Rangers,Tampa Bay Rays,Cole Winn,Shane McClanahan,7.57,7.5,0.07,,False,,0.0,False,5.0,,,
+Kansas City Royals,Minnesota Twins,Noah Cameron,Bailey Ober,7.9,9.0,-1.1,UNDER,False,86.7,7.7,False,7.0,1.0,0.0,1.0
+New York Yankees,Chicago White Sox,Ryan Weathers,Sean Burke,8.36,7.5,0.86,OVER,False,,,False,3.0,0.0,0.0,-1.1
+Chicago Cubs,St. Louis Cardinals,Javier Assad,Andre Pallante,8.46,8.5,-0.04,,False,87.6,7.3,False,6.0,,,
+Pittsburgh Pirates,Cincinnati Reds,Yohan Ramírez,Rhett Lowder,8.79,9.5,-0.71,,False,86.4,5.8,False,5.0,,,
+Miami Marlins,New York Mets,Eury Pérez,Nolan McLean,7.71,7.0,0.71,,False,74.5,1.9,True,6.0,,,
+Washington Nationals,Atlanta Braves,Jake Irvin,Grant Holmes,9.31,9.5,-0.19,,False,88.0,8.1,False,9.0,,,
+Boston Red Sox,Athletics,Sonny Gray,Mason Barnett,8.24,10.0,-1.76,,True,92.2,8.9,False,9.0,,,
+San Francisco Giants,San Diego Padres,TBD,JP Sears,9.07,8.5,0.57,,False,72.0,4.1,True,5.0,,,
+Seattle Mariners,Los Angeles Dodgers,Bryan Woo,Roki Sasaki,7.5,8.5,-1.0,UNDER,False,72.5,7.1,False,8.0,1.0,0.0,1.0
