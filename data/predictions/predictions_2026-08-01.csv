@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+St. Louis Cardinals,Toronto Blue Jays,Quinn Mathews,Kevin Gausman,7.2,8.5,-1.3,UNDER,False,,0.0,False
+Minnesota Twins,Seattle Mariners,Connor Prielipp,Logan Gilbert,7.02,7.5,-0.48,,False,68.3,8.5,False
+Chicago White Sox,Tampa Bay Rays,Jordan Hicks,Drew Rasmussen,7.38,7.5,-0.12,,False,,0.0,False
+Miami Marlins,New York Mets,Tyler Phillips,Zac Thornton,7.35,9.0,-1.65,,True,78.5,11.9,False
+Pittsburgh Pirates,Cincinnati Reds,Braxton Ashcraft,Andrew Abbott,8.08,8.0,0.08,,False,76.0,7.5,False
+Philadelphia Phillies,Baltimore Orioles,Cristopher Sánchez,Shane Baz,7.14,8.0,-0.86,UNDER,False,85.7,11.1,False
+Texas Rangers,Houston Astros,Jacob deGrom,Ronel Blanco,8.2,8.5,-0.3,,False,,0.0,False
+Arizona Diamondbacks,Cleveland Guardians,Kohl Drake,Parker Messick,8.03,8.5,-0.47,,False,84.1,3.5,False
+Washington Nationals,Atlanta Braves,Miles Mikolas,Reynaldo López,9.98,9.5,0.48,,False,87.9,8.7,False
+New York Yankees,Chicago Cubs,Max Fried,David Peterson,6.9,6.5,0.4,,False,69.9,17.0,False
+Kansas City Royals,Colorado Rockies,Luinder Avila,Ryan Feltner,10.15,11.5,-1.35,UNDER,False,92.0,6.7,False
+San Francisco Giants,San Diego Padres,Tyler Mahle,Walker Buehler,9.12,8.5,0.62,,False,74.2,4.7,True
+Boston Red Sox,Los Angeles Dodgers,Payton Tolle,Yoshinobu Yamamoto,6.87,7.5,-0.63,,False,78.4,5.9,False
+Milwaukee Brewers,Los Angeles Angels,Robert Gasser,José Soriano,9.61,8.5,1.11,OVER,False,79.6,5.5,True
+Detroit Tigers,Athletics,Framber Valdez,Jack Perkins,8.14,10.5,-2.36,,True,98.7,8.5,False
