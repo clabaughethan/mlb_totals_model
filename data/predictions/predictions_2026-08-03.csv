@@ -1,0 +1,9 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Washington Nationals,Philadelphia Phillies,TBD,Aaron Nola,8.41,9.0,-0.59,,False,79.0,4.1,False
+St. Louis Cardinals,New York Yankees,Michael McGreevy,Cam Schlittler,6.42,8.0,-1.58,,True,75.4,7.7,False
+Pittsburgh Pirates,Milwaukee Brewers,Bubba Chandler,Brandon Sproat,8.9,8.5,0.4,,False,74.0,6.0,False
+Los Angeles Dodgers,Chicago Cubs,TBD,Matthew Boyd,7.72,8.0,-0.28,,False,71.1,5.5,False
+San Francisco Giants,Texas Rangers,Logan Webb,TBD,8.09,8.0,0.09,,False,,0.0,False
+Toronto Blue Jays,Houston Astros,Shane Bieber,Cristian Javier,9.95,9.0,0.95,OVER,False,,0.0,False
+Tampa Bay Rays,Colorado Rockies,Ian Seymour,Michael Lorenzen,9.83,11.5,-1.67,,True,92.0,13.9,False
+San Diego Padres,Arizona Diamondbacks,Michael King,Brandon Pfaadt,9.92,9.0,0.92,OVER,False,,0.0,False
