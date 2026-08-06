@@ -1,0 +1,12 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Los Angeles Angels,Baltimore Orioles,Ryan Johnson,Brandon Young,11.71,9.5,2.21,,True,83.7,9.2,True
+Athletics,Cincinnati Reds,Mason Barnett,Andrew Abbott,8.54,9.5,-0.96,UNDER,False,91.5,7.1,True
+New York Mets,Cleveland Guardians,Nolan McLean,Foster Griffin,7.73,7.5,0.23,,False,82.5,6.5,False
+Pittsburgh Pirates,Milwaukee Brewers,Braxton Ashcraft,Dustin May,6.47,7.5,-1.03,UNDER,False,75.6,7.1,False
+Toronto Blue Jays,Chicago Cubs,Dylan Cease,David Peterson,6.99,7.5,-0.51,,False,72.6,5.6,False
+Detroit Tigers,Seattle Mariners,Framber Valdez,Bryce Miller,7.88,8.0,-0.12,,False,79.5,5.8,True
+Washington Nationals,Philadelphia Phillies,Miles Mikolas,Cristopher Sánchez,8.29,9.0,-0.71,,False,84.2,7.1,True
+Chicago White Sox,Boston Red Sox,Luis Castillo,Ranger Suarez,7.94,9.0,-1.06,UNDER,False,88.2,7.4,True
+Miami Marlins,Atlanta Braves,Janson Junk,Martín Pérez,7.83,9.0,-1.17,UNDER,False,83.6,5.1,False
+Minnesota Twins,Kansas City Royals,Bailey Ober,Michael Wacha,8.43,9.0,-0.57,,False,82.8,4.0,True
+San Diego Padres,Arizona Diamondbacks,Walker Buehler,Kohl Drake,8.75,9.0,-0.25,,False,,0.0,False
