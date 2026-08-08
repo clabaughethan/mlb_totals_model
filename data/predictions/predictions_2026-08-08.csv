@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Atlanta Braves,New York Yankees,Chris Sale,Gerrit Cole,6.96,7.5,-0.54,,False,88.9,11.2,False
+Athletics,Boston Red Sox,Gage Jump,Jake Bennett,7.82,9.0,-1.18,UNDER,False,87.0,11.2,True
+Los Angeles Angels,Miami Marlins,Walbert Ureña,Sandy Alcantara,7.44,7.5,-0.06,,False,,0.0,False
+Toronto Blue Jays,Philadelphia Phillies,Max Scherzer,Aaron Nola,11.1,9.5,1.6,,True,90.2,8.7,False
+New York Mets,Pittsburgh Pirates,Robert Stock,Bubba Chandler,8.47,9.0,-0.53,,False,83.0,7.9,False
+Cincinnati Reds,Washington Nationals,Chase Burns,Andrew Alvarez,8.02,8.5,-0.48,,False,94.1,7.3,True
+Chicago Cubs,Kansas City Royals,Clay Holmes,Seth Lugo,7.33,9.5,-2.17,,True,89.8,8.6,False
+Minnesota Twins,Milwaukee Brewers,Taj Bradley,Robert Gasser,9.33,8.0,1.33,OVER,False,82.2,6.3,False
+Houston Astros,San Diego Padres,Peter Lambert,Michael King,8.19,8.0,0.19,,False,75.2,7.1,False
+Detroit Tigers,San Francisco Giants,Jackson Jobe,Landen Roupp,8.57,8.0,0.57,,False,62.1,11.0,True
+Colorado Rockies,St. Louis Cardinals,Kyle Freeland,Matthew Liberatore,8.84,8.5,0.34,,False,88.5,7.2,False
+Baltimore Orioles,Texas Rangers,Kyle Bradish,Jacob deGrom,7.68,7.5,0.18,,False,,0.0,False
+Cleveland Guardians,Chicago White Sox,Gavin Williams,Anthony Kay,8.62,7.5,1.12,OVER,False,,,False
+Los Angeles Dodgers,Arizona Diamondbacks,Yoshinobu Yamamoto,Brandon Pfaadt,8.46,8.5,-0.04,,False,,0.0,False
+Tampa Bay Rays,Seattle Mariners,Griffin Jax,George Kirby,7.7,7.0,0.7,,False,76.8,9.5,False
