@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Cincinnati Reds,Washington Nationals,Brady Singer,Brad Lord,9.32,9.0,0.32,,False,94.8,4.1,True
+Athletics,Boston Red Sox,J.T. Ginn,Erik Miller,8.69,9.5,-0.81,UNDER,False,84.8,10.7,True
+New York Mets,Pittsburgh Pirates,Sean Manaea,Jared Jones,8.03,8.0,0.03,,False,82.7,4.1,False
+Toronto Blue Jays,Philadelphia Phillies,Shane Bieber,Jesús Luzardo,8.09,8.5,-0.41,,False,90.6,8.5,False
+Atlanta Braves,New York Yankees,Grant Holmes,Cam Schlittler,7.62,8.5,-0.88,UNDER,False,89.5,7.7,False
+Los Angeles Angels,Miami Marlins,Grayson Rodriguez,Ryan Gusto,7.03,8.5,-1.47,UNDER,False,,0.0,False
+Chicago Cubs,Kansas City Royals,Matthew Boyd,Randy Dobnak,7.52,10.5,-2.98,,True,95.5,13.5,False
+Cleveland Guardians,Chicago White Sox,Joey Cantillo,Davis Martin,7.63,8.5,-0.87,UNDER,False,,,False
+Minnesota Twins,Milwaukee Brewers,Connor Prielipp,Jacob Misiorowski,6.05,7.0,-0.95,UNDER,False,72.8,3.2,False
+Colorado Rockies,St. Louis Cardinals,Michael Lorenzen,Michael McGreevy,8.23,9.0,-0.77,UNDER,False,89.6,12.5,False
+Baltimore Orioles,Texas Rangers,Cade Povich,Kumar Rocker,8.94,8.0,0.94,OVER,False,,0.0,False
+Detroit Tigers,San Francisco Giants,Troy Melton,Logan Webb,8.81,7.5,1.31,OVER,False,62.8,10.1,True
+Los Angeles Dodgers,Arizona Diamondbacks,Justin Wrobleski,Eduardo Rodriguez,8.06,9.0,-0.94,UNDER,False,,0.0,False
+Tampa Bay Rays,Seattle Mariners,Ian Seymour,Emerson Hancock,7.58,7.5,0.08,,False,71.8,7.8,False
+Houston Astros,San Diego Padres,Cristian Javier,TBD,9.23,9.0,0.23,,False,72.5,5.1,False
