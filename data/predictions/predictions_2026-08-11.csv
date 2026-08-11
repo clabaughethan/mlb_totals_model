@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Cleveland Guardians,Detroit Tigers,Tanner Bibee,Drew Anderson,8.71,8.0,0.71,,False,80.4,8.4,False
+Pittsburgh Pirates,Miami Marlins,Paul Skenes,Eury Pérez,7.32,7.0,0.32,,False,,0.0,False
+Chicago Cubs,Washington Nationals,Shota Imanaga,TBD,9.18,9.0,0.18,,False,82.7,1.1,False
+Seattle Mariners,New York Yankees,Bryan Woo,Ryan Weathers,7.35,8.0,-0.65,,False,85.4,6.7,False
+Boston Red Sox,Toronto Blue Jays,Patrick Sandoval,Dylan Cease,7.7,7.0,0.7,,False,,0.0,False
+New York Mets,Atlanta Braves,Nolan McLean,Martín Pérez,7.93,8.5,-0.57,,False,91.5,8.1,False
+Baltimore Orioles,Minnesota Twins,Brandon Young,Bailey Ober,8.54,9.5,-0.96,UNDER,False,88.5,3.3,False
+Cincinnati Reds,Chicago White Sox,Nick Lodolo,Sean Burke,9.47,7.5,1.97,,True,,,False
+Philadelphia Phillies,St. Louis Cardinals,Cristopher Sánchez,Andre Pallante,7.14,8.0,-0.86,UNDER,False,96.1,8.7,False
+Texas Rangers,Los Angeles Angels,Cody Bradford,Ryan Johnson,9.08,9.0,0.08,,False,75.4,8.2,True
+Colorado Rockies,Arizona Diamondbacks,Tomoyuki Sugano,Mitch Bratt,8.3,9.5,-1.2,UNDER,False,,0.0,False
+Tampa Bay Rays,Athletics,Nick Martinez,Mason Barnett,7.83,10.5,-2.67,,True,83.3,10.7,False
+Milwaukee Brewers,San Diego Padres,Kyle Harrison,Walker Buehler,7.43,7.5,-0.07,,False,74.4,6.0,True
+Houston Astros,San Francisco Giants,Hunter Brown,TBD,7.56,8.0,-0.44,,False,59.5,13.1,True
+Kansas City Royals,Los Angeles Dodgers,Michael Wacha,Blake Snell,6.68,8.0,-1.32,UNDER,False,73.2,7.4,False
