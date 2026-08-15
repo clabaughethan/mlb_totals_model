@@ -1,15 +1,15 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-St. Louis Cardinals,Chicago Cubs,Matthew Liberatore,Clay Holmes,8.99,8.0,0.99,OVER,False,73.8,5.6,False
-Miami Marlins,Cincinnati Reds,Sandy Alcantara,Chase Burns,7.76,8.0,-0.24,,False,84.2,4.0,False
-Boston Red Sox,Pittsburgh Pirates,Jake Bennett,Bubba Chandler,8.65,8.0,0.65,,False,74.5,2.5,False
-Chicago White Sox,Detroit Tigers,Sean Newcomb,Jackson Jobe,8.52,8.5,0.02,,False,83.1,9.3,False
-Washington Nationals,New York Mets,Andrew Alvarez,Robert Stock,8.25,8.5,-0.25,,False,83.5,5.4,False
-San Diego Padres,Cleveland Guardians,Michael King,Gavin Williams,8.49,7.5,0.99,OVER,False,79.9,6.7,False
-Baltimore Orioles,Tampa Bay Rays,TBD,Steven Matz,8.87,8.0,0.87,OVER,False,,0.0,False
-Arizona Diamondbacks,Atlanta Braves,Brandon Pfaadt,TBD,9.0,8.0,1.0,OVER,False,94.3,6.7,False
-New York Yankees,Toronto Blue Jays,Gerrit Cole,Shane Bieber,7.73,8.0,-0.27,,False,,0.0,False
-Seattle Mariners,Houston Astros,George Kirby,Peter Lambert,7.26,8.0,-0.74,,False,,0.0,False
-Kansas City Royals,Los Angeles Angels,Seth Lugo,Grayson Rodriguez,8.22,8.5,-0.28,,False,73.3,7.7,True
-Texas Rangers,Athletics,Kumar Rocker,TBD,8.13,9.0,-0.87,UNDER,False,76.4,10.2,False
-Milwaukee Brewers,Los Angeles Dodgers,Robert Gasser,Yoshinobu Yamamoto,8.97,7.5,1.47,OVER,False,71.5,8.0,False
-Colorado Rockies,San Francisco Giants,Kyle Freeland,Landen Roupp,8.43,7.5,0.93,OVER,False,61.0,13.7,True
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+St. Louis Cardinals,Chicago Cubs,Matthew Liberatore,Clay Holmes,8.99,8.0,0.99,OVER,False,73.8,5.6,False,3.0,0.0,0.0,-1.1
+Miami Marlins,Cincinnati Reds,Sandy Alcantara,Chase Burns,7.76,8.0,-0.24,,False,84.2,4.0,False,1.0,,,
+Boston Red Sox,Pittsburgh Pirates,Jake Bennett,Bubba Chandler,8.65,8.0,0.65,,False,74.5,2.5,False,12.0,,,
+Chicago White Sox,Detroit Tigers,Sean Newcomb,Jackson Jobe,8.52,8.5,0.02,,False,83.1,9.3,False,14.0,,,
+Washington Nationals,New York Mets,Andrew Alvarez,Robert Stock,8.25,8.5,-0.25,,False,83.5,5.4,False,5.0,,,
+San Diego Padres,Cleveland Guardians,Michael King,Gavin Williams,8.49,7.5,0.99,OVER,False,79.9,6.7,False,12.0,1.0,0.0,1.0
+Baltimore Orioles,Tampa Bay Rays,TBD,Steven Matz,8.87,8.0,0.87,OVER,False,,0.0,False,11.0,1.0,0.0,1.0
+Arizona Diamondbacks,Atlanta Braves,Brandon Pfaadt,TBD,9.0,8.0,1.0,OVER,False,94.3,6.7,False,2.0,0.0,0.0,-1.1
+New York Yankees,Toronto Blue Jays,Gerrit Cole,Shane Bieber,7.73,8.0,-0.27,,False,,0.0,False,4.0,,,
+Seattle Mariners,Houston Astros,George Kirby,Peter Lambert,7.26,8.0,-0.74,,False,,0.0,False,17.0,,,
+Kansas City Royals,Los Angeles Angels,Seth Lugo,Grayson Rodriguez,8.22,8.5,-0.28,,False,73.3,7.7,True,13.0,,,
+Texas Rangers,Athletics,Kumar Rocker,TBD,8.13,9.0,-0.87,UNDER,False,76.4,10.2,False,11.0,0.0,0.0,-1.1
+Milwaukee Brewers,Los Angeles Dodgers,Robert Gasser,Yoshinobu Yamamoto,8.97,7.5,1.47,OVER,False,71.5,8.0,False,4.0,0.0,0.0,-1.1
+Colorado Rockies,San Francisco Giants,Kyle Freeland,Landen Roupp,8.43,7.5,0.93,OVER,False,61.0,13.7,True,7.0,0.0,0.0,-1.1
