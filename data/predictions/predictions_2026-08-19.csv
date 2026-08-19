@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Detroit Tigers,Pittsburgh Pirates,Jackson Jobe,Paul Skenes,7.66,8.0,-0.34,,False,80.1,6.3,False
+San Diego Padres,New York Mets,Michael King,Robert Stock,8.45,8.5,-0.05,,False,84.7,4.9,False
+Atlanta Braves,Minnesota Twins,AJ Smith-Shawver,Taj Bradley,8.42,8.5,-0.08,,False,79.1,5.1,True
+Chicago White Sox,Chicago Cubs,Sean Newcomb,Clay Holmes,8.54,8.0,0.54,,False,69.4,9.3,False
+Arizona Diamondbacks,Boston Red Sox,Brandon Pfaadt,Payton Tolle,9.0,8.0,1.0,OVER,False,82.5,7.2,True
+Miami Marlins,Philadelphia Phillies,Sandy Alcantara,Aaron Nola,8.66,8.5,0.16,,False,84.6,5.6,False
+New York Yankees,Baltimore Orioles,Will Warren,Chris Bassitt,8.47,9.0,-0.53,,False,87.1,3.9,True
+San Francisco Giants,Cleveland Guardians,Matt Wilkinson,Parker Messick,7.8,7.0,0.8,OVER,False,77.4,3.8,False
+St. Louis Cardinals,Cincinnati Reds,Matthew Liberatore,Chase Burns,8.5,8.5,-0.0,,False,85.0,8.3,True
+Toronto Blue Jays,Tampa Bay Rays,Max Scherzer,Drew Rasmussen,10.63,7.5,3.13,,True,,0.0,False
+Athletics,Kansas City Royals,TBD,TBD,8.09,8.5,-0.41,,False,75.2,10.5,True
+Seattle Mariners,Milwaukee Brewers,Logan Gilbert,Dustin May,7.15,7.0,0.15,,False,71.5,4.1,False
+Washington Nationals,Texas Rangers,Cade Cavalli,Kumar Rocker,7.5,7.5,0.0,,False,,0.0,False
+Los Angeles Angels,Houston Astros,Walbert Ureña,Ethan Pecko,7.85,8.5,-0.65,,False,,0.0,False
+Los Angeles Dodgers,Colorado Rockies,Roki Sasaki,Kyle Freeland,10.19,11.5,-1.31,UNDER,False,,,False
