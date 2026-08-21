@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Atlanta Braves,Milwaukee Brewers,Chris Sale,Jacob Misiorowski,5.67,6.0,-0.33,,False,71.4,4.4,False
+St. Louis Cardinals,Philadelphia Phillies,TBD,Jesús Luzardo,8.64,8.0,0.64,,False,75.1,2.8,False
+Toronto Blue Jays,New York Yankees,Mason Fluharty,Cam Schlittler,6.49,7.0,-0.51,,False,74.2,2.7,True
+San Francisco Giants,Boston Red Sox,Logan Webb,Sonny Gray,7.59,7.0,0.59,,False,68.4,7.7,False
+Washington Nationals,Miami Marlins,Brad Lord,Ryan Gusto,7.89,8.0,-0.11,,False,,0.0,False
+Tampa Bay Rays,Baltimore Orioles,Freddy Peralta,Trevor Rogers,8.7,7.5,1.2,OVER,False,78.7,6.1,False
+New York Mets,Chicago White Sox,Sean Manaea,Sean Burke,8.7,8.0,0.7,,False,,,False
+Detroit Tigers,Kansas City Royals,Troy Melton,Noah Cameron,9.27,8.0,1.27,OVER,False,90.2,6.5,True
+Athletics,Houston Astros,J.T. Ginn,Hayden Wesneski,8.07,8.0,0.07,,False,,0.0,False
+Los Angeles Angels,Texas Rangers,Reid Detmers,MacKenzie Gore,6.87,7.5,-0.63,,False,,0.0,False
+Cleveland Guardians,Colorado Rockies,Joey Cantillo,Tanner Gordon,9.74,10.5,-0.76,UNDER,False,90.7,9.5,True
+Cincinnati Reds,Arizona Diamondbacks,Nick Lodolo,Eduardo Rodriguez,9.12,8.5,0.62,,False,,0.0,False
+Minnesota Twins,San Diego Padres,Connor Prielipp,TBD,8.42,8.0,0.42,,False,73.3,3.7,True
+Pittsburgh Pirates,Los Angeles Dodgers,Bubba Chandler,Yoshinobu Yamamoto,8.18,8.0,0.18,,False,78.2,5.8,False
+Chicago Cubs,Seattle Mariners,Matthew Boyd,Emerson Hancock,7.17,8.0,-0.83,UNDER,False,80.0,3.5,False

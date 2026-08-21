@@ -1,10 +1,10 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-St. Louis Cardinals,Cincinnati Reds,Michael McGreevy,Brady Singer,9.36,9.0,0.36,,False,79.2,2.0,False
-San Francisco Giants,Cleveland Guardians,Landen Roupp,Gavin Williams,6.73,7.0,-0.27,,False,76.3,10.1,False
-Toronto Blue Jays,Tampa Bay Rays,Shane Bieber,Ian Seymour,8.62,7.0,1.62,,True,,0.0,False
-Athletics,Kansas City Royals,Gage Jump,Randy Dobnak,7.45,8.0,-0.55,,False,83.0,5.6,False
-Atlanta Braves,Chicago White Sox,Grant Holmes,Anthony Kay,9.61,8.5,1.11,OVER,False,,,False
-Seattle Mariners,Milwaukee Brewers,George Kirby,Robert Gasser,8.59,8.0,0.59,,False,73.1,5.5,False
-New York Yankees,Baltimore Orioles,Gerrit Cole,Kyle Bradish,8.35,7.5,0.85,OVER,False,76.4,13.5,False
-Washington Nationals,Texas Rangers,Andrew Alvarez,Jacob deGrom,7.1,7.5,-0.4,,False,,0.0,False
-Los Angeles Angels,Houston Astros,Grayson Rodriguez,Peter Lambert,8.35,8.5,-0.15,,False,,0.0,False
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+St. Louis Cardinals,Cincinnati Reds,Michael McGreevy,Brady Singer,9.36,9.0,0.36,,False,79.2,2.0,False,19.0,,,
+San Francisco Giants,Cleveland Guardians,Landen Roupp,Gavin Williams,6.73,7.0,-0.27,,False,76.3,10.1,False,7.0,,,
+Toronto Blue Jays,Tampa Bay Rays,Shane Bieber,Ian Seymour,8.62,7.0,1.62,,True,,0.0,False,6.0,,,
+Athletics,Kansas City Royals,Gage Jump,Randy Dobnak,7.45,8.0,-0.55,,False,83.0,5.6,False,8.0,,,
+Atlanta Braves,Chicago White Sox,Grant Holmes,Anthony Kay,9.61,8.5,1.11,OVER,False,,,False,2.0,0.0,0.0,-1.1
+Seattle Mariners,Milwaukee Brewers,George Kirby,Robert Gasser,8.59,8.0,0.59,,False,73.1,5.5,False,11.0,,,
+New York Yankees,Baltimore Orioles,Gerrit Cole,Kyle Bradish,8.35,7.5,0.85,OVER,False,76.4,13.5,False,7.0,0.0,0.0,-1.1
+Washington Nationals,Texas Rangers,Andrew Alvarez,Jacob deGrom,7.1,7.5,-0.4,,False,,0.0,False,2.0,,,
+Los Angeles Angels,Houston Astros,Grayson Rodriguez,Peter Lambert,8.35,8.5,-0.15,,False,,0.0,False,21.0,,,
