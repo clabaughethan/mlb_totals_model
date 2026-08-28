@@ -1,8 +1,8 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-Colorado Rockies,Washington Nationals,Gabriel Hughes,Jake Irvin,7.91,9.5,-1.59,,True,87.2,6.8,False
-Baltimore Orioles,St. Louis Cardinals,Trevor Rogers,TBD,8.79,8.0,0.79,OVER,False,82.3,6.9,False
-Houston Astros,New York Yankees,Hayden Wesneski,Gerrit Cole,7.88,8.0,-0.12,,False,74.2,4.9,False
-Kansas City Royals,Toronto Blue Jays,Noah Cameron,Spencer Arrighetti,7.81,8.5,-0.69,,False,,0.0,False
-Milwaukee Brewers,New York Mets,Jacob Misiorowski,Sean Manaea,6.14,7.0,-0.86,UNDER,False,74.1,10.3,False
-Los Angeles Dodgers,Atlanta Braves,Yoshinobu Yamamoto,Chris Sale,6.29,6.5,-0.21,,False,79.0,2.2,False
-Arizona Diamondbacks,San Francisco Giants,Jose Cabrera,Landen Roupp,7.67,8.0,-0.33,,False,70.3,15.7,True
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+Colorado Rockies,Washington Nationals,Gabriel Hughes,Jake Irvin,7.91,9.5,-1.59,,True,87.2,6.8,False,8.0,,,
+Baltimore Orioles,St. Louis Cardinals,Trevor Rogers,TBD,8.79,8.0,0.79,OVER,False,82.3,6.9,False,12.0,1.0,0.0,1.0
+Houston Astros,New York Yankees,Hayden Wesneski,Gerrit Cole,7.88,8.0,-0.12,,False,74.2,4.9,False,6.0,,,
+Kansas City Royals,Toronto Blue Jays,Noah Cameron,Spencer Arrighetti,7.81,8.5,-0.69,,False,,0.0,False,15.0,,,
+Milwaukee Brewers,New York Mets,Jacob Misiorowski,Sean Manaea,6.14,7.0,-0.86,UNDER,False,74.1,10.3,False,10.0,0.0,0.0,-1.1
+Los Angeles Dodgers,Atlanta Braves,Yoshinobu Yamamoto,Chris Sale,6.29,6.5,-0.21,,False,79.0,2.2,False,1.0,,,
+Arizona Diamondbacks,San Francisco Giants,Jose Cabrera,Landen Roupp,7.67,8.0,-0.33,,False,70.3,15.7,True,7.0,,,
