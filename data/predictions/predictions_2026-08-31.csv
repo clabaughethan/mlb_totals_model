@@ -1,13 +1,13 @@
-away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
-San Francisco Giants,Atlanta Braves,Anthony Molina,Bryce Elder,7.73,9.0,-1.27,UNDER,False,92.4,5.4,False
-San Diego Padres,Cincinnati Reds,Michael King,Brady Singer,10.41,9.0,1.41,OVER,False,92.7,6.8,True
-New York Mets,Tampa Bay Rays,Robert Stock,Ian Seymour,7.9,8.0,-0.1,,False,,0.0,False
-Seattle Mariners,Boston Red Sox,George Kirby,Payton Tolle,6.78,8.0,-1.22,UNDER,False,74.9,7.8,False
-Miami Marlins,Washington Nationals,Ryan Gusto,Will Dion,7.43,8.5,-1.07,UNDER,False,87.8,3.0,False
-Detroit Tigers,Minnesota Twins,Jackson Jobe,Taj Bradley,7.92,8.5,-0.58,,False,87.0,4.7,False
-Milwaukee Brewers,Chicago Cubs,Kyle Harrison,Clay Holmes,8.58,9.5,-0.92,UNDER,False,83.2,7.8,False
-Athletics,Texas Rangers,Gage Jump,Jacob deGrom,6.29,7.5,-1.21,UNDER,False,,0.0,False
-Chicago White Sox,Houston Astros,Anthony Kay,Peter Lambert,8.62,8.0,0.62,,False,,0.0,False
-Baltimore Orioles,Colorado Rockies,TBD,Tanner Gordon,9.27,11.0,-1.73,,True,67.6,6.3,True
-New York Yankees,Los Angeles Angels,Elmer Rodríguez,Walbert Ureña,8.41,8.0,0.41,,False,74.2,7.0,True
-Philadelphia Phillies,Arizona Diamondbacks,Aaron Nola,TBD,9.04,8.0,1.04,OVER,False,,0.0,False
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+San Francisco Giants,Atlanta Braves,Anthony Molina,Bryce Elder,7.73,9.0,-1.27,UNDER,False,92.4,5.4,False,10.0,0.0,0.0,-1.1
+San Diego Padres,Cincinnati Reds,Michael King,Brady Singer,10.41,9.0,1.41,OVER,False,92.7,6.8,True,5.0,0.0,0.0,-1.1
+New York Mets,Tampa Bay Rays,Robert Stock,Ian Seymour,7.9,8.0,-0.1,,False,,0.0,False,5.0,,,
+Seattle Mariners,Boston Red Sox,George Kirby,Payton Tolle,6.78,8.0,-1.22,UNDER,False,74.9,7.8,False,17.0,0.0,0.0,-1.1
+Miami Marlins,Washington Nationals,Ryan Gusto,Will Dion,7.43,8.5,-1.07,UNDER,False,87.8,3.0,False,9.0,0.0,0.0,-1.1
+Detroit Tigers,Minnesota Twins,Jackson Jobe,Taj Bradley,7.92,8.5,-0.58,,False,87.0,4.7,False,12.0,,,
+Milwaukee Brewers,Chicago Cubs,Kyle Harrison,Clay Holmes,8.58,9.5,-0.92,UNDER,False,83.2,7.8,False,20.0,0.0,0.0,-1.1
+Athletics,Texas Rangers,Gage Jump,Jacob deGrom,6.29,7.5,-1.21,UNDER,False,,0.0,False,9.0,0.0,0.0,-1.1
+Chicago White Sox,Houston Astros,Anthony Kay,Peter Lambert,8.62,8.0,0.62,,False,,0.0,False,9.0,,,
+Baltimore Orioles,Colorado Rockies,TBD,Tanner Gordon,9.27,11.0,-1.73,,True,67.6,6.3,True,3.0,,,
+New York Yankees,Los Angeles Angels,Elmer Rodríguez,Walbert Ureña,8.41,8.0,0.41,,False,74.2,7.0,True,11.0,,,
+Philadelphia Phillies,Arizona Diamondbacks,Aaron Nola,TBD,9.04,8.0,1.04,OVER,False,,0.0,False,3.0,0.0,0.0,-1.1
