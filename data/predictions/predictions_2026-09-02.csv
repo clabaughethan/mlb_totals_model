@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+San Diego Padres,Cincinnati Reds,Casey Mize,Brandon Williamson,9.84,9.5,0.34,,False,95.4,5.6,True
+Atlanta Braves,Washington Nationals,Grant Holmes,Brad Lord,8.38,9.5,-1.12,UNDER,False,88.5,7.0,False
+Athletics,Texas Rangers,Jacob Lopez,Cody Bradford,8.79,8.0,0.79,OVER,False,,0.0,False
+Baltimore Orioles,Colorado Rockies,Trevor Rogers,Tomoyuki Sugano,9.64,11.5,-1.86,,True,84.7,4.9,False
+Philadelphia Phillies,Arizona Diamondbacks,Andrew Painter,Taylor Clarke,8.81,9.0,-0.19,,False,,0.0,False
+Seattle Mariners,Boston Red Sox,Bryce Miller,Patrick Sandoval,7.82,8.5,-0.68,,False,67.8,10.1,False
+San Francisco Giants,Pittsburgh Pirates,Landen Roupp,Bubba Chandler,7.81,8.5,-0.69,,False,89.6,8.2,False
+New York Mets,Tampa Bay Rays,Justin Hagenman,Griffin Jax,7.84,8.0,-0.16,,False,,0.0,False
+Toronto Blue Jays,Cleveland Guardians,Dylan Cease,Joey Cantillo,7.93,7.0,0.93,OVER,False,92.2,11.6,True
+Detroit Tigers,Minnesota Twins,Drew Anderson,Dean Kremer,7.83,9.0,-1.17,UNDER,False,86.5,2.7,False
+Miami Marlins,Kansas City Royals,Eury Pérez,Noah Cameron,8.34,9.0,-0.66,,False,97.4,9.6,False
+Milwaukee Brewers,Chicago Cubs,Jacob Misiorowski,David Peterson,8.0,8.5,-0.5,,False,87.9,6.3,False
+Chicago White Sox,Houston Astros,Davis Martin,Hayden Wesneski,7.71,8.5,-0.79,UNDER,False,,0.0,False
+New York Yankees,Los Angeles Angels,Cam Schlittler,Reid Detmers,6.59,6.5,0.09,,False,74.7,5.6,True
+St. Louis Cardinals,Los Angeles Dodgers,TBD,Yoshinobu Yamamoto,7.66,8.0,-0.34,,False,72.1,6.2,False
