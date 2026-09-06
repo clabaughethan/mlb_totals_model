@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Milwaukee Brewers,Cincinnati Reds,Kyle Harrison,Brady Singer,9.46,8.5,0.96,OVER,False,79.2,9.7,False
+Atlanta Braves,Philadelphia Phillies,Tyler Mahle,Aaron Nola,8.61,8.0,0.61,,False,70.6,7.4,False
+Boston Red Sox,Baltimore Orioles,Payton Tolle,Kyle Bradish,7.58,7.5,0.08,,False,79.0,3.5,False
+Los Angeles Angels,Pittsburgh Pirates,Walbert Ureña,Paul Skenes,6.31,7.0,-0.69,,False,70.2,4.5,False
+Detroit Tigers,Cleveland Guardians,Jackson Jobe,Gavin Williams,7.48,7.0,0.48,,False,72.6,9.6,False
+San Francisco Giants,New York Mets,Cesar Perdomo,Christian Scott,8.3,8.0,0.3,,False,70.8,3.6,False
+Chicago Cubs,Miami Marlins,Clay Holmes,Tyler Phillips,8.05,8.0,0.05,,False,,0.0,False
+Arizona Diamondbacks,Houston Astros,Eduardo Rodriguez,Peter Lambert,7.76,8.0,-0.24,,False,,0.0,False
+Toronto Blue Jays,Kansas City Royals,Spencer Arrighetti,Randy Dobnak,8.43,9.5,-1.07,UNDER,False,93.1,8.8,False
+Tampa Bay Rays,Texas Rangers,Ian Seymour,MacKenzie Gore,8.75,7.5,1.25,OVER,False,,0.0,False
+St. Louis Cardinals,Colorado Rockies,Kyle Leahy,Tanner Gordon,8.7,11.0,-2.3,,True,89.3,7.8,False
+Athletics,Seattle Mariners,Gage Jump,Bryan Woo,7.1,7.0,0.1,,False,65.2,4.2,True
+New York Yankees,San Diego Padres,Gerrit Cole,Michael King,8.03,8.0,0.03,,False,87.4,8.4,False
+Minnesota Twins,Chicago White Sox,Bailey Ober,Bryan Hudson,8.29,8.5,-0.21,,False,,,False
+Washington Nationals,Los Angeles Dodgers,Andrew Alvarez,Justin Wrobleski,7.61,8.5,-0.89,UNDER,False,,,False
