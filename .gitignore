@@ -4,3 +4,11 @@ __pycache__/
 .env
 *.joblib
 .ipynb_checkpoints/
+
+# Local-only research artifacts (never commit these)
+/data/predictions_archive_*/
+/data/predictions/tracker_legacy_*.csv
+/data/lines_cache/hist_*
+/data/raw/lines_oddsapi.csv
+/data/raw/oddsapi_metadata.json
+/data/raw/oddsapi_responses/
