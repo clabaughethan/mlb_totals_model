@@ -50,7 +50,8 @@ def _retry(fn, *args, max_attempts=3, base_delay=2, **kwargs):
 RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
 MODELS_DIR = Path(__file__).parent.parent / "models"
 
-MIN_EDGE = 0.75
+MIN_EDGE_UNDER = 0.5
+MIN_EDGE_OVER = 1.0
 MAX_EDGE = 1.5
 
 PARK_INFO = {
@@ -383,7 +384,7 @@ def get_prior_season_lg_rpg(season: int) -> float:
 
 
 def build_game_features(game: dict, sp_stats: pd.DataFrame, team_stats: dict,
-                        rest: dict, season: int) -> dict:
+                        rest: dict, season: int, current_line: float = None) -> dict:
     """Assemble the feature vector for one game."""
     venue = game.get("venue_name", "")
     wx = get_forecast_weather(venue, game["date"])
@@ -403,6 +404,7 @@ def build_game_features(game: dict, sp_stats: pd.DataFrame, team_stats: dict,
     away_ts = team_stats.get(game["away_team"], {})
 
     return {
+        "close_total":      current_line if current_line is not None else np.nan,
         "home_sp_fip":      sp_stat(home_sp_norm, "FIP"),
         "home_sp_k_9":      sp_stat(home_sp_norm, "K/9"),
         "home_sp_bb_9":     sp_stat(home_sp_norm, "BB/9"),
@@ -431,7 +433,6 @@ def build_game_features(game: dict, sp_stats: pd.DataFrame, team_stats: dict,
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=date.today().strftime("%Y-%m-%d"))
-    parser.add_argument("--edge", type=float, default=MIN_EDGE)
     args = parser.parse_args()
     game_date = args.date
     season = int(game_date[:4])
@@ -449,8 +450,7 @@ def main():
     model = joblib.load(model_path)
     meta = joblib.load(meta_path)
     feature_cols = meta["feature_cols"]
-    bias = meta["bias"]
-    print(f"  Model loaded: {len(feature_cols)} features, bias={bias:+.3f}")
+    print(f"  Model loaded: {len(feature_cols)} features")
 
     # Today's games
     print("\nFetching today's schedule...")
@@ -488,31 +488,31 @@ def main():
     # Build features and predict
     rows = []
     for game in games:
-        feats = build_game_features(game, sp_stats, team_stats, rest, season)
-        X = pd.DataFrame([feats])[feature_cols]
-        raw_pred = float(model.predict(X)[0])
-        predicted = raw_pred - bias
-
-        # Match line from Odds API — normalize both sides for fuzzy matching
+        # Match line from Odds API first — we need it as a feature
         line = None
         home_norm = normalize_name(game["home_team"])
         away_norm = normalize_name(game["away_team"])
         for (h, a), total in lines.items():
             h_norm = normalize_name(h)
             a_norm = normalize_name(a)
-            # Match on any word overlap (handles "Athletics" vs "Oakland Athletics" etc.)
             home_words = set(home_norm.split())
             away_words = set(away_norm.split())
             if home_words & set(h_norm.split()) and away_words & set(a_norm.split()):
                 line = total
                 break
 
+        feats = build_game_features(game, sp_stats, team_stats, rest, season, current_line=line)
+        X = pd.DataFrame([feats])[feature_cols]
+        predicted = float(model.predict(X)[0])
+
         edge = (predicted - line) if line is not None else None
         bet = None
         watch = False
         if edge is not None and not np.isnan(edge):
-            if args.edge <= abs(edge) <= MAX_EDGE:
-                bet = "OVER" if edge > 0 else "UNDER"
+            if edge > 0 and edge >= MIN_EDGE_OVER and edge <= MAX_EDGE:
+                bet = "OVER"
+            elif edge < 0 and abs(edge) >= MIN_EDGE_UNDER and abs(edge) <= MAX_EDGE:
+                bet = "UNDER"
             elif abs(edge) > MAX_EDGE:
                 watch = True  # exceeds cap — track but don't bet
 
@@ -522,6 +522,7 @@ def main():
             "away_sp": game.get("away_sp_name") or "TBD",
             "home_sp": game.get("home_sp_name") or "TBD",
             "predicted": round(predicted, 2),
+            "open_line": line,
             "line": line,
             "edge": round(edge, 2) if edge is not None else None,
             "bet": bet,
@@ -551,7 +552,7 @@ def main():
 
     bets = df[df["bet"].notna()]
     watch_bets = df[df["watch"] == True]
-    print(f"\n  {len(bets)} bet(s) flagged (edge {args.edge}–{MAX_EDGE} runs)")
+    print(f"\n  {len(bets)} bet(s) flagged (UNDER>={MIN_EDGE_UNDER}, OVER>={MIN_EDGE_OVER}, max={MAX_EDGE})")
 
     if not bets.empty:
         print(f"\n{'─'*55}")
@@ -590,6 +591,7 @@ def main():
             "away":      r["away"],
             "home":      r["home"],
             "predicted": r["predicted"],
+            "open_line": r.get("open_line"),
             "line":      r["line"],
             "edge":      r["edge"],
             "away_sp":   r.get("away_sp", "TBD"),

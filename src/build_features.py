@@ -120,11 +120,43 @@ def load_weather() -> pd.DataFrame:
     return pd.read_csv(path)
 
 
+def normalize_team_name(name: str) -> str:
+    """Normalize team names across data sources (SBR, Odds API, statsapi)."""
+    if not isinstance(name, str):
+        return name
+    name = name.strip()
+    mapping = {
+        "athletics": "Oakland Athletics",
+        "dbacks": "Arizona Diamondbacks",
+        "d-backs": "Arizona Diamondbacks",
+    }
+    return mapping.get(name.lower(), name)
+
+
 def load_lines() -> pd.DataFrame:
-    path = RAW_DIR / "lines_all.csv"
-    if not path.exists():
+    """Load betting lines from both SBR (2015-2021) and Odds API (2022+)."""
+    frames = []
+
+    # SBR historical data (2015-2021)
+    sbr_path = RAW_DIR / "lines_all.csv"
+    if sbr_path.exists():
+        sbr = pd.read_csv(sbr_path, parse_dates=["date"])
+        frames.append(sbr)
+        print(f"  SBR lines: {len(sbr)} rows")
+
+    # Odds API data (2022+)
+    api_path = RAW_DIR / "lines_oddsapi.csv"
+    if api_path.exists():
+        api = pd.read_csv(api_path, parse_dates=["date"])
+        frames.append(api)
+        print(f"  Odds API lines: {len(api)} rows")
+
+    if not frames:
         return pd.DataFrame()
-    df = pd.read_csv(path, parse_dates=["date"])
+
+    df = pd.concat(frames, ignore_index=True)
+    df["home_team"] = df["home_team"].apply(normalize_team_name)
+    df["away_team"] = df["away_team"].apply(normalize_team_name)
     return df
 
 

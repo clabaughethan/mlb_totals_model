@@ -22,6 +22,8 @@ import joblib
 PROCESSED_DIR = Path(__file__).parent.parent / "data" / "processed"
 
 FEATURE_COLS = [
+    # Market line — the model learns residual edge over the closing line
+    "close_total",
     # SP stats
     "home_sp_fip", "home_sp_xfip", "home_sp_k_9", "home_sp_bb_9", "home_sp_ip_per_gs",
     "away_sp_fip", "away_sp_xfip", "away_sp_k_9", "away_sp_bb_9", "away_sp_ip_per_gs",
@@ -102,24 +104,21 @@ def walk_forward_eval(df: pd.DataFrame) -> pd.DataFrame:
         xgb_pipe.fit(X_train, y_train)
         xgb_preds = xgb_pipe.predict(X_test)
 
-        # Bias correction: subtract mean(predicted - line) on training games that have a line
-        # Computed on train set only — no leakage into test season
-        if "close_total" in train.columns:
-            train_lined = train[train["close_total"].notna() & mask_train]
-            if len(train_lined) > 50:
-                ridge_train_preds = ridge_pipe.predict(train_lined[available_feats])
-                ridge_bias = (ridge_train_preds - train_lined["close_total"].values).mean()
-                ridge_preds = ridge_preds - ridge_bias
-
-                xgb_train_preds = xgb_pipe.predict(train_lined[available_feats])
-                xgb_bias = (xgb_train_preds - train_lined["close_total"].values).mean()
-                xgb_preds = xgb_preds - xgb_bias
-
-                print(f"    Bias correction: Ridge={ridge_bias:+.3f}, XGB={xgb_bias:+.3f}")
-
         mae_ridge = mean_absolute_error(y_test, ridge_preds)
         mae_xgb = mean_absolute_error(y_test, xgb_preds)
-        print(f"  Season {test_season}: Ridge MAE={mae_ridge:.3f}, XGB MAE={mae_xgb:.3f}  (n={len(y_test)})")
+
+        # CLV: how well does the model disagree with the closing line?
+        if "close_total" in test.columns:
+            lined_mask = test["close_total"].notna() & mask_test
+            if lined_mask.sum() > 10:
+                ridge_edge = ridge_preds[lined_mask.values] - test.loc[lined_mask, "close_total"].values
+                xgb_edge = xgb_preds[lined_mask.values] - test.loc[lined_mask, "close_total"].values
+                print(f"  Season {test_season}: Ridge MAE={mae_ridge:.3f}, XGB MAE={mae_xgb:.3f}  (n={len(y_test)})")
+                print(f"    Ridge avg edge: {ridge_edge.mean():+.3f}, XGB avg edge: {xgb_edge.mean():+.3f}")
+            else:
+                print(f"  Season {test_season}: Ridge MAE={mae_ridge:.3f}, XGB MAE={mae_xgb:.3f}  (n={len(y_test)})")
+        else:
+            print(f"  Season {test_season}: Ridge MAE={mae_ridge:.3f}, XGB MAE={mae_xgb:.3f}  (n={len(y_test)})")
 
         preds_df = pd.DataFrame({
             "game_pk": test_filtered["game_pk"].values,
@@ -177,8 +176,6 @@ def train_production_model(df: pd.DataFrame):
     X = df.loc[mask, available_feats]
     y = df.loc[mask, TARGET]
 
-    # Compute bias on games with closing lines
-    lined = df[mask & df["close_total"].notna()]
     pipe = Pipeline([
         ("imputer", SimpleImputer(strategy="median")),
         ("scaler", StandardScaler()),
@@ -186,14 +183,11 @@ def train_production_model(df: pd.DataFrame):
     ])
     pipe.fit(X, y)
 
-    train_preds = pipe.predict(lined[available_feats])
-    bias = float((train_preds - lined["close_total"].values).mean())
-
     model_path = models_dir / "ridge_production.joblib"
     meta_path = models_dir / "ridge_meta.joblib"
     joblib.dump(pipe, model_path)
-    joblib.dump({"feature_cols": available_feats, "bias": bias}, meta_path)
-    print(f"\nProduction model saved: {model_path.name}  (bias={bias:+.3f}, features={len(available_feats)})")
+    joblib.dump({"feature_cols": available_feats}, meta_path)
+    print(f"\nProduction model saved: {model_path.name}  (features={len(available_feats)})")
 
 
 def main():

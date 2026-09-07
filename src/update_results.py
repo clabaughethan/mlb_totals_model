@@ -178,7 +178,7 @@ def build_summary(all_bets: pd.DataFrame) -> dict:
             by_edge[bucket] = score_block(subset, f"Edge {bucket}")
 
     # Recent bets table (last 10)
-    recent_cols = ["date", "away", "home", "bet", "line", "edge", "actual_total", "won", "profit_units"]
+    recent_cols = ["date", "away", "home", "bet", "open_line", "line", "edge", "actual_total", "won", "profit_units"]
     recent_cols = [c for c in recent_cols if c in scored.columns]
     recent = scored.tail(10)[recent_cols].copy()
     recent["date"] = recent["date"].dt.strftime("%Y-%m-%d")
@@ -304,6 +304,7 @@ def main():
                 "bet":          r["bet"],
                 "away":         r["away"],
                 "home":         r["home"],
+                "open_line":    r.get("open_line"),
                 "line":         r["line"],
                 "actual":       r["actual_total"],
                 "won":          bool(r["won"]),
