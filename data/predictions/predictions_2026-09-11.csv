@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Pittsburgh Pirates,Chicago Cubs,Wilber Dotel,Shota Imanaga,8.69,8.0,8.0,0.69,,False,70.6,7.0,False
+Colorado Rockies,Detroit Tigers,Mason Adams,Framber Valdez,8.17,8.0,8.0,0.17,,False,73.9,6.3,False
+Los Angeles Angels,Washington Nationals,Yusei Kikuchi,Cade Cavalli,7.68,7.5,7.5,0.18,,False,78.3,3.7,False
+New York Mets,New York Yankees,Nolan McLean,Carlos Rodón,8.53,8.0,8.0,0.53,,False,76.2,4.7,True
+Baltimore Orioles,Toronto Blue Jays,Chris Bassitt,Max Scherzer,10.62,8.0,8.0,2.62,,True,,0.0,False
+Kansas City Royals,Boston Red Sox,Seth Lugo,Sonny Gray,8.47,8.5,8.5,-0.03,,False,71.7,5.2,True
+Houston Astros,Tampa Bay Rays,Miguel Ullola,Drew Rasmussen,8.15,8.0,8.0,0.15,,False,,0.0,False
+Los Angeles Dodgers,Miami Marlins,TBD,Ryan Gusto,8.9,7.5,7.5,1.4,OVER,False,,0.0,False
+Philadelphia Phillies,Atlanta Braves,Aaron Nola,Chris Sale,6.57,7.0,7.0,-0.43,,False,81.2,9.4,False
+Cincinnati Reds,Milwaukee Brewers,Andrew Abbott,Dustin May,8.91,8.0,8.0,0.91,,False,69.8,6.0,False
+Cleveland Guardians,Minnesota Twins,Parker Messick,Taj Bradley,7.75,7.5,7.5,0.25,,False,77.8,14.4,False
+Chicago White Sox,St. Louis Cardinals,Anthony Kay,Matthew Liberatore,9.53,8.0,8.0,1.53,,True,77.1,5.6,False
+Seattle Mariners,Athletics,George Kirby,Jeffrey Springs,9.09,10.0,10.0,-0.91,UNDER,False,78.6,9.7,False
+Texas Rangers,Arizona Diamondbacks,TBD,TBD,8.36,9.0,9.0,-0.64,UNDER,False,,0.0,False
+San Diego Padres,San Francisco Giants,Robbie Ray,Anthony Molina,9.65,8.0,8.0,1.65,,True,61.6,16.3,True

@@ -1,6 +1,6 @@
-away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
-Tampa Bay Rays,Atlanta Braves,Nick Martinez,Martín Pérez,7.27,8.0,8.0,-0.73,UNDER,False,88.3,6.4,False
-Houston Astros,Philadelphia Phillies,Cristian Javier,Zack Wheeler,9.64,8.5,8.5,1.14,OVER,False,84.2,5.2,False
-Texas Rangers,Seattle Mariners,Jacob deGrom,Logan Gilbert,7.39,6.5,6.5,0.89,,False,65.7,2.7,True
-Colorado Rockies,New York Yankees,Ryan Feltner,Max Fried,8.13,8.5,8.5,-0.37,,False,84.1,5.6,False
-Pittsburgh Pirates,Chicago White Sox,Jared Jones,Hagen Smith,8.07,7.5,7.5,0.57,,False,,,False
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+Tampa Bay Rays,Atlanta Braves,Nick Martinez,Martín Pérez,7.27,8.0,8.0,-0.73,UNDER,False,88.3,6.4,False,4.0,1.0,0.0,1.0
+Houston Astros,Philadelphia Phillies,Cristian Javier,Zack Wheeler,9.64,8.5,8.5,1.14,OVER,False,84.2,5.2,False,3.0,0.0,0.0,-1.1
+Texas Rangers,Seattle Mariners,Jacob deGrom,Logan Gilbert,7.39,6.5,6.5,0.89,,False,65.7,2.7,True,7.0,,,
+Colorado Rockies,New York Yankees,Ryan Feltner,Max Fried,8.13,8.5,8.5,-0.37,,False,84.1,5.6,False,13.0,,,
+Pittsburgh Pirates,Chicago White Sox,Jared Jones,Hagen Smith,8.07,7.5,7.5,0.57,,False,,,False,2.0,,,
