@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Colorado Rockies,Detroit Tigers,Tanner Gordon,Andrew Sears,8.16,8.5,8.5,-0.34,,False,80.5,7.9,False
+New York Mets,New York Yankees,Zac Thornton,Gerrit Cole,8.21,8.0,8.0,0.21,,False,72.9,8.8,False
+Pittsburgh Pirates,Chicago Cubs,Paul Skenes,Clay Holmes,8.53,9.5,9.5,-0.97,UNDER,False,78.8,5.2,False
+Baltimore Orioles,Toronto Blue Jays,Kyle Bradish,Spencer Miles,8.47,8.5,8.5,-0.03,,False,,0.0,False
+Los Angeles Angels,Washington Nationals,Walbert Ureña,Andrew Alvarez,7.8,8.0,8.0,-0.2,,False,80.9,9.0,False
+San Diego Padres,San Francisco Giants,Michael King,Cesar Perdomo,8.83,7.5,7.5,1.33,OVER,False,61.6,17.1,True
+Kansas City Royals,Boston Red Sox,Randy Dobnak,Ranger Suarez,8.19,8.5,8.5,-0.31,,False,68.8,6.2,False
+Cleveland Guardians,Minnesota Twins,Daniel Espino,Connor Prielipp,8.48,8.5,8.5,-0.02,,False,68.9,8.2,False
+Los Angeles Dodgers,Miami Marlins,Tyler Glasnow,Tyler Phillips,8.66,8.0,8.0,0.66,,False,,0.0,False
+Houston Astros,Tampa Bay Rays,Peter Lambert,Ian Seymour,8.24,8.0,8.0,0.24,,False,,0.0,False
+Cincinnati Reds,Milwaukee Brewers,Brady Singer,TBD,9.27,8.5,8.5,0.77,,False,75.8,5.9,False
+Philadelphia Phillies,Atlanta Braves,TBD,Tyler Mahle,8.24,8.5,8.5,-0.26,,False,78.9,2.9,False
+Chicago White Sox,St. Louis Cardinals,Sean Newcomb,Kyle Leahy,9.12,8.0,8.0,1.12,OVER,False,82.2,4.3,True
+Texas Rangers,Arizona Diamondbacks,Kumar Rocker,Brandon Pfaadt,8.64,8.5,8.5,0.14,,False,,0.0,False
+Seattle Mariners,Athletics,Bryan Woo,Gage Jump,7.65,9.5,9.5,-1.85,,True,72.6,11.8,False
