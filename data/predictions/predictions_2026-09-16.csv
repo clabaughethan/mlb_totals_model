@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Chicago White Sox,Cleveland Guardians,Anthony Kay,Parker Messick,7.62,7.0,7.0,0.62,,False,74.6,7.9,False
+San Francisco Giants,St. Louis Cardinals,Anthony Molina,Matthew Liberatore,8.72,8.0,8.0,0.72,,False,81.6,7.9,False
+New York Yankees,Minnesota Twins,Carlos Rodón,Zebby Matthews,8.75,8.0,8.0,0.75,,False,69.2,5.1,False
+Detroit Tigers,Toronto Blue Jays,Keider Montero,Max Scherzer,10.62,8.5,8.5,2.12,,True,,0.0,False
+Los Angeles Dodgers,Cincinnati Reds,Blake Snell,Andrew Abbott,8.63,8.5,8.5,0.13,,False,92.8,5.7,True
+Athletics,Tampa Bay Rays,Brady Basso,Nick Martinez,8.28,8.0,8.0,0.28,,False,,0.0,False
+Milwaukee Brewers,Pittsburgh Pirates,Logan Henderson,Jared Jones,7.19,7.5,7.5,-0.31,,False,83.0,1.8,False
+Philadelphia Phillies,Washington Nationals,Zack Wheeler,Jared Simpson,8.53,9.0,9.0,-0.47,,False,81.2,4.8,False
+Baltimore Orioles,New York Mets,Chris Bassitt,Robert Stock,9.2,9.0,9.0,0.2,,False,71.8,7.3,False
+Atlanta Braves,Chicago Cubs,JR Ritchie,Shota Imanaga,8.58,7.5,7.5,1.08,OVER,False,67.2,7.5,False
+Boston Red Sox,Texas Rangers,Jake Bennett,MacKenzie Gore,8.07,8.0,8.0,0.07,,False,,0.0,False
+Kansas City Royals,Houston Astros,Daniel Lynch IV,Cristian Javier,9.54,9.0,9.0,0.54,,False,,0.0,False
+San Diego Padres,Colorado Rockies,Robbie Ray,Mason Adams,10.46,11.0,11.0,-0.54,UNDER,False,69.2,8.1,True
+Seattle Mariners,Los Angeles Angels,George Kirby,Yusei Kikuchi,7.92,8.0,8.0,-0.08,,False,70.7,6.3,True
+Miami Marlins,Arizona Diamondbacks,Ryan Gusto,Merrill Kelly,8.15,9.0,9.0,-0.85,UNDER,False,,0.0,False
