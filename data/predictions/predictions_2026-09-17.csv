@@ -1,0 +1,10 @@
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Milwaukee Brewers,Pittsburgh Pirates,Kyle Harrison,Wilber Dotel,8.49,8.5,8.5,-0.01,,False,77.4,4.3,False
+Los Angeles Dodgers,Cincinnati Reds,Justin Wrobleski,Brady Singer,9.79,9.5,9.5,0.29,,False,91.3,4.9,False
+Athletics,Tampa Bay Rays,Jeffrey Springs,Drew Rasmussen,7.88,7.5,7.5,0.38,,False,,0.0,False
+San Diego Padres,Colorado Rockies,Michael King,Tanner Gordon,10.15,11.0,11.0,-0.85,UNDER,False,69.7,2.7,True
+Kansas City Royals,Houston Astros,Seth Lugo,TBD,8.18,9.0,9.0,-0.82,UNDER,False,,0.0,False
+Philadelphia Phillies,New York Mets,Aaron Nola,Nolan McLean,8.67,8.0,8.0,0.67,,False,75.6,5.5,False
+Detroit Tigers,Chicago White Sox,Framber Valdez,Erick Fedde,9.45,8.5,8.5,0.95,,False,,,False
+Boston Red Sox,Texas Rangers,Sonny Gray,Tyler Alexander,7.45,7.5,7.5,-0.05,,False,,0.0,False
+Minnesota Twins,Los Angeles Angels,Taj Bradley,Walbert Ureña,7.97,7.5,7.5,0.47,,False,71.4,6.9,True
