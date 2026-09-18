@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Chicago Cubs,Cincinnati Reds,Clay Holmes,Chase Burns,7.98,8.5,8.5,-0.52,UNDER,False,81.3,8.5,False
+Kansas City Royals,Pittsburgh Pirates,Randy Dobnak,Paul Skenes,7.31,8.0,8.0,-0.69,UNDER,False,72.6,4.3,False
+Milwaukee Brewers,Baltimore Orioles,Dustin May,TBD,8.43,8.5,8.5,-0.07,,False,80.8,7.4,False
+Athletics,Cleveland Guardians,Mason Barnett,Daniel Espino,8.55,8.5,8.5,0.05,,False,69.3,7.8,False
+Boston Red Sox,Tampa Bay Rays,Ranger Suarez,Ian Seymour,7.16,7.0,7.0,0.16,,False,,0.0,False
+Philadelphia Phillies,New York Mets,Andrew Painter,Zac Thornton,9.46,8.5,8.5,0.96,,False,75.6,5.8,True
+Detroit Tigers,Chicago White Sox,Andrew Sears,David Sandlin,8.74,8.5,8.5,0.24,,False,,,False
+Toronto Blue Jays,Texas Rangers,Dylan Cease,Kumar Rocker,7.95,7.5,7.5,0.45,,False,,0.0,False
+Seattle Mariners,Colorado Rockies,Bryan Woo,TBD,9.97,10.5,10.5,-0.53,UNDER,False,70.4,1.6,False
+Atlanta Braves,Houston Astros,Tyler Mahle,Peter Lambert,8.96,8.5,8.5,0.46,,False,,0.0,False
+Washington Nationals,St. Louis Cardinals,Cade Cavalli,Kyle Leahy,8.21,7.5,7.5,0.71,,False,92.2,3.8,False
+Minnesota Twins,Los Angeles Angels,Connor Prielipp,Grayson Rodriguez,8.25,8.0,8.0,0.25,,False,71.9,5.4,True
+Miami Marlins,San Diego Padres,Tyler Phillips,Nick Pivetta,7.44,7.5,7.5,-0.06,,False,69.9,7.1,True
+New York Yankees,Arizona Diamondbacks,Gerrit Cole,Eduardo Rodriguez,8.72,8.0,8.0,0.72,,False,,0.0,False
+San Francisco Giants,Los Angeles Dodgers,Cesar Perdomo,Tyler Glasnow,8.58,8.5,8.5,0.08,,False,69.4,6.2,False
