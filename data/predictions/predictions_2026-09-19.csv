@@ -1,0 +1,16 @@
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
+Detroit Tigers,Chicago White Sox,Jackson Jobe,Sean Burke,8.49,8.0,8.0,0.49,,False,,,False
+Milwaukee Brewers,Baltimore Orioles,Robert Gasser,Trevor Rogers,9.85,7.5,7.5,2.35,,True,75.9,5.6,False
+Boston Red Sox,Tampa Bay Rays,TBD,Freddy Peralta,8.09,7.5,7.5,0.59,,False,,0.0,False
+Philadelphia Phillies,New York Mets,Andrew Painter,Christian Scott,8.89,8.0,8.0,0.89,,False,66.1,5.9,False
+Athletics,Cleveland Guardians,Jacob Lopez,Tanner Bibee,9.66,8.0,8.0,1.66,,True,67.4,7.9,False
+Chicago Cubs,Cincinnati Reds,Matthew Boyd,Nick Lodolo,8.97,9.5,9.5,-0.53,UNDER,False,82.9,7.4,False
+Kansas City Royals,Pittsburgh Pirates,Noah Cameron,Bubba Chandler,8.13,8.0,8.0,0.13,,False,74.1,5.4,True
+Toronto Blue Jays,Texas Rangers,José Soriano,Cal Quantrill,8.41,8.0,8.0,0.41,,False,,0.0,False
+Atlanta Braves,Houston Astros,Grant Holmes,Hayden Wesneski,8.49,8.5,8.5,-0.01,,False,,0.0,False
+Washington Nationals,St. Louis Cardinals,Andrew Alvarez,Michael McGreevy,8.53,8.5,8.5,0.03,,False,91.6,1.1,False
+Seattle Mariners,Colorado Rockies,Bryce Miller,Jose Quintana,10.33,11.0,11.0,-0.67,UNDER,False,63.5,3.6,False
+New York Yankees,Arizona Diamondbacks,Cam Schlittler,Brandon Pfaadt,7.33,7.0,7.0,0.33,,False,,0.0,False
+Miami Marlins,San Diego Padres,Eury Pérez,Casey Mize,8.13,7.5,7.5,0.63,,False,70.7,4.0,True
+San Francisco Giants,Los Angeles Dodgers,TBD,Tarik Skubal,7.71,7.5,7.5,0.21,,False,69.5,5.3,False
+Minnesota Twins,Los Angeles Angels,Joe Ryan,Reid Detmers,5.89,7.0,7.0,-1.11,UNDER,False,72.1,5.7,True
