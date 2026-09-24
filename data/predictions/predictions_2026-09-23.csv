@@ -1,17 +1,17 @@
-away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out
-Washington Nationals,Detroit Tigers,Richard Lovelady,Framber Valdez,8.83,7.5,7.5,1.33,OVER,False,62.7,11.5,False
-Toronto Blue Jays,Baltimore Orioles,Max Scherzer,Chris Bassitt,10.91,8.0,8.0,2.91,,True,60.2,10.3,False
-Toronto Blue Jays,Baltimore Orioles,TBD,TBD,8.3,8.0,8.0,0.3,,False,60.2,10.3,False
-Minnesota Twins,San Francisco Giants,Connor Prielipp,Cesar Perdomo,8.35,8.0,8.0,0.35,,False,69.2,12.5,True
-St. Louis Cardinals,Pittsburgh Pirates,Matthew Liberatore,Lake Bachar,7.65,7.5,7.5,0.15,,False,59.8,7.2,False
-Milwaukee Brewers,Philadelphia Phillies,Logan Henderson,Aaron Nola,7.38,7.5,7.5,-0.12,,False,61.2,10.9,False
-Tampa Bay Rays,New York Yankees,Ian Seymour,Gerrit Cole,8.22,6.5,6.5,1.72,,True,62.4,9.7,True
-Cleveland Guardians,Boston Red Sox,Foster Griffin,Sonny Gray,6.89,6.5,6.5,0.39,,False,55.6,7.6,False
-Cincinnati Reds,Atlanta Braves,Andrew Abbott,Chris Sale,6.74,7.5,7.5,-0.76,UNDER,False,75.7,10.1,False
-Chicago White Sox,Kansas City Royals,Bryan Hudson,Seth Lugo,7.63,8.5,8.5,-0.87,UNDER,False,70.5,8.2,False
-Miami Marlins,Chicago Cubs,Ryan Gusto,Kevin Gausman,5.78,6.5,6.5,-0.72,UNDER,False,61.5,10.3,False
-New York Mets,Texas Rangers,Nolan McLean,Cody Bradford,8.11,7.5,7.5,0.61,,False,,0.0,False
-Arizona Diamondbacks,Colorado Rockies,Merrill Kelly,Mason Adams,10.18,11.0,11.0,-0.82,UNDER,False,71.3,4.3,True
-Los Angeles Angels,Athletics,Walbert Ureña,Jeffrey Springs,9.3,9.5,9.5,-0.2,,False,82.7,2.1,False
-San Diego Padres,Los Angeles Dodgers,Robbie Ray,Yoshinobu Yamamoto,8.81,8.0,8.0,0.81,,False,,,False
-Houston Astros,Seattle Mariners,Ethan Pecko,George Kirby,7.86,7.5,7.5,0.36,,False,,,False
+away,home,away_sp,home_sp,predicted,open_line,line,edge,bet,watch,temp_f,wind_mph,wind_out,actual_total,won,push,profit_units
+Washington Nationals,Detroit Tigers,Richard Lovelady,Framber Valdez,8.83,7.5,7.5,1.33,OVER,False,62.7,11.5,False,6.0,0.0,0.0,-1.1
+Toronto Blue Jays,Baltimore Orioles,Max Scherzer,Chris Bassitt,10.91,8.0,8.0,2.91,,True,60.2,10.3,False,6.0,,,
+Toronto Blue Jays,Baltimore Orioles,TBD,TBD,8.3,8.0,8.0,0.3,,False,60.2,10.3,False,6.0,,,
+Minnesota Twins,San Francisco Giants,Connor Prielipp,Cesar Perdomo,8.35,8.0,8.0,0.35,,False,69.2,12.5,True,6.0,,,
+St. Louis Cardinals,Pittsburgh Pirates,Matthew Liberatore,Lake Bachar,7.65,7.5,7.5,0.15,,False,59.8,7.2,False,6.0,,,
+Milwaukee Brewers,Philadelphia Phillies,Logan Henderson,Aaron Nola,7.38,7.5,7.5,-0.12,,False,61.2,10.9,False,5.0,,,
+Tampa Bay Rays,New York Yankees,Ian Seymour,Gerrit Cole,8.22,6.5,6.5,1.72,,True,62.4,9.7,True,11.0,,,
+Cleveland Guardians,Boston Red Sox,Foster Griffin,Sonny Gray,6.89,6.5,6.5,0.39,,False,55.6,7.6,False,1.0,,,
+Cincinnati Reds,Atlanta Braves,Andrew Abbott,Chris Sale,6.74,7.5,7.5,-0.76,UNDER,False,75.7,10.1,False,5.0,1.0,0.0,1.0
+Chicago White Sox,Kansas City Royals,Bryan Hudson,Seth Lugo,7.63,8.5,8.5,-0.87,UNDER,False,70.5,8.2,False,9.0,0.0,0.0,-1.1
+Miami Marlins,Chicago Cubs,Ryan Gusto,Kevin Gausman,5.78,6.5,6.5,-0.72,UNDER,False,61.5,10.3,False,5.0,1.0,0.0,1.0
+New York Mets,Texas Rangers,Nolan McLean,Cody Bradford,8.11,7.5,7.5,0.61,,False,,0.0,False,9.0,,,
+Arizona Diamondbacks,Colorado Rockies,Merrill Kelly,Mason Adams,10.18,11.0,11.0,-0.82,UNDER,False,71.3,4.3,True,8.0,1.0,0.0,1.0
+Los Angeles Angels,Athletics,Walbert Ureña,Jeffrey Springs,9.3,9.5,9.5,-0.2,,False,82.7,2.1,False,10.0,,,
+San Diego Padres,Los Angeles Dodgers,Robbie Ray,Yoshinobu Yamamoto,8.81,8.0,8.0,0.81,,False,,,False,6.0,,,
+Houston Astros,Seattle Mariners,Ethan Pecko,George Kirby,7.86,7.5,7.5,0.36,,False,,,False,11.0,,,
